@@ -1,0 +1,31 @@
+{
+  "id": "divinity",
+  "name": "Divinity",
+  "slug": "divinity",
+  "sprite": "/items/divinity.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes Divinity’s actual sword is comparable to the Ancient Stone Sword, with an identical rate of fire and range, but lower base damage (although Divinity does pierce).",
+  "stats": {
+    "damage": "275–325 (average: 300 / total: 1000)",
+    "range": "4 tiles",
+    "rateOfFire": "60%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Celestial Strength: Attack with Exalted Beams Exalted Beam: Deals 600-800 damage in a 2.25 square radius, scaling with your Attack and Status Effects Beam Range: Instantly strikes 4 tiles away in the direction of your attack Beam Effect: Ignores defense of target Beam Cooldown: 1 second"
+  ],
+  "usableClasses": [
+    "Knight"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/divinity"
+}

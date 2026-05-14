@@ -1,0 +1,36 @@
+{
+  "id": "swashbucklers-sickle",
+  "name": "Swashbuckler's Sickle",
+  "slug": "swashbucklers-sickle",
+  "sprite": "/items/swashbucklers-sickle.png",
+  "itemType": "Sword",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 900,
+  "description": "Notes Part of the Pirate King Warrior Set.",
+  "stats": {
+    "damage": "275–280 (average: 277.5)",
+    "range": "4.25 tiles",
+    "rateOfFire": "80%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Wavy shots"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Jon Bilgewater the Pirate King",
+    "Calamity Crab",
+    "Commotion Crab",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/swashbuckler-s-sickle"
+}

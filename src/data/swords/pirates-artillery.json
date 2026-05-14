@@ -1,0 +1,43 @@
+{
+  "id": "pirates-artillery",
+  "name": "Pirate's Artillery",
+  "slug": "pirates-artillery",
+  "sprite": "/items/pirates-artillery.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This sword shoots all 9 shots in the form of a large cannonball that, at the end of the original shots range of 3, breaks off and shoots small, less damaging cannonballs in a 180° pattern.",
+  "stats": {
+    "damage": "50–50 (average: 50)",
+    "range": "3 tiles",
+    "rateOfFire": "25%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Shots pass through obstacles",
+    "Shots hit multiple targets",
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Animal Merchant",
+    "Drowned Sailor",
+    "Haunted Treasure",
+    "Legion Cove Guardian",
+    "Ocean Spirit",
+    "Sea Hag",
+    "Sunken Soul",
+    "Undead Pirate",
+    "Washed-Up Captain"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pirate-s-artillery"
+}

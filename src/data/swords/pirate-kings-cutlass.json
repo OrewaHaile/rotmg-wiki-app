@@ -1,0 +1,37 @@
+{
+  "id": "pirate-kings-cutlass",
+  "name": "Pirate King's Cutlass",
+  "slug": "pirate-kings-cutlass",
+  "sprite": "/items/pirate-kings-cutlass.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes The Cutlass is a very strong DPS sword, though it has been power crept over time. Not taking status effects into account, it beats the T12 Sword of Acclaim up to 126/101/95 DEF and the T13 Sword of Splendor until 26/21/20 DEF. It is always outdamaged by the T14 Sword of Majesty.",
+  "stats": {
+    "damage": "180–230 (average: 205)",
+    "range": "3.3 tiles",
+    "rateOfFire": "130%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+3 SPD"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Jon Bilgewater the Pirate King",
+    "Bilgewater’s Booty",
+    "Calamity Crab",
+    "Mighty Quest Chest",
+    "Prismimic Attacker"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pirate-king-s-cutlass"
+}

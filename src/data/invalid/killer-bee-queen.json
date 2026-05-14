@@ -1,0 +1,35 @@
+{
+  "id": "killer-bee-queen",
+  "name": "Killer Bee Queen",
+  "slug": "killer-bee-queen",
+  "sprite": "/items/killer-bee-queen.png",
+  "itemType": "Sword",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "The Killer Bee Queen is the boss of The Nest.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/killer-bee-queen",
+  "category": "swords",
+  "invalidReasons": [
+    "invalid tier",
+    "invalid stats: damage"
+  ],
+  "importedAt": "2026-05-14T22:20:58.436Z"
+}

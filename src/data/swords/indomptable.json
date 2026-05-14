@@ -1,0 +1,34 @@
+{
+  "id": "indomptable",
+  "name": "Indomptable",
+  "slug": "indomptable",
+  "sprite": "/items/indomptable.png",
+  "itemType": "Sword",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 900,
+  "description": "Notes Part of the Dragon Tamer set.",
+  "stats": {
+    "damage": "550–600 (average: 575)",
+    "range": "4.5 tiles",
+    "rateOfFire": "33%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Pyyr the Crimson Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/indomptable"
+}

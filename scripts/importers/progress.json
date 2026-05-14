@@ -77,7 +77,7 @@
     "https://www.realmeye.com/wiki/eternal-graved-great-sword",
     "https://www.realmeye.com/wiki/blood-axe"
   ],
-  "nextIndex": 25,
+  "nextIndex": 50,
   "imported": [
     "short-sword",
     "broad-sword",
@@ -103,7 +103,45 @@
     "demon-blade",
     "sword-of-illumination",
     "spectral-sword",
-    "ancient-stone-sword"
+    "ancient-stone-sword",
+    "pirate-kings-cutlass",
+    "acidic-slasher",
+    "gaseous-glaive",
+    "pirates-artillery",
+    "sword-of-the-colossus",
+    "divinity",
+    "atavistic-soul-sabre",
+    "pixie-enchanted-sword",
+    "heartsteel-claymore",
+    "fallen-ones-blade",
+    "oryxs-greatsword",
+    "indomptable",
+    "swashbucklers-sickle",
+    "jagged-hatchet",
+    "dalvars-battle-axe",
+    "doctor-swordsworth",
+    "unstable-anomaly",
+    "skull-splitter-sword",
+    "frostbite",
+    "sword-of-the-rainbows-end",
+    "enchanted-ice-blade",
+    "saint-nicolas-blade"
   ],
-  "skipped": []
+  "skipped": [
+    {
+      "url": "https://www.realmeye.com/wiki/killer-bee-queen",
+      "slug": "killer-bee-queen",
+      "reason": "invalid tier; invalid stats: damage"
+    },
+    {
+      "url": "https://www.realmeye.com/wiki/forge",
+      "slug": "forge",
+      "reason": "duplicate"
+    },
+    {
+      "url": "https://www.realmeye.com/wiki/esben-the-neurotic",
+      "slug": "esben-the-neurotic",
+      "reason": "invalid tier; invalid stats: damage"
+    }
+  ]
 }

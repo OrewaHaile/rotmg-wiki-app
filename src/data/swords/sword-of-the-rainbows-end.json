@@ -1,0 +1,33 @@
+{
+  "id": "sword-of-the-rainbows-end",
+  "name": "Sword of the Rainbow's End",
+  "slug": "sword-of-the-rainbows-end",
+  "sprite": "/items/sword-of-the-rainbows-end.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 100,
+  "description": "Notes When used, it makes a sound similar to a Gigacorn being hit.",
+  "stats": {
+    "damage": "20–40 (average: 30)",
+    "range": "3.5 tiles",
+    "rateOfFire": "150%",
+    "shots": "1 (arc gap: 10°)",
+    "projectiles": "1 (arc gap: 10°)"
+  },
+  "effects": [
+    "Wavy shots"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Pot of Gold"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sword-of-the-rainbow-s-end"
+}

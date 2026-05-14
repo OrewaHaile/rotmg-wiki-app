@@ -1,10 +1,10 @@
 {
-  "total": 87,
+  "total": 109,
   "categories": {
     "daggers": 20,
     "items": 6,
     "staves": 36,
-    "swords": 25,
+    "swords": 47,
     "bows": 0,
     "wands": 0,
     "katanas": 0,
@@ -570,6 +570,15 @@
       "path": "staves/vigor.json"
     },
     {
+      "id": "acidic-slasher",
+      "name": "Acidic Slasher",
+      "slug": "acidic-slasher",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/acidic-slasher.json"
+    },
+    {
       "id": "ancient-stone-sword",
       "name": "Ancient Stone Sword",
       "slug": "ancient-stone-sword",
@@ -597,6 +606,15 @@
       "path": "swords/archon-sword.json"
     },
     {
+      "id": "atavistic-soul-sabre",
+      "name": "Atavistic Soul Sabre",
+      "slug": "atavistic-soul-sabre",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/atavistic-soul-sabre.json"
+    },
+    {
       "id": "broad-sword",
       "name": "Broad Sword",
       "slug": "broad-sword",
@@ -615,6 +633,15 @@
       "path": "swords/crystal-sword.json"
     },
     {
+      "id": "dalvars-battle-axe",
+      "name": "Dalvar's Battle Axe",
+      "slug": "dalvars-battle-axe",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "ST",
+      "path": "swords/dalvars-battle-axe.json"
+    },
+    {
       "id": "demon-blade",
       "name": "Demon Blade",
       "slug": "demon-blade",
@@ -622,6 +649,24 @@
       "itemType": "Sword",
       "tier": "UT",
       "path": "swords/demon-blade.json"
+    },
+    {
+      "id": "divinity",
+      "name": "Divinity",
+      "slug": "divinity",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/divinity.json"
+    },
+    {
+      "id": "doctor-swordsworth",
+      "name": "Doctor Swordsworth",
+      "slug": "doctor-swordsworth",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT (Limited)",
+      "path": "swords/doctor-swordsworth.json"
     },
     {
       "id": "dragonsoul-sword",
@@ -633,6 +678,15 @@
       "path": "swords/dragonsoul-sword.json"
     },
     {
+      "id": "enchanted-ice-blade",
+      "name": "Enchanted Ice Blade",
+      "slug": "enchanted-ice-blade",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT (Limited)",
+      "path": "swords/enchanted-ice-blade.json"
+    },
+    {
       "id": "falchion",
       "name": "Falchion",
       "slug": "falchion",
@@ -640,6 +694,15 @@
       "itemType": "Sword",
       "tier": "T4",
       "path": "swords/falchion.json"
+    },
+    {
+      "id": "fallen-ones-blade",
+      "name": "Fallen One's Blade",
+      "slug": "fallen-ones-blade",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "ST",
+      "path": "swords/fallen-ones-blade.json"
     },
     {
       "id": "ffabulous-fflail",
@@ -660,6 +723,24 @@
       "path": "swords/fire-sword.json"
     },
     {
+      "id": "frostbite",
+      "name": "Frostbite",
+      "slug": "frostbite",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT (Limited)",
+      "path": "swords/frostbite.json"
+    },
+    {
+      "id": "gaseous-glaive",
+      "name": "Gaseous Glaive",
+      "slug": "gaseous-glaive",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/gaseous-glaive.json"
+    },
+    {
       "id": "glass-sword",
       "name": "Glass Sword",
       "slug": "glass-sword",
@@ -678,6 +759,15 @@
       "path": "swords/golden-sword.json"
     },
     {
+      "id": "heartsteel-claymore",
+      "name": "Heartsteel Claymore",
+      "slug": "heartsteel-claymore",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "ST",
+      "path": "swords/heartsteel-claymore.json"
+    },
+    {
       "id": "henchmans-claymore",
       "name": "Henchman's Claymore",
       "slug": "henchmans-claymore",
@@ -685,6 +775,24 @@
       "itemType": "Sword",
       "tier": "UT",
       "path": "swords/henchmans-claymore.json"
+    },
+    {
+      "id": "indomptable",
+      "name": "Indomptable",
+      "slug": "indomptable",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "ST",
+      "path": "swords/indomptable.json"
+    },
+    {
+      "id": "jagged-hatchet",
+      "name": "Jagged Hatchet",
+      "slug": "jagged-hatchet",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "ST",
+      "path": "swords/jagged-hatchet.json"
     },
     {
       "id": "long-sword",
@@ -705,6 +813,42 @@
       "path": "swords/mmace-mmurderer.json"
     },
     {
+      "id": "oryxs-greatsword",
+      "name": "Oryx's Greatsword",
+      "slug": "oryxs-greatsword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "ST",
+      "path": "swords/oryxs-greatsword.json"
+    },
+    {
+      "id": "pirate-kings-cutlass",
+      "name": "Pirate King's Cutlass",
+      "slug": "pirate-kings-cutlass",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/pirate-kings-cutlass.json"
+    },
+    {
+      "id": "pirates-artillery",
+      "name": "Pirate's Artillery",
+      "slug": "pirates-artillery",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/pirates-artillery.json"
+    },
+    {
+      "id": "pixie-enchanted-sword",
+      "name": "Pixie-Enchanted Sword",
+      "slug": "pixie-enchanted-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "ST",
+      "path": "swords/pixie-enchanted-sword.json"
+    },
+    {
       "id": "ravenheart-sword",
       "name": "Ravenheart Sword",
       "slug": "ravenheart-sword",
@@ -723,6 +867,15 @@
       "path": "swords/saber.json"
     },
     {
+      "id": "saint-nicolas-blade",
+      "name": "Saint Nicolas' Blade",
+      "slug": "saint-nicolas-blade",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT (Limited)",
+      "path": "swords/saint-nicolas-blade.json"
+    },
+    {
       "id": "short-sword",
       "name": "Short Sword",
       "slug": "short-sword",
@@ -730,6 +883,15 @@
       "itemType": "Sword",
       "tier": "T0",
       "path": "swords/short-sword.json"
+    },
+    {
+      "id": "skull-splitter-sword",
+      "name": "Skull-splitter Sword",
+      "slug": "skull-splitter-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT (Limited)",
+      "path": "swords/skull-splitter-sword.json"
     },
     {
       "id": "skysplitter-sword",
@@ -748,6 +910,15 @@
       "itemType": "Sword",
       "tier": "UT",
       "path": "swords/spectral-sword.json"
+    },
+    {
+      "id": "swashbucklers-sickle",
+      "name": "Swashbuckler's Sickle",
+      "slug": "swashbucklers-sickle",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "ST",
+      "path": "swords/swashbucklers-sickle.json"
     },
     {
       "id": "sword-of-acclaim",
@@ -784,6 +955,33 @@
       "itemType": "Sword",
       "tier": "T13",
       "path": "swords/sword-of-splendor.json"
+    },
+    {
+      "id": "sword-of-the-colossus",
+      "name": "Sword of the Colossus",
+      "slug": "sword-of-the-colossus",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/sword-of-the-colossus.json"
+    },
+    {
+      "id": "sword-of-the-rainbows-end",
+      "name": "Sword of the Rainbow's End",
+      "slug": "sword-of-the-rainbows-end",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT (Limited)",
+      "path": "swords/sword-of-the-rainbows-end.json"
+    },
+    {
+      "id": "unstable-anomaly",
+      "name": "Unstable Anomaly",
+      "slug": "unstable-anomaly",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT (Limited)",
+      "path": "swords/unstable-anomaly.json"
     },
     {
       "id": "vinesword",

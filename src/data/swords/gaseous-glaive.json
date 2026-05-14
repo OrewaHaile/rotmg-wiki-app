@@ -1,0 +1,35 @@
+{
+  "id": "gaseous-glaive",
+  "name": "Gaseous Glaive",
+  "slug": "gaseous-glaive",
+  "sprite": "/items/gaseous-glaive.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes This is an Alien Gear item.",
+  "stats": {
+    "damage": "180–230 (average: 205)",
+    "range": "3.3 tiles",
+    "rateOfFire": "130%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+3 SPD"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Neo Silver Walker",
+    "Golden Sphinx",
+    "Katalund Satellite Core"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/gaseous-glaive"
+}

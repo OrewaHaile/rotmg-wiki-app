@@ -1,0 +1,34 @@
+{
+  "id": "oryxs-greatsword",
+  "name": "Oryx's Greatsword",
+  "slug": "oryxs-greatsword",
+  "sprite": "/items/oryxs-greatsword.png",
+  "itemType": "Sword",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 850,
+  "description": "Notes Part of the Oryx’s Battle Attires set.",
+  "stats": {
+    "damage": "185–215 (average: 200)",
+    "range": "3.5 tiles",
+    "rateOfFire": "120%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 2",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/oryx-s-greatsword"
+}
