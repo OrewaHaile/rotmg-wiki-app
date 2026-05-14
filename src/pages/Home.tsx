@@ -1,5 +1,6 @@
-import { useState, useMemo } from "react";
+import { useState, useMemo, useEffect } from "react";
 import { Shield, Database, ShieldCheck, AlertTriangle } from "lucide-react";
+import { useSearch } from "wouter";
 import SearchBar from "../components/SearchBar";
 import FilterBar, { FilterState } from "../components/FilterBar";
 import ItemCard from "../components/ItemCard";
@@ -18,8 +19,36 @@ const emptyFilters: FilterState = {
 };
 
 export default function Home() {
+  const searchParams = useSearch();
   const [search, setSearch] = useState("");
   const [filters, setFilters] = useState<FilterState>(emptyFilters);
+
+  // Parse query parameters on mount
+  useEffect(() => {
+    const params = new URLSearchParams(searchParams);
+    const newFilters = { ...emptyFilters };
+
+    if (params.has("itemType")) {
+      newFilters.itemType = params.get("itemType") || "";
+    }
+    if (params.has("category")) {
+      newFilters.category = params.get("category") || "";
+    }
+    if (params.has("tier")) {
+      newFilters.tier = params.get("tier") || "";
+    }
+    if (params.has("bagType")) {
+      newFilters.bagType = params.get("bagType") || "";
+    }
+    if (params.has("usableClass")) {
+      newFilters.usableClass = params.get("usableClass") || "";
+    }
+    if (params.has("search")) {
+      setSearch(params.get("search") || "");
+    }
+
+    setFilters(newFilters);
+  }, [searchParams]);
 
   const filtered = useMemo(() => {
     return allItems.filter((item) => {
