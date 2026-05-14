@@ -1,24 +1,13 @@
 import { useState, useMemo } from "react";
-import { Shield, Database, ShieldCheck, AlertTriangle, Layers } from "lucide-react";
+import { Shield, Database, ShieldCheck, AlertTriangle } from "lucide-react";
 import SearchBar from "../components/SearchBar";
 import FilterBar, { FilterState } from "../components/FilterBar";
 import ItemCard from "../components/ItemCard";
-import indexData from "../data/index.json";
+import { getAllItems, getFilterOptions } from "../utils/itemData";
 import reportData from "../data/import-report.json";
 
-function unique(arr: string[]) {
-  return Array.from(new Set(arr.filter(Boolean))).sort();
-}
-
-const allItems: any[] = (indexData.items ?? []) as any[];
-
-const filterOptions = {
-  categories: unique(allItems.map((i) => i.category)),
-  itemTypes: unique(allItems.map((i) => i.itemType)),
-  tiers: unique(allItems.map((i) => i.tier)),
-  bagTypes: unique(allItems.map((i) => i.bagType)),
-  classes: unique(allItems.flatMap((i) => i.usableClasses || []).filter((c: string) => c !== "Unknown")),
-};
+const allItems = getAllItems();
+const filterOptions = getFilterOptions();
 
 const emptyFilters: FilterState = {
   category: "",
@@ -59,7 +48,7 @@ export default function Home() {
             <div className="rounded-3xl border border-stone-800/80 bg-stone-950/80 px-4 py-3 shadow-inner flex flex-wrap gap-3 justify-between">
               <div className="flex items-center gap-2 text-xs text-stone-400">
                 <Database className="w-4 h-4 text-amber-400" />
-                <span>{reportData.totalImported ?? 0} imported</span>
+                <span>{allItems.length} loaded</span>
               </div>
               <div className="flex items-center gap-2 text-xs text-stone-400">
                 <ShieldCheck className="w-4 h-4 text-cyan-400" />
@@ -77,12 +66,15 @@ export default function Home() {
             <div className="rounded-2xl bg-stone-900/80 border border-stone-800/80 px-4 py-3">
               <p className="text-xs uppercase tracking-[0.24em] text-stone-500 mb-2">Category counts</p>
               <div className="grid grid-cols-2 gap-2 text-xs text-stone-400">
-                {Object.entries(reportData.categories || {}).map(([category, count]) => (
-                  <div key={category} className="rounded-xl bg-stone-950/80 border border-stone-800/70 px-2 py-2">
-                    <p className="text-stone-300 font-semibold">{category}</p>
-                    <p className="text-amber-300">{count}</p>
-                  </div>
-                ))}
+                {Object.entries(reportData.categories || {}).map(([category, _count]) => {
+                  const loadedCount = allItems.filter((i) => i.category === category).length;
+                  return (
+                    <div key={category} className="rounded-xl bg-stone-950/80 border border-stone-800/70 px-2 py-2">
+                      <p className="text-stone-300 font-semibold">{category}</p>
+                      <p className="text-amber-300">{loadedCount}</p>
+                    </div>
+                  );
+                })}
               </div>
             </div>
           </div>

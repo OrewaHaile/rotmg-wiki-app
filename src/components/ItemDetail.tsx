@@ -6,7 +6,9 @@ interface Item {
   name: string;
   slug: string;
   category?: string;
-  sprite: string;
+  sprite?: string;
+  spriteUrl?: string;
+  icon?: string;
   itemType: string;
   tier: string;
   bagType: string;
@@ -54,6 +56,12 @@ function SectionTitle({ children }: { children: React.ReactNode }) {
 export default function ItemDetail({ item }: { item: Item }) {
   const bagColor = bagColors[item.bagType] ?? "text-stone-300";
   const stats = item.stats ?? {};
+  
+  const spritePath =
+    item.sprite ||
+    item.spriteUrl ||
+    item.icon ||
+    `/items/${item.slug}.png`;
 
   return (
     <div className="max-w-lg mx-auto">
@@ -77,7 +85,7 @@ export default function ItemDetail({ item }: { item: Item }) {
           <div className="flex items-center gap-4">
             <div className="w-20 h-20 bg-stone-800/80 border border-amber-800/40 rounded-lg flex items-center justify-center shrink-0">
               <img
-                src={item.sprite}
+                src={spritePath}
                 alt={item.name}
                 className="w-14 h-14 object-contain"
                 style={{ imageRendering: "pixelated" }}
@@ -89,7 +97,15 @@ export default function ItemDetail({ item }: { item: Item }) {
             </div>
             <div className="flex-1 min-w-0">
               <h1 className="text-lg font-bold text-amber-100 leading-tight">{item.name}</h1>
-              <p className="text-stone-400 text-sm mt-0.5">{item.itemType}</p>
+              <div className="flex items-center gap-2 mt-0.5">
+                <p className="text-stone-400 text-sm">{item.itemType}</p>
+                {item.category && (
+                  <>
+                    <span className="text-stone-600 text-sm">•</span>
+                    <p className="text-stone-500 text-xs uppercase tracking-[0.18em]">{item.category}</p>
+                  </>
+                )}
+              </div>
               <div className="flex flex-wrap gap-1.5 mt-2">
                 {item.tier && (
                   <span className="text-xs font-bold text-amber-500 bg-amber-950/60 border border-amber-800/40 px-2 py-0.5 rounded">

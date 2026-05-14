@@ -3,9 +3,12 @@ import { useParams } from "wouter";
 import ItemDetail from "../components/ItemDetail";
 import { Link } from "wouter";
 import { ArrowLeft } from "lucide-react";
-import indexData from "../data/index.json";
+import { getItemBySlug } from "../utils/itemData";
 
-const detailModules = import.meta.glob("../data/*/*.json");
+const detailModules = import.meta.glob<{ default: Record<string, unknown> }>(
+  "../data/*/*.json",
+  { eager: true }
+);
 
 export default function ItemPage() {
   const { slug } = useParams<{ slug: string }>();
@@ -13,32 +16,36 @@ export default function ItemPage() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
 
-  const itemMeta = (indexData.items ?? []).find((i: any) => i.slug === slug);
-
   useEffect(() => {
-    if (!slug || !itemMeta) {
+    if (!slug) {
       setLoading(false);
       setError("Item not found");
       return;
     }
 
-    const key = `../data/${itemMeta.category}/${slug}.json`;
-    const loader = detailModules[key];
-
-    if (!loader) {
+    // First try to get from the itemData loader
+    const itemData = getItemBySlug(slug);
+    if (!itemData) {
       setLoading(false);
-      setError("Item data is missing");
+      setError("Item not found");
       return;
     }
 
-    loader().then((module: any) => {
-      setItem(module.default ?? module);
+    // Then load the full data from modules
+    const categoryPath = itemData.category;
+    const key = `../data/${categoryPath}/${slug}.json`;
+    const loader = detailModules[key];
+
+    if (!loader || !loader.default) {
+      // If module not found, just use the cached item data
+      setItem(itemData);
       setLoading(false);
-    }).catch(() => {
-      setLoading(false);
-      setError("Failed to load item details");
-    });
-  }, [slug, itemMeta]);
+      return;
+    }
+
+    setItem(loader.default ?? itemData);
+    setLoading(false);
+  }, [slug]);
 
   if (loading) {
     return (
