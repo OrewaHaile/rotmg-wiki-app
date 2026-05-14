@@ -1,0 +1,37 @@
+{
+  "id": "dusky-rose-dagger",
+  "name": "Dusky Rose Dagger",
+  "slug": "dusky-rose-dagger",
+  "sprite": "/items/dusky-rose-dagger.png",
+  "itemType": "Dagger",
+  "tier": "T3",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 11,
+  "description": "Dreadstump the Pirate King Dwarf King Elf Wizard Goblin Mage Hobbit Mage Mama Megamoth Undead Hobbit Mage",
+  "stats": {
+    "damage": "40–90 (average: 65)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Elf Wizard",
+    "Goblin Mage",
+    "Hobbit Mage",
+    "Mama Megamoth",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dusky-rose-dagger"
+}

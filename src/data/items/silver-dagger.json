@@ -1,0 +1,37 @@
+{
+  "id": "silver-dagger",
+  "name": "Silver Dagger",
+  "slug": "silver-dagger",
+  "sprite": "/items/silver-dagger.png",
+  "itemType": "Dagger",
+  "tier": "T4",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 17,
+  "description": "Beginner Quest Chest Deathmage Chest Dreadstump the Pirate King Dwarf King Mama Megamoth Shambling Sludge Werelion",
+  "stats": {
+    "damage": "45–100 (average: 72.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Deathmage Chest",
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Mama Megamoth",
+    "Shambling Sludge",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/silver-dagger"
+}

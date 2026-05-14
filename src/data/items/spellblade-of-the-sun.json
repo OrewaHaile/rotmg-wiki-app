@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "name": "Spellblade of the Sun",
+  "slug": "spellblade-of-the-sun",
+  "spriteUrl": "https://www.realmeye.com/s/a/img/wiki/spellblade-of-the-sun.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "Unknown",
+  "feedPower": "Unknown",
+  "description": "A blade forged in the heart of a dying star. Its edge burns with radiant solar fury, said to cut through even magical barriers with ease.",
+  "stats": {
+    "damage": "Unknown",
+    "range": "Unknown",
+    "rateOfFire": "Unknown"
+  },
+  "shots": "Unknown",
+  "projectiles": "Unknown",
+  "rateOfFire": "Unknown",
+  "damage": "Unknown",
+  "range": "Unknown",
+  "effects": ["Unknown"],
+  "usableClasses": ["Warrior", "Knight", "Paladin"],
+  "dropsFrom": ["Unknown"],
+  "notes": "Placeholder entry. Stats marked Unknown should be verified from RealmEye before publishing.",
+  "sourceUrl": "https://www.realmeye.com/wiki/spellblade-of-the-sun"
+}

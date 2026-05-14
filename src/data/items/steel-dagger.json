@@ -1,0 +1,29 @@
+{
+  "id": "steel-dagger",
+  "name": "Steel Dagger",
+  "slug": "steel-dagger",
+  "sprite": "/items/steel-dagger.png",
+  "itemType": "Dagger",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Creating a new Rogue, Assassin, or Trickster character Purchase in the Shop for 1",
+  "stats": {
+    "damage": "25–70 (average: 47.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/steel-dagger"
+}
