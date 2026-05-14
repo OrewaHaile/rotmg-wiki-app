@@ -1,0 +1,34 @@
+{
+  "id": "kendo-stick",
+  "name": "Kendo Stick",
+  "slug": "kendo-stick",
+  "sprite": "/items/kendo-stick.png",
+  "itemType": "Katana",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 5,
+  "description": "Notes This item’s shiny variant is one of, if not the rarest items to obtain, and unlike other Shiny Items, this variant has a guaranteed chance to drop with Divine rarity, similarly to Jewel Eye Katana (Shiny).",
+  "stats": {
+    "damage": "40–85 (average: 62.5)",
+    "range": "4.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Pirate"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/kendo-stick"
+}

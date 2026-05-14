@@ -1,0 +1,57 @@
+{
+  "id": "bow-of-fey-magic",
+  "name": "Bow of Fey Magic",
+  "slug": "bow-of-fey-magic",
+  "sprite": "/items/bow-of-fey-magic.png",
+  "itemType": "Bow",
+  "tier": "T10",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 159,
+  "description": "History This item was added in Build 100 (July 2010).",
+  "stats": {
+    "damage": "155–185 (average: 170)",
+    "range": "4.07",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Avalon the Archivist",
+    "Avatar of the Forgotten King",
+    "Bes",
+    "Corruption Phantom",
+    "Cube God",
+    "Genie",
+    "Ghost Bride",
+    "Ghost of Skuld",
+    "Grave Caretaker",
+    "Geb",
+    "Kogbold Expedition Engine",
+    "Lord of the Lost Lands",
+    "Nut",
+    "Oryx the Mad God",
+    "Oryx the Mad God 2",
+    "Pentaract",
+    "Skull Shrine",
+    "Son of Arachna",
+    "Standard Quest Chest",
+    "Mighty Quest Chest",
+    "Stheno the Snake Queen",
+    "Stone Guardians",
+    "Troll Matriarch"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bow-of-fey-magic"
+}

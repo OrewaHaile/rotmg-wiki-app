@@ -1,0 +1,37 @@
+{
+  "id": "leaf-bow",
+  "name": "Leaf Bow",
+  "slug": "leaf-bow",
+  "sprite": "/items/leaf-bow.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes This bow sacrifices its ability to pierce multiple enemies in exchange for longer range (1.75x the true range of tiered bows, plus full benefit from Inspired) and high DPS. While it is worse than endgame options like the Void Bow or Warmonger, the leaf bow is a strong option for the midgame. It also gives a hefty speed boost, allowing its user to dodge more or run faster, given the Archer’s and Huntress’ low base SPD.",
+  "stats": {
+    "damage": "120–175 (average: 147.5)",
+    "range": "7.2 tiles",
+    "rateOfFire": "140%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Wavy shots",
+    "+5 SPD"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Murderous Megamoth",
+    "Swarm Tree",
+    "Mighty Quest Chest",
+    "Prismimic Attacker"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/leaf-bow"
+}

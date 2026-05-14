@@ -1,0 +1,45 @@
+{
+  "id": "demon-edge",
+  "name": "Demon Edge",
+  "slug": "demon-edge",
+  "sprite": "/items/demon-edge.png",
+  "itemType": "Katana",
+  "tier": "T8",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "2%",
+  "feedPower": 75,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 100.",
+  "stats": {
+    "damage": "105–160 (average: 132.5)",
+    "range": "4.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Cube God",
+    "Cyclops God Chest",
+    "Genie",
+    "Ghost King",
+    "Kogbold Expedition Engine",
+    "Lair Mummy Pharaoh",
+    "Lair Skeleton King",
+    "Pentaract",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Skull Shrine"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/demon-edge"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "spellblade-of-the-everlasting-death",
+  "name": "Spellblade of the Everlasting Death",
+  "slug": "spellblade-of-the-everlasting-death",
+  "sprite": "/items/spellblade-of-the-everlasting-death.png",
+  "itemType": "Spellblade",
+  "tier": "T14",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 950,
+  "description": "Before Exalt Version 5.15.0.0 (Aug 2025), this item dealt 90-110 and 65-80 damage.",
+  "stats": {
+    "damage": "85–100 (average: 92.5)",
+    "range": "6.6 tiles",
+    "rateOfFire": "100%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [
+    "The Forgotten King"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spellblade-of-the-everlasting-death"
+}

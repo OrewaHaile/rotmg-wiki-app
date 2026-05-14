@@ -1,0 +1,46 @@
+{
+  "id": "hells-fire-wand",
+  "name": "Hell's Fire Wand",
+  "slug": "hells-fire-wand",
+  "sprite": "/items/hells-fire-wand.png",
+  "itemType": "Wand",
+  "tier": "T5",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 24,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this item dealt 60-85 damage.",
+  "stats": {
+    "damage": "80–110 (average: 95)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Arachna the Spider Queen",
+    "Beginner Quest Chest",
+    "Deathmage Chest",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest",
+    "Queen Bee"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hell-s-fire-wand",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T22:22:58.747Z"
+}

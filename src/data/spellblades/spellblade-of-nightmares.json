@@ -1,0 +1,43 @@
+{
+  "id": "spellblade-of-nightmares",
+  "name": "Spellblade of Nightmares",
+  "slug": "spellblade-of-nightmares",
+  "sprite": "/items/spellblade-of-nightmares.png",
+  "itemType": "Spellblade",
+  "tier": "T8",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "2%",
+  "feedPower": 75,
+  "description": "Before Exalt Version 5.15.0.0 (Aug 2025), this item dealt 55-80 and 40-55 damage.",
+  "stats": {
+    "damage": "50–70 (average: 60)",
+    "range": "6.6 tiles",
+    "rateOfFire": "100%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Cube God",
+    "Cyclops God Chest",
+    "Genie",
+    "Ghost King",
+    "Kogbold Expedition Engine",
+    "Lair Mummy Pharaoh",
+    "Lair Skeleton King",
+    "Pentaract",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Skull Shrine"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spellblade-of-nightmares"
+}

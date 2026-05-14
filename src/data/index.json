@@ -1,16 +1,241 @@
 {
-  "total": 109,
+  "total": 183,
   "categories": {
+    "bows": 25,
     "daggers": 20,
     "items": 6,
+    "katanas": 25,
+    "spellblades": 18,
     "staves": 36,
     "swords": 47,
-    "bows": 0,
-    "wands": 0,
-    "katanas": 0,
-    "spellblades": 0
+    "wands": 6
   },
   "items": [
+    {
+      "id": "baked-bow",
+      "name": "Baked Bow",
+      "slug": "baked-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "UT",
+      "path": "bows/baked-bow.json"
+    },
+    {
+      "id": "bow-of-covert-havens",
+      "name": "Bow of Covert Havens",
+      "slug": "bow-of-covert-havens",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T12",
+      "path": "bows/bow-of-covert-havens.json"
+    },
+    {
+      "id": "bow-of-deep-enchantment",
+      "name": "Bow of Deep Enchantment",
+      "slug": "bow-of-deep-enchantment",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T14",
+      "path": "bows/bow-of-deep-enchantment.json"
+    },
+    {
+      "id": "bow-of-fey-magic",
+      "name": "Bow of Fey Magic",
+      "slug": "bow-of-fey-magic",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T10",
+      "path": "bows/bow-of-fey-magic.json"
+    },
+    {
+      "id": "bow-of-innocent-blood",
+      "name": "Bow of Innocent Blood",
+      "slug": "bow-of-innocent-blood",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T11",
+      "path": "bows/bow-of-innocent-blood.json"
+    },
+    {
+      "id": "bow-of-mystical-energy",
+      "name": "Bow of Mystical Energy",
+      "slug": "bow-of-mystical-energy",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T13",
+      "path": "bows/bow-of-mystical-energy.json"
+    },
+    {
+      "id": "bow-of-the-morning-star",
+      "name": "Bow of the Morning Star",
+      "slug": "bow-of-the-morning-star",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "UT",
+      "path": "bows/bow-of-the-morning-star.json"
+    },
+    {
+      "id": "bramble-bow",
+      "name": "Bramble Bow",
+      "slug": "bramble-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "UT",
+      "path": "bows/bramble-bow.json"
+    },
+    {
+      "id": "butter-bow",
+      "name": "Butter Bow",
+      "slug": "butter-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "UT",
+      "path": "bows/butter-bow.json"
+    },
+    {
+      "id": "cupids-bow",
+      "name": "Cupid's Bow",
+      "slug": "cupids-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "UT",
+      "path": "bows/cupids-bow.json"
+    },
+    {
+      "id": "doom-bow",
+      "name": "Doom Bow",
+      "slug": "doom-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "UT",
+      "path": "bows/doom-bow.json"
+    },
+    {
+      "id": "fire-bow",
+      "name": "Fire Bow",
+      "slug": "fire-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T5",
+      "path": "bows/fire-bow.json"
+    },
+    {
+      "id": "golden-bow",
+      "name": "Golden Bow",
+      "slug": "golden-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T8",
+      "path": "bows/golden-bow.json"
+    },
+    {
+      "id": "greywood-bow",
+      "name": "Greywood Bow",
+      "slug": "greywood-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T3",
+      "path": "bows/greywood-bow.json"
+    },
+    {
+      "id": "hardwood-bow",
+      "name": "Hardwood Bow",
+      "slug": "hardwood-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T2",
+      "path": "bows/hardwood-bow.json"
+    },
+    {
+      "id": "ironwood-bow",
+      "name": "Ironwood Bow",
+      "slug": "ironwood-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T4",
+      "path": "bows/ironwood-bow.json"
+    },
+    {
+      "id": "leaf-bow",
+      "name": "Leaf Bow",
+      "slug": "leaf-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "UT",
+      "path": "bows/leaf-bow.json"
+    },
+    {
+      "id": "predator-bow",
+      "name": "Predator Bow",
+      "slug": "predator-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "UT",
+      "path": "bows/predator-bow.json"
+    },
+    {
+      "id": "redwood-bow",
+      "name": "Redwood Bow",
+      "slug": "redwood-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T7",
+      "path": "bows/redwood-bow.json"
+    },
+    {
+      "id": "reinforced-bow",
+      "name": "Reinforced Bow",
+      "slug": "reinforced-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T1",
+      "path": "bows/reinforced-bow.json"
+    },
+    {
+      "id": "sharpshooter-bow",
+      "name": "Sharpshooter Bow",
+      "slug": "sharpshooter-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T6",
+      "path": "bows/sharpshooter-bow.json"
+    },
+    {
+      "id": "shortbow",
+      "name": "Shortbow",
+      "slug": "shortbow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T0",
+      "path": "bows/shortbow.json"
+    },
+    {
+      "id": "spider-silk-bow",
+      "name": "Spider Silk Bow",
+      "slug": "spider-silk-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "UT",
+      "path": "bows/spider-silk-bow.json"
+    },
+    {
+      "id": "thousand-shot",
+      "name": "Thousand Shot",
+      "slug": "thousand-shot",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "UT",
+      "path": "bows/thousand-shot.json"
+    },
+    {
+      "id": "verdant-bow",
+      "name": "Verdant Bow",
+      "slug": "verdant-bow",
+      "category": "bows",
+      "itemType": "Bow",
+      "tier": "T9",
+      "path": "bows/verdant-bow.json"
+    },
     {
       "id": "agateclaw-dagger",
       "name": "Agateclaw Dagger",
@@ -244,6 +469,393 @@
       "itemType": "Dagger",
       "tier": "T0",
       "path": "items/steel-dagger.json"
+    },
+    {
+      "id": "blade-of-ages",
+      "name": "Blade of Ages",
+      "slug": "blade-of-ages",
+      "category": "katanas",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "katanas/blade-of-ages.json"
+    },
+    {
+      "id": "blade-of-blooming",
+      "name": "Blade of Blooming",
+      "slug": "blade-of-blooming",
+      "category": "katanas",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "katanas/blade-of-blooming.json"
+    },
+    {
+      "id": "blade-of-the-assailant",
+      "name": "Blade of the Assailant",
+      "slug": "blade-of-the-assailant",
+      "category": "katanas",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "katanas/blade-of-the-assailant.json"
+    },
+    {
+      "id": "buster-katana",
+      "name": "Buster Katana",
+      "slug": "buster-katana",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T7",
+      "path": "katanas/buster-katana.json"
+    },
+    {
+      "id": "celestial-blade",
+      "name": "Celestial Blade",
+      "slug": "celestial-blade",
+      "category": "katanas",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "katanas/celestial-blade.json"
+    },
+    {
+      "id": "demon-edge",
+      "name": "Demon Edge",
+      "slug": "demon-edge",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T8",
+      "path": "katanas/demon-edge.json"
+    },
+    {
+      "id": "diamond-bladed-katana",
+      "name": "Diamond-Bladed Katana",
+      "slug": "diamond-bladed-katana",
+      "category": "katanas",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "katanas/diamond-bladed-katana.json"
+    },
+    {
+      "id": "doku-no-ken",
+      "name": "Doku No Ken",
+      "slug": "doku-no-ken",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "UT",
+      "path": "katanas/doku-no-ken.json"
+    },
+    {
+      "id": "fire-blade",
+      "name": "Fire Blade",
+      "slug": "fire-blade",
+      "category": "katanas",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "katanas/fire-blade.json"
+    },
+    {
+      "id": "ichimonji",
+      "name": "Ichimonji",
+      "slug": "ichimonji",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T10",
+      "path": "katanas/ichimonji.json"
+    },
+    {
+      "id": "jewel-eye-katana",
+      "name": "Jewel Eye Katana",
+      "slug": "jewel-eye-katana",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T9",
+      "path": "katanas/jewel-eye-katana.json"
+    },
+    {
+      "id": "kendo-stick",
+      "name": "Kendo Stick",
+      "slug": "kendo-stick",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T1",
+      "path": "katanas/kendo-stick.json"
+    },
+    {
+      "id": "kusanagi",
+      "name": "Kusanagi",
+      "slug": "kusanagi",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T14",
+      "path": "katanas/kusanagi.json"
+    },
+    {
+      "id": "kyuuketsuki-hitogoroshi",
+      "name": "Kyuuketsuki Hitogoroshi",
+      "slug": "kyuuketsuki-hitogoroshi",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "UT",
+      "path": "katanas/kyuuketsuki-hitogoroshi.json"
+    },
+    {
+      "id": "line-kutter-katana",
+      "name": "Line Kutter Katana",
+      "slug": "line-kutter-katana",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T4",
+      "path": "katanas/line-kutter-katana.json"
+    },
+    {
+      "id": "masamune",
+      "name": "Masamune",
+      "slug": "masamune",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T12",
+      "path": "katanas/masamune.json"
+    },
+    {
+      "id": "moonbeam-blade",
+      "name": "Moonbeam Blade",
+      "slug": "moonbeam-blade",
+      "category": "katanas",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "katanas/moonbeam-blade.json"
+    },
+    {
+      "id": "muramasa",
+      "name": "Muramasa",
+      "slug": "muramasa",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T11",
+      "path": "katanas/muramasa.json"
+    },
+    {
+      "id": "night-edge",
+      "name": "Night Edge",
+      "slug": "night-edge",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T5",
+      "path": "katanas/night-edge.json"
+    },
+    {
+      "id": "plain-katana",
+      "name": "Plain Katana",
+      "slug": "plain-katana",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T2",
+      "path": "katanas/plain-katana.json"
+    },
+    {
+      "id": "rusty-katana",
+      "name": "Rusty Katana",
+      "slug": "rusty-katana",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T0",
+      "path": "katanas/rusty-katana.json"
+    },
+    {
+      "id": "sadamune",
+      "name": "Sadamune",
+      "slug": "sadamune",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T13",
+      "path": "katanas/sadamune.json"
+    },
+    {
+      "id": "sky-edge",
+      "name": "Sky Edge",
+      "slug": "sky-edge",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T6",
+      "path": "katanas/sky-edge.json"
+    },
+    {
+      "id": "thunder-katana",
+      "name": "Thunder Katana",
+      "slug": "thunder-katana",
+      "category": "katanas",
+      "itemType": "Katana",
+      "tier": "T3",
+      "path": "katanas/thunder-katana.json"
+    },
+    {
+      "id": "void-blade",
+      "name": "Void Blade",
+      "slug": "void-blade",
+      "category": "katanas",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "katanas/void-blade.json"
+    },
+    {
+      "id": "beach-shovel",
+      "name": "Beach Shovel",
+      "slug": "beach-shovel",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "UT (Limited)",
+      "path": "spellblades/beach-shovel.json"
+    },
+    {
+      "id": "caramel-spellblade",
+      "name": "Caramel Spellblade",
+      "slug": "caramel-spellblade",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "UT (Limited)",
+      "path": "spellblades/caramel-spellblade.json"
+    },
+    {
+      "id": "crystallized-worm-spellblade",
+      "name": "Crystallized Worm Spellblade",
+      "slug": "crystallized-worm-spellblade",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "UT",
+      "path": "spellblades/crystallized-worm-spellblade.json"
+    },
+    {
+      "id": "heros-spellblade",
+      "name": "Hero's Spellblade",
+      "slug": "heros-spellblade",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "UT (Limited)",
+      "path": "spellblades/heros-spellblade.json"
+    },
+    {
+      "id": "hovering-spellblade",
+      "name": "Hovering Spellblade",
+      "slug": "hovering-spellblade",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "UT (Limited)",
+      "path": "spellblades/hovering-spellblade.json"
+    },
+    {
+      "id": "love-heart-spellblade",
+      "name": "Love Heart Spellblade",
+      "slug": "love-heart-spellblade",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "UT",
+      "path": "spellblades/love-heart-spellblade.json"
+    },
+    {
+      "id": "rocket-launcher",
+      "name": "Rocket Launcher",
+      "slug": "rocket-launcher",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "ST",
+      "path": "spellblades/rocket-launcher.json"
+    },
+    {
+      "id": "royal-sekhem",
+      "name": "Royal Sekhem",
+      "slug": "royal-sekhem",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "UT (Limited)",
+      "path": "spellblades/royal-sekhem.json"
+    },
+    {
+      "id": "snowblind-spellblade",
+      "name": "Snowblind Spellblade",
+      "slug": "snowblind-spellblade",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "UT (Limited)",
+      "path": "spellblades/snowblind-spellblade.json"
+    },
+    {
+      "id": "spellblade-of-arcane-magic",
+      "name": "Spellblade of Arcane Magic",
+      "slug": "spellblade-of-arcane-magic",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "T9",
+      "path": "spellblades/spellblade-of-arcane-magic.json"
+    },
+    {
+      "id": "spellblade-of-corrupt-premonitions",
+      "name": "Spellblade of Corrupt Premonitions",
+      "slug": "spellblade-of-corrupt-premonitions",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "T10",
+      "path": "spellblades/spellblade-of-corrupt-premonitions.json"
+    },
+    {
+      "id": "spellblade-of-decimation",
+      "name": "Spellblade of Decimation",
+      "slug": "spellblade-of-decimation",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "T7",
+      "path": "spellblades/spellblade-of-decimation.json"
+    },
+    {
+      "id": "spellblade-of-nightmares",
+      "name": "Spellblade of Nightmares",
+      "slug": "spellblade-of-nightmares",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "T8",
+      "path": "spellblades/spellblade-of-nightmares.json"
+    },
+    {
+      "id": "spellblade-of-starry-insight",
+      "name": "Spellblade of Starry Insight",
+      "slug": "spellblade-of-starry-insight",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "T11",
+      "path": "spellblades/spellblade-of-starry-insight.json"
+    },
+    {
+      "id": "spellblade-of-the-everlasting-death",
+      "name": "Spellblade of the Everlasting Death",
+      "slug": "spellblade-of-the-everlasting-death",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "T14",
+      "path": "spellblades/spellblade-of-the-everlasting-death.json"
+    },
+    {
+      "id": "spellblade-of-the-heavens-light",
+      "name": "Spellblade of the Heavens Light",
+      "slug": "spellblade-of-the-heavens-light",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "T13",
+      "path": "spellblades/spellblade-of-the-heavens-light.json"
+    },
+    {
+      "id": "spellblade-of-the-void",
+      "name": "Spellblade of the Void",
+      "slug": "spellblade-of-the-void",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "UT (Limited)",
+      "path": "spellblades/spellblade-of-the-void.json"
+    },
+    {
+      "id": "steam-pipe",
+      "name": "Steam Pipe",
+      "slug": "steam-pipe",
+      "category": "spellblades",
+      "itemType": "Spellblade",
+      "tier": "UT",
+      "path": "spellblades/steam-pipe.json"
     },
     {
       "id": "anatis-staff",
@@ -991,6 +1603,60 @@
       "itemType": "Sword",
       "tier": "UT",
       "path": "swords/vinesword.json"
+    },
+    {
+      "id": "caduceus-of-enlightened-chaos",
+      "name": "Caduceus Of Enlightened Chaos",
+      "slug": "caduceus-of-enlightened-chaos",
+      "category": "wands",
+      "itemType": "Wand",
+      "tier": "UT",
+      "path": "wands/caduceus-of-enlightened-chaos.json"
+    },
+    {
+      "id": "crystal-wand",
+      "name": "Crystal Wand",
+      "slug": "crystal-wand",
+      "category": "wands",
+      "itemType": "Wand",
+      "tier": "UT",
+      "path": "wands/crystal-wand.json"
+    },
+    {
+      "id": "st-abrahams-wand",
+      "name": "St. Abraham's Wand",
+      "slug": "st-abrahams-wand",
+      "category": "wands",
+      "itemType": "Wand",
+      "tier": "UT",
+      "path": "wands/st-abrahams-wand.json"
+    },
+    {
+      "id": "tyrants-wand",
+      "name": "Tyrant's Wand",
+      "slug": "tyrants-wand",
+      "category": "wands",
+      "itemType": "Wand",
+      "tier": "UT",
+      "path": "wands/tyrants-wand.json"
+    },
+    {
+      "id": "wand-of-the-bulwark",
+      "name": "Wand of the Bulwark",
+      "slug": "wand-of-the-bulwark",
+      "category": "wands",
+      "itemType": "Wand",
+      "tier": "UT",
+      "path": "wands/wand-of-the-bulwark.json"
+    },
+    {
+      "id": "wand-of-the-fallen",
+      "name": "Wand of the Fallen",
+      "slug": "wand-of-the-fallen",
+      "category": "wands",
+      "itemType": "Wand",
+      "tier": "UT",
+      "path": "wands/wand-of-the-fallen.json"
     }
   ]
 }

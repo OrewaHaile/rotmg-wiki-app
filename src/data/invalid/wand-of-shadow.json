@@ -1,0 +1,61 @@
+{
+  "id": "wand-of-shadow",
+  "name": "Wand of Shadow",
+  "slug": "wand-of-shadow",
+  "sprite": "/items/wand-of-shadow.png",
+  "itemType": "Wand",
+  "tier": "T10",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 159,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this item dealt 90-135 damage.",
+  "stats": {
+    "damage": "125–165 (average: 145)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Avalon the Archivist",
+    "Avatar of the Forgotten King",
+    "Bes",
+    "Corruption Phantom",
+    "Cube God",
+    "Genie",
+    "Ghost Bride",
+    "Ghost of Skuld",
+    "Grave Caretaker",
+    "Geb",
+    "Kogbold Expedition Engine",
+    "Lord of the Lost Lands",
+    "Nut",
+    "Oryx the Mad God",
+    "Oryx the Mad God 2",
+    "Pentaract",
+    "Skull Shrine",
+    "Son of Arachna",
+    "Standard Quest Chest",
+    "Mighty Quest Chest",
+    "Stheno the Snake Queen",
+    "Stone Guardians",
+    "Troll Matriarch"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wand-of-shadow",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T22:23:01.415Z"
+}

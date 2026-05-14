@@ -1,0 +1,42 @@
+{
+  "id": "sharpshooter-bow",
+  "name": "Sharpshooter Bow",
+  "slug": "sharpshooter-bow",
+  "sprite": "/items/sharpshooter-bow.png",
+  "itemType": "Bow",
+  "tier": "T6",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 35,
+  "description": "History Added in Exalt Version 2.3.0.0 (Mar 2022), replacing Double Bow.",
+  "stats": {
+    "damage": "15–20 (average: 17.5)",
+    "range": "4.07",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Deathmage Chest",
+    "Cyclops God Chest",
+    "Ent Ancient",
+    "Ghost King",
+    "Lich",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sharpshooter-bow"
+}

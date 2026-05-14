@@ -1,0 +1,37 @@
+{
+  "id": "diamond-bladed-katana",
+  "name": "Diamond-Bladed Katana",
+  "slug": "diamond-bladed-katana",
+  "sprite": "/items/diamond-bladed-katana.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 233,
+  "description": "Notes This is a reskinned version of the T11 Muramasa.",
+  "stats": {
+    "damage": "130–195 (average: 162.5)",
+    "range": "4.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Belladonna",
+    "The Gardener",
+    "Valentine’s Candy Heart",
+    "Valentine’s Card",
+    "Valentine’s Flower"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/diamond-bladed-katana"
+}

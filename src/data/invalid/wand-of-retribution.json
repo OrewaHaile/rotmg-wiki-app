@@ -1,0 +1,39 @@
+{
+  "id": "wand-of-retribution",
+  "name": "Wand of Retribution",
+  "slug": "wand-of-retribution",
+  "sprite": "/items/wand-of-retribution.png",
+  "itemType": "Wand",
+  "tier": "T14",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 950,
+  "description": "Notes A truly formidable end-game wand, possessing the best utility in its category. One should fall back on this wand when the situation calls for range, accuracy, and the ability to pierce through enemies.",
+  "stats": {
+    "damage": "165–205 (average: 185)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 3",
+    "Kitsune Umi"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wand-of-retribution",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T22:23:03.546Z"
+}

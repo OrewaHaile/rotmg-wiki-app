@@ -1,0 +1,35 @@
+{
+  "id": "blade-of-the-assailant",
+  "name": "Blade of the Assailant",
+  "slug": "blade-of-the-assailant",
+  "sprite": "/items/blade-of-the-assailant.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "History Before Patch X.33.1.0 (May 2020), this item had a feed power of 500.",
+  "stats": {
+    "damage": "130–180 (average: 155)",
+    "range": "5 tiles",
+    "rateOfFire": "125%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/blade-of-the-assailant"
+}

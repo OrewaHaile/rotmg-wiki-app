@@ -1,0 +1,50 @@
+{
+  "id": "sadamune",
+  "name": "Sadamune",
+  "slug": "sadamune",
+  "sprite": "/items/sadamune.png",
+  "itemType": "Katana",
+  "tier": "T13",
+  "bagType": "Red",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "History Before Exalt Version 2.3.0.0 (Mar 2022), this item dealt 150-195 damage and had a 6% XP bonus.",
+  "stats": {
+    "damage": "160–210 (average: 185)",
+    "range": "4.74 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Sage Genji",
+    "Drummer Kaguya",
+    "Dancer Miko",
+    "Archbishop Leucoryx",
+    "Chancellor Dammah",
+    "Chief Beisa",
+    "Treasurer Gemsbok",
+    "Marble Colossus",
+    "Void Entity",
+    "Soulwarden Murcian",
+    "The Wanderer (Hard)",
+    "The Wanderer (Interregnum)",
+    "The White Snake",
+    "Marble Epic Quest Chest",
+    "Voided Epic Quest Chest",
+    "Spectral Epic Quest Chest",
+    "Moonlit Epic Quest Chest",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sadamune"
+}

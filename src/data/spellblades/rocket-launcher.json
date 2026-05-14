@@ -1,0 +1,29 @@
+{
+  "id": "rocket-launcher",
+  "name": "Rocket Launcher",
+  "slug": "rocket-launcher",
+  "sprite": "/items/rocket-launcher.png",
+  "itemType": "Spellblade",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": null,
+  "description": "Notes Part of the Kogbold Pyrotechnician Wizard set.",
+  "stats": {
+    "damage": "100–120 (average: 110)",
+    "range": "6.6 tiles",
+    "rateOfFire": "85%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/rocket-launcher"
+}

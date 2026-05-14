@@ -1,0 +1,32 @@
+{
+  "id": "crystallized-worm-spellblade",
+  "name": "Crystallized Worm Spellblade",
+  "slug": "crystallized-worm-spellblade",
+  "sprite": "/items/crystallized-worm-spellblade.png",
+  "itemType": "Spellblade",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This staff fires 4 shots total; two shots on each side. Each side, like other spellblades, has a piercing/armor piercing shot and a more damaging shot. Shots start spreading out at the start of its range, and then converge as they travel further. They do not fully converge without Inspired, but it’s still always possible to hit all shots from the end of its natural range. Notably, it nearly matches the shot pattern of the Primal Arcana.",
+  "stats": {
+    "damage": "75–95 (average: 85)",
+    "range": "6.48 tiles",
+    "rateOfFire": "100%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [
+    "Crystal Worm Mother",
+    "Crystallized Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/crystallized-worm-spellblade"
+}

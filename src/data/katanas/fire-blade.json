@@ -1,0 +1,36 @@
+{
+  "id": "fire-blade",
+  "name": "Fire Blade",
+  "slug": "fire-blade",
+  "sprite": "/items/fire-blade.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes This is an Alien Gear item.",
+  "stats": {
+    "damage": "130–160 (average: 145)",
+    "range": "5.2 tiles",
+    "rateOfFire": "120%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "On Shoot: Release a fire burst Total Damage: 1,000 Radius: 6 tiles Duration: 6 seconds Cooldown: 3 seconds"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Neo Znorgian",
+    "Suesogian",
+    "Malogia Satellite Core"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fire-blade"
+}

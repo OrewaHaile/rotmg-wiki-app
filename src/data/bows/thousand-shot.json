@@ -1,0 +1,35 @@
+{
+  "id": "thousand-shot",
+  "name": "Thousand Shot",
+  "slug": "thousand-shot",
+  "sprite": "/items/thousand-shot.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "Notes The Thousand Shot, commonly called tshot, has the highest fire rate of any weapon in the game and ignores enemies’ defense.",
+  "stats": {
+    "damage": "65–130 (average: 97.5)",
+    "range": "7.59 tiles",
+    "rateOfFire": "200%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Ignores defense of target",
+    "+30 MP"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "The Puppet Master (Encore)",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/thousand-shot"
+}

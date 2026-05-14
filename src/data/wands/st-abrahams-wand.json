@@ -1,0 +1,34 @@
+{
+  "id": "st-abrahams-wand",
+  "name": "St. Abraham's Wand",
+  "slug": "st-abrahams-wand",
+  "sprite": "/items/st-abrahams-wand.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes This wand is marginally useful due to its slightly better range and +5 WIS, which can help boost tome usage.",
+  "stats": {
+    "damage": "155–180 (average: 167.5)",
+    "range": "9.99 tiles",
+    "rateOfFire": "90%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Hitbox Size: 1.2 Shots hit multiple targets Shots pass through obstacles",
+    "+5 VIT, +5 WIS"
+  ],
+  "usableClasses": [
+    "Priest"
+  ],
+  "dropsFrom": [
+    "Lord Ruthven",
+    "Coffin",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/st-abraham-s-wand"
+}

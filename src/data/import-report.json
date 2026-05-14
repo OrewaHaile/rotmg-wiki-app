@@ -1,14 +1,14 @@
 {
-  "totalImported": 103,
+  "totalImported": 177,
   "duplicates": 1,
-  "invalid": 2,
+  "invalid": 0,
   "categories": {
     "daggers": 20,
     "swords": 47,
-    "bows": 0,
-    "wands": 0,
+    "bows": 25,
+    "wands": 6,
     "staves": 36,
-    "katanas": 0,
-    "spellblades": 0
+    "katanas": 25,
+    "spellblades": 18
   }
 }

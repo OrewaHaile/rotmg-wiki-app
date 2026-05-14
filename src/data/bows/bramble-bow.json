@@ -1,0 +1,34 @@
+{
+  "id": "bramble-bow",
+  "name": "Bramble Bow",
+  "slug": "bramble-bow",
+  "sprite": "/items/bramble-bow.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 80,
+  "description": "Notes This, along with the Cocoon Quiver, is a great early to mid game archer item. Fires three shots and has a DPS between T6 and T8 bows. Two downsides to this bow are the wavy shots and the higher arc gap compared to tiered bows.",
+  "stats": {
+    "damage": "30–45 (average: 37.5 / total: 112.5)",
+    "range": "7.04 tiles (true range: 2.84 tiles)",
+    "rateOfFire": "120%",
+    "shots": "3 (arc gap: 10°)",
+    "projectiles": "3 (arc gap: 10°)"
+  },
+  "effects": [
+    "Shots hit multiple targets Wavy shots"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Mama Megamoth",
+    "Beginner Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bramble-bow"
+}

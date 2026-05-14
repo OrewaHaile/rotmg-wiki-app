@@ -1,0 +1,51 @@
+{
+  "id": "bow-of-mystical-energy",
+  "name": "Bow of Mystical Energy",
+  "slug": "bow-of-mystical-energy",
+  "sprite": "/items/bow-of-mystical-energy.png",
+  "itemType": "Bow",
+  "tier": "T13",
+  "bagType": "Red",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "Notes This bow is almost identical in damage output to the T14 Bow of Deep Enchantment, having only 10 less damage on the middle shot. Conversely, this bow has 10 more damage on each shot compared to the T12 Bow of Covert Havens, giving it a significant bump in power compared to T12.",
+  "stats": {
+    "damage": "205–235 (average: 220)",
+    "range": "4.07",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Sage Genji",
+    "Drummer Kaguya",
+    "Dancer Miko",
+    "Archbishop Leucoryx",
+    "Chancellor Dammah",
+    "Chief Beisa",
+    "Treasurer Gemsbok",
+    "Marble Colossus",
+    "Void Entity",
+    "Soulwarden Murcian",
+    "The Wanderer (Hard)",
+    "The Wanderer (Interregnum)",
+    "The White Snake",
+    "Marble Epic Quest Chest",
+    "Voided Epic Quest Chest",
+    "Spectral Epic Quest Chest",
+    "Moonlit Epic Quest Chest",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bow-of-mystical-energy"
+}

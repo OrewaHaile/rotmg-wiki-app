@@ -1,0 +1,39 @@
+{
+  "id": "line-kutter-katana",
+  "name": "Line Kutter Katana",
+  "slug": "line-kutter-katana",
+  "sprite": "/items/line-kutter-katana.png",
+  "itemType": "Katana",
+  "tier": "T4",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 17,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 22.",
+  "stats": {
+    "damage": "65–100 (average: 82.5)",
+    "range": "4.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Deathmage Chest",
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Mama Megamoth",
+    "Shambling Sludge",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/line-kutter-katana"
+}

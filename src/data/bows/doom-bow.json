@@ -1,0 +1,39 @@
+{
+  "id": "doom-bow",
+  "name": "Doom Bow",
+  "slug": "doom-bow",
+  "sprite": "/items/doom-bow.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes The Doom Bow has a very high damage / shot, making it able to one-shot many enemies. It is great against high DEF enemies due to its low firerate and high damage. The main drawback of this bow comes from said firerate. It makes accuracy more important, as each missed shot makes a bigger difference. It also makes it harder to hit fast moving enemies.",
+  "stats": {
+    "damage": "500–600 (average: 550)",
+    "range": "7.042 tiles",
+    "rateOfFire": "33%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Septavius the Ghost God",
+    "Lair Spectral Skeleton",
+    "Septavius, Master of the Undead",
+    "Heroic Lair Spectral Skeleton",
+    "Heroic Septavius the Ghost God",
+    "Standard Quest Chest",
+    "Prismimic Defender"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/doom-bow"
+}

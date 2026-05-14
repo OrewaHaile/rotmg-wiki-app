@@ -1,0 +1,41 @@
+{
+  "id": "spider-silk-bow",
+  "name": "Spider Silk Bow",
+  "slug": "spider-silk-bow",
+  "sprite": "/items/spider-silk-bow.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "History Introduced in Exalt Version 5.11.0.0 (May 2025)",
+  "stats": {
+    "damage": "10–45 (average: 27.5)",
+    "range": "4.07",
+    "rateOfFire": "130%",
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "+5 ATT",
+    "Burst Count: 2Burst Delay: 1 secondMinimum Burst Delay: 0.6 seconds Shots hit multiple targets Ignores defense of target",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Son of Arachna",
+    "Glowing Egg",
+    "Blue Son of Arachna Giant Egg Sac",
+    "Green Son of Arachna Giant Egg Sac",
+    "Red Son of Arachna Giant Egg Sac",
+    "Silver Son of Arachna Giant Egg Sac",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spider-silk-bow"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "doku-no-ken",
+  "name": "Doku No Ken",
+  "slug": "doku-no-ken",
+  "sprite": "/items/doku-no-ken.png",
+  "itemType": "Katana",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Game animation Note: The in-game projectile color is different from the tool used.",
+  "stats": {
+    "damage": "130–160 (average: 145)",
+    "range": "5.2 tiles",
+    "rateOfFire": "120%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "On Shoot: Release a poison burst Total Damage: 1,000 Radius: 6 tiles Duration: 6 seconds Cooldown: 3 seconds"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Son of Arachna",
+    "Glowing Egg",
+    "Blue Son of Arachna Giant Egg Sac",
+    "Green Son of Arachna Giant Egg Sac",
+    "Red Son of Arachna Giant Egg Sac",
+    "Silver Son of Arachna Giant Egg Sac",
+    "Mighty Quest Chest",
+    "Prismimic Attacker"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/doku-no-ken"
+}

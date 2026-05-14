@@ -1,0 +1,50 @@
+{
+  "id": "wand-of-arcane-flame",
+  "name": "Wand of Arcane Flame",
+  "slug": "wand-of-arcane-flame",
+  "sprite": "/items/wand-of-arcane-flame.png",
+  "itemType": "Wand",
+  "tier": "T7",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "1%",
+  "feedPower": 53,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this item dealt 75-115 damage.",
+  "stats": {
+    "damage": "110–140 (average: 125)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Archdemon Malphas",
+    "Cyclops God Chest",
+    "Ent Ancient",
+    "Ghost King",
+    "Lich",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest",
+    "Red Demon",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Stone Guardians"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wand-of-arcane-flame",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T22:22:59.812Z"
+}

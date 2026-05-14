@@ -1,0 +1,37 @@
+{
+  "id": "hardwood-bow",
+  "name": "Hardwood Bow",
+  "slug": "hardwood-bow",
+  "sprite": "/items/hardwood-bow.png",
+  "itemType": "Bow",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "Notes This bow has a longer range than most tiered bows.",
+  "stats": {
+    "damage": "5–15 (average: 10)",
+    "range": "7.5",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Dreadstump the Pirate King",
+    "Elf Wizard",
+    "Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hardwood-bow"
+}

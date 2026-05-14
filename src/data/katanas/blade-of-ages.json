@@ -1,0 +1,33 @@
+{
+  "id": "blade-of-ages",
+  "name": "Blade of Ages",
+  "slug": "blade-of-ages",
+  "sprite": "/items/blade-of-ages.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 202,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "1000",
+    "range": "0.5 tiles",
+    "rateOfFire": "1%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Wavy shots"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Null"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/blade-of-ages"
+}

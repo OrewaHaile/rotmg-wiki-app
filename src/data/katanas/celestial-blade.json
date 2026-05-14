@@ -1,0 +1,32 @@
+{
+  "id": "celestial-blade",
+  "name": "Celestial Blade",
+  "slug": "celestial-blade",
+  "sprite": "/items/celestial-blade.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes This katana is comparable to the Sword of the Colossus, boasting high damage that beats every tiered katana, while also having a high 5.2 tiles of range and a wavy shot pattern. Since you need to hit enemies at the maximum range for high DPS, positioning yourself to maximize the shots hitting the target is recommended.",
+  "stats": {
+    "damage": "205–225 (average: 215)",
+    "range": "5.2 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Feargus the Obsidian Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/celestial-blade"
+}

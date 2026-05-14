@@ -1,0 +1,31 @@
+{
+  "id": "rusty-katana",
+  "name": "Rusty Katana",
+  "slug": "rusty-katana",
+  "sprite": "/items/rusty-katana.png",
+  "itemType": "Katana",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter weapon for katana classes. It does not drop from enemies.",
+  "stats": {
+    "damage": "35–80 (average: 57.5)",
+    "range": "4.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/rusty-katana"
+}

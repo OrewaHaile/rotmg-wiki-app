@@ -1,0 +1,54 @@
+{
+  "id": "spellblade-of-corrupt-premonitions",
+  "name": "Spellblade of Corrupt Premonitions",
+  "slug": "spellblade-of-corrupt-premonitions",
+  "sprite": "/items/spellblade-of-corrupt-premonitions.png",
+  "itemType": "Spellblade",
+  "tier": "T10",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 159,
+  "description": "Before Exalt Version 5.15.0.0 (Aug 2025), this item dealt 65-90 and 50-65 damage.",
+  "stats": {
+    "damage": "65–85 (average: 75)",
+    "range": "6.6 tiles",
+    "rateOfFire": "100%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Avalon the Archivist",
+    "Avatar of the Forgotten King",
+    "Bes",
+    "Corruption Phantom",
+    "Cube God",
+    "Genie",
+    "Ghost Bride",
+    "Ghost of Skuld",
+    "Grave Caretaker",
+    "Geb",
+    "Kogbold Expedition Engine",
+    "Lord of the Lost Lands",
+    "Nut",
+    "Oryx the Mad God",
+    "Oryx the Mad God 2",
+    "Pentaract",
+    "Skull Shrine",
+    "Son of Arachna",
+    "Standard Quest Chest",
+    "Mighty Quest Chest",
+    "Stheno the Snake Queen",
+    "Stone Guardians",
+    "Troll Matriarch"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spellblade-of-corrupt-premonitions"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "snowblind-spellblade",
+  "name": "Snowblind Spellblade",
+  "slug": "snowblind-spellblade",
+  "sprite": "/items/snowblind-spellblade.png",
+  "itemType": "Spellblade",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Notes Although not an ST item in its own right, this item is classed as Oryxmas Gear, and, if worn in conjuntion with Ornaments of Unity, will contribute to the Oryxmas Gear bonus stats.",
+  "stats": {
+    "damage": "70–90 (average: 80)",
+    "range": "6.6 tiles",
+    "rateOfFire": "100%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/snowblind-spellblade"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "kusanagi",
+  "name": "Kusanagi",
+  "slug": "kusanagi",
+  "sprite": "/items/kusanagi.png",
+  "itemType": "Katana",
+  "tier": "T14",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 950,
+  "description": "Notes A remarkably powerful end-game Katana which has unrivaled damage among all piercing Katanas except Valor, which will always comfortably outdamage it, even when affected by the Valor’s ATT reduction proc.",
+  "stats": {
+    "damage": "175–225 (average: 200)",
+    "range": "4.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 3",
+    "Kitsune Umi"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/kusanagi"
+}

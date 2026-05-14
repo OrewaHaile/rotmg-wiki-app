@@ -1,0 +1,44 @@
+{
+  "id": "eldritch-wand",
+  "name": "Eldritch Wand",
+  "slug": "eldritch-wand",
+  "sprite": "/items/eldritch-wand.png",
+  "itemType": "Wand",
+  "tier": "T4",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 17,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this item dealt 55-70 damage.",
+  "stats": {
+    "damage": "65–95 (average: 80)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Deathmage Chest",
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Mama Megamoth",
+    "Shambling Sludge",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/eldritch-wand",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T22:22:58.214Z"
+}

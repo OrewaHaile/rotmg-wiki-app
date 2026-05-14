@@ -1,0 +1,29 @@
+{
+  "id": "hovering-spellblade",
+  "name": "Hovering Spellblade",
+  "slug": "hovering-spellblade",
+  "sprite": "/items/hovering-spellblade.png",
+  "itemType": "Spellblade",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Notes This weapons damage sit exactly between the damage of the T12 Spellblade of the Sun and the T13 Spellblade of the Heavens Light.",
+  "stats": {
+    "damage": "65–90 (average: 77.5)",
+    "range": "7.91 tiles",
+    "rateOfFire": "100%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hovering-spellblade"
+}

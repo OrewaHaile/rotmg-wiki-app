@@ -1,0 +1,33 @@
+{
+  "id": "baked-bow",
+  "name": "Baked Bow",
+  "slug": "baked-bow",
+  "sprite": "/items/baked-bow.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 777,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "15–50 (average: 32.5)",
+    "range": "9.6 tiles",
+    "rateOfFire": "120%",
+    "shots": "5 (arc gap: 20°)",
+    "projectiles": "5 (arc gap: 20°)"
+  },
+  "effects": [
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Null"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/baked-bow"
+}

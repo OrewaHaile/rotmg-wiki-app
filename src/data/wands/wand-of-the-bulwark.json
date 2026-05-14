@@ -1,0 +1,36 @@
+{
+  "id": "wand-of-the-bulwark",
+  "name": "Wand of the Bulwark",
+  "slug": "wand-of-the-bulwark",
+  "sprite": "/items/wand-of-the-bulwark.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes The projectiles this weapon fires are kind of like the little floating projectiles fired by sandsman sorcerers, clockwork golems, and Red Demons. They float around lazily in a figure-eight pattern and last a very long time. You can’t shoot them at something; you basically need to create a minefield with them and attract your prey into the field.",
+  "stats": {
+    "damage": "500–600 (average: 550)",
+    "range": "3 tiles",
+    "rateOfFire": "33%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots are parametric Shots pass through obstacles Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Stheno the Snake Queen",
+    "Snakepit Guard",
+    "Standard Quest Chest",
+    "Prismimic Defender"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wand-of-the-bulwark"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "void-blade",
+  "name": "Void Blade",
+  "slug": "void-blade",
+  "sprite": "/items/void-blade.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes This weapon has the one of the highest base damages in game. It is beaten by its own upgrade, the Socket Blade, and the Blade of Ages.",
+  "stats": {
+    "damage": "605–755 (average: 680)",
+    "range": "6 tiles",
+    "rateOfFire": "30%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "-5 DEX"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Gulpord the Slime God",
+    "Master Rat",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/void-blade"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "love-heart-spellblade",
+  "name": "Love Heart Spellblade",
+  "slug": "love-heart-spellblade",
+  "sprite": "/items/love-heart-spellblade.png",
+  "itemType": "Spellblade",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 233,
+  "description": "Before Exalt Version 5.15.0.0 (Aug 2025), this item dealt 65-95 and 50-65 damage.",
+  "stats": {
+    "damage": "65–85 (average: 75)",
+    "range": "6.6 tiles",
+    "rateOfFire": "100%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [
+    "Belladonna",
+    "The Gardener",
+    "Valentine’s Candy Heart",
+    "Valentine’s Card"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/love-heart-spellblade"
+}

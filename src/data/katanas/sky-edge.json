@@ -1,0 +1,41 @@
+{
+  "id": "sky-edge",
+  "name": "Sky Edge",
+  "slug": "sky-edge",
+  "sprite": "/items/sky-edge.png",
+  "itemType": "Katana",
+  "tier": "T6",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 35,
+  "description": "Notes This weapon should not be confused with the T11 Skysplitter Sword, which is often nicknamed “Sky.”",
+  "stats": {
+    "damage": "85–120 (average: 102.5)",
+    "range": "4.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Deathmage Chest",
+    "Cyclops God Chest",
+    "Ent Ancient",
+    "Ghost King",
+    "Lich",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sky-edge"
+}

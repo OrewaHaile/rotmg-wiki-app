@@ -1,0 +1,45 @@
+{
+  "id": "buster-katana",
+  "name": "Buster Katana",
+  "slug": "buster-katana",
+  "sprite": "/items/buster-katana.png",
+  "itemType": "Katana",
+  "tier": "T7",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "1%",
+  "feedPower": 53,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 70.",
+  "stats": {
+    "damage": "100–135 (average: 117.5)",
+    "range": "4.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Archdemon Malphas",
+    "Cyclops God Chest",
+    "Ent Ancient",
+    "Ghost King",
+    "Lich",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest",
+    "Red Demon",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Stone Guardians"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/buster-katana"
+}

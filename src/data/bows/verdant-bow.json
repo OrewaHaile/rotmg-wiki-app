@@ -1,0 +1,47 @@
+{
+  "id": "verdant-bow",
+  "name": "Verdant Bow",
+  "slug": "verdant-bow",
+  "sprite": "/items/verdant-bow.png",
+  "itemType": "Bow",
+  "tier": "T9",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "3%",
+  "feedPower": 109,
+  "description": "History This item was added in Build 100 (July 2010).",
+  "stats": {
+    "damage": "20–30 (average: 25)",
+    "range": "4.07",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Avatar of the Forgotten King",
+    "Cube God",
+    "Genie",
+    "Ghost of Skuld",
+    "Kogbold Expedition Engine",
+    "Lord of the Lost Lands",
+    "Oryx the Mad God",
+    "Oryx the Mad God 2",
+    "Pentaract",
+    "Red Demon Chest",
+    "Skull Shrine",
+    "Standard Quest Chest",
+    "Stheno the Snake Queen"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/verdant-bow"
+}

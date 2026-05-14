@@ -1,0 +1,38 @@
+{
+  "id": "cupids-bow",
+  "name": "Cupid's Bow",
+  "slug": "cupids-bow",
+  "sprite": "/items/cupids-bow.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 233,
+  "description": "Notes This is a reskinned version of the T11 Bow of Innocent Blood.",
+  "stats": {
+    "damage": "165–195 (average: 180)",
+    "range": "4.07",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Belladonna",
+    "The Gardener",
+    "Valentine’s Candy Heart",
+    "Valentine’s Card",
+    "Valentine’s Flower"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cupid-s-bow"
+}

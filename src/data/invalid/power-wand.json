@@ -1,0 +1,41 @@
+{
+  "id": "power-wand",
+  "name": "Power Wand",
+  "slug": "power-wand",
+  "sprite": "/items/power-wand.png",
+  "itemType": "Wand",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this item dealt 40-55 damage.",
+  "stats": {
+    "damage": "45–80 (average: 62.5)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Dreadstump the Pirate King",
+    "Elf Wizard",
+    "Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/power-wand",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T22:22:57.142Z"
+}

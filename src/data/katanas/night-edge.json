@@ -1,0 +1,41 @@
+{
+  "id": "night-edge",
+  "name": "Night Edge",
+  "slug": "night-edge",
+  "sprite": "/items/night-edge.png",
+  "itemType": "Katana",
+  "tier": "T5",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 24,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 32.",
+  "stats": {
+    "damage": "65–115 (average: 90)",
+    "range": "4.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Arachna the Spider Queen",
+    "Beginner Quest Chest",
+    "Deathmage Chest",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest",
+    "Queen Bee"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/night-edge"
+}

@@ -1,0 +1,56 @@
+{
+  "id": "ichimonji",
+  "name": "Ichimonji",
+  "slug": "ichimonji",
+  "sprite": "/items/ichimonji.png",
+  "itemType": "Katana",
+  "tier": "T10",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 159,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 212.",
+  "stats": {
+    "damage": "125–180 (average: 152.5)",
+    "range": "4.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Avalon the Archivist",
+    "Avatar of the Forgotten King",
+    "Bes",
+    "Corruption Phantom",
+    "Cube God",
+    "Genie",
+    "Ghost Bride",
+    "Ghost of Skuld",
+    "Grave Caretaker",
+    "Geb",
+    "Kogbold Expedition Engine",
+    "Lord of the Lost Lands",
+    "Nut",
+    "Oryx the Mad God",
+    "Oryx the Mad God 2",
+    "Pentaract",
+    "Skull Shrine",
+    "Son of Arachna",
+    "Standard Quest Chest",
+    "Mighty Quest Chest",
+    "Stheno the Snake Queen",
+    "Stone Guardians",
+    "Troll Matriarch"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ichimonji"
+}

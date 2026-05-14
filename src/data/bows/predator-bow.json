@@ -1,0 +1,37 @@
+{
+  "id": "predator-bow",
+  "name": "Predator Bow",
+  "slug": "predator-bow",
+  "sprite": "/items/predator-bow.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "Notes This bow sports 4 armor piercing shots with staff-like amplitude and a single stronger shot, making it more in line with your average tiered bow. Its DPS is much higher than tiered bows.",
+  "stats": {
+    "damage": "210–270 (average: 240)",
+    "range": "6.3 tiles",
+    "rateOfFire": "75%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/predator-bow"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bow-of-deep-enchantment",
+  "name": "Bow of Deep Enchantment",
+  "slug": "bow-of-deep-enchantment",
+  "sprite": "/items/bow-of-deep-enchantment.png",
+  "itemType": "Bow",
+  "tier": "T14",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 950,
+  "description": "Notes The Bow of Deep Enchantment can be used similarly to the Warmonger by hitting only its higher-damage middle shot and one defense-ignoring side shot, which will have true range of 7.04 tiles, while dealing damage comparable to that of the Leaf Bow and even being more effective than the Leaf Bow at very high defense, all with the benefit of piercing enemies.",
+  "stats": {
+    "damage": "215–245 (average: 230)",
+    "range": "4.07",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 3",
+    "Kitsune Umi"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bow-of-deep-enchantment"
+}

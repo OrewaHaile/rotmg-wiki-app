@@ -1,0 +1,38 @@
+{
+  "id": "caduceus-of-current-craziness",
+  "name": "Caduceus of Current Craziness",
+  "slug": "caduceus-of-current-craziness",
+  "sprite": "/items/caduceus-of-current-craziness.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 35,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "65–90 (average: 77.5 / total: 155)",
+    "range": "8.5 tiles",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 180°)",
+    "projectiles": "2 (arc gap: 180°)"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Null"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/caduceus-of-current-craziness",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T22:23:04.614Z"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "steam-pipe",
+  "name": "Steam Pipe",
+  "slug": "steam-pipe",
+  "sprite": "/items/steam-pipe.png",
+  "itemType": "Spellblade",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes The Steam Pipe fires four decelerating shots at once in a line; two piercing water shots, and two armor piercing fire shots. Each subsequent shot has a faster deceleration, and thus a shorter range. Shots will reach their final destination at roughly the same time. Like many decelerating weapons, the Steam Pipe is great against enemies who chase you.",
+  "stats": {
+    "damage": "65–85 (average: 75)",
+    "range": "6 / 2 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "+25 MP",
+    "Shots hit multiple targets Acceleration: -22.2/-50 tiles/sec2",
+    "Ignores defense of target Acceleration: -33.3/-100 tiles/sec2"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [
+    "Kogbold Flying Machine",
+    "Steampunk Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/steam-pipe"
+}

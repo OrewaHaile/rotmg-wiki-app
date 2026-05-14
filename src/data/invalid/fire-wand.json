@@ -1,0 +1,36 @@
+{
+  "id": "fire-wand",
+  "name": "Fire Wand",
+  "slug": "fire-wand",
+  "sprite": "/items/fire-wand.png",
+  "itemType": "Wand",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter weapon for wand classes. It does not drop from enemies.",
+  "stats": {
+    "damage": "30–55 (average: 42.5)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fire-wand",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T22:22:56.072Z"
+}

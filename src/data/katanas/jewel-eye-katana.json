@@ -1,0 +1,46 @@
+{
+  "id": "jewel-eye-katana",
+  "name": "Jewel Eye Katana",
+  "slug": "jewel-eye-katana",
+  "sprite": "/items/jewel-eye-katana.png",
+  "itemType": "Katana",
+  "tier": "T9",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "3%",
+  "feedPower": 109,
+  "description": "Notes While this item’s shiny variant was previously easier to get due to unintentional bugs, it is now one of the rarest items to obtain, and unlike other Shiny Items, this variant has a guaranteed chance to drop with Divine rarity, similarly to Kendo Stick (Shiny).",
+  "stats": {
+    "damage": "110–175 (average: 142.5)",
+    "range": "4.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Avatar of the Forgotten King",
+    "Cube God",
+    "Genie",
+    "Ghost of Skuld",
+    "Kogbold Expedition Engine",
+    "Lord of the Lost Lands",
+    "Oryx the Mad God",
+    "Oryx the Mad God 2",
+    "Pentaract",
+    "Red Demon Chest",
+    "Skull Shrine",
+    "Standard Quest Chest",
+    "Stheno the Snake Queen"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/jewel-eye-katana"
+}

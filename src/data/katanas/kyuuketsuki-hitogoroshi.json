@@ -1,0 +1,35 @@
+{
+  "id": "kyuuketsuki-hitogoroshi",
+  "name": "Kyuuketsuki Hitogoroshi",
+  "slug": "kyuuketsuki-hitogoroshi",
+  "sprite": "/items/kyuuketsuki-hitogoroshi.png",
+  "itemType": "Katana",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Features an unconventional shot pattern in which the projectile first travels backwards and then quickly swings forward, giving it a range of roughly 6 tiles. Its damage output is not too bad either, sitting around the DPS of the tier 14 Kusanagi if you can land shots consistently.",
+  "stats": {
+    "damage": "440–520 (average: 480)",
+    "range": "10.92 tiles",
+    "rateOfFire": "40%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shoots backwards Shots hit multiple targets Shots boomerang Bleeding Causes up to 80 damage for 3 seconds per stack."
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Lord Ruthven",
+    "Coffin",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/kyuuketsuki-hitogoroshi"
+}

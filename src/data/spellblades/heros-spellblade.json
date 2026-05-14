@@ -1,0 +1,29 @@
+{
+  "id": "heros-spellblade",
+  "name": "Hero's Spellblade",
+  "slug": "heros-spellblade",
+  "sprite": "/items/heros-spellblade.png",
+  "itemType": "Spellblade",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 650,
+  "description": "Before Exalt Version 5.15.0.0 (Aug 2025), this item dealt 80-105 and 65-70 damage.",
+  "stats": {
+    "damage": "70–90 (average: 80)",
+    "range": "6.6 tiles",
+    "rateOfFire": "100%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hero-s-spellblade"
+}

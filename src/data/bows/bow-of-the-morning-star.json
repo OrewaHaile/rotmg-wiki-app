@@ -1,0 +1,34 @@
+{
+  "id": "bow-of-the-morning-star",
+  "name": "Bow of the Morning Star",
+  "slug": "bow-of-the-morning-star",
+  "sprite": "/items/bow-of-the-morning-star.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes This bow usually is added as a drop to Septavius the Ghost God during annual Month of the Mad God events. However, Heroic Septavius can always drop it.",
+  "stats": {
+    "damage": "500–600 (average: 550)",
+    "range": "7.04 tiles",
+    "rateOfFire": "33%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Septavius, Master of the Undead",
+    "Heroic Septavius the Ghost God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bow-of-the-morning-star"
+}

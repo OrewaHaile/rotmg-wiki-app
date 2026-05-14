@@ -1,0 +1,33 @@
+{
+  "id": "blade-of-blooming",
+  "name": "Blade of Blooming",
+  "slug": "blade-of-blooming",
+  "sprite": "/items/blade-of-blooming.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 202,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "2000",
+    "range": "6.027 tiles",
+    "rateOfFire": "10%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Wavy shots"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Null"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/blade-of-blooming"
+}

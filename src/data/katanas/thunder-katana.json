@@ -1,0 +1,39 @@
+{
+  "id": "thunder-katana",
+  "name": "Thunder Katana",
+  "slug": "thunder-katana",
+  "sprite": "/items/thunder-katana.png",
+  "itemType": "Katana",
+  "tier": "T3",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 11,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 15.",
+  "stats": {
+    "damage": "55–95 (average: 75)",
+    "range": "4.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Elf Wizard",
+    "Goblin Mage",
+    "Hobbit Mage",
+    "Mama Megamoth",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/thunder-katana"
+}

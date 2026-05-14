@@ -1,0 +1,40 @@
+{
+  "id": "ironwood-bow",
+  "name": "Ironwood Bow",
+  "slug": "ironwood-bow",
+  "sprite": "/items/ironwood-bow.png",
+  "itemType": "Bow",
+  "tier": "T4",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 17,
+  "description": "History Before Patch 27.7.X10.3 (Feb 2017), this item dealt 35-65 damage.",
+  "stats": {
+    "damage": "15–20 (average: 17.5)",
+    "range": "4.07",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Deathmage Chest",
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Mama Megamoth",
+    "Shambling Sludge",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ironwood-bow"
+}

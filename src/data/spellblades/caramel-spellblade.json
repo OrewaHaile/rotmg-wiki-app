@@ -1,0 +1,31 @@
+{
+  "id": "caramel-spellblade",
+  "name": "Caramel Spellblade",
+  "slug": "caramel-spellblade",
+  "sprite": "/items/caramel-spellblade.png",
+  "itemType": "Spellblade",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Notes This weapons damage sit exactly between the damage of the T12 Spellblade of the Sun and the T13 Spellblade of the Heavens Light.",
+  "stats": {
+    "damage": "70–90 (average: 80)",
+    "range": "7.91 tiles",
+    "rateOfFire": "100%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [
+    "Queen Alien Bunny"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/caramel-spellblade"
+}
