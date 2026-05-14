@@ -1,0 +1,39 @@
+{
+  "id": "glass-sword",
+  "name": "Glass Sword",
+  "slug": "glass-sword",
+  "sprite": "/items/glass-sword.png",
+  "itemType": "Sword",
+  "tier": "T6",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 35,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this item dealt 30-210 damage.",
+  "stats": {
+    "damage": "110–160 (average: 135)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Deathmage Chest",
+    "Cyclops God Chest",
+    "Ent Ancient",
+    "Ghost King",
+    "Lich",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/glass-sword"
+}

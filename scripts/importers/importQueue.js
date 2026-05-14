@@ -13,8 +13,10 @@ import { spawnSync } from "child_process";
 const categories = [
   "/wiki/daggers",
   "/wiki/swords",
+  "/wiki/bows",
   "/wiki/wands",
   "/wiki/staves",
+  "/wiki/katanas",
   "/wiki/spellblades",
 ];
 

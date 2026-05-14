@@ -1,0 +1,35 @@
+{
+  "id": "demon-blade",
+  "name": "Demon Blade",
+  "slug": "demon-blade",
+  "sprite": "/items/demon-blade.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes The Demon Blade stands out among the UT Swords for its signature two-shot, V-shaped firing pattern creating a 25 degree angle. It has a short true range, but if you can hit both shots, it’s one of the strongest weapons in the game. It beats all swords except the Pixie-Enchanted Sword, and Pixie is only stronger against 0 DEF targets.",
+  "stats": {
+    "damage": "150–175 (average: 162.5 / total: 325)",
+    "range": "3.38 tiles (true range: 2.25 tiles)",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 25°)",
+    "projectiles": "2 (arc gap: 25°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Abyss Idol",
+    "Standard Quest Chest",
+    "Heroic Archdemon Malphas",
+    "Prismimic Defender"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/demon-blade"
+}

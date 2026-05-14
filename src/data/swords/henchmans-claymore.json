@@ -1,0 +1,35 @@
+{
+  "id": "henchmans-claymore",
+  "name": "Henchman's Claymore",
+  "slug": "henchmans-claymore",
+  "sprite": "/items/henchmans-claymore.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "Notes The DPS of this sword is almost identical to that of the Tier 12 Sword of Acclaim at 0 defense while possessing slightly longer range and slightly slower projectiles. The arc and amplitudes of the shots are very minor, arguably to the point where they can be ignored entirely.",
+  "stats": {
+    "damage": "75–75 (average: 75 / total: 225)",
+    "range": "3.8 tiles",
+    "rateOfFire": "110%",
+    "shots": "3 (arc gap: 2°)",
+    "projectiles": "3 (arc gap: 2°)"
+  },
+  "effects": [
+    "Ignores defense of target Wavy shotsFaces Direction"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/henchman-s-claymore"
+}

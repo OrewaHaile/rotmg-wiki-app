@@ -1,0 +1,43 @@
+{
+  "id": "ravenheart-sword",
+  "name": "Ravenheart Sword",
+  "slug": "ravenheart-sword",
+  "sprite": "/items/ravenheart-sword.png",
+  "itemType": "Sword",
+  "tier": "T8",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "2%",
+  "feedPower": 75,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 100.",
+  "stats": {
+    "damage": "180–255 (average: 217.5)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Cube God",
+    "Cyclops God Chest",
+    "Genie",
+    "Ghost King",
+    "Kogbold Expedition Engine",
+    "Lair Mummy Pharaoh",
+    "Lair Skeleton King",
+    "Pentaract",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Skull Shrine"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ravenheart-sword"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "arcane-rapier",
+  "name": "Arcane Rapier",
+  "slug": "arcane-rapier",
+  "sprite": "/items/arcane-rapier.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Although the DPS of this sword is nearly on par with (slightly worse than) the Crystal Sword’s, this sword pierces, has twice the projectile velocity, and boomerangs back to its origin once reaching max range. It is therefore good for clearing out groups of enemies as well as general accuracy. Note that you can only hit each individual enemy once per shot; you can’t use the boomerang to hit twice.",
+  "stats": {
+    "damage": "165–220 (average: 192.5)",
+    "range": "4 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Shots boomerang"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Sandstone Titan",
+    "Genie",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/arcane-rapier"
+}

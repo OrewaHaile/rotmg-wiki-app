@@ -173,9 +173,15 @@ function loadExistingSlugs() {
 }
 
 function buildGlobalIndex() {
+  const knownCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades"];
   const index = { total: 0, categories: {}, items: [] };
 
-  if (!fs.existsSync(DATA_DIR)) return index;
+  if (!fs.existsSync(DATA_DIR)) {
+    for (const category of knownCategories) {
+      index.categories[category] = 0;
+    }
+    return index;
+  }
 
   for (const child of fs.readdirSync(DATA_DIR, { withFileTypes: true })) {
     if (!child.isDirectory()) continue;
@@ -183,9 +189,9 @@ function buildGlobalIndex() {
     if (category === "invalid") continue;
     const folder = path.join(DATA_DIR, category);
     const files = listJsonFiles(folder);
-    if (files.length === 0) continue;
-
-    index.categories[category] = files.length;
+    if (files.length > 0) {
+      index.categories[category] = files.length;
+    }
     for (const fileName of files) {
       try {
         const data = JSON.parse(fs.readFileSync(path.join(folder, fileName), "utf-8"));
@@ -205,6 +211,12 @@ function buildGlobalIndex() {
     }
   }
 
+  for (const category of knownCategories) {
+    if (!Object.prototype.hasOwnProperty.call(index.categories, category)) {
+      index.categories[category] = 0;
+    }
+  }
+
   index.total = index.items.length;
   return index;
 }
@@ -218,8 +230,9 @@ function saveGlobalIndex() {
 function buildImportReport(duplicateCount, invalidCount) {
   const categories = {};
   let totalImported = 0;
+  const reportCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades"];
 
-  for (const category of ["daggers", "swords", "wands", "staves", "spellblades"]) {
+  for (const category of reportCategories) {
     const folder = path.join(DATA_DIR, category);
     const count = fs.existsSync(folder) ? listJsonFiles(folder).length : 0;
     categories[category] = count;
@@ -267,8 +280,8 @@ const CATEGORY_DEFAULTS = {
   "/wiki/daggers": { itemType: "Dagger", usableClasses: ["Rogue", "Assassin", "Trickster"] },
   "/wiki/swords": { itemType: "Sword", usableClasses: ["Warrior", "Knight", "Paladin"] },
   "/wiki/bows": { itemType: "Bow", usableClasses: ["Archer", "Huntress", "Bard"] },
-  "/wiki/staves": { itemType: "Staff", usableClasses: ["Wizard", "Necromancer", "Mystic"] },
   "/wiki/wands": { itemType: "Wand", usableClasses: ["Priest", "Sorcerer", "Summoner"] },
+  "/wiki/staves": { itemType: "Staff", usableClasses: ["Wizard", "Mystic", "Necromancer"] },
   "/wiki/katanas": { itemType: "Katana", usableClasses: ["Samurai", "Ninja", "Kensei"] },
   "/wiki/spellblades": { itemType: "Spellblade", usableClasses: ["Sorcerer"] },
   "/wiki/robes": { itemType: "Robe", usableClasses: ["Wizard", "Priest", "Necromancer", "Mystic", "Sorcerer", "Summoner"] },

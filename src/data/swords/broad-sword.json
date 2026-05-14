@@ -1,0 +1,32 @@
+{
+  "id": "broad-sword",
+  "name": "Broad Sword",
+  "slug": "broad-sword",
+  "sprite": "/items/broad-sword.png",
+  "itemType": "Sword",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 5,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 7.",
+  "stats": {
+    "damage": "60–105 (average: 82.5)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Pirate"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/broad-sword"
+}

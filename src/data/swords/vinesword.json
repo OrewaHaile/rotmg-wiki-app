@@ -1,0 +1,35 @@
+{
+  "id": "vinesword",
+  "name": "Vinesword",
+  "slug": "vinesword",
+  "sprite": "/items/vinesword.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 233,
+  "description": "Notes This is a reskinned version of the T11 Skysplitter Sword.",
+  "stats": {
+    "damage": "210–270 (average: 240)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Belladonna",
+    "The Gardener",
+    "Valentine’s Candy Heart",
+    "Valentine’s Card",
+    "Valentine’s Flower"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/vinesword"
+}

@@ -1,319 +1,109 @@
 {
-  "categoryUrl": "https://www.realmeye.com/wiki/staves",
+  "categoryUrl": "https://www.realmeye.com/wiki/swords",
   "urls": [
-    "https://www.realmeye.com/wiki/energy-staff",
-    "https://www.realmeye.com/wiki/firebrand-staff",
-    "https://www.realmeye.com/wiki/comet-staff",
-    "https://www.realmeye.com/wiki/serpentine-staff",
-    "https://www.realmeye.com/wiki/meteor-staff",
-    "https://www.realmeye.com/wiki/slayer-staff",
-    "https://www.realmeye.com/wiki/avenger-staff",
-    "https://www.realmeye.com/wiki/staff-of-destruction",
-    "https://www.realmeye.com/wiki/staff-of-horror",
-    "https://www.realmeye.com/wiki/staff-of-necrotic-arcana",
-    "https://www.realmeye.com/wiki/staff-of-diabolic-secrets",
-    "https://www.realmeye.com/wiki/staff-of-astral-knowledge",
-    "https://www.realmeye.com/wiki/staff-of-the-cosmic-whole",
-    "https://www.realmeye.com/wiki/staff-of-the-vital-unity",
-    "https://www.realmeye.com/wiki/staff-of-the-fundamental-core",
-    "https://www.realmeye.com/wiki/staff-of-the-crystal-serpent",
-    "https://www.realmeye.com/wiki/k-i-d-d-force",
-    "https://www.realmeye.com/wiki/k-i-d-d-force-2-0",
-    "https://www.realmeye.com/wiki/staff-of-adoration",
-    "https://www.realmeye.com/wiki/oppressor-s-staff",
-    "https://www.realmeye.com/wiki/staff-of-extreme-prejudice",
-    "https://www.realmeye.com/wiki/spirit-staff",
-    "https://www.realmeye.com/wiki/staff-of-esben",
-    "https://www.realmeye.com/wiki/tezcacoatl-s-tail",
-    "https://www.realmeye.com/wiki/elder-heartwood-staff",
-    "https://www.realmeye.com/wiki/s-t-a-f-f",
-    "https://www.realmeye.com/wiki/foramite-staff",
-    "https://www.realmeye.com/wiki/comet-of-calamity",
-    "https://www.realmeye.com/wiki/bogwood-crook",
-    "https://www.realmeye.com/wiki/torrential-staff",
-    "https://www.realmeye.com/wiki/jailer-s-scythe",
-    "https://www.realmeye.com/wiki/spectral-jailer",
-    "https://www.realmeye.com/wiki/staff-of-unholy-sacrifice",
-    "https://www.realmeye.com/wiki/vigor",
+    "https://www.realmeye.com/wiki/short-sword",
+    "https://www.realmeye.com/wiki/broad-sword",
+    "https://www.realmeye.com/wiki/saber",
+    "https://www.realmeye.com/wiki/long-sword",
+    "https://www.realmeye.com/wiki/falchion",
+    "https://www.realmeye.com/wiki/fire-sword",
+    "https://www.realmeye.com/wiki/glass-sword",
+    "https://www.realmeye.com/wiki/golden-sword",
+    "https://www.realmeye.com/wiki/ravenheart-sword",
+    "https://www.realmeye.com/wiki/dragonsoul-sword",
+    "https://www.realmeye.com/wiki/archon-sword",
+    "https://www.realmeye.com/wiki/skysplitter-sword",
+    "https://www.realmeye.com/wiki/sword-of-acclaim",
+    "https://www.realmeye.com/wiki/sword-of-splendor",
+    "https://www.realmeye.com/wiki/sword-of-majesty",
+    "https://www.realmeye.com/wiki/mmace-mmurderer",
+    "https://www.realmeye.com/wiki/ffabulous-fflail",
+    "https://www.realmeye.com/wiki/vinesword",
+    "https://www.realmeye.com/wiki/crystal-sword",
+    "https://www.realmeye.com/wiki/arcane-rapier",
+    "https://www.realmeye.com/wiki/henchman-s-claymore",
+    "https://www.realmeye.com/wiki/demon-blade",
+    "https://www.realmeye.com/wiki/sword-of-illumination",
+    "https://www.realmeye.com/wiki/spectral-sword",
+    "https://www.realmeye.com/wiki/ancient-stone-sword",
+    "https://www.realmeye.com/wiki/pirate-king-s-cutlass",
+    "https://www.realmeye.com/wiki/acidic-slasher",
+    "https://www.realmeye.com/wiki/gaseous-glaive",
+    "https://www.realmeye.com/wiki/pirate-s-artillery",
+    "https://www.realmeye.com/wiki/sword-of-the-colossus",
+    "https://www.realmeye.com/wiki/divinity",
+    "https://www.realmeye.com/wiki/atavistic-soul-sabre",
+    "https://www.realmeye.com/wiki/pixie-enchanted-sword",
+    "https://www.realmeye.com/wiki/heartsteel-claymore",
+    "https://www.realmeye.com/wiki/fallen-one-s-blade",
+    "https://www.realmeye.com/wiki/killer-bee-queen",
+    "https://www.realmeye.com/wiki/oryx-s-greatsword",
+    "https://www.realmeye.com/wiki/indomptable",
+    "https://www.realmeye.com/wiki/swashbuckler-s-sickle",
+    "https://www.realmeye.com/wiki/jagged-hatchet",
     "https://www.realmeye.com/wiki/forge",
-    "https://www.realmeye.com/wiki/superior",
-    "https://www.realmeye.com/wiki/chancellor-dammah",
-    "https://www.realmeye.com/wiki/mechanical-kogbold-limb",
-    "https://www.realmeye.com/wiki/nebular-rod",
-    "https://www.realmeye.com/wiki/edictum-praetoris",
-    "https://www.realmeye.com/wiki/squaroid-staff",
-    "https://www.realmeye.com/wiki/staff-of-eruption",
-    "https://www.realmeye.com/wiki/tideturner-trident",
-    "https://www.realmeye.com/wiki/the-phylactery",
-    "https://www.realmeye.com/wiki/shaman-s-staff",
-    "https://www.realmeye.com/wiki/corruption-tether",
-    "https://www.realmeye.com/wiki/koalapow",
-    "https://www.realmeye.com/wiki/barely-attuned-magic-thingy",
-    "https://www.realmeye.com/wiki/anatis-staff",
-    "https://www.realmeye.com/wiki/staff-of-the-saint",
-    "https://www.realmeye.com/wiki/staff-of-horrific-knowledge",
-    "https://www.realmeye.com/wiki/staff-of-yuletide-carols",
-    "https://www.realmeye.com/wiki/staff-of-the-rising-sun",
-    "https://www.realmeye.com/wiki/frosty-s-walking-stick",
-    "https://www.realmeye.com/wiki/aspirant-s-staff",
-    "https://www.realmeye.com/wiki/screwdriver-staff",
-    "https://www.realmeye.com/wiki/staff-of-silver-wings",
-    "https://www.realmeye.com/wiki/staff-of-iceblast",
-    "https://www.realmeye.com/wiki/staff-of-esben-legacy",
-    "https://www.realmeye.com/wiki/sleigh-bell-staff",
-    "https://www.realmeye.com/wiki/snow-branch",
-    "https://www.realmeye.com/wiki/frostfall-rod",
-    "https://www.realmeye.com/wiki/deathmask-staff",
-    "https://www.realmeye.com/wiki/dreamcaster",
-    "https://www.realmeye.com/wiki/blooming-bouquet",
-    "https://www.realmeye.com/wiki/explorer-s-shovel",
-    "https://www.realmeye.com/wiki/legion-elite-staff",
-    "https://www.realmeye.com/wiki/bloom-fire-scepter",
-    "https://www.realmeye.com/wiki/hero-s-staff",
-    "https://www.realmeye.com/wiki/staff-of-the-eclipse",
-    "https://www.realmeye.com/wiki/legacy-sentient-staff",
-    "https://www.realmeye.com/wiki/gravekeeper-s-scythe",
-    "https://www.realmeye.com/wiki/bloody-pitch-fork-staff",
-    "https://www.realmeye.com/wiki/cursed-harpoon",
-    "https://www.realmeye.com/wiki/stygian-torch",
-    "https://www.realmeye.com/wiki/gloves-of-love",
-    "https://www.realmeye.com/wiki/spring-rose",
-    "https://www.realmeye.com/wiki/supernatural-staff"
+    "https://www.realmeye.com/wiki/dalvar-s-battle-axe",
+    "https://www.realmeye.com/wiki/esben-the-neurotic",
+    "https://www.realmeye.com/wiki/doctor-swordsworth",
+    "https://www.realmeye.com/wiki/unstable-anomaly",
+    "https://www.realmeye.com/wiki/skull-splitter-sword",
+    "https://www.realmeye.com/wiki/frostbite",
+    "https://www.realmeye.com/wiki/sword-of-the-rainbow-s-end",
+    "https://www.realmeye.com/wiki/enchanted-ice-blade",
+    "https://www.realmeye.com/wiki/saint-nicolas-blade",
+    "https://www.realmeye.com/wiki/silex-s-hammer",
+    "https://www.realmeye.com/wiki/aspirant-s-sword",
+    "https://www.realmeye.com/wiki/hammer-sword",
+    "https://www.realmeye.com/wiki/sword-of-the-unending-chaos",
+    "https://www.realmeye.com/wiki/the-crimson-blade",
+    "https://www.realmeye.com/wiki/cheerful-chipper",
+    "https://www.realmeye.com/wiki/chocsicle",
+    "https://www.realmeye.com/wiki/icebreaker-maul",
+    "https://www.realmeye.com/wiki/apocalypse-feather",
+    "https://www.realmeye.com/wiki/faithful-spatha",
+    "https://www.realmeye.com/wiki/petal-strike-sword",
+    "https://www.realmeye.com/wiki/blacksmith-hammer",
+    "https://www.realmeye.com/wiki/legion-elite-sword",
+    "https://www.realmeye.com/wiki/blade-of-eternal-rebirth",
+    "https://www.realmeye.com/wiki/hero-s-sword",
+    "https://www.realmeye.com/wiki/khopesh",
+    "https://www.realmeye.com/wiki/keychain-cutlass",
+    "https://www.realmeye.com/wiki/eternal-echo",
+    "https://www.realmeye.com/wiki/sword-of-the-mad-god",
+    "https://www.realmeye.com/wiki/legacy-pixie-enchanted-sword",
+    "https://www.realmeye.com/wiki/hellfire-broadsword",
+    "https://www.realmeye.com/wiki/nutrient-rich-carrot-blade",
+    "https://www.realmeye.com/wiki/savage-claws",
+    "https://www.realmeye.com/wiki/eternal-graved-great-sword",
+    "https://www.realmeye.com/wiki/blood-axe"
   ],
-  "nextIndex": 75,
+  "nextIndex": 25,
   "imported": [
-    "staff-of-the-crystal-serpent",
-    "k-i-d-d-force",
-    "k-i-d-d-force-2-0",
-    "oppressors-staff",
-    "staff-of-extreme-prejudice",
-    "spirit-staff",
-    "tezcacoatls-tail",
-    "elder-heartwood-staff",
-    "s-t-a-f-f",
-    "foramite-staff",
-    "comet-of-calamity",
-    "torrential-staff",
-    "jailers-scythe",
-    "staff-of-unholy-sacrifice",
-    "vigor",
-    "mechanical-kogbold-limb",
-    "nebular-rod",
-    "edictum-praetoris",
-    "squaroid-staff",
-    "staff-of-eruption",
-    "tideturner-trident",
-    "the-phylactery",
-    "shamans-staff",
-    "koalapow",
-    "barely-attuned-magic-thingy",
-    "anatis-staff",
-    "staff-of-the-saint",
-    "staff-of-iceblast",
-    "sleigh-bell-staff",
-    "snow-branch",
-    "frostfall-rod",
-    "bloom-fire-scepter",
-    "gravekeepers-scythe",
-    "bloody-pitch-fork-staff",
-    "cursed-harpoon",
-    "stygian-torch"
+    "short-sword",
+    "broad-sword",
+    "saber",
+    "long-sword",
+    "falchion",
+    "fire-sword",
+    "glass-sword",
+    "golden-sword",
+    "ravenheart-sword",
+    "dragonsoul-sword",
+    "archon-sword",
+    "skysplitter-sword",
+    "sword-of-acclaim",
+    "sword-of-splendor",
+    "sword-of-majesty",
+    "mmace-mmurderer",
+    "ffabulous-fflail",
+    "vinesword",
+    "crystal-sword",
+    "arcane-rapier",
+    "henchmans-claymore",
+    "demon-blade",
+    "sword-of-illumination",
+    "spectral-sword",
+    "ancient-stone-sword"
   ],
-  "skipped": [
-    {
-      "url": "https://www.realmeye.com/wiki/energy-staff",
-      "slug": "energy-staff",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/firebrand-staff",
-      "slug": "firebrand-staff",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/comet-staff",
-      "slug": "comet-staff",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/serpentine-staff",
-      "slug": "serpentine-staff",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/meteor-staff",
-      "slug": "meteor-staff",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/slayer-staff",
-      "slug": "slayer-staff",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/avenger-staff",
-      "slug": "avenger-staff",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-destruction",
-      "slug": "staff-of-destruction",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-horror",
-      "slug": "staff-of-horror",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-necrotic-arcana",
-      "slug": "staff-of-necrotic-arcana",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-diabolic-secrets",
-      "slug": "staff-of-diabolic-secrets",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-astral-knowledge",
-      "slug": "staff-of-astral-knowledge",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-the-cosmic-whole",
-      "slug": "staff-of-the-cosmic-whole",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-the-vital-unity",
-      "slug": "staff-of-the-vital-unity",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-the-fundamental-core",
-      "slug": "staff-of-the-fundamental-core",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-adoration",
-      "slug": "staff-of-adoration",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-esben",
-      "slug": "staff-of-esben",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/bogwood-crook",
-      "slug": "bogwood-crook",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/spectral-jailer",
-      "slug": "spectral-jailer",
-      "reason": "invalid tier; invalid stats: damage; invalid stats: shots; invalid stats: rate of fire; invalid stats: range"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/forge",
-      "slug": "forge",
-      "reason": "invalid stats: damage; invalid stats: shots; invalid stats: rate of fire; invalid stats: range"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/superior",
-      "slug": "superior",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/chancellor-dammah",
-      "slug": "chancellor-dammah",
-      "reason": "invalid tier; invalid stats: damage; invalid stats: shots; invalid stats: rate of fire; invalid stats: range"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/corruption-tether",
-      "slug": "corruption-tether",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-horrific-knowledge",
-      "slug": "staff-of-horrific-knowledge",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-yuletide-carols",
-      "slug": "staff-of-yuletide-carols",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-the-rising-sun",
-      "slug": "staff-of-the-rising-sun",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/frosty-s-walking-stick",
-      "slug": "frostys-walking-stick",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/aspirant-s-staff",
-      "slug": "aspirants-staff",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/screwdriver-staff",
-      "slug": "screwdriver-staff",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-silver-wings",
-      "slug": "staff-of-silver-wings",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-esben-legacy",
-      "slug": "staff-of-esben-legacy",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/deathmask-staff",
-      "slug": "deathmask-staff",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/dreamcaster",
-      "slug": "dreamcaster",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/blooming-bouquet",
-      "slug": "blooming-bouquet",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/explorer-s-shovel",
-      "slug": "explorers-shovel",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/legion-elite-staff",
-      "slug": "legion-elite-staff",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/hero-s-staff",
-      "slug": "heros-staff",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/staff-of-the-eclipse",
-      "slug": "staff-of-the-eclipse",
-      "reason": "invalid stats: rate of fire"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/legacy-sentient-staff",
-      "slug": "legacy-sentient-staff",
-      "reason": "invalid stats: rate of fire"
-    }
-  ]
+  "skipped": []
 }

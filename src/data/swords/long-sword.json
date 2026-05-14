@@ -1,0 +1,37 @@
+{
+  "id": "long-sword",
+  "name": "Long Sword",
+  "slug": "long-sword",
+  "sprite": "/items/long-sword.png",
+  "itemType": "Sword",
+  "tier": "T3",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 11,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 15.",
+  "stats": {
+    "damage": "75–120 (average: 97.5)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Elf Wizard",
+    "Goblin Mage",
+    "Hobbit Mage",
+    "Mama Megamoth",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/long-sword"
+}

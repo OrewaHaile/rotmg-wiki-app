@@ -1,9 +1,14 @@
 {
-  "total": 62,
+  "total": 87,
   "categories": {
     "daggers": 20,
     "items": 6,
-    "staves": 36
+    "staves": 36,
+    "swords": 25,
+    "bows": 0,
+    "wands": 0,
+    "katanas": 0,
+    "spellblades": 0
   },
   "items": [
     {
@@ -563,6 +568,231 @@
       "itemType": "Staff",
       "tier": "UT",
       "path": "staves/vigor.json"
+    },
+    {
+      "id": "ancient-stone-sword",
+      "name": "Ancient Stone Sword",
+      "slug": "ancient-stone-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/ancient-stone-sword.json"
+    },
+    {
+      "id": "arcane-rapier",
+      "name": "Arcane Rapier",
+      "slug": "arcane-rapier",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/arcane-rapier.json"
+    },
+    {
+      "id": "archon-sword",
+      "name": "Archon Sword",
+      "slug": "archon-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T10",
+      "path": "swords/archon-sword.json"
+    },
+    {
+      "id": "broad-sword",
+      "name": "Broad Sword",
+      "slug": "broad-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T1",
+      "path": "swords/broad-sword.json"
+    },
+    {
+      "id": "crystal-sword",
+      "name": "Crystal Sword",
+      "slug": "crystal-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/crystal-sword.json"
+    },
+    {
+      "id": "demon-blade",
+      "name": "Demon Blade",
+      "slug": "demon-blade",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/demon-blade.json"
+    },
+    {
+      "id": "dragonsoul-sword",
+      "name": "Dragonsoul Sword",
+      "slug": "dragonsoul-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T9",
+      "path": "swords/dragonsoul-sword.json"
+    },
+    {
+      "id": "falchion",
+      "name": "Falchion",
+      "slug": "falchion",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T4",
+      "path": "swords/falchion.json"
+    },
+    {
+      "id": "ffabulous-fflail",
+      "name": "FFabulous FFlail",
+      "slug": "ffabulous-fflail",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/ffabulous-fflail.json"
+    },
+    {
+      "id": "fire-sword",
+      "name": "Fire Sword",
+      "slug": "fire-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T5",
+      "path": "swords/fire-sword.json"
+    },
+    {
+      "id": "glass-sword",
+      "name": "Glass Sword",
+      "slug": "glass-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T6",
+      "path": "swords/glass-sword.json"
+    },
+    {
+      "id": "golden-sword",
+      "name": "Golden Sword",
+      "slug": "golden-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T7",
+      "path": "swords/golden-sword.json"
+    },
+    {
+      "id": "henchmans-claymore",
+      "name": "Henchman's Claymore",
+      "slug": "henchmans-claymore",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/henchmans-claymore.json"
+    },
+    {
+      "id": "long-sword",
+      "name": "Long Sword",
+      "slug": "long-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T3",
+      "path": "swords/long-sword.json"
+    },
+    {
+      "id": "mmace-mmurderer",
+      "name": "MMace MMurderer",
+      "slug": "mmace-mmurderer",
+      "category": "swords",
+      "itemType": "Mace",
+      "tier": "UT",
+      "path": "swords/mmace-mmurderer.json"
+    },
+    {
+      "id": "ravenheart-sword",
+      "name": "Ravenheart Sword",
+      "slug": "ravenheart-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T8",
+      "path": "swords/ravenheart-sword.json"
+    },
+    {
+      "id": "saber",
+      "name": "Saber",
+      "slug": "saber",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T2",
+      "path": "swords/saber.json"
+    },
+    {
+      "id": "short-sword",
+      "name": "Short Sword",
+      "slug": "short-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T0",
+      "path": "swords/short-sword.json"
+    },
+    {
+      "id": "skysplitter-sword",
+      "name": "Skysplitter Sword",
+      "slug": "skysplitter-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T11",
+      "path": "swords/skysplitter-sword.json"
+    },
+    {
+      "id": "spectral-sword",
+      "name": "Spectral Sword",
+      "slug": "spectral-sword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/spectral-sword.json"
+    },
+    {
+      "id": "sword-of-acclaim",
+      "name": "Sword of Acclaim",
+      "slug": "sword-of-acclaim",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T12",
+      "path": "swords/sword-of-acclaim.json"
+    },
+    {
+      "id": "sword-of-illumination",
+      "name": "Sword of Illumination",
+      "slug": "sword-of-illumination",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/sword-of-illumination.json"
+    },
+    {
+      "id": "sword-of-majesty",
+      "name": "Sword of Majesty",
+      "slug": "sword-of-majesty",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T14",
+      "path": "swords/sword-of-majesty.json"
+    },
+    {
+      "id": "sword-of-splendor",
+      "name": "Sword of Splendor",
+      "slug": "sword-of-splendor",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "T13",
+      "path": "swords/sword-of-splendor.json"
+    },
+    {
+      "id": "vinesword",
+      "name": "Vinesword",
+      "slug": "vinesword",
+      "category": "swords",
+      "itemType": "Sword",
+      "tier": "UT",
+      "path": "swords/vinesword.json"
     }
   ]
 }
