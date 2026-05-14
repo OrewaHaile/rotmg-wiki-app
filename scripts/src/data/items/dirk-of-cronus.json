@@ -1,0 +1,36 @@
+{
+  "id": "dirk-of-cronus",
+  "name": "Dirk of Cronus",
+  "slug": "dirk-of-cronus",
+  "sprite": "/items/dirk-of-cronus.png",
+  "itemType": "Dagger",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 950,
+  "description": "As funny as it has been to watch the increasing fervor and rampant speculation about dirk rarity in these forums, I’m becoming worried that some poor soul might actually get tricked into trading away things of great value in exchange for a dirk, so let me officially put a stop to the silliness: no, dirks are not becoming ultra-rare or ultra-valuable. The root of this rumor seems to be this thread, where many of players were joking around. Rest assured, it truly was just a joke.",
+  "stats": {
+    "damage": "150–290 (average: 220)",
+    "range": "4.5 tiles",
+    "rateOfFire": "95%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+6 WIS"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Astral Rift",
+    "Cube God",
+    "The Keyper",
+    "Perfected Cube God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dirk-of-cronus"
+}

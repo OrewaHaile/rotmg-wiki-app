@@ -1,0 +1,43 @@
+{
+  "id": "staff-of-horror",
+  "name": "Staff of Horror",
+  "slug": "staff-of-horror",
+  "sprite": "/items/staff-of-horror.png",
+  "itemType": "Staff",
+  "tier": "T8",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "2%",
+  "feedPower": 75,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 100.",
+  "stats": {
+    "damage": "60–105 (average: 82.5)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Cube God",
+    "Cyclops God Chest",
+    "Genie",
+    "Ghost King",
+    "Kogbold Expedition Engine",
+    "Lair Mummy Pharaoh",
+    "Lair Skeleton King",
+    "Pentaract",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Skull Shrine"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-horror"
+}

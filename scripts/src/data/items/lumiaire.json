@@ -1,0 +1,29 @@
+{
+  "id": "lumiaire",
+  "name": "Lumiaire",
+  "slug": "lumiaire",
+  "sprite": "/items/lumiaire.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This wand outstrips all other wands, thanks to its two shots, massive rate of fire, and pretty decent damage/shot. Only at very high DEF does this wand get beat by other ranged wands. This wand doesn’t pierce, but its spray of shots and superb rate of fire still make it a somewhat viable choice for clearing hordes of monsters.",
+  "stats": {
+    "damage": "80–100 (average: 90 / total: 180)",
+    "range": "9 tiles",
+    "rateOfFire": "150%",
+    "shots": "2 (arc gap: 6°)",
+    "projectiles": "2 (arc gap: 6°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Priest"
+  ],
+  "dropsFrom": [
+    "Archbishop Leucoryx"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/lumiaire"
+}

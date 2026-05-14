@@ -1,0 +1,29 @@
+{
+  "id": "atavistic-soul-sabre",
+  "name": "Atavistic Soul Sabre",
+  "slug": "atavistic-soul-sabre",
+  "sprite": "/items/atavistic-soul-sabre.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes The Atavistic Soul Sabre is an upgrade of the Ancient Stone Sword with higher shot damage. It has more DPS than the T13 Sword of Splendor at all levels of enemy defense. It outdamages the T14 Sword of Majesty at > 50 DEF and the Sword of the Colossus at > 100 DEF.",
+  "stats": {
+    "damage": "420–475 (average: 447.5)",
+    "range": "4 tiles",
+    "rateOfFire": "60%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/atavistic-soul-sabre"
+}

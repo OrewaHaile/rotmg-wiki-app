@@ -1,0 +1,44 @@
+{
+  "id": "ragetalon-dagger",
+  "name": "Ragetalon Dagger",
+  "slug": "ragetalon-dagger",
+  "sprite": "/items/ragetalon-dagger.png",
+  "itemType": "Dagger",
+  "tier": "T9",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "3%",
+  "feedPower": 109,
+  "description": "History This dagger was added in Build 100 (July 2010).",
+  "stats": {
+    "damage": "95–165 (average: 130)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Avatar of the Forgotten King",
+    "Cube God",
+    "Genie",
+    "Ghost of Skuld",
+    "Kogbold Expedition Engine",
+    "Lord of the Lost Lands",
+    "Oryx the Mad God",
+    "Oryx the Mad God 2",
+    "Pentaract",
+    "Red Demon Chest",
+    "Skull Shrine",
+    "Standard Quest Chest",
+    "Stheno the Snake Queen"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ragetalon-dagger"
+}

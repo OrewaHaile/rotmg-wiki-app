@@ -1,0 +1,29 @@
+{
+  "id": "short-sword",
+  "name": "Short Sword",
+  "slug": "short-sword",
+  "sprite": "/items/short-sword.png",
+  "itemType": "Sword",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter weapon for sword classes. It does not drop from enemies.",
+  "stats": {
+    "damage": "45–90 (average: 67.5)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/short-sword"
+}

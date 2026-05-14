@@ -1,0 +1,38 @@
+{
+  "id": "spectral-sword",
+  "name": "Spectral Sword",
+  "slug": "spectral-sword",
+  "sprite": "/items/spectral-sword.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes This sword works similarly to a Demon Blade, shooting 2 bullets at once, as well as to an Earthen Ward, having a similar firing pattern, albeit much closer to the player.",
+  "stats": {
+    "damage": "100–125 (average: 112.5 / total: 225)",
+    "range": "5.92 tiles",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 25°)",
+    "projectiles": "2 (arc gap: 25°)"
+  },
+  "effects": [
+    "Circular Motion after 0.44sTurns -90 / 90 degrees before circling Shots hit multiple targets",
+    "+4 VIT"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Septavius the Ghost God",
+    "Lair Spectral Skeleton",
+    "Septavius, Master of the Undead",
+    "Heroic Lair Spectral Skeleton",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spectral-sword"
+}

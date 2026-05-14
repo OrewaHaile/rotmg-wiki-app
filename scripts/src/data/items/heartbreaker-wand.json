@@ -1,0 +1,31 @@
+{
+  "id": "heartbreaker-wand",
+  "name": "Heartbreaker Wand",
+  "slug": "heartbreaker-wand",
+  "sprite": "/items/heartbreaker-wand.png",
+  "itemType": "Wand",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 850,
+  "description": "Notes Part of the Incubus Sorcerer Set.",
+  "stats": {
+    "damage": "65–165 (average: 115)",
+    "range": "7.2 tiles",
+    "rateOfFire": "150%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Shots pass through obstacles Shots boomerang"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/heartbreaker-wand"
+}

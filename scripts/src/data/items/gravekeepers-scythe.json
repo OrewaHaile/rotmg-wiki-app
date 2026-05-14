@@ -1,0 +1,31 @@
+{
+  "id": "gravekeepers-scythe",
+  "name": "Gravekeeper's Scythe",
+  "slug": "gravekeepers-scythe",
+  "sprite": "/items/gravekeepers-scythe.png",
+  "itemType": "Staff",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 800,
+  "description": "Notes Part of the Reaper Necromancer Set.",
+  "stats": {
+    "damage": "55–125 (average: 90 / total: 270)",
+    "range": "6.66 tiles",
+    "rateOfFire": "75%",
+    "shots": "3 (arc gap: 3°)",
+    "projectiles": "3 (arc gap: 3°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Wine Cellar Event Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/gravekeeper-s-scythe"
+}

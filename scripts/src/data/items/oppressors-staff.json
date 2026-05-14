@@ -1,0 +1,35 @@
+{
+  "id": "oppressors-staff",
+  "name": "Oppressor's Staff",
+  "slug": "oppressors-staff",
+  "sprite": "/items/oppressors-staff.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "History Before Patch X.33.1.0 (May 2020), this item had a Feed Power of 500.",
+  "stats": {
+    "damage": "260–300 (average: 280)",
+    "range": "7.2 tiles",
+    "rateOfFire": "75%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/oppressor-s-staff"
+}

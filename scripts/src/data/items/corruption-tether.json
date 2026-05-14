@@ -1,0 +1,34 @@
+{
+  "id": "corruption-tether",
+  "name": "Corruption Tether",
+  "slug": "corruption-tether",
+  "sprite": "/items/corruption-tether.png",
+  "itemType": "Staff",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes Part of the Twilight Archmage Set.",
+  "stats": {
+    "damage": "175–210 (average: 192.5)",
+    "range": "6.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Avatar of the Forgotten King",
+    "Pyro Warlock",
+    "Cryo Warlock",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/corruption-tether"
+}

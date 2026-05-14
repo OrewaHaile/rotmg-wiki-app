@@ -1,0 +1,34 @@
+{
+  "id": "rainbow-rod",
+  "name": "Rainbow Rod",
+  "slug": "rainbow-rod",
+  "sprite": "/items/rainbow-rod.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 100,
+  "description": "Not to be confused with the dungeon, Rainbow Road.",
+  "stats": {
+    "damage": "20–30 (average: 25)",
+    "range": "9.75 tiles",
+    "rateOfFire": "150%",
+    "shots": "1 (arc gap: 11°)",
+    "projectiles": "1 (arc gap: 11°)"
+  },
+  "effects": [
+    "Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Pot of Gold",
+    "Yellow Leprechaun"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/rainbow-rod"
+}

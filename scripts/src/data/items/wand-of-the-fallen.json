@@ -1,0 +1,33 @@
+{
+  "id": "wand-of-the-fallen",
+  "name": "Wand of the Fallen",
+  "slug": "wand-of-the-fallen",
+  "sprite": "/items/wand-of-the-fallen.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes The Wand of the Fallen is a strong midgame wand that sacrifices range and enemy piercing for firepower. It will completely outdamage the Conducting Wand and T14 Wand of Retribution at all DEF levels, making it great if you can afford to get close. Unlike many other DPS wands, this wand fires straight and with a sane projectile velocity.",
+  "stats": {
+    "damage": "205–240 (average: 222.5)",
+    "range": "6.6 tiles",
+    "rateOfFire": "85%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Daichi the Fallen",
+    "Old Chest",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wand-of-the-fallen"
+}

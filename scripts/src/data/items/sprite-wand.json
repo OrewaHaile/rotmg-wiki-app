@@ -1,0 +1,39 @@
+{
+  "id": "sprite-wand",
+  "name": "Sprite Wand",
+  "slug": "sprite-wand",
+  "sprite": "/items/sprite-wand.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 150,
+  "description": "Notes This wand shoots in a wavy pattern, much like the Doku No Ken, with a much higher amplitude. It is potentially a very powerful wand, as it can possibly land hits that do the maximum damage of the Sword of Splendor. However, because of its heavy reliance on RNG, many players find this wand unappealing.",
+  "stats": {
+    "damage": "10–290 (average: 150)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Limon the Sprite Goddess",
+    "Native Magic Sprite",
+    "Native Nature Sprite",
+    "Native Greater Darkness Sprite",
+    "Native Greater Fire Sprite",
+    "Native Greater Ice Sprite",
+    "Native Greater Magic Sprite",
+    "Native Greater Nature Sprite",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sprite-wand"
+}

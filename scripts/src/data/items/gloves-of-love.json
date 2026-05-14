@@ -1,0 +1,31 @@
+{
+  "id": "gloves-of-love",
+  "name": "Gloves of Love",
+  "slug": "gloves-of-love",
+  "sprite": "/items/gloves-of-love.png",
+  "itemType": "Staff",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "Notes Part of the Love Witch Necromancer Set",
+  "stats": {
+    "damage": "120–140 (average: 130)",
+    "range": "8.04 tiles",
+    "rateOfFire": "55%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/gloves-of-love"
+}

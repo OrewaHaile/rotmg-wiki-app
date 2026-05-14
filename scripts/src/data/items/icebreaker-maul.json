@@ -1,0 +1,37 @@
+{
+  "id": "icebreaker-maul",
+  "name": "Icebreaker Maul",
+  "slug": "icebreaker-maul",
+  "sprite": "/items/icebreaker-maul.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "History This item was added to the game in Exalt Version 6.5.0.0 (Jan 2026).",
+  "stats": {
+    "damage": "175–215 (average: 195)",
+    "range": "2.1 tiles",
+    "rateOfFire": "40%",
+    "shots": "3 (arc gap: 22°)",
+    "projectiles": "3 (arc gap: 22°)"
+  },
+  "effects": [
+    "+5 ATT",
+    "Shots hit multiple targets Ignores defense of target",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Jotunn",
+    "Soulwarden Murcian",
+    "Malus"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/icebreaker-maul"
+}

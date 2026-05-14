@@ -1,0 +1,33 @@
+{
+  "id": "crystal-wand",
+  "name": "Crystal Wand",
+  "slug": "crystal-wand",
+  "sprite": "/items/crystal-wand.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 700,
+  "description": "Notes This wand’s damage ignores defense, making it good for fighting enemies/bosses with high amounts of defense, or those protected with the Armored status effect. Examples include the Avatar of the Forgotten King, the Puppet Master, the Stone Guardians, and the Tormented Golem. One of the best places to use this wand is in the Parasite Chambers, as the boss of this dungeon has 5,000 defense until it is armor broken.",
+  "stats": {
+    "damage": "105–150 (average: 127.5)",
+    "range": "9 tiles",
+    "rateOfFire": "110%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Crystal Prisoner"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/crystal-wand"
+}

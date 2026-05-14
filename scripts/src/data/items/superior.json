@@ -1,0 +1,29 @@
+{
+  "id": "superior",
+  "name": "Superior",
+  "slug": "superior",
+  "sprite": "/items/superior.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes Unlike other staves with a higher shot count than a tiered variant, Superior has no decrease in fire-rate. The primary drawback comes from its limited range (6.22 tiles, with a true range of about 5 tiles) with swerving shots that make it hard to aim.",
+  "stats": {
+    "damage": "55–90 (average: 72.5 / total: 290)",
+    "range": "6.22 tiles",
+    "rateOfFire": null,
+    "shots": "4 (arc gap: 3°)",
+    "projectiles": "4 (arc gap: 3°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard"
+  ],
+  "dropsFrom": [
+    "Chancellor Dammah"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/superior"
+}

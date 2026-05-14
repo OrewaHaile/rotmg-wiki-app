@@ -1,0 +1,38 @@
+{
+  "id": "wand-of-hidden-knowledge",
+  "name": "Wand of Hidden Knowledge",
+  "slug": "wand-of-hidden-knowledge",
+  "sprite": "/items/wand-of-hidden-knowledge.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 500,
+  "description": "Notes The wand while not having curse will fire in a similar manner as most wands do with a singular shot. However when cursed the wand will start to fire 2 extra projectiles. While cursed is harder to self inflict on Sorcerer and Summoner unless you use Bloodroot Extract. It can easily be acheived and is encouraged on Priest where Necronomicon which also drops from the same location gives cursed on self on ability use.",
+  "stats": {
+    "damage": "70–95 (average: 82.5)",
+    "range": "8.4 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Untold Power: If the bearer is Curse while using the Wand of Hidden Knowledge, it fires two additional projectiles that deal 70-95 armor piercing damage. Burst Count: 5 Burst Delay: 1.8 second Minimum Burst Delay 1 second Shots hit multiple targets",
+    "+3 SPD, +4 WIS",
+    "Forbidden Secrets: 40% Chance on ability to Curse the user for 4 seconds.Cooldown: 5 seconds.",
+    "Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Avalon the Archivist",
+    "Corruption Phantom",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wand-of-hidden-knowledge"
+}

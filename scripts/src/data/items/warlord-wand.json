@@ -1,0 +1,36 @@
+{
+  "id": "warlord-wand",
+  "name": "Warlord Wand",
+  "slug": "warlord-wand",
+  "sprite": "/items/warlord-wand.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes This is an Alien Gear item.",
+  "stats": {
+    "damage": "105–150 (average: 127.5)",
+    "range": "9 tiles",
+    "rateOfFire": "110%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Neo Iron Titan",
+    "Neo Silver Walker",
+    "Golden Sphinx",
+    "Katalund Satellite Core"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/warlord-wand"
+}

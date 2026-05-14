@@ -1,0 +1,32 @@
+{
+  "id": "mischief",
+  "name": "Mischief",
+  "slug": "mischief",
+  "sprite": "/items/mischief.png",
+  "itemType": "Dagger",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This dagger’s main shot is wavy, like the original Spirit Dagger, and deals the bulk of the damage. It also fires 2 petal-shaped shots on an amplitude. These shots converge at the middle and edge of its range.",
+  "stats": {
+    "damage": "20–110 (average: 65)",
+    "range": "5.2 tiles",
+    "rateOfFire": "25%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target",
+    "Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mischief"
+}

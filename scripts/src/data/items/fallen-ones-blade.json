@@ -1,0 +1,33 @@
+{
+  "id": "fallen-ones-blade",
+  "name": "Fallen One's Blade",
+  "slug": "fallen-ones-blade",
+  "sprite": "/items/fallen-ones-blade.png",
+  "itemType": "Sword",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 850,
+  "description": "Notes Part of the Corrupted Paladin Set.",
+  "stats": {
+    "damage": "125–150 (average: 137.5 / total: 275)",
+    "range": "4 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Stone Gargoyle",
+    "Stone Idol",
+    "Honeyed Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fallen-one-s-blade"
+}

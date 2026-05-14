@@ -1,0 +1,36 @@
+{
+  "id": "edictum-praetoris",
+  "name": "Edictum Praetoris",
+  "slug": "edictum-praetoris",
+  "sprite": "/items/edictum-praetoris.png",
+  "itemType": "Staff",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 800,
+  "description": "Notes Part of the Hollow King Necromancer Set.",
+  "stats": {
+    "damage": "55–125 (average: 90 / total: 270)",
+    "range": "6.66 tiles",
+    "rateOfFire": "75%",
+    "shots": "3 (arc gap: 3°)",
+    "projectiles": "3 (arc gap: 3°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Septavius the Ghost God",
+    "Lair Spectral Skeleton",
+    "Septavius, Master of the Undead",
+    "Heroic Lair Spectral Skeleton",
+    "Heroic Septavius the Ghost God",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/edictum-praetoris"
+}

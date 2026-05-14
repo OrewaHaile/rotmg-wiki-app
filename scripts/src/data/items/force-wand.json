@@ -1,0 +1,34 @@
+{
+  "id": "force-wand",
+  "name": "Force Wand",
+  "slug": "force-wand",
+  "sprite": "/items/force-wand.png",
+  "itemType": "Wand",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 5,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this item dealt 35-50 damage.",
+  "stats": {
+    "damage": "40–70 (average: 55)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Pirate"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/force-wand"
+}

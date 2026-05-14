@@ -1,0 +1,33 @@
+{
+  "id": "wand-of-egg-cellence",
+  "name": "Wand of Egg-cellence",
+  "slug": "wand-of-egg-cellence",
+  "sprite": "/items/wand-of-egg-cellence.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 310,
+  "description": "Notes Because the wand stats are exactly the same as the Wand of Ancient Warning, it could be considered a rare, alternative T11 drop.",
+  "stats": {
+    "damage": "130–170 (average: 150)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Biff the Buffed Bunny"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wand-of-egg-cellence"
+}

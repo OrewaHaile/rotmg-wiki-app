@@ -1,0 +1,29 @@
+{
+  "id": "cursed-harpoon",
+  "name": "Cursed Harpoon",
+  "slug": "cursed-harpoon",
+  "sprite": "/items/cursed-harpoon.png",
+  "itemType": "Staff",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": null,
+  "description": "Notes Part of the Undersea Phantom Wizard Set. TBA",
+  "stats": {
+    "damage": "85–125 (average: 105 / total: 315)",
+    "range": "7.5 tiles (true range: 4.76 tiles)",
+    "rateOfFire": "70%",
+    "shots": "3 (arc gap: 6°)",
+    "projectiles": "3 (arc gap: 6°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cursed-harpoon"
+}

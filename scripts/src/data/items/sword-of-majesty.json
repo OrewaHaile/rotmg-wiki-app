@@ -1,0 +1,32 @@
+{
+  "id": "sword-of-majesty",
+  "name": "Sword of Majesty",
+  "slug": "sword-of-majesty",
+  "sprite": "/items/sword-of-majesty.png",
+  "itemType": "Sword",
+  "tier": "T14",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 950,
+  "description": "Notes The most powerful tiered sword, it beats all but the Sword of the Colossus and a point-blank Pixie-Enchanted Sword, Demon Blade and Cheerful Chipper. Unlike the latter swords, the Sword of Majesty compromises nothing for its staggering damage output.",
+  "stats": {
+    "damage": "250–305 (average: 277.5)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 3",
+    "Kitsune Umi"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sword-of-majesty"
+}

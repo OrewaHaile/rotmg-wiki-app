@@ -1,6 +1,7 @@
 import { ChevronDown } from "lucide-react";
 
 export interface FilterState {
+  category: string;
   itemType: string;
   tier: string;
   bagType: string;
@@ -11,6 +12,7 @@ interface FilterBarProps {
   filters: FilterState;
   onChange: (filters: FilterState) => void;
   options: {
+    categories: string[];
     itemTypes: string[];
     tiers: string[];
     bagTypes: string[];
@@ -52,8 +54,14 @@ export default function FilterBar({ filters, onChange, options }: FilterBarProps
   const hasFilters = Object.values(filters).some(Boolean);
 
   return (
-    <div className="space-y-2">
-      <div className="flex flex-wrap gap-2">
+    <div className="space-y-3">
+      <div className="grid grid-cols-2 gap-2 sm:grid-cols-3">
+        <FilterSelect
+          label="Category"
+          value={filters.category}
+          options={options.categories}
+          onChange={update("category")}
+        />
         <FilterSelect
           label="Type"
           value={filters.itemType}
@@ -82,7 +90,7 @@ export default function FilterBar({ filters, onChange, options }: FilterBarProps
       {hasFilters && (
         <button
           onClick={() =>
-            onChange({ itemType: "", tier: "", bagType: "", usableClass: "" })
+            onChange({ category: "", itemType: "", tier: "", bagType: "", usableClass: "" })
           }
           className="text-xs text-amber-600 hover:text-amber-400 transition-colors underline underline-offset-2"
         >

@@ -1,0 +1,34 @@
+{
+  "id": "eternal-snowflake-wand",
+  "name": "Eternal Snowflake Wand",
+  "slug": "eternal-snowflake-wand",
+  "sprite": "/items/eternal-snowflake-wand.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes This is a winter reskinned version of the UT Wand of the Bulwark. It can be obtained during the Oryxmas season.",
+  "stats": {
+    "damage": "500–600 (average: 550)",
+    "range": "3 tiles",
+    "rateOfFire": "33%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots are parametric Shots pass through obstacles Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Permafrost Lord",
+    "Snowy the Frost God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/eternal-snowflake-wand"
+}

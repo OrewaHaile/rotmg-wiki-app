@@ -1,0 +1,31 @@
+{
+  "id": "hammer-sword",
+  "name": "Hammer Sword",
+  "slug": "hammer-sword",
+  "sprite": "/items/hammer-sword.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Notes This is a Construction Gear item.",
+  "stats": {
+    "damage": "220–275 (average: 247.5)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+2 VIT"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hammer-sword"
+}

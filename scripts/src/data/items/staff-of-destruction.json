@@ -1,0 +1,43 @@
+{
+  "id": "staff-of-destruction",
+  "name": "Staff of Destruction",
+  "slug": "staff-of-destruction",
+  "sprite": "/items/staff-of-destruction.png",
+  "itemType": "Staff",
+  "tier": "T7",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "1%",
+  "feedPower": 53,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 70.",
+  "stats": {
+    "damage": "55–100 (average: 77.5)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Archdemon Malphas",
+    "Cyclops God Chest",
+    "Ent Ancient",
+    "Ghost King",
+    "Lich",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest",
+    "Red Demon",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Stone Guardians"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-destruction"
+}

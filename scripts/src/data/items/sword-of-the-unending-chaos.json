@@ -1,0 +1,31 @@
+{
+  "id": "sword-of-the-unending-chaos",
+  "name": "Sword of the Unending Chaos",
+  "slug": "sword-of-the-unending-chaos",
+  "sprite": "/items/sword-of-the-unending-chaos.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Notes This is an Antinomy Gear item. It is a reskin of Sword of Acclaim with an extra 2 attack on equip.",
+  "stats": {
+    "damage": "220–275 (average: 247.5)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+2 ATT"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sword-of-the-unending-chaos"
+}

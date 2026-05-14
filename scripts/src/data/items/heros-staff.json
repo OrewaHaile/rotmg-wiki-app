@@ -1,0 +1,29 @@
+{
+  "id": "heros-staff",
+  "name": "Hero's Staff",
+  "slug": "heros-staff",
+  "sprite": "/items/heros-staff.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 650,
+  "description": "History Before Exalt Version 5.15.0.0 (Aug 2025), this item dealt 65-110 damage.",
+  "stats": {
+    "damage": "75–130 (average: 102.5)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hero-s-staff"
+}

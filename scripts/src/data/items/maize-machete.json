@@ -1,0 +1,29 @@
+{
+  "id": "maize-machete",
+  "name": "Maize Machete",
+  "slug": "maize-machete",
+  "sprite": "/items/maize-machete.png",
+  "itemType": "Dagger",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 900,
+  "description": "Notes Part of the Scarecrow Trickster Set.",
+  "stats": {
+    "damage": "155–170 (average: 162.5)",
+    "range": "6.3 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/maize-machete"
+}

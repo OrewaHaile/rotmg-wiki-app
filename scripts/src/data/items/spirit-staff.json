@@ -1,0 +1,31 @@
+{
+  "id": "spirit-staff",
+  "name": "Spirit Staff",
+  "slug": "spirit-staff",
+  "sprite": "/items/spirit-staff.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes This staff outdamages T12 Staff of the Cosmic Whole up until 6 DEF, and beats Staff of Esben up until 58 DEF, although it also has higher amplitude, making it little bit harder to aim than other staves (though not as difficult as the Legacy Sentient Staff or Staff of Esben). Some consider this staff the equivalent of a Thousand Shot bow for staff classes due to its fast rate of fire.",
+  "stats": {
+    "damage": "54–77 (average: 65.5)",
+    "range": "7 tiles",
+    "rateOfFire": "80%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Fountain Spirit",
+    "Standard Quest Chest",
+    "Prismimic Attacker"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spirit-staff"
+}

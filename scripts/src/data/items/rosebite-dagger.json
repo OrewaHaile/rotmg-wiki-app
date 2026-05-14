@@ -1,0 +1,31 @@
+{
+  "id": "rosebite-dagger",
+  "name": "Rosebite Dagger",
+  "slug": "rosebite-dagger",
+  "sprite": "/items/rosebite-dagger.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "History Introduced in Exalt Version 5.11.0.0 (May 2025) update.",
+  "stats": {
+    "damage": "125–220 (average: 172.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Blooming Flower"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/rosebite-dagger"
+}

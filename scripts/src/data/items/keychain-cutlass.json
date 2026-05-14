@@ -1,0 +1,34 @@
+{
+  "id": "keychain-cutlass",
+  "name": "Keychain Cutlass",
+  "slug": "keychain-cutlass",
+  "sprite": "/items/keychain-cutlass.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "8%",
+  "feedPower": 900,
+  "description": "Notes The Keychain Cutlass has the same average damage as the Sword of Acclaim, but has a massive damage variation. This makes killing low HP minions unreliable, but marginally helps against high DEF enemies. Against bosses, it’s generally an upgrade from the Acclaim thanks to the bonus 50 MP, 5 VIT, and 3 DEF, as well as its +3% XP bonus.",
+  "stats": {
+    "damage": "20–475 (average: 247.5)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Wavy shots",
+    "+50 MP, +5 VIT, +3 DEF"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "The Keyper"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/keychain-cutlass"
+}

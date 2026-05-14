@@ -1,0 +1,39 @@
+{
+  "id": "missile-wand",
+  "name": "Missile Wand",
+  "slug": "missile-wand",
+  "sprite": "/items/missile-wand.png",
+  "itemType": "Wand",
+  "tier": "T3",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 11,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this item dealt 45-60 damage.",
+  "stats": {
+    "damage": "50–85 (average: 67.5)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Elf Wizard",
+    "Goblin Mage",
+    "Hobbit Mage",
+    "Mama Megamoth",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/missile-wand"
+}

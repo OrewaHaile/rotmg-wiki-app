@@ -1,0 +1,32 @@
+{
+  "id": "wand-of-the-summoned-one",
+  "name": "Wand of the Summoned One",
+  "slug": "wand-of-the-summoned-one",
+  "sprite": "/items/wand-of-the-summoned-one.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Notes This is an Antinomy Gear item. It is a reskin of Wand of Recompense with an extra 2 attack on equip.",
+  "stats": {
+    "damage": "135–175 (average: 155)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "+2 ATT"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wand-of-the-summoned-one"
+}

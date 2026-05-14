@@ -1,0 +1,38 @@
+{
+  "id": "marionette-ravager",
+  "name": "Marionette Ravager",
+  "slug": "marionette-ravager",
+  "sprite": "/items/marionette-ravager.png",
+  "itemType": "Dagger",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 300,
+  "description": "Notes This dagger works similarly to Bone Dagger but with slightly higher Rate of Fire, XP Bonus and has armor piercing instead of regular piercing, making it ideal for use against targets with high DEF like Nightmare Colony or Tormented Golem, making the fight against both, especially the latter, much quicker.",
+  "stats": {
+    "damage": "200–300 (average: 250)",
+    "range": "5.28 tiles",
+    "rateOfFire": "150%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target",
+    "+4 SPD",
+    "Fires an additional shot every 2 seconds that deals 200-300 damage and Exposed for 1 second.",
+    "Ignores defense of target Exposed for 1 second"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "The Puppet Master",
+    "Oryx Puppet",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/marionette-ravager"
+}

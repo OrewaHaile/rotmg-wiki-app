@@ -1,0 +1,35 @@
+{
+  "id": "heartfind-dagger",
+  "name": "Heartfind Dagger",
+  "slug": "heartfind-dagger",
+  "sprite": "/items/heartfind-dagger.png",
+  "itemType": "Dagger",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 233,
+  "description": "Notes This is a reskinned version of the T11 Agateclaw Dagger.",
+  "stats": {
+    "damage": "105–190 (average: 147.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Belladonna",
+    "The Gardener",
+    "Valentine’s Candy Heart",
+    "Valentine’s Card",
+    "Valentine’s Flower"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/heartfind-dagger"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "wand-of-evocation",
+  "name": "Wand of Evocation",
+  "slug": "wand-of-evocation",
+  "sprite": "/items/wand-of-evocation.png",
+  "itemType": "Wand",
+  "tier": "T13",
+  "bagType": "Red",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "History This Tier 13 wand was spawned by exploiters many years before being released, but was removed from any person who had obtained it.",
+  "stats": {
+    "damage": "150–190 (average: 170)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Sage Genji",
+    "Drummer Kaguya",
+    "Dancer Miko",
+    "Archbishop Leucoryx",
+    "Chancellor Dammah",
+    "Chief Beisa",
+    "Treasurer Gemsbok",
+    "Marble Colossus",
+    "Void Entity",
+    "Soulwarden Murcian",
+    "The Wanderer (Hard)",
+    "The Wanderer (Interregnum)",
+    "The White Snake",
+    "Marble Epic Quest Chest",
+    "Voided Epic Quest Chest",
+    "Spectral Epic Quest Chest",
+    "Moonlit Epic Quest Chest",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wand-of-evocation"
+}

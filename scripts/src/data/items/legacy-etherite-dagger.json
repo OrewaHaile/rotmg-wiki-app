@@ -1,0 +1,29 @@
+{
+  "id": "legacy-etherite-dagger",
+  "name": "Legacy Etherite Dagger",
+  "slug": "legacy-etherite-dagger",
+  "sprite": "/items/legacy-etherite-dagger.png",
+  "itemType": "Dagger",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 500,
+  "description": "Notes Part of the Legacy Skuld 2 The ReGhostening set.",
+  "stats": {
+    "damage": "110–215 (average: 162.5)",
+    "range": "3.84 tiles",
+    "rateOfFire": "110%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legacy-etherite-dagger"
+}

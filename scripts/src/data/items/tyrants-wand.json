@@ -1,0 +1,35 @@
+{
+  "id": "tyrants-wand",
+  "name": "Tyrant's Wand",
+  "slug": "tyrants-wand",
+  "sprite": "/items/tyrants-wand.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "Notes WIP This wand sacrifices some range for damage that can rival even the T14 Wand of Retribution (assuming all shots land).",
+  "stats": {
+    "damage": "70–100 (average: 85 / total: 255)",
+    "range": "6.3 tiles",
+    "rateOfFire": "70%",
+    "shots": "3 (arc gap: 5°)",
+    "projectiles": "3 (arc gap: 5°)"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tyrant-s-wand"
+}

@@ -1,0 +1,48 @@
+{
+  "id": "frostys-walking-stick",
+  "name": "Frosty's Walking Stick",
+  "slug": "frostys-walking-stick",
+  "sprite": "/items/frostys-walking-stick.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 450,
+  "description": "Notes Although not an ST item in its own right, this item is classed as Oryxmas Gear, and, if worn in conjuntion with Ornaments of Unity, will contribute to the Oryxmas Gear bonus stats.",
+  "stats": {
+    "damage": "70–120 (average: 95)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Avatar of the Forgotten King",
+    "Crystal Prisoner",
+    "Crystal Worm Rudolph",
+    "Eternal Frost Present",
+    "Frostaract",
+    "Frozen Ship",
+    "Hat God",
+    "Ice Cube God",
+    "Jade and Garnet Statues",
+    "Jolly Sphinx",
+    "Killer Bee Nest",
+    "Loot Elf",
+    "Lord of the Lost Lands",
+    "Lost Sentry",
+    "Oryxmas Snowman Tier 3",
+    "Oryxmas Snowman Tier 5",
+    "Rock Dragon (Christmas)",
+    "Skull Shrine"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/frosty-s-walking-stick"
+}

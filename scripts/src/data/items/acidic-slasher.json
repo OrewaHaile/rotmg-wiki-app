@@ -1,0 +1,33 @@
+{
+  "id": "acidic-slasher",
+  "name": "Acidic Slasher",
+  "slug": "acidic-slasher",
+  "sprite": "/items/acidic-slasher.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes This is an Alien Gear item.",
+  "stats": {
+    "damage": "350–400 (average: 375)",
+    "range": "4 tiles",
+    "rateOfFire": "60%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Neo Larveye",
+    "Acidus",
+    "Forax Satellite Core"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/acidic-slasher"
+}

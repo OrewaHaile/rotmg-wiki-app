@@ -1,0 +1,31 @@
+{
+  "id": "reliable-pugio",
+  "name": "Reliable Pugio",
+  "slug": "reliable-pugio",
+  "sprite": "/items/reliable-pugio.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "History Added in the Exalt Version 5.0.0.0 (July 2024) update.",
+  "stats": {
+    "damage": "125–220 (average: 172.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Amulet Affinity: Creates additional projectiles when worn with an Amulet."
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/reliable-pugio"
+}

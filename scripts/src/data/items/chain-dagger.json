@@ -1,0 +1,35 @@
+{
+  "id": "chain-dagger",
+  "name": "Chain Dagger",
+  "slug": "chain-dagger",
+  "sprite": "/items/chain-dagger.png",
+  "itemType": "Dagger",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Although this dagger has a relatively poor DPS for its level, it inflicts significant Bleed buildup. It also builds up dexterity as it fires, which helps offset the naturally low RoF. Bleed comprises most of this weapon’s power, so it is advised to use other DEX-boosting gear to maximize it.",
+  "stats": {
+    "damage": "110–130 (average: 120)",
+    "range": "5.5 tiles",
+    "rateOfFire": "80%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Bleeding on enemies for 4.5 seconds. (Bleed Damage: 50)",
+    "Rev Up: Gain DEX Boost (+1-10 DEX) while shooting. Cooldown: 0.4s Duration: 4.4s"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Factory Control Core",
+    "Steampunk Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/chain-dagger"
+}

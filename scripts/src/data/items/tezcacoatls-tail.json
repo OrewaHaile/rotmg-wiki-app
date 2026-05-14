@@ -1,0 +1,35 @@
+{
+  "id": "tezcacoatls-tail",
+  "name": "Tezcacoatl's Tail",
+  "slug": "tezcacoatls-tail",
+  "sprite": "/items/tezcacoatls-tail.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes This staff possesses the third highest damage per shot of any staff and the unique property of ignoring its target’s defense, at the cost of a massively reduced rate of fire. As such, it is most useful in situations where you would need to pack a lot of damage into single shots, or against enemies with very high DEF or the tendency to Armor themselves.",
+  "stats": {
+    "damage": "200–235 (average: 217.5)",
+    "range": "9 tiles",
+    "rateOfFire": "33%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Tezcacoatl the Great Basilisk",
+    "Prismimic Attacker",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tezcacoatl-s-tail"
+}

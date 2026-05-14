@@ -1,0 +1,31 @@
+{
+  "id": "toy-knife",
+  "name": "Toy Knife",
+  "slug": "toy-knife",
+  "sprite": "/items/toy-knife.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 0,
+  "description": "Notes The Steam DLC graphic for the item is:",
+  "stats": {
+    "damage": "50",
+    "range": "5 tiles",
+    "rateOfFire": "80%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Mad God Mayhem Bosses"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/toy-knife"
+}

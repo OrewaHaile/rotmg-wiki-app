@@ -1,0 +1,31 @@
+{
+  "id": "mmace-mmurderer",
+  "name": "MMace MMurderer",
+  "slug": "mmace-mmurderer",
+  "sprite": "/items/mmace-mmurderer.png",
+  "itemType": "Mace",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": null,
+  "description": "Notes Not to be confused with the Summoner’s maces. This is a Mistake Gear item.",
+  "stats": {
+    "damage": "222–333 (average: 277.5)",
+    "range": "5 tiles (true range: 2.84 tiles)",
+    "rateOfFire": "40%",
+    "shots": "2 (arc gap: 20°)",
+    "projectiles": "2 (arc gap: 20°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Null"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mmace-mmurderer"
+}

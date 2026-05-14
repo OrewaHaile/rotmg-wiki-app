@@ -1,0 +1,34 @@
+{
+  "id": "staff-of-eruption",
+  "name": "Staff of Eruption",
+  "slug": "staff-of-eruption",
+  "sprite": "/items/staff-of-eruption.png",
+  "itemType": "Staff",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 850,
+  "description": "Notes Part of the Magmatic Mystic Set.",
+  "stats": {
+    "damage": "700–860 (average: 780)",
+    "range": "5.49 tiles",
+    "rateOfFire": "25%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Malphas, Gilded Forgemaster",
+    "Heroic Archdemon Malphas",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-eruption"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "staff-of-the-crystal-serpent",
+  "name": "Staff of the Crystal Serpent",
+  "slug": "staff-of-the-crystal-serpent",
+  "sprite": "/items/staff-of-the-crystal-serpent.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "2%",
+  "feedPower": 250,
+  "description": "Notes Its damage per shot is equal to that of the T7 Staff of Destruction, but its increased fire rate makes its DPS in between the T8 Staff of Horror and the T9 Staff of Necrotic Arcana, against an enemy with either 0 or more than 60 defense. It also has one of the best range of all staves, tied with the Tezcacoatl’s Tail, being able to hit enemies at the same range as wands. It has its uses for Wine Cellars because you can easily land a lot of shots on the boss with extra safety.",
+  "stats": {
+    "damage": "70–85 (average: 77.5)",
+    "range": "9.0 tiles",
+    "rateOfFire": "110%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Necromancer"
+  ],
+  "dropsFrom": [
+    "Mixcoatl the Masked God",
+    "Beginner Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-the-crystal-serpent"
+}

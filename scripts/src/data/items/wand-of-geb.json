@@ -1,0 +1,37 @@
+{
+  "id": "wand-of-geb",
+  "name": "Wand of Geb",
+  "slug": "wand-of-geb",
+  "sprite": "/items/wand-of-geb.png",
+  "itemType": "Wand",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 500,
+  "description": "Notes Part of the Priest of Geb set.",
+  "stats": {
+    "damage": "150–170 (average: 160)",
+    "range": "7 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Releases a slowing nova of 16 boomerang shots on your position. On Shoot: Releases a slowing nova. On Shoot Damage: 200-300 On Shoot Shot Effect: 3 seconds With Full Set: Nova range becomes 6 tiles On Shoot Cooldown: 5 seconds"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Geb",
+    "Sarcophagus",
+    "Treasure Sarcophagus",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wand-of-geb"
+}

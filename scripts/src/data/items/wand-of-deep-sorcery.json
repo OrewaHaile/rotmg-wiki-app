@@ -1,0 +1,46 @@
+{
+  "id": "wand-of-deep-sorcery",
+  "name": "Wand of Deep Sorcery",
+  "slug": "wand-of-deep-sorcery",
+  "sprite": "/items/wand-of-deep-sorcery.png",
+  "itemType": "Wand",
+  "tier": "T9",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "3%",
+  "feedPower": 109,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this item dealt 85-130 damage.",
+  "stats": {
+    "damage": "120–160 (average: 140)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Avatar of the Forgotten King",
+    "Cube God",
+    "Genie",
+    "Ghost of Skuld",
+    "Kogbold Expedition Engine",
+    "Lord of the Lost Lands",
+    "Oryx the Mad God",
+    "Oryx the Mad God 2",
+    "Pentaract",
+    "Red Demon Chest",
+    "Skull Shrine",
+    "Standard Quest Chest",
+    "Stheno the Snake Queen"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wand-of-deep-sorcery"
+}

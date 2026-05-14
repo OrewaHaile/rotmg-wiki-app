@@ -1,0 +1,34 @@
+{
+  "id": "ceremonial-wand",
+  "name": "Ceremonial Wand",
+  "slug": "ceremonial-wand",
+  "sprite": "/items/ceremonial-wand.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 500,
+  "description": "History Added in the Exalt Version 6.2.0.0 (Oct 2025) update.",
+  "stats": {
+    "damage": "70–95 (average: 82.5)",
+    "range": "8.4 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Untold Power: If the bearer is Curse while using the Wand of Hidden Knowledge, it fires two additional projectiles that deal 70-95 armor piercing damage. Burst Count: 5 Burst Delay: 1.8 second Minimum Burst Delay 1 second Shots hit multiple targets",
+    "+3 SPD, +4 WIS",
+    "Forbidden Secrets: 40% Chance on ability to Curse the user for 4 seconds.Cooldown: 5 seconds.",
+    "Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ceremonial-wand"
+}

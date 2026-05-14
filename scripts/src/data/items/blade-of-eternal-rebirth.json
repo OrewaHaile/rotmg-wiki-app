@@ -1,0 +1,32 @@
+{
+  "id": "blade-of-eternal-rebirth",
+  "name": "Blade of Eternal Rebirth",
+  "slug": "blade-of-eternal-rebirth",
+  "sprite": "/items/blade-of-eternal-rebirth.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This powerful sword outdamages all tiered swords, all tiered flails, and the majority of untiered swords. Divinity deals more single-target DPS, but only if you aren’t berserked. In addition, it has a range of 4.5 tiles, much higher than its alternatives.",
+  "stats": {
+    "damage": "280–295 (average: 287.5)",
+    "range": "4.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Eternal Phoenix (Easy)",
+    "Eternal Phoenix (Hard)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/blade-of-eternal-rebirth"
+}

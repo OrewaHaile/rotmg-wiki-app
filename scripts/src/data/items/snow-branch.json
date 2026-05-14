@@ -1,0 +1,33 @@
+{
+  "id": "snow-branch",
+  "name": "Snow Branch",
+  "slug": "snow-branch",
+  "sprite": "/items/snow-branch.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "History Introduced in Exalt Version 6.3.0.0 (Nov 2025).",
+  "stats": {
+    "damage": "60–115 (average: 87.5)",
+    "range": "9.6 tiles",
+    "rateOfFire": "160%",
+    "shots": "2 (arc gap: 11.25°)",
+    "projectiles": "2 (arc gap: 11.25°)"
+  },
+  "effects": [
+    "+4 WIS"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Event Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/snow-branch"
+}

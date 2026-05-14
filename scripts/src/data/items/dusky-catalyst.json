@@ -1,0 +1,36 @@
+{
+  "id": "dusky-catalyst",
+  "name": "Dusky Catalyst",
+  "slug": "dusky-catalyst",
+  "sprite": "/items/dusky-catalyst.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes When shooting In Combat, this wand reduces your Wisdom by 10. This is effectively a -5 WIS reduction as the wand gives +5 WIS. Regardless, it may be enough to ruin the wismod scaling on certain abilities, especially on Priest and Sorcerer. However, the 5% mana cost reduction is usually worth the WIS reduction.",
+  "stats": {
+    "damage": "100–186 (average: 143)",
+    "range": "8 tiles",
+    "rateOfFire": "150%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Reduces the Magic casting cost of your Ability by 5% Shots hit multiple targets Wavy shots",
+    "+5 WIS",
+    "On Shoot: When in combat, WIS Decrease (-10 WIS) for 1 second."
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Twilight Archmage",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dusky-catalyst"
+}

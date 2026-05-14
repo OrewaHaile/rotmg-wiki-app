@@ -1,0 +1,32 @@
+{
+  "id": "sword-of-illumination",
+  "name": "Sword of Illumination",
+  "slug": "sword-of-illumination",
+  "sprite": "/items/sword-of-illumination.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes A reskinned version of the UT Demon Blade.",
+  "stats": {
+    "damage": "150–175 (average: 162.5 / total: 325)",
+    "range": "3.38 tiles (true range: 2.25 tiles)",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 25°)",
+    "projectiles": "2 (arc gap: 25°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Malphas, Gilded Forgemaster",
+    "Heroic Archdemon Malphas"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sword-of-illumination"
+}

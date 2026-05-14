@@ -1,0 +1,31 @@
+{
+  "id": "k-i-d-d-force",
+  "name": "K.I.D.D. Force",
+  "slug": "k-i-d-d-force",
+  "sprite": "/items/k-i-d-d-force.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 20,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "80–130 (average: 105)",
+    "range": "10 tiles",
+    "rateOfFire": "80%",
+    "shots": "2 (arc gap: 40°)",
+    "projectiles": "2 (arc gap: 40°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Null"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/k-i-d-d-force"
+}

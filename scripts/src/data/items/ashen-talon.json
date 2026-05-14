@@ -1,0 +1,34 @@
+{
+  "id": "ashen-talon",
+  "name": "Ashen Talon",
+  "slug": "ashen-talon",
+  "sprite": "/items/ashen-talon.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes The Ashen Talon is the only dagger in the game that both completely ignores the defense of the target and pierces through enemies. As a result, this dagger is useful in Tombs and The Shatters where high defense enemies are found. It is also effective at realm events such as the Cube God or Skull Shrine where it can be used to shred through large swarms of satellite minions.",
+  "stats": {
+    "damage": "150–170 (average: 160)",
+    "range": "5 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Eternal Phoenix (Easy)",
+    "Eternal Phoenix (Hard)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ashen-talon"
+}

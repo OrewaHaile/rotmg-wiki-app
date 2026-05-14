@@ -1,0 +1,38 @@
+{
+  "id": "bone-dagger",
+  "name": "Bone Dagger",
+  "slug": "bone-dagger",
+  "sprite": "/items/bone-dagger.png",
+  "itemType": "Dagger",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "3%",
+  "feedPower": 300,
+  "description": "This page is currently a work in progress.",
+  "stats": {
+    "damage": "95–170 (average: 132.5)",
+    "range": "5.02 tiles",
+    "rateOfFire": "110%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Coffin",
+    "Lord Ruthven",
+    "Armor Guard",
+    "Hellhound",
+    "Nosferatu",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bone-dagger"
+}

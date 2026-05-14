@@ -1,0 +1,35 @@
+{
+  "id": "staff-of-adoration",
+  "name": "Staff of Adoration",
+  "slug": "staff-of-adoration",
+  "sprite": "/items/staff-of-adoration.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 233,
+  "description": "Notes This is a reskinned version of the T11 Staff of Astral Knowledge.",
+  "stats": {
+    "damage": "65–110 (average: 87.5)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Belladonna",
+    "The Gardener",
+    "Valentine’s Candy Heart",
+    "Valentine’s Card",
+    "Valentine’s Flower"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-adoration"
+}

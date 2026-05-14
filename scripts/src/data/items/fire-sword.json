@@ -1,0 +1,39 @@
+{
+  "id": "fire-sword",
+  "name": "Fire Sword",
+  "slug": "fire-sword",
+  "sprite": "/items/fire-sword.png",
+  "itemType": "Sword",
+  "tier": "T5",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 24,
+  "description": "Trivia There is a recurring tale within the Realm of the Mad God community that this weapon is said to bring good luck, similar to the Kendo Stick. More specifically, having a Fire Sword in the seventh inventory slot will boost drop rates.",
+  "stats": {
+    "damage": "90–135 (average: 112.5)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Arachna the Spider Queen",
+    "Beginner Quest Chest",
+    "Deathmage Chest",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest",
+    "Queen Bee"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fire-sword"
+}

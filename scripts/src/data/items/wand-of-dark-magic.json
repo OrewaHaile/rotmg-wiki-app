@@ -1,0 +1,41 @@
+{
+  "id": "wand-of-dark-magic",
+  "name": "Wand of Dark Magic",
+  "slug": "wand-of-dark-magic",
+  "sprite": "/items/wand-of-dark-magic.png",
+  "itemType": "Wand",
+  "tier": "T6",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 35,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this item dealt 70-100 damage.",
+  "stats": {
+    "damage": "95–125 (average: 110)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Deathmage Chest",
+    "Cyclops God Chest",
+    "Ent Ancient",
+    "Ghost King",
+    "Lich",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wand-of-dark-magic"
+}

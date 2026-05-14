@@ -1,0 +1,43 @@
+{
+  "id": "golden-sword",
+  "name": "Golden Sword",
+  "slug": "golden-sword",
+  "sprite": "/items/golden-sword.png",
+  "itemType": "Sword",
+  "tier": "T7",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "1%",
+  "feedPower": 53,
+  "description": "History Previously used the following sprite until Build 112 (Feb 2011):",
+  "stats": {
+    "damage": "150–180 (average: 165)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Archdemon Malphas",
+    "Cyclops God Chest",
+    "Ent Ancient",
+    "Ghost King",
+    "Lich",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest",
+    "Red Demon",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Stone Guardians"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/golden-sword"
+}

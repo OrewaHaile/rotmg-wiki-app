@@ -1,0 +1,29 @@
+{
+  "id": "esben-the-neurotic",
+  "name": "Esben the Neurotic",
+  "slug": "esben-the-neurotic",
+  "sprite": "/items/esben-the-neurotic.png",
+  "itemType": "Sword",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "This page is currently a work in progress.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/esben-the-neurotic"
+}

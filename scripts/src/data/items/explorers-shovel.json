@@ -1,0 +1,29 @@
+{
+  "id": "explorers-shovel",
+  "name": "Explorer's Shovel",
+  "slug": "explorers-shovel",
+  "sprite": "/items/explorers-shovel.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "History Added in the Exalt Version 5.14.0.0 (July 2025) update.",
+  "stats": {
+    "damage": "75–130 (average: 102.5)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/explorer-s-shovel"
+}

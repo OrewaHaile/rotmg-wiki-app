@@ -1,0 +1,29 @@
+{
+  "id": "legacy-pixie-enchanted-sword",
+  "name": "Legacy Pixie-Enchanted Sword",
+  "slug": "legacy-pixie-enchanted-sword",
+  "sprite": "/items/legacy-pixie-enchanted-sword.png",
+  "itemType": "Sword",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 500,
+  "description": "Notes Part of the Legacy Swoll Paladin set.",
+  "stats": {
+    "damage": "75–90 (average: 82.5 / total: 330)",
+    "range": "4.55 tiles (true range: 1.87 tiles)",
+    "rateOfFire": null,
+    "shots": "4 (arc gap: 10°)",
+    "projectiles": "4 (arc gap: 10°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legacy-pixie-enchanted-sword"
+}

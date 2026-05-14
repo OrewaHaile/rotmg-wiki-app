@@ -1,0 +1,32 @@
+{
+  "id": "blade-of-fates",
+  "name": "Blade of Fates",
+  "slug": "blade-of-fates",
+  "sprite": "/items/blade-of-fates.png",
+  "itemType": "Sword",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 750,
+  "description": "Notes Part of the Spellbound Soulthief Set.",
+  "stats": {
+    "damage": "180–245 (average: 212.5)",
+    "range": "5.3 tiles",
+    "rateOfFire": "72%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "-8% SPD Equal to SPD",
+    "Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/blade-of-fates"
+}

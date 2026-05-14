@@ -1,0 +1,29 @@
+{
+  "id": "factory-control-core",
+  "name": "Factory Control Core",
+  "slug": "factory-control-core",
+  "sprite": "/items/factory-control-core.png",
+  "itemType": "Dagger",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "The Factory Control Core is the boss of the Kogbold Steamworks.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/factory-control-core"
+}

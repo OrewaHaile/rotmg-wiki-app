@@ -1,0 +1,31 @@
+{
+  "id": "dagger-of-the-hasteful-rabbit",
+  "name": "Dagger of the Hasteful Rabbit",
+  "slug": "dagger-of-the-hasteful-rabbit",
+  "sprite": "/items/dagger-of-the-hasteful-rabbit.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 310,
+  "description": "Notes This dagger is a reskin of the T12 dagger, the Dagger of Foul Malevolence.",
+  "stats": {
+    "damage": "115–200 (average: 157.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Biff the Buffed Bunny"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dagger-of-the-hasteful-rabbit"
+}

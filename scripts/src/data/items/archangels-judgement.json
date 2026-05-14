@@ -1,0 +1,31 @@
+{
+  "id": "archangels-judgement",
+  "name": "Archangel's Judgement",
+  "slug": "archangels-judgement",
+  "sprite": "/items/archangels-judgement.png",
+  "itemType": "Dagger",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 800,
+  "description": "Notes Part of the Daeva Trickster Set.",
+  "stats": {
+    "damage": "60–75 (average: 67.5)",
+    "range": "5.99 tiles (true range: 3.8 tiles)",
+    "rateOfFire": "85%",
+    "shots": "4 (arc gap: 5°)",
+    "projectiles": "4 (arc gap: 5°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Tablet of the Monarchy"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/archangel-s-judgement"
+}

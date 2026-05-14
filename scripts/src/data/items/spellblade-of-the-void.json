@@ -1,0 +1,32 @@
+{
+  "id": "spellblade-of-the-void",
+  "name": "Spellblade of the Void",
+  "slug": "spellblade-of-the-void",
+  "sprite": "/items/spellblade-of-the-void.png",
+  "itemType": "Spellblade",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "Before Exalt Version 5.15.0.0 (Aug 2025), this item dealt 80-105 and 65-70 damage.",
+  "stats": {
+    "damage": "85–90 (average: 87.5)",
+    "range": "6.6 tiles",
+    "rateOfFire": "100%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+5 WIS",
+    "Ignores defense of target Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [
+    "Voided Blooming Flower"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spellblade-of-the-void"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "stygian-torch",
+  "name": "Stygian Torch",
+  "slug": "stygian-torch",
+  "sprite": "/items/stygian-torch.png",
+  "itemType": "Staff",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Totalia Mystic Set.",
+  "stats": {
+    "damage": "145–160 (average: 152.5)",
+    "range": "7.5 tiles",
+    "rateOfFire": "125%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Totalia the Malevolent"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/stygian-torch"
+}

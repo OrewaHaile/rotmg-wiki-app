@@ -1,0 +1,35 @@
+{
+  "id": "jailers-scythe",
+  "name": "Jailer's Scythe",
+  "slug": "jailers-scythe",
+  "sprite": "/items/jailers-scythe.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "History In Exalt Version 5.3.0.0 (Nov 2024) completely reworked, fixed XP bonus, Feed Power and forge group.",
+  "stats": {
+    "damage": "75–100 (average: 87.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "60%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Shots pass through obstaclesCircular Motion after 0.2sTurns 90 degrees before circling",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstaclesCircular Motion after 0.2sTurns 90 degrees before circling",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstaclesCircular Motion after 0.2sTurns 90 degrees before circling"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Spectral Jailer"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/jailer-s-scythe"
+}

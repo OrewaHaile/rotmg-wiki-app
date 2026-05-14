@@ -1,0 +1,31 @@
+{
+  "id": "throwing-knives",
+  "name": "Throwing Knives",
+  "slug": "throwing-knives",
+  "sprite": "/items/throwing-knives.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "",
+  "stats": {
+    "damage": "140–220 (average: 180)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Carnival Clown"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/throwing-knives"
+}

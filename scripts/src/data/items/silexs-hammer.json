@@ -1,0 +1,33 @@
+{
+  "id": "silexs-hammer",
+  "name": "Silex's Hammer",
+  "slug": "silexs-hammer",
+  "sprite": "/items/silexs-hammer.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 0,
+  "description": "Notes This weapon is a reference to the Banhammer, a fictional tool used by administrators of a server, game, etc. to ban players with. The weapon’s name is attributed to the former DECA admin Silex, who has often been portrayed by the community as carrying a banhammer.",
+  "stats": {
+    "damage": "5–70 (average: 37.5 / total: 112.5)",
+    "range": "4.55 tiles (true range: 2.51 tiles)",
+    "rateOfFire": "33%",
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "Shots are parametric Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Mad God Mayhem"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/silex-s-hammer"
+}

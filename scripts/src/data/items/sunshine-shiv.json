@@ -1,0 +1,32 @@
+{
+  "id": "sunshine-shiv",
+  "name": "Sunshine Shiv",
+  "slug": "sunshine-shiv",
+  "sprite": "/items/sunshine-shiv.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 0,
+  "description": "Notes The Sunshine Shiv drops in the Battle for the Nexus dungeon, which was released for a limited time in September 2013 and occasionally reappears during events.",
+  "stats": {
+    "damage": "15–30 (average: 22.5)",
+    "range": "4.5 tiles",
+    "rateOfFire": "55%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God Deux",
+    "Lord Ruthven Deux"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sunshine-shiv"
+}

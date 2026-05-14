@@ -1,0 +1,31 @@
+{
+  "id": "anatis-staff",
+  "name": "Anatis Staff",
+  "slug": "anatis-staff",
+  "sprite": "/items/anatis-staff.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "3%",
+  "feedPower": 550,
+  "description": "Notes The Giant Chicken is typically not in the game, only on April Fool’s Day, Oryx the Mad God is replaced by the Giant Oryx Chicken. During the rest of the year, it cannot be found, making its drops rare.",
+  "stats": {
+    "damage": "80–100 (average: 90)",
+    "range": "7.5 tiles",
+    "rateOfFire": "25%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Giant Oryx Chicken"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/anatis-staff"
+}

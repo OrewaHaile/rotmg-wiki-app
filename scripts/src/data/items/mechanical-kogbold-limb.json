@@ -1,0 +1,31 @@
+{
+  "id": "mechanical-kogbold-limb",
+  "name": "Mechanical Kogbold Limb",
+  "slug": "mechanical-kogbold-limb",
+  "sprite": "/items/mechanical-kogbold-limb.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This staff beats the T13 Staff of the Vital Unity starting at 20/18 DEF and the T14 Staff of the Fundamental Core starting at 35/32 DEF, making it ideal for endgame content if you do not have a consistent armour break.",
+  "stats": {
+    "damage": "260–295 (average: 277.5)",
+    "range": "9 tiles",
+    "rateOfFire": "33%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mechanical-kogbold-limb"
+}

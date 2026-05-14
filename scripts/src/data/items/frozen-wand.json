@@ -1,0 +1,33 @@
+{
+  "id": "frozen-wand",
+  "name": "Frozen Wand",
+  "slug": "frozen-wand",
+  "sprite": "/items/frozen-wand.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 700,
+  "description": "Notes A reskinned version of the UT Crystal Wand. Only obtainable during Oryxmas Events.",
+  "stats": {
+    "damage": "105–150 (average: 127.5)",
+    "range": "9 tiles",
+    "rateOfFire": "110%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Crystal Prisoner"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/frozen-wand"
+}

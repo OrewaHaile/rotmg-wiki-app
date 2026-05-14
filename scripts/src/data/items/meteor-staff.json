@@ -1,0 +1,37 @@
+{
+  "id": "meteor-staff",
+  "name": "Meteor Staff",
+  "slug": "meteor-staff",
+  "sprite": "/items/meteor-staff.png",
+  "itemType": "Staff",
+  "tier": "T4",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 17,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 22.",
+  "stats": {
+    "damage": "30–55 (average: 42.5)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Deathmage Chest",
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Mama Megamoth",
+    "Shambling Sludge",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/meteor-staff"
+}

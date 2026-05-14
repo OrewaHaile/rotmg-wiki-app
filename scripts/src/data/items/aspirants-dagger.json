@@ -1,0 +1,31 @@
+{
+  "id": "aspirants-dagger",
+  "name": "Aspirant's Dagger",
+  "slug": "aspirants-dagger",
+  "sprite": "/items/aspirants-dagger.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Before Exalt Version 4.0.0.0 (Aug 2023), this item was not soulbound.",
+  "stats": {
+    "damage": "140–215 (average: 177.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "95%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Aspirant’s Set: This item can be further improved by inscribing it with an artifact from the Path of the Stalwart, Sniper, Swiftblade, or Magus."
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/aspirant-s-dagger"
+}

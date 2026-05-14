@@ -1,0 +1,35 @@
+{
+  "id": "solar-flare-igniter",
+  "name": "Solar Flare Igniter",
+  "slug": "solar-flare-igniter",
+  "sprite": "/items/solar-flare-igniter.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes The Solar Flare Igniter sacrifices some range in exchange for high firerate and armor piercing shots. It also fires a secondary shot on an amplitude, which pierces enemies.",
+  "stats": {
+    "damage": "50–75 (average: 62.5)",
+    "range": "6.864 tiles",
+    "rateOfFire": "50%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target",
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Eternal Phoenix (Easy)",
+    "Eternal Phoenix (Hard)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/solar-flare-igniter"
+}

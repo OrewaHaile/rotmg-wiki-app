@@ -1,0 +1,48 @@
+{
+  "id": "dagger-of-sinister-deeds",
+  "name": "Dagger of Sinister Deeds",
+  "slug": "dagger-of-sinister-deeds",
+  "sprite": "/items/dagger-of-sinister-deeds.png",
+  "itemType": "Dagger",
+  "tier": "T13",
+  "bagType": "Red",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "Notes A powerful and reliable choice for a dagger, being more consistent than the shorter-range Spirit Dagger, Dirk of Cronus, and Etherite Dagger.",
+  "stats": {
+    "damage": "125–220 (average: 172.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Sage Genji",
+    "Drummer Kaguya",
+    "Dancer Miko",
+    "Archbishop Leucoryx",
+    "Chancellor Dammah",
+    "Chief Beisa",
+    "Treasurer Gemsbok",
+    "Marble Colossus",
+    "Void Entity",
+    "Soulwarden Murcian",
+    "The Wanderer (Hard)",
+    "The Wanderer (Interregnum)",
+    "The White Snake",
+    "Marble Epic Quest Chest",
+    "Voided Epic Quest Chest",
+    "Spectral Epic Quest Chest",
+    "Moonlit Epic Quest Chest",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dagger-of-sinister-deeds"
+}

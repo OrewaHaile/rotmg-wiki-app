@@ -1,0 +1,29 @@
+{
+  "id": "chancellor-dammah",
+  "name": "Chancellor Dammah",
+  "slug": "chancellor-dammah",
+  "sprite": "/items/chancellor-dammah.png",
+  "itemType": "Staff",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "Chancellor Dammah is the boss of the north wing of Oryx’s Sanctuary. Dammah specializes in summoning invincible portal enemies in various formations to attack players.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/chancellor-dammah"
+}

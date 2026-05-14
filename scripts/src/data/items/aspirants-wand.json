@@ -1,0 +1,31 @@
+{
+  "id": "aspirants-wand",
+  "name": "Aspirant's Wand",
+  "slug": "aspirants-wand",
+  "sprite": "/items/aspirants-wand.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Before Exalt Version 4.0.0.0 (Aug 2023), this item was not soulbound.",
+  "stats": {
+    "damage": "175–215 (average: 195)",
+    "range": "9 tiles",
+    "rateOfFire": "80%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Aspirant’s Set: This item can be further improved by inscribing it with an artifact from the Path of the Stalwart, Sniper, Swiftblade, or Magus."
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/aspirant-s-wand"
+}

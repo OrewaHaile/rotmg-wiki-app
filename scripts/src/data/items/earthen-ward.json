@@ -1,0 +1,34 @@
+{
+  "id": "earthen-ward",
+  "name": "Earthen Ward",
+  "slug": "earthen-ward",
+  "sprite": "/items/earthen-ward.png",
+  "itemType": "Wand",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "Notes This powerful wand has a peculiar shot pattern that loosely resembles a peace symbol (☮). The shots go outwards and create a “ring”, because of the ring shaped pattern, it is technically possible to hit at least two shots at full range, however it is only possible to hit all shots if you are sitting on top of enemies, similar to the Staff of Extreme Prejudice. If you manage to hit all shots, this weapon completely outdamages Lumiaire.",
+  "stats": {
+    "damage": "125–145 (average: 135 / total: 405)",
+    "range": "18.54 tiles (true range: furthest reach 6 tiles)",
+    "rateOfFire": null,
+    "shots": "3 (arc gap: 120°)",
+    "projectiles": "3 (arc gap: 120°)"
+  },
+  "effects": [
+    "Circle Turn Angle: 90 Circle Turn Delay: .333 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Limoz the Viridian Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/earthen-ward"
+}

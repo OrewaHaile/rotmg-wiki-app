@@ -1,0 +1,34 @@
+{
+  "id": "dalvars-battle-axe",
+  "name": "Dalvar's Battle Axe",
+  "slug": "dalvars-battle-axe",
+  "sprite": "/items/dalvars-battle-axe.png",
+  "itemType": "Sword",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "Notes Part of the Nordic Knight Set.",
+  "stats": {
+    "damage": "205–225 (average: 215)",
+    "range": "3.75 tiles",
+    "rateOfFire": "120%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Increases the power of the Gjallarhorn if worn in conjunction"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Esben the Neurotic",
+    "Citadel Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dalvar-s-battle-axe"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "jagged-hatchet",
+  "name": "Jagged Hatchet",
+  "slug": "jagged-hatchet",
+  "sprite": "/items/jagged-hatchet.png",
+  "itemType": "Sword",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 900,
+  "description": "Notes Part of the Killbilly Warrior Set",
+  "stats": {
+    "damage": "175–200 (average: 187.5)",
+    "range": "4.67 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Bleeding on enemies for 3 seconds. (Bleed Damage: 85)"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/jagged-hatchet"
+}

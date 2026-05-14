@@ -1,0 +1,32 @@
+{
+  "id": "firebrand-staff",
+  "name": "Firebrand Staff",
+  "slug": "firebrand-staff",
+  "sprite": "/items/firebrand-staff.png",
+  "itemType": "Staff",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 5,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 7.",
+  "stats": {
+    "damage": "10–35 (average: 22.5)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Pirate"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/firebrand-staff"
+}

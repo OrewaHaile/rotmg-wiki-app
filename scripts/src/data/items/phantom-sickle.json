@@ -1,0 +1,29 @@
+{
+  "id": "phantom-sickle",
+  "name": "Phantom Sickle",
+  "slug": "phantom-sickle",
+  "sprite": "/items/phantom-sickle.png",
+  "itemType": "Dagger",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 900,
+  "description": "Notes Part of the Spectral Sentry Rogue Set.",
+  "stats": {
+    "damage": "265–345 (average: 305)",
+    "range": "4 tiles",
+    "rateOfFire": "45%",
+    "shots": "1 / 3 / 5",
+    "projectiles": "1 / 3 / 5"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/phantom-sickle"
+}

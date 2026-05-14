@@ -1,0 +1,37 @@
+{
+  "id": "falchion",
+  "name": "Falchion",
+  "slug": "falchion",
+  "sprite": "/items/falchion.png",
+  "itemType": "Sword",
+  "tier": "T4",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 17,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 22.",
+  "stats": {
+    "damage": "75–135 (average: 105)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Deathmage Chest",
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Mama Megamoth",
+    "Shambling Sludge",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/falchion"
+}

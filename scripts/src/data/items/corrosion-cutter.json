@@ -1,0 +1,34 @@
+{
+  "id": "corrosion-cutter",
+  "name": "Corrosion Cutter",
+  "slug": "corrosion-cutter",
+  "sprite": "/items/corrosion-cutter.png",
+  "itemType": "Dagger",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes This is an Alien Gear item.",
+  "stats": {
+    "damage": "150–170 (average: 160)",
+    "range": "5 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Acidus",
+    "Forax Satellite Core"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/corrosion-cutter"
+}

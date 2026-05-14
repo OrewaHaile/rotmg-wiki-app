@@ -1,0 +1,39 @@
+{
+  "id": "obsidian-dagger",
+  "name": "Obsidian Dagger",
+  "slug": "obsidian-dagger",
+  "sprite": "/items/obsidian-dagger.png",
+  "itemType": "Dagger",
+  "tier": "T6",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 35,
+  "description": "History This dagger was added in Build 65 (Jan 2010).",
+  "stats": {
+    "damage": "60–125 (average: 92.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Deathmage Chest",
+    "Cyclops God Chest",
+    "Ent Ancient",
+    "Ghost King",
+    "Lich",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/obsidian-dagger"
+}

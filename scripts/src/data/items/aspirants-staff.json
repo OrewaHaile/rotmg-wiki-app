@@ -1,0 +1,31 @@
+{
+  "id": "aspirants-staff",
+  "name": "Aspirant's Staff",
+  "slug": "aspirants-staff",
+  "sprite": "/items/aspirants-staff.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Before Exalt Version 4.0.0.0 (Aug 2023), this item was not soulbound.",
+  "stats": {
+    "damage": "75–120 (average: 97.5 / total: 165)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "Aspirant’s Set: This item can be further improved by inscribing it with an artifact from the Path of the Stalwart, Sniper, Swiftblade, or Magus."
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/aspirant-s-staff"
+}

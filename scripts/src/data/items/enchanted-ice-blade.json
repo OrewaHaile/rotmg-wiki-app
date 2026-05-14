@@ -1,0 +1,31 @@
+{
+  "id": "enchanted-ice-blade",
+  "name": "Enchanted Ice Blade",
+  "slug": "enchanted-ice-blade",
+  "sprite": "/items/enchanted-ice-blade.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 600,
+  "description": "Notes This sword is obtainable as a drop during Oryxmas events.",
+  "stats": {
+    "damage": "195–225 (average: 210)",
+    "range": "4.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Crystal Prisoner"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/enchanted-ice-blade"
+}

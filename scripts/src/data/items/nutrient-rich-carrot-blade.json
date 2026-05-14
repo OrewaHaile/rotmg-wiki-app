@@ -1,0 +1,29 @@
+{
+  "id": "nutrient-rich-carrot-blade",
+  "name": "Nutrient Rich Carrot Blade",
+  "slug": "nutrient-rich-carrot-blade",
+  "sprite": "/items/nutrient-rich-carrot-blade.png",
+  "itemType": "Sword",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 850,
+  "description": "Notes Part of the Fresh Carrot Paladin Set.",
+  "stats": {
+    "damage": "125–150 (average: 137.5 / total: 275)",
+    "range": "4 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/nutrient-rich-carrot-blade"
+}

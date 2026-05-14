@@ -1,0 +1,33 @@
+{
+  "id": "staff-of-extreme-prejudice",
+  "name": "Staff of Extreme Prejudice",
+  "slug": "staff-of-extreme-prejudice",
+  "sprite": "/items/staff-of-extreme-prejudice.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "Notes The Staff of Extreme Prejudice is an “odd”, unconventional staff with a unique fire pattern: It fires 10 bolts that shoot all around the user, spreading in a radial direction. While its nominal range of 4 is already far lower than other staves, its fire pattern reduces the true range even further, to the point of being practically 0.",
+  "stats": {
+    "damage": "95–110 (average: 102.5 / total: 1025)",
+    "range": "4.004 tiles",
+    "rateOfFire": "40%",
+    "shots": "10 (arc gap: 36°)",
+    "projectiles": "10 (arc gap: 36°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Limon the Sprite Goddess",
+    "Standard Quest Chest",
+    "Prismimic Attacker"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-extreme-prejudice"
+}

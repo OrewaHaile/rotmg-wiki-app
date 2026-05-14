@@ -1,0 +1,31 @@
+{
+  "id": "rod-of-radiance",
+  "name": "Rod of Radiance",
+  "slug": "rod-of-radiance",
+  "sprite": "/items/rod-of-radiance.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 650,
+  "description": "History Before Exalt Version 6.1.0.0 (Sep 2025), this item had Damage 145-180 (162.5).",
+  "stats": {
+    "damage": "150–190 (average: 170)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/rod-of-radiance"
+}

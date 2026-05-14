@@ -1,0 +1,33 @@
+{
+  "id": "royal-sekhem",
+  "name": "Royal Sekhem",
+  "slug": "royal-sekhem",
+  "sprite": "/items/royal-sekhem.png",
+  "itemType": "Spellblade",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "History Before Exalt Version 5.15.0.0 (Aug 2025), this item dealt 80-100 and 60-70 damage.",
+  "stats": {
+    "damage": "70–80 (average: 75)",
+    "range": "6.6 tiles",
+    "rateOfFire": "100%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "If Sunken Fire Opal Ring equipped: Fires 2 additional shots backwards every 0.4 seconds dealing 65-85 damage If Faded Heart Scarab equipped: Fires 2 additional shots towards your cursor every 0.4 seconds dealing 70 damage If Fractured Hannya equipped: Fires a burst of 6 additional shots towards your cursor every 0.8 seconds dealing 90 damage",
+    "Ignores defense of target Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [
+    "The Wanderer (Hidden Interregnum)",
+    "Interregnum Treasure Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/royal-sekhem"
+}

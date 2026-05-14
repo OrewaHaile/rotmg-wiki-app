@@ -1,0 +1,44 @@
+{
+  "id": "staff-of-necrotic-arcana",
+  "name": "Staff of Necrotic Arcana",
+  "slug": "staff-of-necrotic-arcana",
+  "sprite": "/items/staff-of-necrotic-arcana.png",
+  "itemType": "Staff",
+  "tier": "T9",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "3%",
+  "feedPower": 109,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 145.",
+  "stats": {
+    "damage": "60–110 (average: 85)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Avatar of the Forgotten King",
+    "Cube God",
+    "Genie",
+    "Ghost of Skuld",
+    "Kogbold Expedition Engine",
+    "Lord of the Lost Lands",
+    "Oryx the Mad God",
+    "Oryx the Mad God 2",
+    "Pentaract",
+    "Red Demon Chest",
+    "Skull Shrine",
+    "Standard Quest Chest",
+    "Stheno the Snake Queen"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-necrotic-arcana"
+}

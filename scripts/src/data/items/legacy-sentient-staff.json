@@ -1,0 +1,31 @@
+{
+  "id": "legacy-sentient-staff",
+  "name": "Legacy Sentient Staff",
+  "slug": "legacy-sentient-staff",
+  "sprite": "/items/legacy-sentient-staff.png",
+  "itemType": "Staff",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 500,
+  "description": "Notes The Legacy Sentinent Staff has the same average damage as the Staff of the Cosmic Whole but offers an additional +10 HP, +5 MP and +10 WIS. The additional stats are impressive, but the amplitude and frequency of the staff (similar to the Staff of Esben) make it a lot more challenging to hit enemies than with traditional staves. The shots form a sort of figure eight pattern with two convergence points, at roughly four and eight tiles distance, so if your targeted enemy can be safely maintained at either of these ranges the staff becomes more viable.",
+  "stats": {
+    "damage": "60–130 (average: 95)",
+    "range": "8.295 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "+10 HP, +5 MP, +10 WIS"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legacy-sentient-staff"
+}

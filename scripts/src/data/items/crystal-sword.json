@@ -1,0 +1,31 @@
+{
+  "id": "crystal-sword",
+  "name": "Crystal Sword",
+  "slug": "crystal-sword",
+  "sprite": "/items/crystal-sword.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 600,
+  "description": "Notes The Crystal Sword is a utility weapon with the highest practical range of non-vanity swords, one tile higher than tiered options. The Pixie-Enchanted Sword and Divinity’s beams have higher range but do not hit all shots at that range. It exchanges damage in the process, being even weaker than the T8 Ravenheart Sword. Despite being noticably weaker, CSword allows players to more easily hit dangerous-to-approach enemies like Oryx the Mad God 2.",
+  "stats": {
+    "damage": "195–225 (average: 210)",
+    "range": "4.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Crystal Prisoner"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/crystal-sword"
+}

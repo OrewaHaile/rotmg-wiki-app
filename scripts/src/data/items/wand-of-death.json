@@ -1,0 +1,45 @@
+{
+  "id": "wand-of-death",
+  "name": "Wand of Death",
+  "slug": "wand-of-death",
+  "sprite": "/items/wand-of-death.png",
+  "itemType": "Wand",
+  "tier": "T8",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "2%",
+  "feedPower": 75,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this item dealt 80-125 damage.",
+  "stats": {
+    "damage": "115–155 (average: 135)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Cube God",
+    "Cyclops God Chest",
+    "Genie",
+    "Ghost King",
+    "Kogbold Expedition Engine",
+    "Lair Mummy Pharaoh",
+    "Lair Skeleton King",
+    "Pentaract",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Skull Shrine"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wand-of-death"
+}

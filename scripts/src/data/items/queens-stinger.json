@@ -1,0 +1,34 @@
+{
+  "id": "queens-stinger",
+  "name": "Queen's Stinger",
+  "slug": "queens-stinger",
+  "sprite": "/items/queens-stinger.png",
+  "itemType": "Dagger",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes The Queen’s Stinger is the only dagger in the game that both completely ignores the defense of the target and pierces through enemies. As a result, this dagger is useful in Tombs and The Shatters where high defense enemies are found. It is also effective at realm events such as the Cube God or Skull Shrine where it can be used to shred through large swarms of satellite minions.",
+  "stats": {
+    "damage": "150–170 (average: 160)",
+    "range": "5 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Killer Bee Queen",
+    "Honeyed Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/queen-s-stinger"
+}

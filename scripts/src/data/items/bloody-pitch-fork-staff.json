@@ -1,0 +1,31 @@
+{
+  "id": "bloody-pitch-fork-staff",
+  "name": "Bloody Pitch Fork Staff",
+  "slug": "bloody-pitch-fork-staff",
+  "sprite": "/items/bloody-pitch-fork-staff.png",
+  "itemType": "Staff",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 800,
+  "description": "Notes Part of the Globular Necromancer Set.",
+  "stats": {
+    "damage": "60–70 (average: 65)",
+    "range": "5.89 tiles",
+    "rateOfFire": "150%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "Shots pass through obstacles Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bloody-pitch-fork-staff"
+}

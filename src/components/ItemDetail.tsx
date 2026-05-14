@@ -2,28 +2,24 @@ import { ExternalLink, ArrowLeft, Pencil } from "lucide-react";
 import { Link } from "wouter";
 
 interface Item {
-  id: number;
+  id: string;
   name: string;
   slug: string;
-  spriteUrl: string;
+  category?: string;
+  sprite: string;
   itemType: string;
   tier: string;
   bagType: string;
-  soulbound: boolean;
-  fameBonus: string | number;
-  feedPower: string | number;
-  description: string;
-  stats: Record<string, string | number>;
-  shots: string | number;
-  projectiles: string | number;
-  rateOfFire: string | number;
-  damage: string | number;
-  range: string | number;
-  effects: string[];
-  usableClasses: string[];
-  dropsFrom: string[];
-  notes: string;
-  sourceUrl: string;
+  soulbound?: boolean;
+  fameBonus?: string | number | null;
+  feedPower?: string | number | null;
+  description?: string;
+  stats?: Record<string, string | number | null>;
+  effects?: string[];
+  usableClasses?: string[];
+  dropsFrom?: string[];
+  notes?: string;
+  sourceUrl?: string;
 }
 
 const bagColors: Record<string, string> = {
@@ -35,13 +31,13 @@ const bagColors: Record<string, string> = {
   Brown: "text-stone-300",
 };
 
-function StatRow({ label, value }: { label: string; value: string | number }) {
-  const isUnknown = value === "Unknown" || value === undefined || value === null;
+function StatRow({ label, value }: { label: string; value: string | number | null | undefined }) {
+  const isEmpty = value === "Unknown" || value === undefined || value === null || value === "";
   return (
     <div className="flex justify-between items-center py-1.5 border-b border-stone-800/60 last:border-0">
       <span className="text-stone-400 text-sm">{label}</span>
-      <span className={`text-sm font-medium ${isUnknown ? "text-stone-600 italic" : "text-amber-200"}`}>
-        {String(value ?? "Unknown")}
+      <span className={`text-sm font-medium ${isEmpty ? "text-stone-600 italic" : "text-amber-200"}`}>
+        {isEmpty ? "—" : String(value)}
       </span>
     </div>
   );
@@ -57,6 +53,7 @@ function SectionTitle({ children }: { children: React.ReactNode }) {
 
 export default function ItemDetail({ item }: { item: Item }) {
   const bagColor = bagColors[item.bagType] ?? "text-stone-300";
+  const stats = item.stats ?? {};
 
   return (
     <div className="max-w-lg mx-auto">
@@ -80,7 +77,7 @@ export default function ItemDetail({ item }: { item: Item }) {
           <div className="flex items-center gap-4">
             <div className="w-20 h-20 bg-stone-800/80 border border-amber-800/40 rounded-lg flex items-center justify-center shrink-0">
               <img
-                src={item.spriteUrl}
+                src={item.sprite}
                 alt={item.name}
                 className="w-14 h-14 object-contain"
                 style={{ imageRendering: "pixelated" }}
@@ -94,12 +91,16 @@ export default function ItemDetail({ item }: { item: Item }) {
               <h1 className="text-lg font-bold text-amber-100 leading-tight">{item.name}</h1>
               <p className="text-stone-400 text-sm mt-0.5">{item.itemType}</p>
               <div className="flex flex-wrap gap-1.5 mt-2">
-                <span className="text-xs font-bold text-amber-500 bg-amber-950/60 border border-amber-800/40 px-2 py-0.5 rounded">
-                  {item.tier}
-                </span>
-                <span className={`text-xs font-medium ${bagColor} bg-stone-800/60 border border-stone-700/40 px-2 py-0.5 rounded`}>
-                  {item.bagType} Bag
-                </span>
+                {item.tier && (
+                  <span className="text-xs font-bold text-amber-500 bg-amber-950/60 border border-amber-800/40 px-2 py-0.5 rounded">
+                    {item.tier}
+                  </span>
+                )}
+                {item.bagType && (
+                  <span className={`text-xs font-medium ${bagColor} bg-stone-800/60 border border-stone-700/40 px-2 py-0.5 rounded`}>
+                    {item.bagType} Bag
+                  </span>
+                )}
                 {item.soulbound && (
                   <span className="text-xs text-red-400 bg-red-950/40 border border-red-800/30 px-2 py-0.5 rounded">
                     Soulbound
@@ -116,18 +117,20 @@ export default function ItemDetail({ item }: { item: Item }) {
           )}
         </div>
 
-        <div className="px-4 py-4 space-y-1">
-          <SectionTitle>Combat Stats</SectionTitle>
-          <div className="bg-stone-900/60 rounded-lg px-3 py-1">
-            <StatRow label="Damage" value={item.damage} />
-            <StatRow label="Range" value={item.range} />
-            <StatRow label="Rate of Fire" value={item.rateOfFire} />
-            <StatRow label="Shots" value={item.shots} />
-            <StatRow label="Projectiles" value={item.projectiles} />
+        <div className="px-4 py-4 space-y-3">
+          <div>
+            <SectionTitle>Combat Stats</SectionTitle>
+            <div className="bg-stone-900/60 rounded-lg px-3 py-1">
+              <StatRow label="Damage" value={stats.damage} />
+              <StatRow label="Range" value={stats.range} />
+              <StatRow label="Rate of Fire" value={stats.rateOfFire} />
+              <StatRow label="Shots" value={stats.shots} />
+              <StatRow label="Projectiles" value={stats.projectiles} />
+            </div>
           </div>
 
           {item.effects && item.effects.length > 0 && (
-            <>
+            <div>
               <SectionTitle>Effects</SectionTitle>
               <div className="bg-stone-900/60 rounded-lg px-3 py-2 space-y-1">
                 {item.effects.map((effect, i) => (
@@ -139,17 +142,19 @@ export default function ItemDetail({ item }: { item: Item }) {
                   </div>
                 ))}
               </div>
-            </>
+            </div>
           )}
 
-          <SectionTitle>Item Info</SectionTitle>
-          <div className="bg-stone-900/60 rounded-lg px-3 py-1">
-            <StatRow label="Fame Bonus" value={item.fameBonus} />
-            <StatRow label="Feed Power" value={item.feedPower} />
+          <div>
+            <SectionTitle>Item Info</SectionTitle>
+            <div className="bg-stone-900/60 rounded-lg px-3 py-1">
+              <StatRow label="Fame Bonus" value={item.fameBonus} />
+              <StatRow label="Feed Power" value={item.feedPower} />
+            </div>
           </div>
 
           {item.usableClasses && item.usableClasses.length > 0 && (
-            <>
+            <div>
               <SectionTitle>Usable By</SectionTitle>
               <div className="flex flex-wrap gap-1.5">
                 {item.usableClasses.map((cls) => (
@@ -161,11 +166,11 @@ export default function ItemDetail({ item }: { item: Item }) {
                   </span>
                 ))}
               </div>
-            </>
+            </div>
           )}
 
           {item.dropsFrom && item.dropsFrom.length > 0 && (
-            <>
+            <div>
               <SectionTitle>Drops From</SectionTitle>
               <div className="flex flex-wrap gap-1.5">
                 {item.dropsFrom.map((source) => (
@@ -177,16 +182,16 @@ export default function ItemDetail({ item }: { item: Item }) {
                   </span>
                 ))}
               </div>
-            </>
+            </div>
           )}
 
           {item.notes && (
-            <>
+            <div>
               <SectionTitle>Notes</SectionTitle>
               <p className="text-stone-400 text-xs leading-relaxed bg-stone-900/60 rounded-lg px-3 py-2">
                 {item.notes}
               </p>
-            </>
+            </div>
           )}
 
           {item.sourceUrl && (
