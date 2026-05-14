@@ -1,0 +1,35 @@
+{
+  "id": "elder-heartwood-staff",
+  "name": "Elder Heartwood Staff",
+  "slug": "elder-heartwood-staff",
+  "sprite": "/items/elder-heartwood-staff.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "History Introduced in Exalt Version 5.11.0.0 (May 2025).",
+  "stats": {
+    "damage": "60–115 (average: 87.5)",
+    "range": "9.6 tiles",
+    "rateOfFire": "160%",
+    "shots": "2 (arc gap: 11.25°)",
+    "projectiles": "2 (arc gap: 11.25°)"
+  },
+  "effects": [
+    "+4 WIS"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Murderous Megamoth",
+    "Swarm Tree",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/elder-heartwood-staff"
+}

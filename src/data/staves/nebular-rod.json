@@ -1,0 +1,32 @@
+{
+  "id": "nebular-rod",
+  "name": "Nebular Rod",
+  "slug": "nebular-rod",
+  "sprite": "/items/nebular-rod.png",
+  "itemType": "Staff",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 750,
+  "description": "Notes Part of the Astral Arcanist Set",
+  "stats": {
+    "damage": "90–115 (average: 102.5)",
+    "range": "7.26 tiles",
+    "rateOfFire": "16% / 20%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "Shots pass through obstacles",
+    "Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/nebular-rod"
+}

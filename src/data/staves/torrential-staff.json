@@ -1,0 +1,42 @@
+{
+  "id": "torrential-staff",
+  "name": "Torrential Staff",
+  "slug": "torrential-staff",
+  "sprite": "/items/torrential-staff.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This staff shoots a wall of bullets that slightly converge. That makes it practically impossible to land more than 2 bullets into a single target from any range.",
+  "stats": {
+    "damage": "100–130 (average: 115)",
+    "range": "6 tiles",
+    "rateOfFire": "60%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets",
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Enchanted Turtle",
+    "Flying Seahorse",
+    "Haunted Treasure",
+    "Leviathan",
+    "Maiden of the Sea",
+    "Rampant Walrus",
+    "Silvery Narwhal",
+    "Smelly Octopus"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/torrential-staff"
+}

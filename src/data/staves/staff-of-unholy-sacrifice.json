@@ -1,0 +1,32 @@
+{
+  "id": "staff-of-unholy-sacrifice",
+  "name": "Staff of Unholy Sacrifice",
+  "slug": "staff-of-unholy-sacrifice",
+  "sprite": "/items/staff-of-unholy-sacrifice.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Upon first glance, this staff appears to be blatantly overpowered. It shoots 4 projectiles in a cone dealing enormous damage, while also piercing through targets at a large range.",
+  "stats": {
+    "damage": "155–185 (average: 170 / total: 680)",
+    "range": "8.05 tiles",
+    "rateOfFire": "55%",
+    "shots": "4 (arc gap: 13°)",
+    "projectiles": "4 (arc gap: 13°)"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Necromancer"
+  ],
+  "dropsFrom": [
+    "Malus",
+    "Cultish Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-unholy-sacrifice"
+}

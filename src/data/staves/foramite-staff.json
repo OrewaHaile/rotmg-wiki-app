@@ -1,0 +1,34 @@
+{
+  "id": "foramite-staff",
+  "name": "Foramite Staff",
+  "slug": "foramite-staff",
+  "sprite": "/items/foramite-staff.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes This is an Alien Gear item.",
+  "stats": {
+    "damage": "65–90 (average: 77.5)",
+    "range": "7 tiles",
+    "rateOfFire": "80%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Neo Hunger",
+    "Neo Larveye",
+    "Acidus",
+    "Forax Satellite Core"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/foramite-staff"
+}

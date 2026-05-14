@@ -1,0 +1,41 @@
+{
+  "id": "bogwood-crook",
+  "name": "Bogwood Crook",
+  "slug": "bogwood-crook",
+  "sprite": "/items/bogwood-crook.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes Behaves similarly like bows, with the damaging projectile in the center and two weak armor piercing shots on the sides.",
+  "stats": {
+    "damage": "40–65 (average: 52.5)",
+    "range": "7.803 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "Shots pass through obstacles",
+    "Shots pass through obstacles Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Heart of the Wetlands",
+    "Warped Ent Ancient",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bogwood-crook",
+  "category": "staves",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T19:14:12.315Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "vigor",
+  "name": "Vigor",
+  "slug": "vigor",
+  "sprite": "/items/vigor.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes Analagous to the Soul’s Guidance wand, this staff has a chance to create a spirit per shot. Spirits will zap the nearest enemy over their lifetime.",
+  "stats": {
+    "damage": "80–100 (average: 90)",
+    "range": "7 tiles",
+    "rateOfFire": "80%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "On Shoot: 5% chance to release a Festival SpiritFestival Spirit: 250 dmg every 1.6sFinal Explosion: 250 dmg after 8.0s"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/vigor"
+}

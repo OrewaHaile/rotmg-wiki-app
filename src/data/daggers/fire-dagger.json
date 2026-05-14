@@ -1,0 +1,43 @@
+{
+  "id": "fire-dagger",
+  "name": "Fire Dagger",
+  "slug": "fire-dagger",
+  "sprite": "/items/fire-dagger.png",
+  "itemType": "Dagger",
+  "tier": "T8",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "2%",
+  "feedPower": 75,
+  "description": "History This item originally had a range of 8.4, however when Cloaks were added in Build 97 (June 2010), its range was lowered.",
+  "stats": {
+    "damage": "85–155 (average: 120)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Cube God",
+    "Cyclops God Chest",
+    "Genie",
+    "Ghost King",
+    "Kogbold Expedition Engine",
+    "Lair Mummy Pharaoh",
+    "Lair Skeleton King",
+    "Pentaract",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Skull Shrine"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fire-dagger"
+}

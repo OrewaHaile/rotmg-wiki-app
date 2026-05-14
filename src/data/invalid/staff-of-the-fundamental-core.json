@@ -1,0 +1,37 @@
+{
+  "id": "staff-of-the-fundamental-core",
+  "name": "Staff of the Fundamental Core",
+  "slug": "staff-of-the-fundamental-core",
+  "sprite": "/items/staff-of-the-fundamental-core.png",
+  "itemType": "Staff",
+  "tier": "T14",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 950,
+  "description": "Notes The strongest tiered staff, making it the definitive end-game equip on any staff class. It is especially an appreciable upgrade over the T13 Staff of the Vital Unity, sporting +15 minimum damage and +5 maximum damage for +10 average damage, the biggest jump in power since the increase from T6 to T7 staff (+12.5 average damage). While a few UT staves can outdamage it in certain situations, this staff combines high damage, high range, and ease of use.",
+  "stats": {
+    "damage": "90–135 (average: 112.5)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 3",
+    "Kitsune Umi"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-the-fundamental-core",
+  "category": "staves",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T19:13:54.781Z"
+}

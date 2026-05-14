@@ -1,0 +1,32 @@
+{
+  "id": "dagger-of-dire-hatred",
+  "name": "Dagger of Dire Hatred",
+  "slug": "dagger-of-dire-hatred",
+  "sprite": "/items/dagger-of-dire-hatred.png",
+  "itemType": "Dagger",
+  "tier": "T14",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 950,
+  "description": "Notes The end-game “jack of all trades, master of none” dagger. While lacking in DPS compared to other choices, this dagger’s versatile nature allows it to excel in situations where range and accuracy matters the most.",
+  "stats": {
+    "damage": "140–235 (average: 187.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 3",
+    "Kitsune Umi"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dagger-of-dire-hatred"
+}

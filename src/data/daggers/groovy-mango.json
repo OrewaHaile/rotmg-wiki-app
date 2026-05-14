@@ -1,0 +1,31 @@
+{
+  "id": "groovy-mango",
+  "name": "Groovy Mango",
+  "slug": "groovy-mango",
+  "sprite": "/items/groovy-mango.png",
+  "itemType": "Dagger",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 833,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "250–300 (average: 275)",
+    "range": "6 tiles",
+    "rateOfFire": "75%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Null"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/groovy-mango"
+}

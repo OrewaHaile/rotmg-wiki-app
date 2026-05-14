@@ -1,0 +1,34 @@
+{
+  "id": "s-t-a-f-f",
+  "name": "S.T.A.F.F.",
+  "slug": "s-t-a-f-f",
+  "sprite": "/items/s-t-a-f-f.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 950,
+  "description": "Notes A unique weapon that was one of two introduced to showcase the new burst-fire function (along with B.O.W.), which causes the weapon to fire a certain number of shots before needing to pause for a certain amount of time. The time between the bursts can be decreased (up to a cap) through anything that increases fire rate, such as DEX or the Berserk buff.",
+  "stats": {
+    "damage": "130–240 (average: 185)",
+    "range": "7.78 tiles",
+    "rateOfFire": "135%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "Burst Count: 5 Maximum Burst Delay: 1.8 seconds Minimum Burst Delay: 1 second Shots face direction"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "F.E.R.A.L.",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/s-t-a-f-f"
+}

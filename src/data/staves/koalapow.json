@@ -1,0 +1,32 @@
+{
+  "id": "koalapow",
+  "name": "KoalaPOW",
+  "slug": "koalapow",
+  "sprite": "/items/koalapow.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 0,
+  "description": "Notes The KoalaPOW is a drop in the Battle for the Nexus dungeon, which was released for a limited time in September 2013 and occasionally reappears during events.",
+  "stats": {
+    "damage": "40–40 (average: 40 / total: 240)",
+    "range": "4 tiles",
+    "rateOfFire": "40%",
+    "shots": "6 (arc gap: 36°)",
+    "projectiles": "6 (arc gap: 36°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God Deux",
+    "Murderous Megamoth Deux"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/koalapow"
+}

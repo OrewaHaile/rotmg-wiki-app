@@ -1,0 +1,37 @@
+{
+  "id": "forge",
+  "name": "Forge",
+  "slug": "forge",
+  "sprite": "/items/forge.png",
+  "itemType": "Staff",
+  "tier": "Items",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "This page is currently a work in progress.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/forge",
+  "category": "staves",
+  "invalidReasons": [
+    "invalid stats: damage",
+    "invalid stats: shots",
+    "invalid stats: rate of fire",
+    "invalid stats: range"
+  ],
+  "importedAt": "2026-05-14T19:14:19.355Z"
+}

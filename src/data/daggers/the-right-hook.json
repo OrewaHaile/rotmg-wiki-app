@@ -1,0 +1,34 @@
+{
+  "id": "the-right-hook",
+  "name": "The Right Hook",
+  "slug": "the-right-hook",
+  "sprite": "/items/the-right-hook.png",
+  "itemType": "Dagger",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 950,
+  "description": "Notes As the name implies, the projectiles only shoot from the right of the character with an arc similar to the Avarice. This can be considered a sidegrade to the Carved Golem Remains; it has the same projectile speed, lifetime and range.",
+  "stats": {
+    "damage": "215–315 (average: 265)",
+    "range": "6.09 tiles",
+    "rateOfFire": "65%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+6 VIT"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Bradley the Barkeep",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/the-right-hook"
+}

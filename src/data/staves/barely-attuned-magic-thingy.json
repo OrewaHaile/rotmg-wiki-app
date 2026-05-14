@@ -1,0 +1,31 @@
+{
+  "id": "barely-attuned-magic-thingy",
+  "name": "Barely Attuned Magic Thingy",
+  "slug": "barely-attuned-magic-thingy",
+  "sprite": "/items/barely-attuned-magic-thingy.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 0,
+  "description": "Notes This item, while useless at first glance, serves the important function of changing Superior’s shot pattern, making it so the Superior’s shots converge at the maximum range rather than the regular true range. This is because it is one of two tradable staves with an odd number of shots (the other being Anatis Staff).",
+  "stats": {
+    "damage": "10–20 (average: 15 / total: 105)",
+    "range": "5 tiles",
+    "rateOfFire": "30%",
+    "shots": "7 (arc gap: 90°)",
+    "projectiles": "7 (arc gap: 90°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Mad God Mayhem Bosses"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/barely-attuned-magic-thingy"
+}

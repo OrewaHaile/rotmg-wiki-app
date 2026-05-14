@@ -1,0 +1,32 @@
+{
+  "id": "staff-of-iceblast",
+  "name": "Staff of Iceblast",
+  "slug": "staff-of-iceblast",
+  "sprite": "/items/staff-of-iceblast.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "Notes The Staff of Iceblast, as a reskin of the Staff of Extreme Prejudice should be used like you would use a regular EP (Extreme Prejudice), by sitting with precision on things that are not dangerous to get close to like test chests, Dr. Terrible and Tomb Sarcophagi.",
+  "stats": {
+    "damage": "95–110 (average: 102.5 / total: 1025)",
+    "range": "4.004 tiles",
+    "rateOfFire": "40%",
+    "shots": "10 (arc gap: 36°)",
+    "projectiles": "10 (arc gap: 36°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Permafrost Lord",
+    "Snowy the Frost God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-iceblast"
+}

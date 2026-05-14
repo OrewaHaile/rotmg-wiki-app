@@ -1,0 +1,36 @@
+{
+  "id": "screwdriver-staff",
+  "name": "Screwdriver Staff",
+  "slug": "screwdriver-staff",
+  "sprite": "/items/screwdriver-staff.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Notes This is a Construction Gear item.",
+  "stats": {
+    "damage": "70–120 (average: 95)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "+2 VIT"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/screwdriver-staff",
+  "category": "staves",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T19:14:42.497Z"
+}

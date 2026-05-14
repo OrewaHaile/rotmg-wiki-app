@@ -1,0 +1,40 @@
+{
+  "id": "staff-of-esben",
+  "name": "Staff of Esben",
+  "slug": "staff-of-esben",
+  "sprite": "/items/staff-of-esben.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Its main use is that it is one of only four staves that hits multiple targets (excluding the vanity Staff of the Saint), making it good for clearing hordes of enemies or to clear walls such those from the Snake Pit or Oryx’s Castle. With the introduction of Spellblades, however, it has lost some of its usefulness, as all Spellblades possess partial piercing, and are considerably easier to aim (at the cost of having reduced range).",
+  "stats": {
+    "damage": "1500-1800 (1650) (+12 per DEF over 10)",
+    "range": "8.4 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "On shoot with full meter: Dazed self for one second and conjur a manifestation dealing 1500-1800 damage Manifestation Scaling: Gains 12 damage per defense over 10 Shots hit multiple targets",
+    "+3 DEF",
+    "Vulnerable: Targets receive 108% damage for 3 seconds after being hit.Hitbox Size: 1.3 tiles Shots hit multiple targets Shots pass through obstacles Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer"
+  ],
+  "dropsFrom": [
+    "Esben the Neurotic",
+    "Citadel Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-esben",
+  "category": "staves",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T19:14:04.770Z"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "frostfall-rod",
+  "name": "Frostfall Rod",
+  "slug": "frostfall-rod",
+  "sprite": "/items/frostfall-rod.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "History This item was added to the game in Exalt Version 6.5.0.0 (Jan 2026).",
+  "stats": {
+    "damage": "200–240 (average: 220 / total: 1100)",
+    "range": "7 tiles",
+    "rateOfFire": "110%",
+    "shots": "5",
+    "projectiles": "5"
+  },
+  "effects": [
+    "Burst Count: 5 Burst Delay: 1.8 seconds Minimum Burst Delay: 1.8 seconds Circular Motion after: 0.4 seconds Turns before circling: 75 degrees Shots hit multiple targets Ignores defense of target",
+    "+6 WIS"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Jotunn",
+    "The Forgotten King",
+    "Malus"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/frostfall-rod"
+}

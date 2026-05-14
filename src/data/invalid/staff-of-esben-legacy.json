@@ -1,0 +1,39 @@
+{
+  "id": "staff-of-esben-legacy",
+  "name": "Staff of Esben Legacy",
+  "slug": "staff-of-esben-legacy",
+  "sprite": "/items/staff-of-esben-legacy.png",
+  "itemType": "Staff",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Its main use is that it is one of only four staves that hits multiple targets (excluding the vanity Staff of the Saint), making it good for clearing hordes of enemies or to clear walls such those from the Snake Pit or Oryx’s Castle. With the introduction of Spellblades, however, it has lost some of its usefulness, as all Spellblades possess partial piercing, and are considerably easier to aim (at the cost of having reduced range).",
+  "stats": {
+    "damage": "70–105 (average: 87.5)",
+    "range": "8.4 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "+3 SPD"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Esben the Unwilling"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-esben-legacy",
+  "category": "staves",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T19:14:45.221Z"
+}

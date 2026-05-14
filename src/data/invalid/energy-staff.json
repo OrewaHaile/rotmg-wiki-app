@@ -1,0 +1,34 @@
+{
+  "id": "energy-staff",
+  "name": "Energy Staff",
+  "slug": "energy-staff",
+  "sprite": "/items/energy-staff.png",
+  "itemType": "Staff",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter weapon for staff classes. It does not drop from enemies.",
+  "stats": {
+    "damage": "10–30 (average: 20)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/energy-staff",
+  "category": "staves",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T19:13:45.529Z"
+}

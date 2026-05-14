@@ -1,0 +1,32 @@
+{
+  "id": "staff-of-the-rising-sun",
+  "name": "Staff of the Rising Sun",
+  "slug": "staff-of-the-rising-sun",
+  "sprite": "/items/staff-of-the-rising-sun.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 450,
+  "description": "Notes This is a reskinned version of T12 Staff of the Cosmic Whole, released during the June 2014 Month of the Mad God event. During the event, the item dropped in the same locations as its tiered equivalent.",
+  "stats": {
+    "damage": "70–120 (average: 95)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-the-rising-sun",
+  "category": "staves",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T19:14:40.530Z"
+}

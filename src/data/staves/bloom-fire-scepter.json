@@ -1,0 +1,36 @@
+{
+  "id": "bloom-fire-scepter",
+  "name": "Bloom-Fire Scepter",
+  "slug": "bloom-fire-scepter",
+  "sprite": "/items/bloom-fire-scepter.png",
+  "itemType": "Scepter",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This staff shoots a wall of bullets that slightly converge. That makes it practically impossible to land more than 2 bullets into a single target from any range.",
+  "stats": {
+    "damage": "100–130 (average: 115)",
+    "range": "6 tiles",
+    "rateOfFire": "60%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets",
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Eternal Phoenix (Easy)",
+    "Eternal Phoenix (Hard)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bloom-fire-scepter"
+}

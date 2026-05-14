@@ -1,0 +1,38 @@
+{
+  "id": "spectral-jailer",
+  "name": "Spectral Jailer",
+  "slug": "spectral-jailer",
+  "sprite": "/items/spectral-jailer.png",
+  "itemType": "Staff",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "The Spectral Jailer is a powerful and rare enemy that can spawn in any Veteran Biome in The Realm.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spectral-jailer",
+  "category": "staves",
+  "invalidReasons": [
+    "invalid tier",
+    "invalid stats: damage",
+    "invalid stats: shots",
+    "invalid stats: rate of fire",
+    "invalid stats: range"
+  ],
+  "importedAt": "2026-05-14T19:14:15.838Z"
+}

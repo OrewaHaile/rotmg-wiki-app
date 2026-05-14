@@ -1,0 +1,43 @@
+{
+  "id": "mithril-dagger",
+  "name": "Mithril Dagger",
+  "slug": "mithril-dagger",
+  "sprite": "/items/mithril-dagger.png",
+  "itemType": "Dagger",
+  "tier": "T7",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "1%",
+  "feedPower": 53,
+  "description": "History This dagger was added in Build 65 (Jan 2010).",
+  "stats": {
+    "damage": "70–140 (average: 105)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Archdemon Malphas",
+    "Cyclops God Chest",
+    "Ent Ancient",
+    "Ghost King",
+    "Lich",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest",
+    "Red Demon",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Stone Guardians"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mithril-dagger"
+}

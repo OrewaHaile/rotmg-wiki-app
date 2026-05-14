@@ -1,0 +1,31 @@
+{
+  "id": "spirit-dagger",
+  "name": "Spirit Dagger",
+  "slug": "spirit-dagger",
+  "sprite": "/items/spirit-dagger.png",
+  "itemType": "Dagger",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes The Spirit Dagger has a higher average DPS than the T12 Dagger of Foul Malevolence, but it has slightly lower range, less reliable damage, and minor amplitude. For this reason it should be seen as a sidegrade to the dagger–not necessarily better or worse.",
+  "stats": {
+    "damage": "50–280 (average: 165)",
+    "range": "5.2 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Davy Jones",
+    "Sunken Treasure",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spirit-dagger"
+}

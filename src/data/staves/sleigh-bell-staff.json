@@ -1,0 +1,33 @@
+{
+  "id": "sleigh-bell-staff",
+  "name": "Sleigh Bell Staff",
+  "slug": "sleigh-bell-staff",
+  "sprite": "/items/sleigh-bell-staff.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Similarly to Tezcacoatl’s Tail, this staff possesses the second highest damage per shot of any staff and is the second staff to ignore its target’s defense.",
+  "stats": {
+    "damage": "205–290 (average: 247.5)",
+    "range": "8.4 tiles",
+    "rateOfFire": "150%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Burst Count: 4 Burst Delay: 1.8 seconds Minimum Burst Delay 0.8 seconds Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Jack Frost"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sleigh-bell-staff"
+}

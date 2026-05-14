@@ -1,0 +1,36 @@
+{
+  "id": "staff-of-silver-wings",
+  "name": "Staff of Silver Wings",
+  "slug": "staff-of-silver-wings",
+  "sprite": "/items/staff-of-silver-wings.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Notes This is an Antinomy Gear item. It is a reskin of Staff of the Cosmic Whole with an extra 2 attack on equip.",
+  "stats": {
+    "damage": "70–120 (average: 95 / total: 160)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "+2 ATT"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-silver-wings",
+  "category": "staves",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T19:14:43.140Z"
+}

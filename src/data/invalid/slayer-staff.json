@@ -1,0 +1,44 @@
+{
+  "id": "slayer-staff",
+  "name": "Slayer Staff",
+  "slug": "slayer-staff",
+  "sprite": "/items/slayer-staff.png",
+  "itemType": "Staff",
+  "tier": "T5",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 24,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 32.",
+  "stats": {
+    "damage": "40–65 (average: 52.5)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Arachna the Spider Queen",
+    "Beginner Quest Chest",
+    "Deathmage Chest",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest",
+    "Queen Bee"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/slayer-staff",
+  "category": "staves",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T19:13:48.868Z"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "bounty-hunters-dagger",
+  "name": "Bounty Hunter's Dagger",
+  "slug": "bounty-hunters-dagger",
+  "sprite": "/items/bounty-hunters-dagger.png",
+  "itemType": "Dagger",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "Notes The Bounty Hunter’s Dagger fires a tight spread of shots rather than a single bullet, and has the unique ability to shoot through obstacles. Its average damage per shot is the same as a T7 Mithril Dagger, but landing all 3 shots deals significantly more damage, though it has a lowered fire rate and slightly shorter range to compensate.",
+  "stats": {
+    "damage": "75–135 (average: 105 / total: 315)",
+    "range": "5.32 tiles",
+    "rateOfFire": "65%",
+    "shots": "3 (arc gap: 5°)",
+    "projectiles": "3 (arc gap: 5°)"
+  },
+  "effects": [
+    "Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bounty-hunter-s-dagger"
+}

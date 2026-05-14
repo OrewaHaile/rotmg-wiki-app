@@ -1,0 +1,44 @@
+{
+  "id": "avenger-staff",
+  "name": "Avenger Staff",
+  "slug": "avenger-staff",
+  "sprite": "/items/avenger-staff.png",
+  "itemType": "Staff",
+  "tier": "T6",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 35,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 47.",
+  "stats": {
+    "damage": "45–85 (average: 65)",
+    "range": "8.55 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Realm Gods",
+    "Deathmage Chest",
+    "Cyclops God Chest",
+    "Ent Ancient",
+    "Ghost King",
+    "Lich",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/avenger-staff",
+  "category": "staves",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-14T19:13:49.527Z"
+}

@@ -1,1 +1,12 @@
-{"totalImported":0,"duplicates":0,"invalid":0,"categories":{"daggers":0,"swords":0,"wands":0,"staves":0,"spellblades":0}}
+{
+  "totalImported": 56,
+  "duplicates": 0,
+  "invalid": 16,
+  "categories": {
+    "daggers": 20,
+    "swords": 0,
+    "wands": 0,
+    "staves": 36,
+    "spellblades": 0
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "id": "staff-of-the-saint",
+  "name": "Staff of the Saint",
+  "slug": "staff-of-the-saint",
+  "sprite": "/items/staff-of-the-saint.png",
+  "itemType": "Staff",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 100,
+  "description": "History Released in Patch X.32.7.1 (Mar 2020).",
+  "stats": {
+    "damage": "5–15 (average: 10)",
+    "range": "4.5 tiles",
+    "rateOfFire": "150%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer",
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Pot of Gold",
+    "Yellow Leprechaun"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/staff-of-the-saint"
+}
