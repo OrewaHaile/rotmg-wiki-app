@@ -1,0 +1,37 @@
+{
+  "id": "supernatural-staff",
+  "name": "Supernatural Staff",
+  "slug": "supernatural-staff",
+  "sprite": "/items/supernatural-staff.png",
+  "itemType": "Staff",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes Part of the Paranormal Wizard Set.",
+  "stats": {
+    "damage": "175–210 (average: 192.5)",
+    "range": "6.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Mystic",
+    "Necromancer"
+  ],
+  "dropsFrom": [
+    "The Forgotten King",
+    "Event Chests"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/supernatural-staff",
+  "category": "staves",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-15T13:50:36.021Z"
+}

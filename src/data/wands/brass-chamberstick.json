@@ -1,0 +1,33 @@
+{
+  "id": "brass-chamberstick",
+  "name": "Brass Chamberstick",
+  "slug": "brass-chamberstick",
+  "sprite": "/items/brass-chamberstick.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes This wand has the second longest range of any weapon in the game, behind the B.O.W. Due to this, certain bosses, such as Bes, Nut, and Geb in the Tomb of the Ancients, can be sniped from a safe distance.",
+  "stats": {
+    "damage": "95–125 (average: 110 / total: 220)",
+    "range": "10.72 tiles (true range: 5.71 tiles)",
+    "rateOfFire": "150%",
+    "shots": "2 (arc gap: 10°)",
+    "projectiles": "2 (arc gap: 10°)"
+  },
+  "effects": [
+    "Burst Count: 2 Burst Delay: 0.8 seconds Minimum Burst Delay 0.4 seconds Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Jack Frost"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/brass-chamberstick"
+}

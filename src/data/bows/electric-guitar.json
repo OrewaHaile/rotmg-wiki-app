@@ -1,0 +1,31 @@
+{
+  "id": "electric-guitar",
+  "name": "Electric Guitar",
+  "slug": "electric-guitar",
+  "sprite": "/items/electric-guitar.png",
+  "itemType": "Bow",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": null,
+  "description": "Notes Part of the Demon Guitarist Set.",
+  "stats": {
+    "damage": "120–145 (average: 132.5 / total: 265)",
+    "range": "6.5 tiles",
+    "rateOfFire": "85%",
+    "shots": "2 (arc gap: 0°)",
+    "projectiles": "2 (arc gap: 0°)"
+  },
+  "effects": [
+    "Shots hit multiple targets Increases the power of the Inferno Pick if worn in conjunction"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/electric-guitar"
+}

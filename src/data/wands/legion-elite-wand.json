@@ -1,0 +1,39 @@
+{
+  "id": "legion-elite-wand",
+  "name": "Legion Elite Wand",
+  "slug": "legion-elite-wand",
+  "sprite": "/items/legion-elite-wand.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "History Introduced in Exalt Version 6.0.0.0 (Sep 2025) update.",
+  "stats": {
+    "damage": "150–190 (average: 170)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-wand",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-15T13:50:11.854Z"
+}

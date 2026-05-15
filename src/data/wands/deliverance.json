@@ -1,0 +1,38 @@
+{
+  "id": "deliverance",
+  "name": "Deliverance",
+  "slug": "deliverance",
+  "sprite": "/items/deliverance.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes While seeming strong at first glance, the curse and damage dealing effect from the forgotten souls can be unreliable unless at close distance. To take full advantage of the damage dealing potential this wand has, especially for fighting bosses, one should try to position themselves to drag the souls within the path enemy movement. Using this wand while attempting to stay near bosses and enemies with chase phases in particular can be quite strong compared with other late-game wand options that may rely more on player aim.",
+  "stats": {
+    "damage": "115–165 (average: 140)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "+6 WIS",
+    "On Shoot: 15% chance to release a Desperate Soul. Cooldown: 0.6 seconds Soul Lifetime: 10 seconds Soul Damage: 666 Soul Release: Drifts away after 6 seconds, Curse on nearby enemies Explosion Radius: 1.5 tiles Curse Duration: 2 seconds Drift Duration: 3 seconds"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/deliverance",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-15T13:49:41.368Z"
+}

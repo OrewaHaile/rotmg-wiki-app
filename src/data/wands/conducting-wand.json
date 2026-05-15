@@ -1,0 +1,32 @@
+{
+  "id": "conducting-wand",
+  "name": "Conducting Wand",
+  "slug": "conducting-wand",
+  "sprite": "/items/conducting-wand.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes The Conducting Wand’s +4 DEX and high rate of fire gives it enough DPS to even slightly outdamage the T14 Wand of Retribution until 49/41/33 DEF, and beats the T12 Wand of Recompense at any reasonable DEF. The extra wisdom also boosts the Priest’s and Sorcerer’s abilities. This power comes at the cost of range (1 tile shorter) and piercing; it is recommended to keep a tiered wand for when those traits are helpful.",
+  "stats": {
+    "damage": "100–175 (average: 137.5)",
+    "range": "8.01 tiles",
+    "rateOfFire": "125%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+4 DEX, +4 WIS"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [
+    "Horrific Creation",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/conducting-wand"
+}

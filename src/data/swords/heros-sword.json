@@ -1,0 +1,29 @@
+{
+  "id": "heros-sword",
+  "name": "Hero's Sword",
+  "slug": "heros-sword",
+  "sprite": "/items/heros-sword.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 650,
+  "description": "",
+  "stats": {
+    "damage": "235–290 (average: 262.5)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hero-s-sword"
+}

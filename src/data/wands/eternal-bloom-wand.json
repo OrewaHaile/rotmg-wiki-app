@@ -1,0 +1,38 @@
+{
+  "id": "eternal-bloom-wand",
+  "name": "Eternal Bloom Wand",
+  "slug": "eternal-bloom-wand",
+  "sprite": "/items/eternal-bloom-wand.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "History Introduced in Exalt Version 5.11.0.0 (May 2025) update.",
+  "stats": {
+    "damage": "150–190 (average: 170)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Blooming Flower"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/eternal-bloom-wand",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-15T13:50:10.774Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "bone-bow",
+  "name": "Bone Bow",
+  "slug": "bone-bow",
+  "sprite": "/items/bone-bow.png",
+  "itemType": "Bow",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 900,
+  "description": "Notes Part of the Reanimated Archer Set.",
+  "stats": {
+    "damage": "180–235 (average: 207.5)",
+    "range": "4.8 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bone-bow"
+}

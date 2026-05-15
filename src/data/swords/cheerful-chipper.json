@@ -1,0 +1,31 @@
+{
+  "id": "cheerful-chipper",
+  "name": "Cheerful Chipper",
+  "slug": "cheerful-chipper",
+  "sprite": "/items/cheerful-chipper.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes A unique sword that fires spreads of 3 projectiles that rapidly decelerate until stationary. This sword out damages both the Sword of the Colossus and Pixie-Enchanted Sword from 5 to 40 Defense respectively, making it a very strong competitor to most end-game swords. This, however, is offset by its short range (and even shorter true range) and slightly lowered fire rate, in addition to its peculiar shot pattern making it harder to use.",
+  "stats": {
+    "damage": "120–150 (average: 135 / total: 405)",
+    "range": "4.12 tiles (true range: 2.35 tiles)",
+    "rateOfFire": "80%",
+    "shots": "3 (arc gap: 12°)",
+    "projectiles": "3 (arc gap: 12°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Jack Frost"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cheerful-chipper"
+}

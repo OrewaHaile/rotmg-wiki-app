@@ -1,0 +1,35 @@
+{
+  "id": "abominations-wrath",
+  "name": "Abomination's Wrath",
+  "slug": "abominations-wrath",
+  "sprite": "/items/abominations-wrath.png",
+  "itemType": "Wand",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 650,
+  "description": "Notes Part of the Horrific Sorcerer Set.",
+  "stats": {
+    "damage": "300–335 (average: 317.5)",
+    "range": "9 tiles",
+    "rateOfFire": "55%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+4 SPD",
+    "5% Chance on Shoot to restore 30 MP100% Chance on Shoot while Dazed to restore 30 MP"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Horrific Creation",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/abomination-s-wrath"
+}

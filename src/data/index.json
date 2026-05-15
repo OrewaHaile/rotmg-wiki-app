@@ -1,5 +1,22 @@
 [
   {
+    "id": "abominations-wrath",
+    "name": "Abomination's Wrath",
+    "slug": "abominations-wrath",
+    "category": "wands",
+    "sprite": "/items/abominations-wrath.png",
+    "itemType": "Wand",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/abomination-s-wrath"
+  },
+  {
     "id": "acidic-slasher",
     "name": "Acidic Slasher",
     "slug": "acidic-slasher",
@@ -100,6 +117,23 @@
       "Paladin"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/ancient-stone-sword"
+  },
+  {
+    "id": "apocalypse-feather",
+    "name": "Apocalypse Feather",
+    "slug": "apocalypse-feather",
+    "category": "swords",
+    "sprite": "/items/apocalypse-feather.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/apocalypse-feather"
   },
   {
     "id": "arashi",
@@ -289,6 +323,40 @@
     "sourceUrl": "https://www.realmeye.com/wiki/aspirant-s-staff"
   },
   {
+    "id": "aspirants-sword",
+    "name": "Aspirant's Sword",
+    "slug": "aspirants-sword",
+    "category": "swords",
+    "sprite": "/items/aspirants-sword.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/aspirant-s-sword"
+  },
+  {
+    "id": "aspirants-wand",
+    "name": "Aspirant's Wand",
+    "slug": "aspirants-wand",
+    "category": "wands",
+    "sprite": "/items/aspirants-wand.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/aspirant-s-wand"
+  },
+  {
     "id": "atavistic-soul-sabre",
     "name": "Atavistic Soul Sabre",
     "slug": "atavistic-soul-sabre",
@@ -421,6 +489,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/bergenia-bow"
   },
   {
+    "id": "blacksmith-hammer",
+    "name": "Blacksmith Hammer",
+    "slug": "blacksmith-hammer",
+    "category": "swords",
+    "sprite": "/items/blacksmith-hammer.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/blacksmith-hammer"
+  },
+  {
     "id": "blade-of-ages",
     "name": "Blade of Ages",
     "slug": "blade-of-ages",
@@ -453,6 +538,23 @@
       "Kensei"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/blade-of-blooming"
+  },
+  {
+    "id": "blade-of-eternal-rebirth",
+    "name": "Blade of Eternal Rebirth",
+    "slug": "blade-of-eternal-rebirth",
+    "category": "swords",
+    "sprite": "/items/blade-of-eternal-rebirth.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/blade-of-eternal-rebirth"
   },
   {
     "id": "blade-of-fates",
@@ -504,6 +606,23 @@
       "Bard"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/blazon-bow"
+  },
+  {
+    "id": "blood-axe",
+    "name": "Blood Axe",
+    "slug": "blood-axe",
+    "category": "swords",
+    "sprite": "/items/blood-axe.png",
+    "itemType": "Sword",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/blood-axe"
   },
   {
     "id": "blood-coated-dirk",
@@ -674,6 +793,23 @@
       "Bard"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/bolt-thrower"
+  },
+  {
+    "id": "bone-bow",
+    "name": "Bone Bow",
+    "slug": "bone-bow",
+    "category": "bows",
+    "sprite": "/items/bone-bow.png",
+    "itemType": "Bow",
+    "tier": "ST (Limited)",
+    "bagType": "Unknown",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bone-bow"
   },
   {
     "id": "bone-dagger",
@@ -895,6 +1031,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/bramble-bow"
   },
   {
+    "id": "brass-chamberstick",
+    "name": "Brass Chamberstick",
+    "slug": "brass-chamberstick",
+    "category": "wands",
+    "sprite": "/items/brass-chamberstick.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/brass-chamberstick"
+  },
+  {
     "id": "brilliance-bow",
     "name": "Brilliance Bow",
     "slug": "brilliance-bow",
@@ -963,6 +1116,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/butter-bow"
   },
   {
+    "id": "c-l-a-w",
+    "name": "C.L.A.W.",
+    "slug": "c-l-a-w",
+    "category": "wands",
+    "sprite": "/items/c-l-a-w.png",
+    "itemType": "Wand",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/c-l-a-w"
+  },
+  {
     "id": "caduceus-of-current-craziness",
     "name": "Caduceus of Current Craziness",
     "slug": "caduceus-of-current-craziness",
@@ -1014,6 +1184,40 @@
     "sourceUrl": "https://www.realmeye.com/wiki/candy-katana"
   },
   {
+    "id": "cane-of-caduceus",
+    "name": "Cane of Caduceus",
+    "slug": "cane-of-caduceus",
+    "category": "wands",
+    "sprite": "/items/cane-of-caduceus.png",
+    "itemType": "Wand",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/cane-of-caduceus"
+  },
+  {
+    "id": "cane-of-the-void",
+    "name": "Cane of the Void",
+    "slug": "cane-of-the-void",
+    "category": "wands",
+    "sprite": "/items/cane-of-the-void.png",
+    "itemType": "Wand",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/cane-of-the-void"
+  },
+  {
     "id": "caramel-spellblade",
     "name": "Caramel Spellblade",
     "slug": "caramel-spellblade",
@@ -1027,6 +1231,23 @@
       "Sorcerer"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/caramel-spellblade"
+  },
+  {
+    "id": "carnivals-conjurer",
+    "name": "Carnival's Conjurer",
+    "slug": "carnivals-conjurer",
+    "category": "wands",
+    "sprite": "/items/carnivals-conjurer.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/carnival-s-conjurer"
   },
   {
     "id": "carved-golem-remains",
@@ -1080,6 +1301,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/celestial-recurve"
   },
   {
+    "id": "ceremonial-wand",
+    "name": "Ceremonial Wand",
+    "slug": "ceremonial-wand",
+    "category": "wands",
+    "sprite": "/items/ceremonial-wand.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/ceremonial-wand"
+  },
+  {
     "id": "chain-dagger",
     "name": "Chain Dagger",
     "slug": "chain-dagger",
@@ -1097,6 +1335,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/chain-dagger"
   },
   {
+    "id": "cheerful-chipper",
+    "name": "Cheerful Chipper",
+    "slug": "cheerful-chipper",
+    "category": "swords",
+    "sprite": "/items/cheerful-chipper.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/cheerful-chipper"
+  },
+  {
     "id": "chicken-leg-of-doom",
     "name": "Chicken Leg of Doom",
     "slug": "chicken-leg-of-doom",
@@ -1112,6 +1367,23 @@
       "Trickster"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/chicken-leg-of-doom"
+  },
+  {
+    "id": "chocsicle",
+    "name": "Chocsicle",
+    "slug": "chocsicle",
+    "category": "swords",
+    "sprite": "/items/chocsicle.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/chocsicle"
   },
   {
     "id": "clockwork-repeater",
@@ -1180,6 +1452,21 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/comet-staff"
+  },
+  {
+    "id": "conducting-wand",
+    "name": "Conducting Wand",
+    "slug": "conducting-wand",
+    "category": "wands",
+    "sprite": "/items/conducting-wand.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/conducting-wand"
   },
   {
     "id": "coral-bow",
@@ -1569,6 +1856,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/deathmask-staff"
   },
   {
+    "id": "deliverance",
+    "name": "Deliverance",
+    "slug": "deliverance",
+    "category": "wands",
+    "sprite": "/items/deliverance.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/deliverance"
+  },
+  {
     "id": "demon-blade",
     "name": "Demon Blade",
     "slug": "demon-blade",
@@ -1754,6 +2058,40 @@
     "sourceUrl": "https://www.realmeye.com/wiki/dueling-daggers"
   },
   {
+    "id": "dusky-catalyst",
+    "name": "Dusky Catalyst",
+    "slug": "dusky-catalyst",
+    "category": "wands",
+    "sprite": "/items/dusky-catalyst.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dusky-catalyst"
+  },
+  {
+    "id": "dusky-catalyst-rehearsal",
+    "name": "Dusky Catalyst (Rehearsal)",
+    "slug": "dusky-catalyst-rehearsal",
+    "category": "wands",
+    "sprite": "/items/dusky-catalyst-rehearsal.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dusky-catalyst-rehearsal"
+  },
+  {
     "id": "dynamite",
     "name": "Dynamite",
     "slug": "dynamite",
@@ -1771,6 +2109,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/dynamite"
   },
   {
+    "id": "earthen-ward",
+    "name": "Earthen Ward",
+    "slug": "earthen-ward",
+    "category": "wands",
+    "sprite": "/items/earthen-ward.png",
+    "itemType": "Wand",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/earthen-ward"
+  },
+  {
     "id": "edictum-praetoris",
     "name": "Edictum Praetoris",
     "slug": "edictum-praetoris",
@@ -1786,6 +2141,23 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/edictum-praetoris"
+  },
+  {
+    "id": "eggstatic-conductor",
+    "name": "Eggstatic Conductor",
+    "slug": "eggstatic-conductor",
+    "category": "wands",
+    "sprite": "/items/eggstatic-conductor.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/eggstatic-conductor"
   },
   {
     "id": "elder-heartwood-staff",
@@ -1820,6 +2192,23 @@
       "Summoner"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/eldritch-wand"
+  },
+  {
+    "id": "electric-guitar",
+    "name": "Electric Guitar",
+    "slug": "electric-guitar",
+    "category": "bows",
+    "sprite": "/items/electric-guitar.png",
+    "itemType": "Bow",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/electric-guitar"
   },
   {
     "id": "emeraldshard-dagger",
@@ -1888,6 +2277,74 @@
     "sourceUrl": "https://www.realmeye.com/wiki/enforcer"
   },
   {
+    "id": "eternal-bloom-wand",
+    "name": "Eternal Bloom Wand",
+    "slug": "eternal-bloom-wand",
+    "category": "wands",
+    "sprite": "/items/eternal-bloom-wand.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/eternal-bloom-wand"
+  },
+  {
+    "id": "eternal-echo",
+    "name": "Eternal Echo",
+    "slug": "eternal-echo",
+    "category": "swords",
+    "sprite": "/items/eternal-echo.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/eternal-echo"
+  },
+  {
+    "id": "eternal-graved-great-sword",
+    "name": "Eternal Graved Great Sword",
+    "slug": "eternal-graved-great-sword",
+    "category": "swords",
+    "sprite": "/items/eternal-graved-great-sword.png",
+    "itemType": "Sword",
+    "tier": "ST (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/eternal-graved-great-sword"
+  },
+  {
+    "id": "eternal-snowflake-wand",
+    "name": "Eternal Snowflake Wand",
+    "slug": "eternal-snowflake-wand",
+    "category": "wands",
+    "sprite": "/items/eternal-snowflake-wand.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/eternal-snowflake-wand"
+  },
+  {
     "id": "etherite-dagger",
     "name": "Etherite Dagger",
     "slug": "etherite-dagger",
@@ -1937,6 +2394,23 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/explorer-s-shovel"
+  },
+  {
+    "id": "faithful-spatha",
+    "name": "Faithful Spatha",
+    "slug": "faithful-spatha",
+    "category": "swords",
+    "sprite": "/items/faithful-spatha.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/faithful-spatha"
   },
   {
     "id": "falchion",
@@ -2177,6 +2651,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/force-wand"
   },
   {
+    "id": "fortitude",
+    "name": "Fortitude",
+    "slug": "fortitude",
+    "category": "wands",
+    "sprite": "/items/fortitude.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/fortitude"
+  },
+  {
     "id": "frost-lichs-finger",
     "name": "Frost Lich's Finger",
     "slug": "frost-lichs-finger",
@@ -2262,6 +2753,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/frosty-s-walking-stick"
   },
   {
+    "id": "frozen-wand",
+    "name": "Frozen Wand",
+    "slug": "frozen-wand",
+    "category": "wands",
+    "sprite": "/items/frozen-wand.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/frozen-wand"
+  },
+  {
     "id": "frozen-whisper",
     "name": "Frozen Whisper",
     "slug": "frozen-whisper",
@@ -2328,6 +2836,40 @@
       "Paladin"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/glass-sword"
+  },
+  {
+    "id": "gloves-of-love",
+    "name": "Gloves of Love",
+    "slug": "gloves-of-love",
+    "category": "staves",
+    "sprite": "/items/gloves-of-love.png",
+    "itemType": "Staff",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Mystic",
+      "Necromancer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/gloves-of-love"
+  },
+  {
+    "id": "glowing-torch",
+    "name": "Glowing Torch",
+    "slug": "glowing-torch",
+    "category": "wands",
+    "sprite": "/items/glowing-torch.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/glowing-torch"
   },
   {
     "id": "golden-bow",
@@ -2449,6 +2991,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/hailstorm"
   },
   {
+    "id": "hammer-sword",
+    "name": "Hammer Sword",
+    "slug": "hammer-sword",
+    "category": "swords",
+    "sprite": "/items/hammer-sword.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/hammer-sword"
+  },
+  {
     "id": "hardwood-bow",
     "name": "Hardwood Bow",
     "slug": "hardwood-bow",
@@ -2481,6 +3040,23 @@
       "Bard"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/harmonious-harp"
+  },
+  {
+    "id": "heartbreaker-wand",
+    "name": "Heartbreaker Wand",
+    "slug": "heartbreaker-wand",
+    "category": "wands",
+    "sprite": "/items/heartbreaker-wand.png",
+    "itemType": "Wand",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/heartbreaker-wand"
   },
   {
     "id": "heartfind-dagger",
@@ -2534,6 +3110,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/heartsteel-claymore"
   },
   {
+    "id": "heartstruck-bow",
+    "name": "Heartstruck Bow",
+    "slug": "heartstruck-bow",
+    "category": "bows",
+    "sprite": "/items/heartstruck-bow.png",
+    "itemType": "Bow",
+    "tier": "ST (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/heartstruck-bow"
+  },
+  {
     "id": "hells-fire-wand",
     "name": "Hell's Fire Wand",
     "slug": "hells-fire-wand",
@@ -2549,6 +3142,23 @@
       "Summoner"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/hell-s-fire-wand"
+  },
+  {
+    "id": "hellfire-broadsword",
+    "name": "Hellfire Broadsword",
+    "slug": "hellfire-broadsword",
+    "category": "swords",
+    "sprite": "/items/hellfire-broadsword.png",
+    "itemType": "Sword",
+    "tier": "ST (Limited)",
+    "bagType": "Unknown",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/hellfire-broadsword"
   },
   {
     "id": "henchmans-claymore",
@@ -2651,6 +3261,57 @@
     "sourceUrl": "https://www.realmeye.com/wiki/hero-s-staff"
   },
   {
+    "id": "heros-sword",
+    "name": "Hero's Sword",
+    "slug": "heros-sword",
+    "category": "swords",
+    "sprite": "/items/heros-sword.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/hero-s-sword"
+  },
+  {
+    "id": "heros-wand",
+    "name": "Hero's Wand",
+    "slug": "heros-wand",
+    "category": "wands",
+    "sprite": "/items/heros-wand.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/hero-s-wand"
+  },
+  {
+    "id": "holy-artifact",
+    "name": "Holy Artifact",
+    "slug": "holy-artifact",
+    "category": "wands",
+    "sprite": "/items/holy-artifact.png",
+    "itemType": "Wand",
+    "tier": "ST (Limited)",
+    "bagType": "Unknown",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/holy-artifact"
+  },
+  {
     "id": "hovering-spellblade",
     "name": "Hovering Spellblade",
     "slug": "hovering-spellblade",
@@ -2681,6 +3342,23 @@
       "Kensei"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/iceborn-arsenal"
+  },
+  {
+    "id": "icebreaker-maul",
+    "name": "Icebreaker Maul",
+    "slug": "icebreaker-maul",
+    "category": "swords",
+    "sprite": "/items/icebreaker-maul.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/icebreaker-maul"
   },
   {
     "id": "ichimonji",
@@ -2904,6 +3582,40 @@
     "sourceUrl": "https://www.realmeye.com/wiki/kendo-stick"
   },
   {
+    "id": "keychain-cutlass",
+    "name": "Keychain Cutlass",
+    "slug": "keychain-cutlass",
+    "category": "swords",
+    "sprite": "/items/keychain-cutlass.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/keychain-cutlass"
+  },
+  {
+    "id": "khopesh",
+    "name": "Khopesh",
+    "slug": "khopesh",
+    "category": "swords",
+    "sprite": "/items/khopesh.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/khopesh"
+  },
+  {
     "id": "kiritsukeru",
     "name": "Kiritsukeru",
     "slug": "kiritsukeru",
@@ -2989,6 +3701,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/kyuuketsuki-hitogoroshi"
   },
   {
+    "id": "laser-pointer",
+    "name": "Laser Pointer",
+    "slug": "laser-pointer",
+    "category": "wands",
+    "sprite": "/items/laser-pointer.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/laser-pointer"
+  },
+  {
     "id": "leaf-bow",
     "name": "Leaf Bow",
     "slug": "leaf-bow",
@@ -3021,6 +3750,23 @@
       "Trickster"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/legacy-etherite-dagger"
+  },
+  {
+    "id": "legacy-pixie-enchanted-sword",
+    "name": "Legacy Pixie-Enchanted Sword",
+    "slug": "legacy-pixie-enchanted-sword",
+    "category": "swords",
+    "sprite": "/items/legacy-pixie-enchanted-sword.png",
+    "itemType": "Sword",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/legacy-pixie-enchanted-sword"
   },
   {
     "id": "legacy-sentient-staff",
@@ -3108,6 +3854,40 @@
     "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-staff"
   },
   {
+    "id": "legion-elite-sword",
+    "name": "Legion Elite Sword",
+    "slug": "legion-elite-sword",
+    "category": "swords",
+    "sprite": "/items/legion-elite-sword.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-sword"
+  },
+  {
+    "id": "legion-elite-wand",
+    "name": "Legion Elite Wand",
+    "slug": "legion-elite-wand",
+    "category": "wands",
+    "sprite": "/items/legion-elite-wand.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-wand"
+  },
+  {
     "id": "legions-odachi",
     "name": "Legions Odachi",
     "slug": "legions-odachi",
@@ -3123,6 +3903,40 @@
       "Kensei"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/legions-odachi"
+  },
+  {
+    "id": "lethargic-sentience",
+    "name": "Lethargic Sentience",
+    "slug": "lethargic-sentience",
+    "category": "wands",
+    "sprite": "/items/lethargic-sentience.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/lethargic-sentience"
+  },
+  {
+    "id": "lightning-wand",
+    "name": "Lightning Wand",
+    "slug": "lightning-wand",
+    "category": "wands",
+    "sprite": "/items/lightning-wand.png",
+    "itemType": "Wand",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/lightning-wand"
   },
   {
     "id": "line-kutter-katana",
@@ -3172,6 +3986,38 @@
       "Sorcerer"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/love-heart-spellblade"
+  },
+  {
+    "id": "lumiaire",
+    "name": "Lumiaire",
+    "slug": "lumiaire",
+    "category": "wands",
+    "sprite": "/items/lumiaire.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/lumiaire"
+  },
+  {
+    "id": "magic-wand",
+    "name": "Magic Wand",
+    "slug": "magic-wand",
+    "category": "wands",
+    "sprite": "/items/magic-wand.png",
+    "itemType": "Wand",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/magic-wand"
   },
   {
     "id": "maize-machete",
@@ -3240,6 +4086,23 @@
       "Kensei"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/masamune"
+  },
+  {
+    "id": "measuring-wand",
+    "name": "Measuring Wand",
+    "slug": "measuring-wand",
+    "category": "wands",
+    "sprite": "/items/measuring-wand.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/measuring-wand"
   },
   {
     "id": "mechanical-kogbold-limb",
@@ -3480,6 +4343,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/night-edge"
   },
   {
+    "id": "nutrient-rich-carrot-blade",
+    "name": "Nutrient Rich Carrot Blade",
+    "slug": "nutrient-rich-carrot-blade",
+    "category": "swords",
+    "sprite": "/items/nutrient-rich-carrot-blade.png",
+    "itemType": "Sword",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/nutrient-rich-carrot-blade"
+  },
+  {
     "id": "obsidian-dagger",
     "name": "Obsidian Dagger",
     "slug": "obsidian-dagger",
@@ -3546,6 +4426,23 @@
       "Paladin"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/oryx-s-greatsword"
+  },
+  {
+    "id": "petal-strike-sword",
+    "name": "Petal Strike Sword",
+    "slug": "petal-strike-sword",
+    "category": "swords",
+    "sprite": "/items/petal-strike-sword.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/petal-strike-sword"
   },
   {
     "id": "phantasm-dirk",
@@ -3718,6 +4615,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/predator-bow"
   },
   {
+    "id": "present-dispensing-wand",
+    "name": "Present Dispensing Wand",
+    "slug": "present-dispensing-wand",
+    "category": "wands",
+    "sprite": "/items/present-dispensing-wand.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/present-dispensing-wand"
+  },
+  {
     "id": "prismatic-slasher",
     "name": "Prismatic Slasher",
     "slug": "prismatic-slasher",
@@ -3784,6 +4698,23 @@
       "Trickster"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/ragetalon-dagger"
+  },
+  {
+    "id": "rainbow-rod",
+    "name": "Rainbow Rod",
+    "slug": "rainbow-rod",
+    "category": "wands",
+    "sprite": "/items/rainbow-rod.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/rainbow-rod"
   },
   {
     "id": "ravenheart-sword",
@@ -3954,6 +4885,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/rocket-launcher"
   },
   {
+    "id": "rod-of-radiance",
+    "name": "Rod of Radiance",
+    "slug": "rod-of-radiance",
+    "category": "wands",
+    "sprite": "/items/rod-of-radiance.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/rod-of-radiance"
+  },
+  {
     "id": "rosebite-dagger",
     "name": "Rosebite Dagger",
     "slug": "rosebite-dagger",
@@ -4122,6 +5070,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/salju"
   },
   {
+    "id": "savage-claws",
+    "name": "Savage Claws",
+    "slug": "savage-claws",
+    "category": "swords",
+    "sprite": "/items/savage-claws.png",
+    "itemType": "Sword",
+    "tier": "ST (Limited)",
+    "bagType": "Unknown",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/savage-claws"
+  },
+  {
     "id": "sawblade-katana",
     "name": "Sawblade Katana",
     "slug": "sawblade-katana",
@@ -4137,6 +5102,23 @@
       "Kensei"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/sawblade-katana"
+  },
+  {
+    "id": "scarlet-etched-branch",
+    "name": "Scarlet Etched Branch",
+    "slug": "scarlet-etched-branch",
+    "category": "wands",
+    "sprite": "/items/scarlet-etched-branch.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/scarlet-etched-branch"
   },
   {
     "id": "screwdriver-staff",
@@ -4292,6 +5274,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/shortbow"
   },
   {
+    "id": "silexs-hammer",
+    "name": "Silex's Hammer",
+    "slug": "silexs-hammer",
+    "category": "swords",
+    "sprite": "/items/silexs-hammer.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/silex-s-hammer"
+  },
+  {
     "id": "silver-revolvers",
     "name": "Silver Revolvers",
     "slug": "silver-revolvers",
@@ -4443,6 +5442,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/snowblind-spellblade"
   },
   {
+    "id": "snowblind-wand",
+    "name": "Snowblind Wand",
+    "slug": "snowblind-wand",
+    "category": "wands",
+    "sprite": "/items/snowblind-wand.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/snowblind-wand"
+  },
+  {
     "id": "snowflake-blade",
     "name": "Snowflake Blade",
     "slug": "snowflake-blade",
@@ -4475,6 +5491,40 @@
       "Kensei"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/socket-blade"
+  },
+  {
+    "id": "solar-flare-igniter",
+    "name": "Solar Flare Igniter",
+    "slug": "solar-flare-igniter",
+    "category": "wands",
+    "sprite": "/items/solar-flare-igniter.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/solar-flare-igniter"
+  },
+  {
+    "id": "souls-guidance",
+    "name": "Soul's Guidance",
+    "slug": "souls-guidance",
+    "category": "wands",
+    "sprite": "/items/souls-guidance.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/soul-s-guidance"
   },
   {
     "id": "soulcursed-scythe",
@@ -4665,6 +5715,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/spellblade-of-the-void"
   },
   {
+    "id": "spicy-wand-of-spice",
+    "name": "Spicy Wand of Spice",
+    "slug": "spicy-wand-of-spice",
+    "category": "wands",
+    "sprite": "/items/spicy-wand-of-spice.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spicy-wand-of-spice"
+  },
+  {
     "id": "spider-silk-bow",
     "name": "Spider Silk Bow",
     "slug": "spider-silk-bow",
@@ -4710,6 +5777,23 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/spirit-staff"
+  },
+  {
+    "id": "spring-rose",
+    "name": "Spring Rose",
+    "slug": "spring-rose",
+    "category": "staves",
+    "sprite": "/items/spring-rose.png",
+    "itemType": "Ring",
+    "tier": "ST (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Mystic",
+      "Necromancer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spring-rose"
   },
   {
     "id": "spring-wonder-bow",
@@ -5243,6 +6327,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/superior"
   },
   {
+    "id": "supernatural-staff",
+    "name": "Supernatural Staff",
+    "slug": "supernatural-staff",
+    "category": "staves",
+    "sprite": "/items/supernatural-staff.png",
+    "itemType": "Staff",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Mystic",
+      "Necromancer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/supernatural-staff"
+  },
+  {
     "id": "swashbucklers-sickle",
     "name": "Swashbuckler's Sickle",
     "slug": "swashbucklers-sickle",
@@ -5258,6 +6359,23 @@
       "Paladin"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/swashbuckler-s-sickle"
+  },
+  {
+    "id": "sweet-desire-wand",
+    "name": "Sweet Desire Wand",
+    "slug": "sweet-desire-wand",
+    "category": "wands",
+    "sprite": "/items/sweet-desire-wand.png",
+    "itemType": "Wand",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sweet-desire-wand"
   },
   {
     "id": "sword-of-acclaim",
@@ -5343,6 +6461,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/sword-of-the-colossus"
   },
   {
+    "id": "sword-of-the-mad-god",
+    "name": "Sword of the Mad God",
+    "slug": "sword-of-the-mad-god",
+    "category": "swords",
+    "sprite": "/items/sword-of-the-mad-god.png",
+    "itemType": "Sword",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sword-of-the-mad-god"
+  },
+  {
     "id": "sword-of-the-rainbows-end",
     "name": "Sword of the Rainbow's End",
     "slug": "sword-of-the-rainbows-end",
@@ -5358,6 +6493,23 @@
       "Paladin"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/sword-of-the-rainbow-s-end"
+  },
+  {
+    "id": "sword-of-the-unending-chaos",
+    "name": "Sword of the Unending Chaos",
+    "slug": "sword-of-the-unending-chaos",
+    "category": "swords",
+    "sprite": "/items/sword-of-the-unending-chaos.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sword-of-the-unending-chaos"
   },
   {
     "id": "symbiotic-ripper",
@@ -5394,6 +6546,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/tectonus"
   },
   {
+    "id": "temporal-wand",
+    "name": "Temporal Wand",
+    "slug": "temporal-wand",
+    "category": "wands",
+    "sprite": "/items/temporal-wand.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/temporal-wand"
+  },
+  {
     "id": "tezcacoatls-tail",
     "name": "Tezcacoatl's Tail",
     "slug": "tezcacoatls-tail",
@@ -5409,6 +6578,23 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/tezcacoatl-s-tail"
+  },
+  {
+    "id": "the-crimson-blade",
+    "name": "The Crimson Blade",
+    "slug": "the-crimson-blade",
+    "category": "swords",
+    "sprite": "/items/the-crimson-blade.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/the-crimson-blade"
   },
   {
     "id": "the-phylactery",
@@ -5443,6 +6629,23 @@
       "Trickster"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/the-right-hook"
+  },
+  {
+    "id": "theurgy-wand",
+    "name": "Theurgy Wand",
+    "slug": "theurgy-wand",
+    "category": "wands",
+    "sprite": "/items/theurgy-wand.png",
+    "itemType": "Wand",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/theurgy-wand"
   },
   {
     "id": "thousand-shot",
@@ -5528,6 +6731,23 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/tideturner-trident"
+  },
+  {
+    "id": "tormented-shriek",
+    "name": "Tormented Shriek",
+    "slug": "tormented-shriek",
+    "category": "wands",
+    "sprite": "/items/tormented-shriek.png",
+    "itemType": "Wand",
+    "tier": "ST (Limited)",
+    "bagType": "Unknown",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/tormented-shriek"
   },
   {
     "id": "torrential-staff",
@@ -5785,6 +7005,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/void-blade"
   },
   {
+    "id": "wand-of-ancient-terror",
+    "name": "Wand of Ancient Terror",
+    "slug": "wand-of-ancient-terror",
+    "category": "wands",
+    "sprite": "/items/wand-of-ancient-terror.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-ancient-terror"
+  },
+  {
     "id": "wand-of-ancient-warning",
     "name": "Wand of Ancient Warning",
     "slug": "wand-of-ancient-warning",
@@ -5887,6 +7124,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/wand-of-deep-sorcery"
   },
   {
+    "id": "wand-of-egg-cellence",
+    "name": "Wand of Egg-cellence",
+    "slug": "wand-of-egg-cellence",
+    "category": "wands",
+    "sprite": "/items/wand-of-egg-cellence.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-egg-cellence"
+  },
+  {
     "id": "wand-of-evocation",
     "name": "Wand of Evocation",
     "slug": "wand-of-evocation",
@@ -5902,6 +7156,23 @@
       "Summoner"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/wand-of-evocation"
+  },
+  {
+    "id": "wand-of-geb",
+    "name": "Wand of Geb",
+    "slug": "wand-of-geb",
+    "category": "wands",
+    "sprite": "/items/wand-of-geb.png",
+    "itemType": "Wand",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-geb"
   },
   {
     "id": "wand-of-hidden-knowledge",
@@ -6006,6 +7277,40 @@
     "sourceUrl": "https://www.realmeye.com/wiki/wand-of-the-fallen"
   },
   {
+    "id": "wand-of-the-summoned-one",
+    "name": "Wand of the Summoned One",
+    "slug": "wand-of-the-summoned-one",
+    "category": "wands",
+    "sprite": "/items/wand-of-the-summoned-one.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-the-summoned-one"
+  },
+  {
+    "id": "warlord-wand",
+    "name": "Warlord Wand",
+    "slug": "warlord-wand",
+    "category": "wands",
+    "sprite": "/items/warlord-wand.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/warlord-wand"
+  },
+  {
     "id": "warmonger",
     "name": "Warmonger",
     "slug": "warmonger",
@@ -6038,6 +7343,23 @@
       "Bard"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/warmonger-rehearsal"
+  },
+  {
+    "id": "winters-breath-wand",
+    "name": "Winter's Breath Wand",
+    "slug": "winters-breath-wand",
+    "category": "wands",
+    "sprite": "/items/winters-breath-wand.png",
+    "itemType": "Wand",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/winter-s-breath-wand"
   },
   {
     "id": "winters-dire-kiss",

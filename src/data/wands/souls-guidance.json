@@ -1,0 +1,42 @@
+{
+  "id": "souls-guidance",
+  "name": "Soul's Guidance",
+  "slug": "souls-guidance",
+  "sprite": "/items/souls-guidance.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes This wand is very unique compared to most other wands. On its own, it’s just a slight alternative to a typical tiered wand (with the same average DPS as the Wand of Deep Sorcery) with a wavy shot pattern. The special effect gives you a chance to spawn a soul that deals 200 flat damage every second, as an instant zap to the nearest target. Due to the wavy shot pattern and auto-aim of the souls, this is a weapon that doesn’t require as much attention from you to aim, so you can focus more on dodging.",
+  "stats": {
+    "damage": "115–165 (average: 140)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "On Shoot: 15% chance to release a Forgotten Soul. Cooldown: 0.4 seconds Soul Lifetime: 8 seconds Soul Damage: 200 Soul Charge: Drifts away after 5 seconds, Curse for 4 seconds upon detonation"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Pumpkin King",
+    "Grave Caretaker",
+    "Ghost of Skuld",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/soul-s-guidance",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-15T13:49:38.158Z"
+}

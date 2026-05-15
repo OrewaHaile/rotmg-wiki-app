@@ -1,0 +1,36 @@
+{
+  "id": "heros-wand",
+  "name": "Hero's Wand",
+  "slug": "heros-wand",
+  "sprite": "/items/heros-wand.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 650,
+  "description": "History Before Exalt Version 6.1.0.0 (Sep 2025), this item had Damage 145-180 (162.5).",
+  "stats": {
+    "damage": "150–190 (average: 170)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hero-s-wand",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-15T13:50:15.601Z"
+}

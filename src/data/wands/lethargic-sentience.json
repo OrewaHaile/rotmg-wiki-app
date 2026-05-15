@@ -1,0 +1,33 @@
+{
+  "id": "lethargic-sentience",
+  "name": "Lethargic Sentience",
+  "slug": "lethargic-sentience",
+  "sprite": "/items/lethargic-sentience.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 0,
+  "description": "Notes The firing pattern of this wand is identical to that of the Wand of the Bulwark. If the weapon is fired by a character with 31 Dexterity, one will be able to have 3 shots going on at the same time, and at the exact moment the first shot ends, the fourth one is fired.",
+  "stats": {
+    "damage": "20–40 (average: 30 / total: 120)",
+    "range": "3.75 tiles",
+    "rateOfFire": "25%",
+    "shots": "4",
+    "projectiles": "4"
+  },
+  "effects": [
+    "Shots are parametric Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Mad God Mayhem Bosses"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/lethargic-sentience"
+}

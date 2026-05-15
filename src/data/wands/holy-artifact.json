@@ -1,0 +1,31 @@
+{
+  "id": "holy-artifact",
+  "name": "Holy Artifact",
+  "slug": "holy-artifact",
+  "sprite": "/items/holy-artifact.png",
+  "itemType": "Wand",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": null,
+  "description": "Notes Part of the Archexorcist Priest Set.",
+  "stats": {
+    "damage": "125–135 (average: 130 / total: 260)",
+    "range": "7.5 tiles (true range: 5.72 tiles)",
+    "rateOfFire": "75%",
+    "shots": "2 (arc gap: 10°)",
+    "projectiles": "2 (arc gap: 10°)"
+  },
+  "effects": [
+    "Shots hit multiple targets Wavy shots"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/holy-artifact"
+}

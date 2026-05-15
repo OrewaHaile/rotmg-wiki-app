@@ -1,0 +1,31 @@
+{
+  "id": "fortitude",
+  "name": "Fortitude",
+  "slug": "fortitude",
+  "sprite": "/items/fortitude.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This upgraded version of Wand of the Bulwark instantly deploys a minefield of high damage bullets surrounding the player on ability use.",
+  "stats": {
+    "damage": "300–400 (average: 350)",
+    "range": "9.42 tiles",
+    "rateOfFire": "33%",
+    "shots": "8",
+    "projectiles": "8"
+  },
+  "effects": [
+    "On Ability: Releases 3 rings of lingering bullets, each dealing 300-600 damage. Shots are parametric Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fortitude"
+}

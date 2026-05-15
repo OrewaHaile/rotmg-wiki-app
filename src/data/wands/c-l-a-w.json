@@ -1,0 +1,39 @@
+{
+  "id": "c-l-a-w",
+  "name": "C.L.A.W.",
+  "slug": "c-l-a-w",
+  "sprite": "/items/c-l-a-w.png",
+  "itemType": "Wand",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "Notes Part of the Scientific Summoner Set.",
+  "stats": {
+    "damage": "80–110 (average: 95 / total: 285)",
+    "range": "9 tiles (true range: 5.71 tiles)",
+    "rateOfFire": null,
+    "shots": "3 (arc gap: 5°)",
+    "projectiles": "3 (arc gap: 5°)"
+  },
+  "effects": [
+    "Burst: Fires a burst of shots, with the delay between bursts decreasing with your DEX and status effects Burst Count: 5 Burst Delay: 2 seconds Minimum Burst Delay: 1 second Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "F.E.R.A.L.",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/c-l-a-w",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-15T13:49:54.499Z"
+}

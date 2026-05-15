@@ -1,0 +1,36 @@
+{
+  "id": "sweet-desire-wand",
+  "name": "Sweet Desire Wand",
+  "slug": "sweet-desire-wand",
+  "sprite": "/items/sweet-desire-wand.png",
+  "itemType": "Wand",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "Notes Part of the Chocolate Bunny Summoner Set.",
+  "stats": {
+    "damage": "125–145 (average: 135 / total: 405)",
+    "range": "18.54 tiles (true range: furthest reach 6 tiles)",
+    "rateOfFire": null,
+    "shots": "3 (arc gap: 120°)",
+    "projectiles": "3 (arc gap: 120°)"
+  },
+  "effects": [
+    "Circle Turn Angle: 90 Circle Turn Delay: .333 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sweet-desire-wand",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-15T13:50:21.152Z"
+}

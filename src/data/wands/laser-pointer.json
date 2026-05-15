@@ -1,0 +1,35 @@
+{
+  "id": "laser-pointer",
+  "name": "Laser Pointer",
+  "slug": "laser-pointer",
+  "sprite": "/items/laser-pointer.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes The Laser Pointer sacrifices some range in exchange for high firerate and armor piercing shots. It also fires a secondary shot on an amplitude, which pierces enemies.",
+  "stats": {
+    "damage": "50–75 (average: 62.5)",
+    "range": "6.864 tiles",
+    "rateOfFire": "50%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target",
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Factory Control Core",
+    "Steampunk Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/laser-pointer"
+}

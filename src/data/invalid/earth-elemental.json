@@ -1,0 +1,38 @@
+{
+  "id": "earth-elemental",
+  "name": "Earth Elemental",
+  "slug": "earth-elemental",
+  "sprite": "/items/earth-elemental.png",
+  "itemType": "Wand",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "This page is currently a work in progress.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/earth-elemental",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid tier",
+    "invalid stats: damage",
+    "invalid stats: shots",
+    "invalid stats: rate of fire",
+    "invalid stats: range"
+  ],
+  "importedAt": "2026-05-15T13:49:55.535Z"
+}

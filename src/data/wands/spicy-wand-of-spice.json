@@ -1,0 +1,39 @@
+{
+  "id": "spicy-wand-of-spice",
+  "name": "Spicy Wand of Spice",
+  "slug": "spicy-wand-of-spice",
+  "sprite": "/items/spicy-wand-of-spice.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": null,
+  "feedPower": 0,
+  "description": "Notes The Spicy Wand of Spice drops in the Battle for the Nexus dungeon, which was released for a limited time in September 2013 and occasionally reappears during events.",
+  "stats": {
+    "damage": "30–50 (average: 40)",
+    "range": "10.01 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Wavy shots"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God Deux",
+    "Limoz the Veridian Dragon Deux"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spicy-wand-of-spice",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-15T13:49:56.072Z"
+}

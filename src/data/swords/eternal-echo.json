@@ -1,0 +1,33 @@
+{
+  "id": "eternal-echo",
+  "name": "Eternal Echo",
+  "slug": "eternal-echo",
+  "sprite": "/items/eternal-echo.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes Eternal Echo’s actual sword is comparable to the Ancient Stone Sword, with an identical rate of fire and range, but lower base damage (although Eternal Echo does pierce).",
+  "stats": {
+    "damage": "275–325 (average: 300 / total: 1000)",
+    "range": "4 tiles",
+    "rateOfFire": "60%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Eternal Strength: Attack with Echo Beams Echo Beam: Deals 600-800 damage in a 2.25 square radius, scaling with your Attack and Status Effects Beam Range: Instantly strikes 4 tiles away in the direction of your attack Beam Effect: Ignores defense of target Beam Cooldown: 1 second"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Perfected Cube God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/eternal-echo"
+}

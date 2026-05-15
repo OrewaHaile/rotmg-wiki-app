@@ -1,0 +1,31 @@
+{
+  "id": "lightning-wand",
+  "name": "Lightning Wand",
+  "slug": "lightning-wand",
+  "sprite": "/items/lightning-wand.png",
+  "itemType": "Wand",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 750,
+  "description": "Notes Part of the Storm Shaman set.",
+  "stats": {
+    "damage": "44–444 (average: 244)",
+    "range": "14.1 tiles",
+    "rateOfFire": "60%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/lightning-wand"
+}

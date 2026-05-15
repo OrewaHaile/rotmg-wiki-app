@@ -1,0 +1,31 @@
+{
+  "id": "faithful-spatha",
+  "name": "Faithful Spatha",
+  "slug": "faithful-spatha",
+  "sprite": "/items/faithful-spatha.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "History Added in the Exalt Version 5.0.0.0 (July 2024) update.",
+  "stats": {
+    "damage": "235–290 (average: 262.5)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Amulet Affinity: Creates additional projectiles when worn with an Amulet."
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/faithful-spatha"
+}

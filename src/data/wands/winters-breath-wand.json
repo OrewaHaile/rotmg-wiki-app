@@ -1,0 +1,55 @@
+{
+  "id": "winters-breath-wand",
+  "name": "Winter's Breath Wand",
+  "slug": "winters-breath-wand",
+  "sprite": "/items/winters-breath-wand.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 450,
+  "description": "Notes Do note that this item only drops from the above enemies during the Christmas season.",
+  "stats": {
+    "damage": "135–175 (average: 155)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Avatar of the Forgotten King",
+    "Crystal Prisoner",
+    "Crystal Worm Rudolph",
+    "Eternal Frost Present",
+    "Frostaract",
+    "Frozen Ship",
+    "Hat God",
+    "Ice Cube God",
+    "Jade and Garnet Statues",
+    "Jolly Sphinx",
+    "Killer Bee Nest",
+    "Loot Elf",
+    "Lord of the Lost Lands",
+    "Lost Sentry",
+    "Oryxmas Snowman Tier 3",
+    "Oryxmas Snowman Tier 5",
+    "Rock Dragon (Christmas)",
+    "Skull Shrine"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/winter-s-breath-wand",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-15T13:50:00.885Z"
+}

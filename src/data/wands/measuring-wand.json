@@ -1,0 +1,37 @@
+{
+  "id": "measuring-wand",
+  "name": "Measuring Wand",
+  "slug": "measuring-wand",
+  "sprite": "/items/measuring-wand.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Notes This is a Construction Gear item.",
+  "stats": {
+    "damage": "135–175 (average: 155)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "+2 VIT"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/measuring-wand",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-15T13:50:04.083Z"
+}

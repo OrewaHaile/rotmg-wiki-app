@@ -1,0 +1,37 @@
+{
+  "id": "scarlet-etched-branch",
+  "name": "Scarlet Etched Branch",
+  "slug": "scarlet-etched-branch",
+  "sprite": "/items/scarlet-etched-branch.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "History Added in the Exalt Version 6.2.0.0 (Oct 2025) update.",
+  "stats": {
+    "damage": "115–165 (average: 140)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "On Shoot: 15% chance to release a Forgotten Soul. Cooldown: 0.4 seconds Soul Lifetime: 8 seconds Soul Damage: 200 Soul Charge: Drifts away after 5 seconds, Curse for 4 seconds upon detonation"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/scarlet-etched-branch",
+  "category": "wands",
+  "invalidReasons": [
+    "invalid stats: rate of fire"
+  ],
+  "importedAt": "2026-05-15T13:50:09.672Z"
+}

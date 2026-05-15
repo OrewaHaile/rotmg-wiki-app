@@ -1,0 +1,31 @@
+{
+  "id": "apocalypse-feather",
+  "name": "Apocalypse Feather",
+  "slug": "apocalypse-feather",
+  "sprite": "/items/apocalypse-feather.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": null,
+  "description": "Notes The Apocalypse Feather is one of only two weapons, other than the Chicken Leg of Doom, where the projectiles match with the weapon icon in the inventory.",
+  "stats": {
+    "damage": "15–45 (average: 30)",
+    "range": "5.06 tiles",
+    "rateOfFire": "200%",
+    "shots": "1 (arc gap: 10°)",
+    "projectiles": "1 (arc gap: 10°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Giant Oryx Chicken"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/apocalypse-feather"
+}

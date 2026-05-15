@@ -1,0 +1,31 @@
+{
+  "id": "eggstatic-conductor",
+  "name": "Eggstatic Conductor",
+  "slug": "eggstatic-conductor",
+  "sprite": "/items/eggstatic-conductor.png",
+  "itemType": "Wand",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "",
+  "stats": {
+    "damage": "100–175 (average: 137.5)",
+    "range": "8.01 tiles",
+    "rateOfFire": "125%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+4 DEX, +4 WIS"
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/eggstatic-conductor"
+}

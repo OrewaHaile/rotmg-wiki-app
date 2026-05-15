@@ -1,0 +1,29 @@
+{
+  "id": "sword-of-the-mad-god",
+  "name": "Sword of the Mad God",
+  "slug": "sword-of-the-mad-god",
+  "sprite": "/items/sword-of-the-mad-god.png",
+  "itemType": "Sword",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 450,
+  "description": "Notes Part of the Oryx Awesome Set.",
+  "stats": {
+    "damage": "220–275 (average: 247.5)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sword-of-the-mad-god"
+}

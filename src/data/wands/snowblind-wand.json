@@ -1,0 +1,32 @@
+{
+  "id": "snowblind-wand",
+  "name": "Snowblind Wand",
+  "slug": "snowblind-wand",
+  "sprite": "/items/snowblind-wand.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes This is an Alien Gear item.",
+  "stats": {
+    "damage": "205–240 (average: 222.5)",
+    "range": "6.6 tiles",
+    "rateOfFire": "85%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Tarul",
+    "Untaris Satellite Core"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/snowblind-wand"
+}

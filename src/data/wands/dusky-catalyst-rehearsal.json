@@ -1,0 +1,35 @@
+{
+  "id": "dusky-catalyst-rehearsal",
+  "name": "Dusky Catalyst (Rehearsal)",
+  "slug": "dusky-catalyst-rehearsal",
+  "sprite": "/items/dusky-catalyst-rehearsal.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes In comparison to the original Dusky Catalyst the damage values are greatly reduced, but equip stats remain the same. Although it might still be a solid option for a wand, it’s rather difficult to obtain due to the limited availability of the Rehearsal Shatters. And thus this item will most likely stay a vanity item for a while.",
+  "stats": {
+    "damage": "100–160 (average: 130)",
+    "range": "8 tiles",
+    "rateOfFire": "150%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Reduces the Magic casting cost of your Ability by 5% Shots hit multiple targets Wavy shots",
+    "+5 WIS",
+    "On Shoot: When in combat, WIS Decrease (-10 WIS) for 1 second."
+  ],
+  "usableClasses": [
+    "Priest",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Twilight Archmage (With Rehearsal Modifier)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dusky-catalyst-rehearsal"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "aspirants-sword",
+  "name": "Aspirant's Sword",
+  "slug": "aspirants-sword",
+  "sprite": "/items/aspirants-sword.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Notes Despite having exact same base damage as Archon Sword, this sword has additional 10% RoF compared to tiered swords, putting it’s dps between Sword of Acclaim and Sword of Splendor against enemies with low defense.",
+  "stats": {
+    "damage": "210–255 (average: 232.5)",
+    "range": "3.5 tiles",
+    "rateOfFire": "110%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Aspirant’s Set: This item can be further improved by inscribing it with an artifact from the Path of the Stalwart, Sniper, Swiftblade, or Magus."
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/aspirant-s-sword"
+}
