@@ -1,0 +1,38 @@
+{
+  "id": "fudgeclad-armor",
+  "name": "Fudgeclad Armor",
+  "slug": "fudgeclad-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/fudgeclad-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 435,
+  "description": "Notes This armor has the same stats as the T13 Dominion Armor plus a 30 Max HP, making it a direct upgrade. It does however have 1% less XP Bonus.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+30 HP, +26 DEF",
+    "Secret Power: On ability use, consume 1/4th of your easter-magic meter to activate a secret power! Ovipositor Surprise: Release a flurry of vulnerability inducing eggs on your foes for 3 seconds! Damage: 35-50 (42.5) Range: 4 Secret Power Cooldown: 30 seconds Targets receive 108% damage for 3 seconds after being hit Ignores defense of target Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Sticky Fudgefoot"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fudgeclad-armor"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "oryx-dominus-crest",
+  "name": "Oryx Dominus Crest",
+  "slug": "oryx-dominus-crest",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/oryx-dominus-crest.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+90 HP, +4 SPD, +4 DEX",
+    "On Ability Use: Summons a banner which deals 400-600 damage each second within 6 tiles and grants Damaging to players within 3 tiles. Duration: 4 seconds Cooldown: 10 seconds Damaging Duration: 0.6 Damaging Cooldown: 0.2"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/oryx-dominus-crest"
+}

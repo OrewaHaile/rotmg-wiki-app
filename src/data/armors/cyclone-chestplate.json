@@ -1,0 +1,35 @@
+{
+  "id": "cyclone-chestplate",
+  "name": "Cyclone Chestplate",
+  "slug": "cyclone-chestplate",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/cyclone-chestplate.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Part of the Mad Minotaur Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +17 DEF, +4 DEX, +4 VIT"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cyclone-chestplate"
+}

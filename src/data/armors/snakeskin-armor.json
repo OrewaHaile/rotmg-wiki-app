@@ -1,0 +1,41 @@
+{
+  "id": "snakeskin-armor",
+  "name": "Snakeskin Armor",
+  "slug": "snakeskin-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/snakeskin-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes This leather armor offers relatively low boosts of 15 DEF and 4 DEX. However, the 4 SPD it grants can be useful when playing on slower characters, though it can also be a nuisance in situations where micrododging is necessary.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+15 DEF, +4 DEX, +4 SPD"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Stheno the Snake Queen",
+    "Snakepit Guard",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/snakeskin-armor"
+}

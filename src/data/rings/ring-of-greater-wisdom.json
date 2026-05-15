@@ -1,0 +1,42 @@
+{
+  "id": "ring-of-greater-wisdom",
+  "name": "Ring of Greater Wisdom",
+  "slug": "ring-of-greater-wisdom",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-greater-wisdom.png",
+  "itemType": "Ring",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 25,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 37.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Cyclops God Chest",
+    "Deathmage Chest",
+    "Ent Ancient",
+    "Ghost King",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest",
+    "Red Demon Chest",
+    "Wasp Queen"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-greater-wisdom"
+}

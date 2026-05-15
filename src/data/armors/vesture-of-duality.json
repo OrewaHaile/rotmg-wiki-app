@@ -1,0 +1,34 @@
+{
+  "id": "vesture-of-duality",
+  "name": "Vesture of Duality",
+  "slug": "vesture-of-duality",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/vesture-of-duality.png",
+  "itemType": "Robe",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes With a total of +20 ATT with its proc active, this robe is the best robe for DPS in the game. It also gives a nice SPD boost, which helps naturally slow classes like the Wizard. In exchange, this robe sacrifices DEF, MP, and WIS. In endgame content (where this robe is most likely to be used), a few extra DEF is unlikely to save you. The massive attack boost usually makes up for the other stats.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+12 DEF, +5 SPD, +5 ATT, +40 MP",
+    "On Ability Use: ATT Boost (+15 ATT) and DEF Decrease (-6 DEF) on self for 5 seconds"
+  ],
+  "usableClasses": [
+    "Priest"
+  ],
+  "dropsFrom": [
+    "Archbishop Leucoryx"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/vesture-of-duality"
+}

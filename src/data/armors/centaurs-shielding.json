@@ -1,0 +1,34 @@
+{
+  "id": "centaurs-shielding",
+  "name": "Centaur's Shielding",
+  "slug": "centaurs-shielding",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/centaurs-shielding.png",
+  "itemType": "Shield",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This armor is similar to the Hirejou Tenne in that it sacrifices much of its DEF for a hefty increase in damage. The base damage stats are less than those of the Tenne, which provides +8 ATT/DEX. However, the Centaur’s Shielding is more potent than the Tenne when the user is inflicted with Healing, most commonly in group situations where Paladins or Priests are common.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+13 DEF, +5 ATT, +7 DEX",
+    "On Shoot: ATT Boost (+12 ATT) on self for 4.5 seconds when the user has the Healing status effect Cooldown: 6 seconds"
+  ],
+  "usableClasses": [
+    "Ninja"
+  ],
+  "dropsFrom": [
+    "Chief Beisa"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/centaur-s-shielding"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "ice-crown",
+  "name": "Ice Crown",
+  "slug": "ice-crown",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ice-crown.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This is a winter reskinned version of UT The Forgotten Crown.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+110 HP, +6 ATT, +6 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ice Tomb Event Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ice-crown"
+}

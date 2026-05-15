@@ -1,0 +1,32 @@
+{
+  "id": "chrysanthemum-corsage",
+  "name": "Chrysanthemum Corsage",
+  "slug": "chrysanthemum-corsage",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/chrysanthemum-corsage.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 600,
+  "description": "Notes Part of the Horticultural Huntress Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+70 MP, +5 SPD, +7 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Greater Fairies",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/chrysanthemum-corsage"
+}

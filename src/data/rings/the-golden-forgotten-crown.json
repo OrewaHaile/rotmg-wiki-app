@@ -1,0 +1,31 @@
+{
+  "id": "the-golden-forgotten-crown",
+  "name": "The Golden Forgotten Crown",
+  "slug": "the-golden-forgotten-crown",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/the-golden-forgotten-crown.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This is a limited reskinned version of UT The Forgotten Crown.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+110 HP, +6 ATT, +6 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Crucible I"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/the-golden-forgotten-crown"
+}

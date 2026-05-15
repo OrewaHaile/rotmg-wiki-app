@@ -1,0 +1,33 @@
+{
+  "id": "horrific-claws",
+  "name": "Horrific Claws",
+  "slug": "horrific-claws",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/horrific-claws.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 600,
+  "description": "Notes A balanced ring similar in function to the Experimental Ring. The boosts in multiple stats, especially Speed and Attack, are neat, but the latter is counterbalanced by a Dexterity reduction. However, if you’re willing to deal with the DEX loss for the balanced stats, then this ring is worth using - especially since it’s not extremely rare, dropping from standard enemies in the Mad Lab.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +60 MP, +3 ATT, +5 SPD, +8% WIS Equal to SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Crusher Abomination",
+    "Escaped Experiment",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/horrific-claws"
+}

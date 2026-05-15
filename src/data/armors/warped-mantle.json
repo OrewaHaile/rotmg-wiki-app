@@ -1,0 +1,42 @@
+{
+  "id": "warped-mantle",
+  "name": "Warped Mantle",
+  "slug": "warped-mantle",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/warped-mantle.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 750,
+  "description": "Notes This armor has defense in between T8 and T9 armor, though it provides Healing. This makes it a better armor than most tiered armors for Knights, which value the healing more than a few points of defense (which they have enough of). This armor is relatively useless for Paladins or when playing with Paladins & Priests, as their abilities provide Healing already.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+18 DEF, +6 VIT",
+    "On Shoot: When in combat, grants Healing for 4 seconds. Cooldown: 10 seconds"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Heart of the Wetlands",
+    "Warped Ent Ancient",
+    "Swamp Stalker",
+    "Bog Guardian",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/warped-mantle"
+}

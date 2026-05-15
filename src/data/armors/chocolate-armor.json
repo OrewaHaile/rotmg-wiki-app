@@ -1,0 +1,38 @@
+{
+  "id": "chocolate-armor",
+  "name": "Chocolate Armor",
+  "slug": "chocolate-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/chocolate-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes Even though this item is labeled as an Untiered Item, equipping it counts towards the Valentine’s Day Ninja set bonus.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+16 DEF, +15 ATT, -7 DEX, +8 VIT",
+    "On taking damage: 5% chance to gain Hallucinating for 1.5 seconds. Cooldown: 20 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/chocolate-armor"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "astronomers-gown",
+  "name": "Astronomer's Gown",
+  "slug": "astronomers-gown",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/astronomers-gown.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Astral Arcanist Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+15 DEF, +7 ATT",
+    "On Ability Use: Gain Energized for 3.6 seconds. Empowerment: Duration is 5.6 seconds while wearing Eye of Divination."
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/astronomer-s-gown"
+}

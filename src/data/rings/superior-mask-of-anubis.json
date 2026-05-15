@@ -1,0 +1,29 @@
+{
+  "id": "superior-mask-of-anubis",
+  "name": "Superior Mask of Anubis",
+  "slug": "superior-mask-of-anubis",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/superior-mask-of-anubis.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Red",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 400,
+  "description": "",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+150 HP, +40 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/superior-mask-of-anubis"
+}

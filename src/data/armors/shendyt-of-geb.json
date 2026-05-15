@@ -1,0 +1,41 @@
+{
+  "id": "shendyt-of-geb",
+  "name": "Shendyt of Geb",
+  "slug": "shendyt-of-geb",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/shendyt-of-geb.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes Part of the Priest of Geb set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+25 HP, +25 MP, +15 DEF, +7 VIT, +7 WIS"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Bes",
+    "Sarcophagus",
+    "Treasure Sarcophagus",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/shendyt-of-geb"
+}

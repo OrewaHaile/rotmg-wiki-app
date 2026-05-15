@@ -1,0 +1,29 @@
+{
+  "id": "mala-beads",
+  "name": "Mala Beads",
+  "slug": "mala-beads",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/mala-beads.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 550,
+  "description": "Notes Part of the Lei Gong Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +6 DEF, +5 VIT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mala-beads"
+}

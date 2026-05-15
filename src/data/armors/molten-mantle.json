@@ -1,0 +1,42 @@
+{
+  "id": "molten-mantle",
+  "name": "Molten Mantle",
+  "slug": "molten-mantle",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/molten-mantle.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Part of the Magmatic Mystic Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+12 DEF, +80 MP, +4 SPD, +4 ATT"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Abyss Idol",
+    "White Demon of the Abyss",
+    "Blacksmith of the Abyss",
+    "Heroic Archdemon Malphas",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/molten-mantle"
+}

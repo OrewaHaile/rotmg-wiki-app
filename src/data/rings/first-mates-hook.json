@@ -1,0 +1,35 @@
+{
+  "id": "first-mates-hook",
+  "name": "First Mate's Hook",
+  "slug": "first-mates-hook",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/first-mates-hook.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 550,
+  "description": "Notes Part of the Pirate King Warrior Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +12 ATT, -5 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Deadwater Admiral",
+    "Deadwater Captain",
+    "Deadwater Lieutenant",
+    "Bilgewater’s Booty",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/first-mate-s-hook"
+}

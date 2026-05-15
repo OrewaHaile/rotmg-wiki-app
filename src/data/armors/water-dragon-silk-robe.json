@@ -1,0 +1,40 @@
+{
+  "id": "water-dragon-silk-robe",
+  "name": "Water Dragon Silk Robe",
+  "slug": "water-dragon-silk-robe",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/water-dragon-silk-robe.png",
+  "itemType": "Robe",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes This is a highly versatile robe that compared to the Robe of the Star Mother sacrifices 65 MP, 2 DEF and 7 WIS for a nice increase of 6 SPD, 1 ATT, and 5 VIT. It also has a powerful reactive proc that can restore large amounts of HP when using an ability below 80% HP.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 ATT, +13 DEF, +6 SPD, +5 VIT",
+    "On Ability Use when below 80% HP: Heal 90 HP and gain Healing [30/s] for 3 seconds.Cooldown: 15 seconds"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Nikao the Azure Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/water-dragon-silk-robe"
+}

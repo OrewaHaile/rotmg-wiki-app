@@ -1,0 +1,32 @@
+{
+  "id": "corrupted-ring-of-the-crucible",
+  "name": "Corrupted Ring of the Crucible",
+  "slug": "corrupted-ring-of-the-crucible",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/corrupted-ring-of-the-crucible.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "History Before Exalt Version 5.11.0.0 (May 2025), this item was called Crucible Tank Ring, granted +80 HP, +4 DEF, had a feed power of 750, XP Bonus of 6, and Power Level of 45.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+120 HP, +5 DEF, +5 VIT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Void Entity",
+    "Crucible"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/corrupted-ring-of-the-crucible"
+}

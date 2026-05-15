@@ -1,0 +1,30 @@
+{
+  "id": "horned-ring",
+  "name": "Horned Ring",
+  "slug": "horned-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/horned-ring.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes Part of the Unholy Paladin Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+90 HP, +45 MP, +4 DEF",
+    "On shoot with the Healing buff: Gain ATT Boost (+4 ATT) for 3 secondsCooldown: 6 second"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/horned-ring"
+}

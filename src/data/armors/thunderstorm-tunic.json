@@ -1,0 +1,36 @@
+{
+  "id": "thunderstorm-tunic",
+  "name": "Thunderstorm Tunic",
+  "slug": "thunderstorm-tunic",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/thunderstorm-tunic.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Part of the Storm Shaman set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+30 MP, +13 DEF, +5 ATT, +5 SPD"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/thunderstorm-tunic"
+}

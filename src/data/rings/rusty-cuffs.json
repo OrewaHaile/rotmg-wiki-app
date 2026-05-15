@@ -1,0 +1,34 @@
+{
+  "id": "rusty-cuffs",
+  "name": "Rusty Cuffs",
+  "slug": "rusty-cuffs",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/rusty-cuffs.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 700,
+  "description": "Notes A rather balanced ring that functions similarly to the Experimental Ring. Not necessarily the best ring, but it is useful on most classes. MP reliant classes may suffer from the lack of any magic-related bonuses, however. This ring can serve a fantastic intermediary (or permanent) purpose on a maxed Priest- the extra def and HP boost survivability, and the speed is useful for dodging.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+70 HP, +5 DEF, +5 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Golem of Anger",
+    "Golem of Fear",
+    "Golem of Sorrow",
+    "Marble Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/rusty-cuffs"
+}

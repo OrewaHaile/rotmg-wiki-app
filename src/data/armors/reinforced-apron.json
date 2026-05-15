@@ -1,0 +1,36 @@
+{
+  "id": "reinforced-apron",
+  "name": "Reinforced Apron",
+  "slug": "reinforced-apron",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/reinforced-apron.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 435,
+  "description": "",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+25 DEF, +20 HP",
+    "Thanksgiving Set: This apron can be further enhanced by inscribing it with a Thankful or Giver Engraving"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/reinforced-apron"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "glorious-banded-plate",
+  "name": "Glorious Banded Plate",
+  "slug": "glorious-banded-plate",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/glorious-banded-plate.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "History Added in the Exalt Version 5.0.0.0 (July 2024) update.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+26 DEF",
+    "Amulet Affinity: Creates an on-hit effect when worn with an Amulet."
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/glorious-banded-plate"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "polygonal-garbs",
+  "name": "Polygonal Garbs",
+  "slug": "polygonal-garbs",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/polygonal-garbs.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Cuboid Necromancer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 DEF, +30 HP, +5 DEX",
+    "With full set: Squarrier deals twice the damage and lasts twice as long",
+    "On Taking Damage while In Combat: Cast a squarrier of projectiles that move outward and lingers Cooldown: 2 seconds Damage: 400 / 800 Speed: 0 tiles/second Lifetime: 2 / 4 seconds Amplitude: 3.54 tile(s) Frequency: 2 / 4 cycle(s)/shot Shots hit multiple targets Shots pass through obstacles Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Masquarerader",
+    "Cuboid Matriarch",
+    "Hyper Cube",
+    "Lesser Cube God",
+    "Perfected Cube God",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/polygonal-garbs"
+}

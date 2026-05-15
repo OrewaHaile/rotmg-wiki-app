@@ -1,0 +1,41 @@
+{
+  "id": "judges-robe",
+  "name": "Judge's Robe",
+  "slug": "judges-robe",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/judges-robe.png",
+  "itemType": "Robe",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Compared to T14 Robe of the Star Mother, the Judge’s Robe suffers a deficit of -5 MP, -4 DEF, and -2 ATT in exchange for a mere +1 WIS advantage. But as Mad God’s Rage was increased from 300 HP to 80% of maximum HP, players can get an extra offense boost much more easily. This tends to work best in the likes of most exaltation dungeons (e.g. Lost Halls, The Nest, Fungal Cavern), as they deal enough damage to activate Mad God’s Rage without necessarily putting the user at risk of death.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +11 DEF, +9 WIS, +60 MP",
+    "Mad God’s Rage: Gain ATT Boost (+5 ATT) and DEX Boost (+5 DEX) for 3 seconds when hit under 80% HP."
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/judge-s-robe"
+}

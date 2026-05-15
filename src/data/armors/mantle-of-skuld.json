@@ -1,0 +1,41 @@
+{
+  "id": "mantle-of-skuld",
+  "name": "Mantle of Skuld",
+  "slug": "mantle-of-skuld",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/mantle-of-skuld.png",
+  "itemType": "Leather Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Part of the Skuld 2 The ReGhostening set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 DEF, +8 WIS, +120 MP"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Ghost Bride",
+    "Ghost of Skuld",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mantle-of-skuld"
+}

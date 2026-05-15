@@ -1,0 +1,60 @@
+{
+  "id": "griffon-hide-armor",
+  "name": "Griffon Hide Armor",
+  "slug": "griffon-hide-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/griffon-hide-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "T11",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 231,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 308.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+17 DEF, +4 DEX"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Avatar of the Forgotten King",
+    "Bes",
+    "Cube God",
+    "Giant Oryx Chicken",
+    "Geb",
+    "Heart of the Wetlands",
+    "Jon Bilgewater the Pirate King",
+    "Kogbold Expedition Engine",
+    "Lord of the Lost Lands",
+    "Mighty Quest Chest",
+    "Murderous Megamoth",
+    "Nut",
+    "Oryx the Mad God",
+    "Oryx the Mad God 2",
+    "Pentaract",
+    "Rock Dragon",
+    "Skull Shrine",
+    "Son of Arachna",
+    "Blue Son of Arachna Giant Egg Sac",
+    "Green Son of Arachna Giant Egg Sac",
+    "Red Son of Arachna Giant Egg Sac",
+    "Silver Son of Arachna Giant Egg Sac"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/griffon-hide-armor"
+}

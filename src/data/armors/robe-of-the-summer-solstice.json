@@ -1,0 +1,31 @@
+{
+  "id": "robe-of-the-summer-solstice",
+  "name": "Robe of the Summer Solstice",
+  "slug": "robe-of-the-summer-solstice",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/robe-of-the-summer-solstice.png",
+  "itemType": "Robe",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 435,
+  "description": "Notes This is a reskinned version of T12 Robe of the Grand Sorcerer with a lower 5% XP bonus, instead of 6%.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+55 MP, +4 ATT, +13 DEF, +6 WIS"
+  ],
+  "usableClasses": [
+    "Wizard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/robe-of-the-summer-solstice"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "sun-hat",
+  "name": "Sun Hat",
+  "slug": "sun-hat",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/sun-hat.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 400,
+  "description": "History This item was added to the game in Exalt Version 5.15.0.0 (Aug 2025).",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+140 HP, +40 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx Wood Totem"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sun-hat"
+}

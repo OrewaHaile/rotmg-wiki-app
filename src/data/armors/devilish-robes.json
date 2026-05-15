@@ -1,0 +1,36 @@
+{
+  "id": "devilish-robes",
+  "name": "Devilish Robes",
+  "slug": "devilish-robes",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/devilish-robes.png",
+  "itemType": "Robe",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Part of the Incubus Sorcerer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+30 HP, +12 DEF, +6 DEX, +6 WIS, -50 MP"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/devilish-robes"
+}

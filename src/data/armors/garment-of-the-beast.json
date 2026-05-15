@@ -1,0 +1,40 @@
+{
+  "id": "garment-of-the-beast",
+  "name": "Garment of the Beast",
+  "slug": "garment-of-the-beast",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/garment-of-the-beast.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "Notes This robe has stats comparable to a Oceanic Apparel. Compared to the Apparel, it gives 4 ATT, 5 WIS and 2 more DEF while giving 3 less SPD and 5 less HP. Unless SPD is your top priority, this robe is preferable for its more well rounded stats. Nonetheless, both robes giving HP and SPD makes them valuable in rushing and dodging endgame content.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 DEF, +50 HP, +5 SPD, +4 ATT, +5 WIS"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Crusher Abomination",
+    "Escaped Experiment",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/garment-of-the-beast"
+}

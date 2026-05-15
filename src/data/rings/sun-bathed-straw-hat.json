@@ -1,0 +1,29 @@
+{
+  "id": "sun-bathed-straw-hat",
+  "name": "Sun Bathed Straw Hat",
+  "slug": "sun-bathed-straw-hat",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/sun-bathed-straw-hat.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 650,
+  "description": "Notes Part of the Fresh Carrot Paladin Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +8 DEF"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sun-bathed-straw-hat"
+}

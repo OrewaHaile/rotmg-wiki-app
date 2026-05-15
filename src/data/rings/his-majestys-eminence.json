@@ -1,0 +1,29 @@
+{
+  "id": "his-majestys-eminence",
+  "name": "His Majesty's Eminence",
+  "slug": "his-majestys-eminence",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/his-majestys-eminence.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This item is a slightly weaker version of The Forgotten Crown, granting 10 less HP and 1 less ATT/DEX. It was available as the final reward for the Shattered Kingdom event, obtained by completing the Loremaster quest for The Tinkerer by giving him the 4 tomes compiled from the 20 pages dropped during the event.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+100 HP, +5 ATT, +5 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/his-majesty-s-eminence"
+}

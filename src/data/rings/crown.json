@@ -1,0 +1,29 @@
+{
+  "id": "crown",
+  "name": "Crown",
+  "slug": "crown",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/crown.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": null,
+  "feedPower": 0,
+  "description": "Please note this content is designed solely for the use of admins and cannot be obtained by normal players.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 ATT, +20 SPD, +60 VIT, +700 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/crown"
+}

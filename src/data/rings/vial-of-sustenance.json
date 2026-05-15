@@ -1,0 +1,29 @@
+{
+  "id": "vial-of-sustenance",
+  "name": "Vial of Sustenance",
+  "slug": "vial-of-sustenance",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/vial-of-sustenance.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 600,
+  "description": "Notes Part of the Cursed Cursebreaker Huntress Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+70 MP, +5 SPD, +7 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/vial-of-sustenance"
+}

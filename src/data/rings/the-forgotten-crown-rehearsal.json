@@ -1,0 +1,31 @@
+{
+  "id": "the-forgotten-crown-rehearsal",
+  "name": "The Forgotten Crown (Rehearsal)",
+  "slug": "the-forgotten-crown-rehearsal",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/the-forgotten-crown-rehearsal.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes In comparison to the original The Forgotten Crown, the stats are greatly decreased. It is a downgrade from the Divine Coronation, Collector’s Monocle, and arguably the Omnipotence Ring, meaning there are many alternatives out there.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+100 HP, +4 ATT, +4 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Forgotten King (With Rehearsal Modifier)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/the-forgotten-crown-rehearsal"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "crystal-bone-ring",
+  "name": "Crystal Bone Ring",
+  "slug": "crystal-bone-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/crystal-bone-ring.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "1%",
+  "feedPower": 150,
+  "description": "Notes This ring is very rarely used as a primary ring, because of its lack of defensive stats. Tier 2 Rings are just as easy to find, and give better stats.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 DEX, +4 WIS",
+    "On Shoot: 10% chance to restore 5 MP Cooldown: 0.4 seconds"
+  ],
+  "usableClasses": [
+    "Necromancer"
+  ],
+  "dropsFrom": [
+    "Mixcoatl the Masked God",
+    "Beginner Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/crystal-bone-ring"
+}

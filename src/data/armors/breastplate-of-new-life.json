@@ -1,0 +1,34 @@
+{
+  "id": "breastplate-of-new-life",
+  "name": "Breastplate of New Life",
+  "slug": "breastplate-of-new-life",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/breastplate-of-new-life.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This armor sacrifices DEF for an enormous HP bonus, as much as the Ring of Transcendent Health. The defense-for-HP tradeoff is most effective in scenarios where you are taking few, large shots - i.e., many endgame dungeons. Even in ordinary situations, the Breastplate can compete with tiered armors (though note that your In Combat threshold will be lower).",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+160 HP, +14 DEF"
+  ],
+  "usableClasses": [
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Marble Colossus",
+    "Marble Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/breastplate-of-new-life"
+}

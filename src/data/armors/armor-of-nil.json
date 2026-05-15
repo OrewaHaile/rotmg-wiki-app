@@ -1,0 +1,35 @@
+{
+  "id": "armor-of-nil",
+  "name": "Armor of Nil",
+  "slug": "armor-of-nil",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/armor-of-nil.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This armor currently grants the most DEF in the game, higher than the T14 heavy armor, and equal to the Candy-Coated Armor. This is in exchange for a small mobility penalty and lack of DPS boost. Compared to the Leviathan Armor, this armor is essentially a -7 DEX & -5 SPD penalty for +9 DEF boost.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+30 DEF, -5 SPD",
+    "Planar Absorption: When hit reduce incoming damage taken by 15% for 5 seconds. Cooldown: 10 seconds"
+  ],
+  "usableClasses": [
+    "Archer"
+  ],
+  "dropsFrom": [
+    "Void Entity",
+    "Voided Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/armor-of-nil"
+}

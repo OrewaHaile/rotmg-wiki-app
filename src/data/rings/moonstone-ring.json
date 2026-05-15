@@ -1,0 +1,29 @@
+{
+  "id": "moonstone-ring",
+  "name": "Moonstone Ring",
+  "slug": "moonstone-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/moonstone-ring.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 250,
+  "description": "Notes Part of the Lycan Warrior Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +12 ATT, -5 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/moonstone-ring"
+}

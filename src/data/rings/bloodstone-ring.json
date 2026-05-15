@@ -1,0 +1,32 @@
+{
+  "id": "bloodstone-ring",
+  "name": "Bloodstone Ring",
+  "slug": "bloodstone-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/bloodstone-ring.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 650,
+  "description": "Notes Part of the Oryx’s Battle Attires set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+120 HP, +4 DEF"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 2",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bloodstone-ring"
+}

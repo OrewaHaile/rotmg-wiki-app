@@ -1,0 +1,39 @@
+{
+  "id": "flame-guard",
+  "name": "Flame Guard",
+  "slug": "flame-guard",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/flame-guard.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Fiery Kensei Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +15 DEF",
+    "On Hit: Summons a fire lizard for 0.9 secondsSummons Fire Shots: 200-300 DamageCooldown: 5 seconds"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Shaitan the Advisor",
+    "Honeyed Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/flame-guard"
+}

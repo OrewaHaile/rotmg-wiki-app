@@ -1,0 +1,40 @@
+{
+  "id": "eggshell-carapace",
+  "name": "Eggshell Carapace",
+  "slug": "eggshell-carapace",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/eggshell-carapace.png",
+  "itemType": "Leather Armor",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 435,
+  "description": "Notes This armor has the same DEF and DEX as the T13 Wyrmhide Armor with an additional 30 Max HP, making it a direct upgrade.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+30 HP, +20 DEF, +6 DEX",
+    "Secret Power: On ability use, consume 1/4th of your easter-magic meter to activate a secret power! Ovipositor Surprise: Release a flurry of vulnerability inducing eggs on your foes for 3 seconds! Damage: 35-50 (42.5) Range: 5.6 Secret Power Cooldown: 30 seconds Targets receive 108% damage for 3 seconds after being hit Ignores defense of target Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Crackjaw Gregg"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/eggshell-carapace"
+}

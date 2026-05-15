@@ -1,0 +1,43 @@
+{
+  "id": "frost-drake-hide-armor",
+  "name": "Frost Drake Hide Armor",
+  "slug": "frost-drake-hide-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/frost-drake-hide-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 435,
+  "description": "Notes Although not an ST item in its own right, this item is classed as Oryxmas Gear, and, if worn in conjuntion with Ornaments of Unity, will contribute to the Oryxmas Gear bonus stats.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+18 DEF, +5 DEX"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Event Chests",
+    "Loot Elf",
+    "Oryxmas Snowman Tier 3",
+    "Permafrost Lord",
+    "Snowy the Frost God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/frost-drake-hide-armor"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "cheater-robe",
+  "name": "Cheater Robe",
+  "slug": "cheater-robe",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/cheater-robe.png",
+  "itemType": "Robe",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 300,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "-100 HP"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "AsiaEast",
+    "AsiaSouthEast",
+    "Australia"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cheater-robe"
+}

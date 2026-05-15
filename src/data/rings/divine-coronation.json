@@ -1,0 +1,33 @@
+{
+  "id": "divine-coronation",
+  "name": "Divine Coronation",
+  "slug": "divine-coronation",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/divine-coronation.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes A direct upgrade to the Ring of the Pyramid, the Divine Coronation is a powerful ring with a nice array of offense and defense. Compared to the similar status Bracer of the Guardian, the Coro gives +20 HP and better DPS in exchange for less DEF and MP. It’s a fairly strong ring for any class, an alternative to other top-tier rings such as the Forgotten Crown, Omnipotence Ring, or Exalted God’s Horn.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+110 HP, +55 MP, +8 DEX, +5 DEF"
+  ],
+  "usableClasses": [
+    "Priest"
+  ],
+  "dropsFrom": [
+    "Archbishop Leucoryx"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/divine-coronation"
+}

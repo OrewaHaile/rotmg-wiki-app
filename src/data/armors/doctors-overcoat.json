@@ -1,0 +1,37 @@
+{
+  "id": "doctors-overcoat",
+  "name": "Doctor's Overcoat",
+  "slug": "doctors-overcoat",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/doctors-overcoat.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "History Before Exalt Version 5.0.0.0 (July 2024), this item had a dismantling value of 20 , required 20 / 200 / 1 / 1 ST Armor to forge.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+15 DEF, +7 DEX, +3 VIT",
+    "Nice Leeches: Leeches will heal players throughout their lifetime"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/doctor-s-overcoat"
+}

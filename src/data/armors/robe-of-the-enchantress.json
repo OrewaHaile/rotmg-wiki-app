@@ -1,0 +1,38 @@
+{
+  "id": "robe-of-the-enchantress",
+  "name": "Robe of the Enchantress",
+  "slug": "robe-of-the-enchantress",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/robe-of-the-enchantress.png",
+  "itemType": "Robe",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Totalia Mystic Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +15 DEF"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Totalia the Malevolent"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/robe-of-the-enchantress"
+}

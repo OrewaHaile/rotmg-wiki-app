@@ -1,0 +1,39 @@
+{
+  "id": "barrier-reef",
+  "name": "Barrier Reef",
+  "slug": "barrier-reef",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/barrier-reef.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Tidal Wave Kensei Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+21 DEF, +4 DEX",
+    "With Alexander’s Band: heals 200 HP when under 50% HPCooldown: 25 seconds"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Nikao the Azure Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/barrier-reef"
+}

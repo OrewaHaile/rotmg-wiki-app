@@ -1,0 +1,29 @@
+{
+  "id": "america-ring",
+  "name": "America Ring",
+  "slug": "america-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/america-ring.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 700,
+  "description": "Notes Prize for winning the Kabam Guild Event: Light Up the Realm. (Winning guild: RotMG Japan Guild - Youtube link)",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 HP, +20 MP, +1 ATT, +1 DEF, +1 SPD, +1 DEX, +1 VIT, +1 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/america-ring"
+}

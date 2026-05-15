@@ -1,0 +1,32 @@
+{
+  "id": "regal-ring",
+  "name": "Regal Ring",
+  "slug": "regal-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/regal-ring.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 0,
+  "description": "Notes Part of the Golden Archer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+1 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Australia",
+    "AsiaEast"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/regal-ring"
+}

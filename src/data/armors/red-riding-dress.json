@@ -1,0 +1,40 @@
+{
+  "id": "red-riding-dress",
+  "name": "Red Riding Dress",
+  "slug": "red-riding-dress",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/red-riding-dress.png",
+  "itemType": "Robe",
+  "tier": "UT (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "Notes Using your ability will change your skin to the Lil Red skin for 30 seconds, which will reset to the actual skin you have equipped after 30 seconds (with a 30 second cooldown after), or every time you change zones.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 MP, +8 DEF, +9 DEX, +8 VIT",
+    "Halloween Costume: On ability use, dress up as Lil Red Mystic for 60 seconds! Secret Power: On ability use, consume 1/4th of your candy-filled meter to activate a secret power! Basket Surprise: Toss a bomb for 2400-2600 armor piercing damage within 3 tiles. Secret Power Cooldown: 180 seconds"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Halloween Candy",
+    "Halloween Candy (Dungeon)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/red-riding-dress"
+}

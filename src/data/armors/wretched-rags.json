@@ -1,0 +1,40 @@
+{
+  "id": "wretched-rags",
+  "name": "Wretched Rags",
+  "slug": "wretched-rags",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/wretched-rags.png",
+  "itemType": "Robe",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This unique robe focuses primarily on survivability, increasing the wearer’s maximum HP equal to their max MP stat, at the cost of halving their base HP and making all +HP bonuses effectively half as strong. Without any other equipment, this robe is a net +25 HP on Bard and +50 HP on other robe classes, but investment into max MP via a combination of MP-boosting equipment and enchantments can provide the largest HP pools to robe classes.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 DEF, +5 DEX, +10 WIS, -50% HP equal to HP, +100% HP equal to MP"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Groundskeeper Gretch",
+    "Soulwarden Murcian",
+    "Spectral Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wretched-rags"
+}

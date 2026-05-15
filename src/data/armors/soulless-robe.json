@@ -1,0 +1,39 @@
+{
+  "id": "soulless-robe",
+  "name": "Soulless Robe",
+  "slug": "soulless-robe",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/soulless-robe.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Phylactery Mystic set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +15 DEF"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Haunted Spirit",
+    "Death Knight"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/soulless-robe"
+}

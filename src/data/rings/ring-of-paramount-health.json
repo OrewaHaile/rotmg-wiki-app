@@ -1,0 +1,42 @@
+{
+  "id": "ring-of-paramount-health",
+  "name": "Ring of Paramount Health",
+  "slug": "ring-of-paramount-health",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-paramount-health.png",
+  "itemType": "Ring",
+  "tier": "T4",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "2%",
+  "feedPower": 100,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 150.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+100 HP, +20 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Dungeon Bosses",
+    "Realm Gods",
+    "Beginner Quest Chest",
+    "Standard Quest Chest",
+    "Cube God",
+    "Genie",
+    "Kage Kami",
+    "Kogbold Expedition Engine",
+    "Oryx the Mad God",
+    "Oryx the Mad God 2",
+    "Pentaract",
+    "Skull Shrine"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-paramount-health"
+}

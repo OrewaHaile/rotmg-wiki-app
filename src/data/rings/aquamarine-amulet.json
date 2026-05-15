@@ -1,0 +1,34 @@
+{
+  "id": "aquamarine-amulet",
+  "name": "Aquamarine Amulet",
+  "slug": "aquamarine-amulet",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/aquamarine-amulet.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 600,
+  "description": "Notes Part of the Treasure Hunter Archer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEF, +5 VIT, +50 HP",
+    "Increases the power of the Embellished Quiver if worn in conjunction"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ancient Monolith",
+    "Sand Elemental",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/aquamarine-amulet"
+}

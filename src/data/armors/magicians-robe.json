@@ -1,0 +1,40 @@
+{
+  "id": "magicians-robe",
+  "name": "Magician's Robe",
+  "slug": "magicians-robe",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/magicians-robe.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Part of the Court Magician Sorcerer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+30 HP, +12 DEF, +6 DEX, +6 WIS, -50 MP"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Oryx Puppet",
+    "The Puppet Master (Encore)",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/magician-s-robe"
+}

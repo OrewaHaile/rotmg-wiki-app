@@ -1,0 +1,29 @@
+{
+  "id": "superior-mask-of-lightning",
+  "name": "Superior Mask of Lightning",
+  "slug": "superior-mask-of-lightning",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/superior-mask-of-lightning.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Red",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 400,
+  "description": "",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +140 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/superior-mask-of-lightning"
+}

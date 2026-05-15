@@ -1,0 +1,32 @@
+{
+  "id": "omnipotence-ring",
+  "name": "Omnipotence Ring",
+  "slug": "omnipotence-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/omnipotence-ring.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This rare ring provides a moderate boost to every stat, making it good on most classes. It is a direct upgrade to the Experimental Ring, the Ring of the Nile, and the Amulet of Dispersion. It also ties with the Chrysalis of Eternity for the highest feed power out of any obtainable equipment item in game.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+90 HP, +90 MP, +4 ATT, +5 DEF, +5 SPD, +4 DEX, +6 VIT, +6 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Void Entity",
+    "Voided Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/omnipotence-ring"
+}

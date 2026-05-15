@@ -1,0 +1,38 @@
+{
+  "id": "painted-eggshell-armor",
+  "name": "Painted Eggshell Armor",
+  "slug": "painted-eggshell-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/painted-eggshell-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Painted Egg Archer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+16 DEF, +10 VIT",
+    "On taking at least 20 damage: Healing for 5 seconds Cooldown: 20 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/painted-eggshell-armor"
+}

@@ -1,7 +1,7 @@
 {
-  "totalImported": 918,
+  "totalImported": 1445,
   "duplicates": 0,
-  "invalid": 18,
+  "invalid": 28,
   "categories": {
     "daggers": 61,
     "swords": 72,
@@ -10,6 +10,8 @@
     "staves": 75,
     "katanas": 65,
     "spellblades": 18,
+    "armors": 230,
+    "rings": 297,
     "abilities": 479
   }
 }

@@ -1,0 +1,33 @@
+{
+  "id": "crystallised-mist",
+  "name": "Crystallised Mist",
+  "slug": "crystallised-mist",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/crystallised-mist.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes This ring should be used to further enhance the rushing ability of a class such as Warrior or Trickster, as it allows the user to become invisible for 8 seconds upon taking a bullet that deals 50 or more damage. It also provides reasonably high bonuses to SPD and DEF to further aid rushing prowess, with the HP being a nice bonus.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +6 DEF, +8 SPD",
+    "On Taking Damage: Invisible for 8 seconds Damage Threshold: Damage > 50 Cooldown: 40 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Crystal Entity",
+    "Crystallized Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/crystallised-mist"
+}

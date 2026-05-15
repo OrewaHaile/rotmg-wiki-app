@@ -1,0 +1,40 @@
+{
+  "id": "rocky-robe",
+  "name": "Rocky Robe",
+  "slug": "rocky-robe",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/rocky-robe.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 900,
+  "description": "Notes Part of the Earthen Bulwark Summoner Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 DEF, -5 DEX, +4 VIT",
+    "Earth’s Blessing: Grants Armored for 5 seconds on ability use when worn with Stonemould Mace"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Limoz the Viridian Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/rocky-robe"
+}

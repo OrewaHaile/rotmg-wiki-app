@@ -1,0 +1,50 @@
+{
+  "id": "wolfskin-armor",
+  "name": "Wolfskin Armor",
+  "slug": "wolfskin-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/wolfskin-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "T0",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 5,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 7.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEF"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Black Bat",
+    "Dreadstump the Pirate King",
+    "Elf Wizard",
+    "Giant Crab",
+    "Hobbit Mage",
+    "Pirate",
+    "Piratess",
+    "Pirate Admiral",
+    "Pirate Captain",
+    "Pirate Commander",
+    "Pirate Lieutenant"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wolfskin-armor"
+}

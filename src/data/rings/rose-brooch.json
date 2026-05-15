@@ -1,0 +1,30 @@
+{
+  "id": "rose-brooch",
+  "name": "Rose Brooch",
+  "slug": "rose-brooch",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/rose-brooch.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 950,
+  "description": "Notes Part of the Rose Keeper Necromancer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+75 HP, +75 MP, +6 VIT, +6 DEF",
+    "On Hit: Retaliates with a rose thorn attack Damage: 300-400 (350) Speed: 17 tiles/sec Acceleration: -9 tiles/sec2 after 0.1 seconds Minimum Speed: 10 tiles/second Range: 10.35"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/rose-brooch"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "lucky-grenade",
+  "name": "Lucky Grenade",
+  "slug": "lucky-grenade",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/lucky-grenade.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 750,
+  "description": "Notes Part of the Kogbold Pyrotechnician Wizard set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+75 HP, +5 DEX",
+    "High Explosive: When placing an Unstable Firework, releases a cone of bullets towards the mouse pointer. Bullets deal 150-175 damage. 1 second cooldown."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/lucky-grenade"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "crystal-key",
+  "name": "Crystal Key",
+  "slug": "crystal-key",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/crystal-key.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes While this ring’s stats are relatively mediocre compared to other rings of its rarity, it has a chance to release a ring of key bullets when the user is hit. The key nova inflicts good damage, as well as Slowing and Exposing all enemies it hits, making it decent for crippling nearby foes. However, due to the unreliability of the proc, combined with the ring’s stats, this is a ring that is somewhat outclassed in many situations, although it may prove useful to cripple enemies while rushing.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +4 DEF, +3 DEX",
+    "Keyper’s Trickery: Releases a barrage of 10 keys to hinder opponents On Taking Damage: 10% chance to create key nova Key Damage: 100 Key Bullet Speed: 8.5 tiles/second Key Range: 4.25 tiles Key Effect: Slowed for 2s, Exposed for 4s Cooldown: 5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/crystal-key"
+}

@@ -8,6 +8,8 @@ export function formatCategoryLabel(category: string = ""): string {
     staffs: "Staffs",
     katanas: "Katanas",
     spellblades: "Spellblades",
+    armors: "Armors",
+    rings: "Rings",
     abilities: "Abilities",
   };
 

@@ -1,0 +1,33 @@
+{
+  "id": "autarch-amulet",
+  "name": "Autarch Amulet",
+  "slug": "autarch-amulet",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/autarch-amulet.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 850,
+  "description": "Notes Wearing this ring with other items of the Agents of Oryx series will grant additional set bonuses depending on how many pieces are worn. Out of the three rings, this one is specialized for utility, granting decent defensive bonuses while providing large amounts of MP and WIS for ability casting when powered up.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +100 MP, +7 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/autarch-amulet"
+}

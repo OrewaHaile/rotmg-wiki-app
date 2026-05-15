@@ -1,0 +1,30 @@
+{
+  "id": "ornaments-of-unity",
+  "name": "Ornaments of Unity",
+  "slug": "ornaments-of-unity",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ornaments-of-unity.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes While not providing any stats by itself, this ring provides significant stat boosts when worn with other Oryxmas gear, reaching its full potential with an Ice Weapon, Oryxmas Reskin Ability and a Frost Reskin Armor. With the full set, the stat bonuses beat that of the Omnipotence Ring. Thus, the item is best used with classes where a full tiered set is useful on, such as the Paladin, Knight, or Wizard.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "No stat bonuses unless worn as part of set",
+    "On Taking Damage: 10% chance to spawn an Oryxmas Tree that applies Exposed and Weak to surrounding enemies and Energized to surrounding players. It deals 50 damage to surrounding enemies every 0.2 seconds. Cooldown: 10 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ornaments-of-unity"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "legacy-ring-of-pure-wishes",
+  "name": "Legacy Ring of Pure Wishes",
+  "slug": "legacy-ring-of-pure-wishes",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/legacy-ring-of-pure-wishes.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes Part of the Legacy Swoll Paladin set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 HP, +10 MP, +1 ATT, +5 DEF"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legacy-ring-of-pure-wishes"
+}

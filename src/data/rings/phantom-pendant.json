@@ -1,0 +1,33 @@
+{
+  "id": "phantom-pendant",
+  "name": "Phantom Pendant",
+  "slug": "phantom-pendant",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/phantom-pendant.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 750,
+  "description": "Notes Part of the Paranormal Wizard Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +20 MP, +5 DEF, +5 SPD",
+    "Wearing Spectral Spell along with this ring allows you to summon Animated Staff and Spectral Skull for 4.8 seconds. Cooldown: 5.8 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ice Adept",
+    "Event Chests"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/phantom-pendant"
+}

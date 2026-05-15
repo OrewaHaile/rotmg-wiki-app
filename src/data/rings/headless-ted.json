@@ -1,0 +1,30 @@
+{
+  "id": "headless-ted",
+  "name": "Headless Ted",
+  "slug": "headless-ted",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/headless-ted.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 600,
+  "description": "Notes Part of the Killbilly Warrior Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+90 HP, +6 DEX, +4 SPD",
+    "On shooting while Bleeding: Gain Healing [20/s] for 1 secondCooldown: 0.8 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/headless-ted"
+}

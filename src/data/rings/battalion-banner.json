@@ -1,0 +1,34 @@
+{
+  "id": "battalion-banner",
+  "name": "Battalion Banner",
+  "slug": "battalion-banner",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/battalion-banner.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes Identical in stats to the Oryxmas Ornament: Exposed, this accessory also places a banner that grants Damaging in its radius. This is a significant buff towards damage outupt.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+90 HP, +4 SPD, +4 DEX",
+    "On Ability Use: Summons a banner which deals 400-600 damage each second within 6 tiles and grants Damaging to players within 3 tiles. Duration: 4 seconds Cooldown: 10 seconds Damaging Duration: 0.6 Damaging Cooldown: 0.2"
+  ],
+  "usableClasses": [
+    "Ninja"
+  ],
+  "dropsFrom": [
+    "Chief Beisa"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/battalion-banner"
+}

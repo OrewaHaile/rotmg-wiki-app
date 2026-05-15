@@ -1,0 +1,34 @@
+{
+  "id": "ring-of-transcendent-dexterity",
+  "name": "Ring of Transcendent Dexterity",
+  "slug": "ring-of-transcendent-dexterity",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-transcendent-dexterity.png",
+  "itemType": "Ring",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 600,
+  "description": "Notes An enchanted Ring of Transcendent Dexterity can possibly be the strongest dps ring if one has the enchantment Relative Attack Bonus IV, which provides a whopping 9% attack bonus onto the ring.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +50 MP, +11 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Forgotten King",
+    "Royal Epic Quest Chest",
+    "Oryx the Mad God 3",
+    "Kitsune Umi"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-transcendent-dexterity"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "mystic-syndicate-attire",
+  "name": "Mystic Syndicate Attire",
+  "slug": "mystic-syndicate-attire",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/mystic-syndicate-attire.png",
+  "itemType": "Robe",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes A powerful robe that provides good offensive stats while also reducing the MP cost of the player’s ability, similar to the Twilight Gemstone. This effect stacks with that of the Gemstone, potentially allowing for greatly increased usage of powerful abilities like the Tablet of the King’s Avatar.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+12 DEF, +6 ATT, +6 WIS",
+    "Reduces the Magic casting cost of your ability by 10%"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Pirate Queen Ramm",
+    "Izel the Grand Shaman",
+    "Nefret the Pharaoh",
+    "Black Blade Ozuchi",
+    "Interregnum Treasure Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mystic-syndicate-attire"
+}

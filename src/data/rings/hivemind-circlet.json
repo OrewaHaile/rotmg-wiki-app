@@ -1,0 +1,34 @@
+{
+  "id": "hivemind-circlet",
+  "name": "Hivemind Circlet",
+  "slug": "hivemind-circlet",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/hivemind-circlet.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 650,
+  "description": "Notes: Part of the Flesh Collector Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+70 HP, +5 ATT, -2 VIT, +10% WIS equal to ATT."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Blob Colony",
+    "Swarm Colony",
+    "Pterasite Colony",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hivemind-circlet"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "hirejou-tenne",
+  "name": "Hirejou Tenne",
+  "slug": "hirejou-tenne",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/hirejou-tenne.png",
+  "itemType": "Leather Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes Part of the Raijin Disciple Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+9 DEF, +8 ATT, +8 DEX",
+    "On ability with Reikoku Eqipped: Gain DEF Boost (+5 DEF) for 6 secondsCooldown: 10 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Xolotl the Lightning God",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hirejou-tenne"
+}

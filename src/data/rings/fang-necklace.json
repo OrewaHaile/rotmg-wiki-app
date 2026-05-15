@@ -1,0 +1,30 @@
+{
+  "id": "fang-necklace",
+  "name": "Fang Necklace",
+  "slug": "fang-necklace",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/fang-necklace.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Shaman Necromancer set. The Soul Gem Amulet may alternatively be used as a piece of this set, identical except for a different additional effect on the Ritual Circle.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 DEX, +5 VIT",
+    "Blood Offering: Ritual Circle now also gives Berserk"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fang-necklace"
+}

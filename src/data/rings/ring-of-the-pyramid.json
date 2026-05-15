@@ -1,0 +1,32 @@
+{
+  "id": "ring-of-the-pyramid",
+  "name": "Ring of the Pyramid",
+  "slug": "ring-of-the-pyramid",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-the-pyramid.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Historically, this ring was regarded as one of the best general-use rings in the game, though power creep has brought this ring down a level. It has a nice balance of stats, making it a solid midgame ring. Mana-reliant classes might prefer another option.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 DEF, +100 HP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bes",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-the-pyramid"
+}

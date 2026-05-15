@@ -1,0 +1,38 @@
+{
+  "id": "ring-of-pure-wishes",
+  "name": "Ring of Pure Wishes",
+  "slug": "ring-of-pure-wishes",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-pure-wishes.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 500,
+  "description": "Notes Part of the Swoll Paladin set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+90 HP, +45 MP, +4 DEF",
+    "On shoot with the Healing buff: Gain ATT Boost (+4 ATT) for 3 secondsCooldown: 6 second"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Gigacorn",
+    "Desire Troll",
+    "Spoiled Creampuff",
+    "MegaRototo",
+    "Swoll Fairy",
+    "Cupcake",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-pure-wishes"
+}

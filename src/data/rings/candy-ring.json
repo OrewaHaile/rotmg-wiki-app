@@ -1,0 +1,38 @@
+{
+  "id": "candy-ring",
+  "name": "Candy Ring",
+  "slug": "candy-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/candy-ring.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 400,
+  "description": "Notes Because of its high drop rate, and ability to endlessly farm Candyland Hunting Grounds, Candy Rings are often used as pet food or forge material. Note that inventory space can be an issue when farming candy rings.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 SPD, +10 VIT, -100 MP, -10 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Gigacorn",
+    "Desire Troll",
+    "Swoll Fairy",
+    "MegaRototo",
+    "Spoiled Creampuff",
+    "Cupcake",
+    "Gumball Machine",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/candy-ring"
+}

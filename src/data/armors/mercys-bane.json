@@ -1,0 +1,38 @@
+{
+  "id": "mercys-bane",
+  "name": "Mercy's Bane",
+  "slug": "mercys-bane",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/mercys-bane.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Part of the Oryx’s Battle Attires set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 DEF, +7 ATT, +7 DEX"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 2",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mercy-s-bane"
+}

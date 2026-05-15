@@ -1,0 +1,29 @@
+{
+  "id": "amulet-of-elemental-air",
+  "name": "Amulet of Elemental Air",
+  "slug": "amulet-of-elemental-air",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/amulet-of-elemental-air.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 400,
+  "description": "History Before Exalt Version 5.2.0.0 (Oct 2024), this item had feed power of 325 and gave +10 DEX on equip.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +40 MP, +10 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/amulet-of-elemental-air"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "e-y-e",
+  "name": "E.Y.E.",
+  "slug": "e-y-e",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/e-y-e.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 950,
+  "description": "Notes A direct upgrade to the Experimental Ring, this ring inherits and enhances its worth as a potent all-rounded ring for boosting survivability. However, the E.Y.E. adds another strength on top of that by firing a projectile counterattack whenever the user takes a hit. This counterattack fires a decelerating shot in the direction of the enemy that dealt the hit that triggered it.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+75 HP, +75 MP, +6 VIT, +6 DEF",
+    "On Hit: Retaliates with a psychic attack Damage: 300-400 (350) Speed: 17 tiles/sec Acceleration: -9 tiles/sec2 after 0.1 seconds Minimum Speed: 10 tiles/second Range: 10.35"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "F.E.R.A.L."
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/e-y-e"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "fungal-breastplate",
+  "name": "Fungal Breastplate",
+  "slug": "fungal-breastplate",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/fungal-breastplate.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes As the description suggests, this armor is incredibly unique. It provides a staggering +30 VIT along with an additional +80 HP, but unlike any other heavy armor, this armor offers no defense bonus. Donning this armor will leave every melee class (except for Knight) with less defense than a robe class.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+30 VIT, +80 HP"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Mushroom Chieftain",
+    "Mushroom Keeper",
+    "Mushroom Guardian",
+    "Mushroom Sorcerer",
+    "Mushroom Berserker",
+    "Mushroom Shaman",
+    "Crystallized Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fungal-breastplate"
+}

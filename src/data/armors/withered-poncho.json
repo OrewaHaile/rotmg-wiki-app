@@ -1,0 +1,37 @@
+{
+  "id": "withered-poncho",
+  "name": "Withered Poncho",
+  "slug": "withered-poncho",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/withered-poncho.png",
+  "itemType": "Leather Armor",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Scarecrow Trickster Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+15 DEF, +8 ATT, +7 VIT"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/withered-poncho"
+}

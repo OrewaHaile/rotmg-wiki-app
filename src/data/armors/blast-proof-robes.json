@@ -1,0 +1,36 @@
+{
+  "id": "blast-proof-robes",
+  "name": "Blast Proof Robes",
+  "slug": "blast-proof-robes",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/blast-proof-robes.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Part of the Kogbold Pyrotechnician Wizard set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+70 HP, +10 DEF, +2 DEX"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/blast-proof-robes"
+}

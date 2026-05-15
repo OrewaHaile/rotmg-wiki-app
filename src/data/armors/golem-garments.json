@@ -1,0 +1,40 @@
+{
+  "id": "golem-garments",
+  "name": "Golem Garments",
+  "slug": "golem-garments",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/golem-garments.png",
+  "itemType": "Leather Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes A more DPS-centric armor that suffers from lessened DEF while giving a whopping +8 ATT and a sublime VIT boost, somewhat like a more extreme version of a Spectral Cloth Armor, as they both boost offensive stats in exchange for a low 14 DEF. The DEF boost from this armor can be compared to the T9 Drake Hide Armor, while the ATT boost is the second highest of any armor (tied with the Hirejou Tenne and Toga Picta and is equal to that of a T5 Ring of Exalted Attack. It should be noted, however, that in terms of pure offensive power, the Hirejou Tenne provides an additional +8 DEX on top of t",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+15 DEF, +8 ATT, +7 VIT"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Tormented Golem",
+    "Marble Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/golem-garments"
+}

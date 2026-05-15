@@ -1,0 +1,32 @@
+{
+  "id": "nightmatter-circlet",
+  "name": "Nightmatter Circlet",
+  "slug": "nightmatter-circlet",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/nightmatter-circlet.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "9%",
+  "feedPower": 850,
+  "description": "History Added in the Exalt Version 6.0.0.0 (Sep 2025) update.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+100 HP, +100 MP, +4 ATT, +4 DEX, +4 VIT, +4 WIS",
+    "Enigmatic Lifeline: Restores 300 HP when taking damage below 50% HP. Cooldown: 180 seconds Mystic Restoration: 50% on ability use to gain Energized for 10 seconds. Cooldown: 20 seconds Rapid Decay: On ability use poison enemies within 6 tiles, inflicting 1000 damage and causing them to take 5% more damage from you for 5 seconds. Cooldown: 15 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/nightmatter-circlet"
+}

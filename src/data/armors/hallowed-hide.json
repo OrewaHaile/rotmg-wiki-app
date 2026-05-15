@@ -1,0 +1,46 @@
+{
+  "id": "hallowed-hide",
+  "name": "Hallowed Hide",
+  "slug": "hallowed-hide",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/hallowed-hide.png",
+  "itemType": "Leather Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Part of the Vampire Rogue Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+30 HP, +14 DEF, +5 ATT",
+    "With Ruthven’s Rosary: Restore 100 HP when hit below 50% max HP Cooldown: 15 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Lesser Bald Vampire",
+    "Lil Feratu",
+    "Armor Guard",
+    "Helmet Head",
+    "Hellhound",
+    "Nosferatu",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hallowed-hide"
+}

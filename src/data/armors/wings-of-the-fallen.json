@@ -1,0 +1,37 @@
+{
+  "id": "wings-of-the-fallen",
+  "name": "Wings of the Fallen",
+  "slug": "wings-of-the-fallen",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/wings-of-the-fallen.png",
+  "itemType": "Robe",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": null,
+  "description": "Notes Part of the Demon Guitarist Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 MP, +10 DEF, +5 VIT, +5 WIS, +5 DEX",
+    "Increases the power of the Inferno Pick if worn in conjunction"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wings-of-the-fallen"
+}

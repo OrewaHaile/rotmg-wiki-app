@@ -1,0 +1,37 @@
+{
+  "id": "mechpilots-jerkin",
+  "name": "Mechpilot's Jerkin",
+  "slug": "mechpilots-jerkin",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/mechpilots-jerkin.png",
+  "itemType": "Leather Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Mechanical Raptor Druid Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +7 DEF, +5 SPD, +4 DEX"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mechpilot-s-jerkin"
+}

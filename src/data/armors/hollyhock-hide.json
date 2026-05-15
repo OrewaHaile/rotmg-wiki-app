@@ -1,0 +1,41 @@
+{
+  "id": "hollyhock-hide",
+  "name": "Hollyhock Hide",
+  "slug": "hollyhock-hide",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/hollyhock-hide.png",
+  "itemType": "Leather Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "Notes Part of the Horticultural Huntress Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+11 DEF, +8 DEX, +5 VIT, +3 SPD",
+    "Green Thumb: 10% chance to receive DEX Boost (+10 DEX) for 5 seconds on taking damage. Cooldown: 5 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Greater Fairies",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hollyhock-hide"
+}

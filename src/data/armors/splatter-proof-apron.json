@@ -1,0 +1,38 @@
+{
+  "id": "splatter-proof-apron",
+  "name": "Splatter-proof Apron",
+  "slug": "splatter-proof-apron",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/splatter-proof-apron.png",
+  "itemType": "Leather Armor",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 435,
+  "description": "",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+18 DEF, +5 DEX, +2 ATT",
+    "Thanksgiving Set: This apron can be further enhanced by inscribing it with a Thankful or Giver Engraving"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/splatter-proof-apron"
+}

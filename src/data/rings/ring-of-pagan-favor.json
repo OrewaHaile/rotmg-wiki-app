@@ -1,0 +1,33 @@
+{
+  "id": "ring-of-pagan-favor",
+  "name": "Ring of Pagan Favor",
+  "slug": "ring-of-pagan-favor",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-pagan-favor.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes Part of the Mad God’s Messenger Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +6 DEF, -5 VIT, +4 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Brute of Oryx",
+    "Commander of Oryx",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-pagan-favor"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "captains-ring",
+  "name": "Captain's Ring",
+  "slug": "captains-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/captains-ring.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "History Before Exalt Version 2.0.0.0 (Aug 2021), this item was soulbound.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +4 ATT, +4 DEX, +5 WIS, +5 VIT"
+  ],
+  "usableClasses": [
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Davy Jones",
+    "Sunken Treasure",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/captain-s-ring"
+}

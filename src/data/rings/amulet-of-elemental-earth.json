@@ -1,0 +1,29 @@
+{
+  "id": "amulet-of-elemental-earth",
+  "name": "Amulet of Elemental Earth",
+  "slug": "amulet-of-elemental-earth",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/amulet-of-elemental-earth.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 400,
+  "description": "History Before Exalt Version 5.2.0.0 (Oct 2024), this item had Feed Power of 325, gave +8 DEF on equip and was a reskinned version of Ring of Exalted Defense.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +40 MP, +10 DEF"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/amulet-of-elemental-earth"
+}

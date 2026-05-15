@@ -1,0 +1,30 @@
+{
+  "id": "ember-of-the-daeva",
+  "name": "Ember of the Daeva",
+  "slug": "ember-of-the-daeva",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ember-of-the-daeva.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes This is an Antinomy Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +5 VIT",
+    "On Taking Damage: When health drops below 50%, spawns a healing spirit who heals for 5 seconds Healing Spirit Effect: Heals up to 5 players within 5 tiles by 80 HP per second Cooldown: 25 seconds On Taking Damage: When health drops below 75%, DEF Boost (+15 DEF) for 10 seconds Cooldown: 20 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ember-of-the-daeva"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "drummer-kaguya",
+  "name": "Drummer Kaguya",
+  "slug": "drummer-kaguya",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/drummer-kaguya.png",
+  "itemType": "Leather Armor",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "This page is currently a work in progress.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/drummer-kaguya",
+  "invalidReasons": [
+    "invalid tier"
+  ],
+  "importedAt": "2026-05-15T15:38:27.049Z"
+}

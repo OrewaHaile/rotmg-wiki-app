@@ -1,0 +1,41 @@
+{
+  "id": "chainmail-body-armor",
+  "name": "Chainmail Body Armor",
+  "slug": "chainmail-body-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/chainmail-body-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Nordic Knight Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 DEF, +6 SPD, +6 VIT"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Iceion",
+    "Lizicle",
+    "Snow Bat",
+    "Yeti",
+    "Citadel Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/chainmail-body-armor"
+}

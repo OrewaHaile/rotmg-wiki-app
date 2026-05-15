@@ -1,0 +1,34 @@
+{
+  "id": "pernicious-peridot",
+  "name": "Pernicious Peridot",
+  "slug": "pernicious-peridot",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/pernicious-peridot.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 600,
+  "description": "Notes Part of the Acidified Assassin Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+150 HP, -5 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Golden Rat",
+    "Natural Slime God",
+    "Sewer Alligator",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pernicious-peridot"
+}

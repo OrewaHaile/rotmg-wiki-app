@@ -1,0 +1,51 @@
+{
+  "id": "leather-armor",
+  "name": "Leather Armor",
+  "slug": "leather-armor",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/leather-armor.png",
+  "itemType": "Leather Armor",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 7,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 9.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 DEF"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Desert Werewolf",
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Elf Wizard",
+    "Giant Crab",
+    "Goblin Mage",
+    "Hobbit Mage",
+    "Pirate Admiral",
+    "Sandsman King",
+    "Sumo Master",
+    "Ultimate Squirrel",
+    "Undead Hobbit Mage",
+    "X Treasure Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/leather-armor"
+}

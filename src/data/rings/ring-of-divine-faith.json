@@ -1,0 +1,35 @@
+{
+  "id": "ring-of-divine-faith",
+  "name": "Ring of Divine Faith",
+  "slug": "ring-of-divine-faith",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-divine-faith.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes This ring can be seen more useful to a Priest or a Sorcerer that want to spam their abilities with more power for a more controllable defensive or agressive scene but still should be treated as a swapout for when a ring more focused on survivability is required.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +60 MP, +6 VIT, +6 WIS"
+  ],
+  "usableClasses": [
+    "Priest"
+  ],
+  "dropsFrom": [
+    "Lord Ruthven",
+    "Coffin",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-divine-faith"
+}

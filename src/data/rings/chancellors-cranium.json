@@ -1,0 +1,34 @@
+{
+  "id": "chancellors-cranium",
+  "name": "Chancellor's Cranium",
+  "slug": "chancellors-cranium",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/chancellors-cranium.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes The Chancellor’s Cranium is a well balanced offensive and defensive ring. It provides valuable defensive stats such as +120 HP and +6 DEF, while also providing a small stat bonus of +3 DEX and a proc which has the opportunity to do a large amount of DPS (+750 optimally). Although there are better defensive and offensive rings, the Cranium can serve as a highly effective balance between the two.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+120 HP, +6 DEF, +3 DEX",
+    "On Taking Damage: Shots above 50 damage summon a following cranium which deals 150 damage every 0.2 seconds for 5 seconds and zaps enemies in a radius of 6 squares Cooldown: 5 seconds"
+  ],
+  "usableClasses": [
+    "Wizard"
+  ],
+  "dropsFrom": [
+    "Chancellor Dammah"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/chancellor-s-cranium"
+}

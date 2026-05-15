@@ -1,0 +1,29 @@
+{
+  "id": "creators-ring",
+  "name": "Creator's Ring",
+  "slug": "creators-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/creators-ring.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "Please note this content is designed solely for the use of admins and cannot be obtained by normal players.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+99,999 HP, +99,999 VIT, +5,000 ATT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/creator-s-ring"
+}

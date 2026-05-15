@@ -1,0 +1,31 @@
+{
+  "id": "witchs-brooch",
+  "name": "Witch's Brooch",
+  "slug": "witchs-brooch",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/witchs-brooch.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Totalia Mystic Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 MP, +8 ATT, +8 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Totalia the Malevolent"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/witch-s-brooch"
+}

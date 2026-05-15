@@ -1,0 +1,36 @@
+{
+  "id": "garb-of-the-ordained",
+  "name": "Garb of the Ordained",
+  "slug": "garb-of-the-ordained",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/garb-of-the-ordained.png",
+  "itemType": "Robe",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Part of the Archexorcist Priest Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +14 DEF, +3 DEX, -5 VIT"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/garb-of-the-ordained"
+}

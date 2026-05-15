@@ -1,0 +1,38 @@
+{
+  "id": "divination-cloak",
+  "name": "Divination Cloak",
+  "slug": "divination-cloak",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/divination-cloak.png",
+  "itemType": "Cloak",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes A very medicore leather armor when looked at by itself, compared to the T12 Hydra Skin Armor it sacrifices 2 defence for an added 50 MP. This armor only shines when used with the Invocation Scroll, as the Divine Rage passive will be used, and the ST set bonus will help offset the lost def when compared to the Hydra Armor.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+15 DEF, +5 DEX, +50 MP",
+    "Divine Rage:Invocation Scroll Yin Shots do 48-60 armor piercing damageInvocation Scroll Yang Shots do 60-72 armor piercing damage"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/divination-cloak"
+}

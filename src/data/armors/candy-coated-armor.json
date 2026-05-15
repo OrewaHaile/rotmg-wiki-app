@@ -1,0 +1,44 @@
+{
+  "id": "candy-coated-armor",
+  "name": "Candy-Coated Armor",
+  "slug": "candy-coated-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/candy-coated-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": null,
+  "description": "Notes The Candy-Coated Armor (CC) has the highest defense out of any heavy armor in the game (and is tied with the Armor of Nil for the highest DEF boost out of all the armors). In return, it reduces its wearer’s DEX by 5, compromising their total damage output in a non-negligible manner.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+30 DEF, -5 DEX"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Desire Troll",
+    "MegaRototo",
+    "Swoll Fairy",
+    "Spoiled Creampuff",
+    "Gigacorn",
+    "Cupcake",
+    "Standard Quest Chest",
+    "Prismimic Attacker"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/candy-coated-armor"
+}

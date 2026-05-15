@@ -1,0 +1,48 @@
+{
+  "id": "iron-mail",
+  "name": "Iron Mail",
+  "slug": "iron-mail",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/iron-mail.png",
+  "itemType": "Heavy Armor",
+  "tier": "T0",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 5,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 7.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEF"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Black Bat",
+    "Dreadstump the Pirate King",
+    "Elf Wizard",
+    "Giant Crab",
+    "Hobbit Mage",
+    "Pirate",
+    "Piratess",
+    "Pirate Admiral",
+    "Pirate Captain",
+    "Pirate Commander",
+    "Pirate Lieutenant"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/iron-mail"
+}

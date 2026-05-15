@@ -1,0 +1,35 @@
+{
+  "id": "robe-of-the-mad-scientist",
+  "name": "Robe of the Mad Scientist",
+  "slug": "robe-of-the-mad-scientist",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/robe-of-the-mad-scientist.png",
+  "itemType": "Robe",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes This robe lowers MP cost by 15%. This allows for more ability uses than all robes except for the Tlatoani’s Shroud, although it can beat the Shroud during prolonged, sustained MP usage with a high-level magic healing pet. It is valuable as a support robe, allowing classes like Priests and Bards to use their abilities more often.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+12 DEF, +5 VIT, +5 WIS",
+    "Scientist’s Expertise: Reduces the Magic casting cost of your ability by 15%"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [
+    "Dr. Terrible",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/robe-of-the-mad-scientist"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "augur-of-the-tempest",
+  "name": "Augur of the Tempest",
+  "slug": "augur-of-the-tempest",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/augur-of-the-tempest.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 600,
+  "description": "Notes Part of the Storm Caller Bard Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+75 HP, +5 SPD, +5 DEX",
+    "Concussive Waves: Grants additional recursive thunder explosions to the lightning strike of Thundering Chorus"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Feargus the Obsidian Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/augur-of-the-tempest"
+}

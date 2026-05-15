@@ -1,0 +1,32 @@
+{
+  "id": "void-mask",
+  "name": "Void Mask",
+  "slug": "void-mask",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/void-mask.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 400,
+  "description": "History Before Exalt Version 6.2.0.0 (Oct 2025), this item gave +70 HP, +7 DEX, +7 WIS.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+100 HP, +7 DEX, +3 WIS",
+    "Plump Leeches: Leeches inflict 100% more damage and deal a damaging AOE blast when they decay"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Event Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/void-mask"
+}

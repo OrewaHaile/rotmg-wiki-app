@@ -1,0 +1,29 @@
+{
+  "id": "pontifex-ring",
+  "name": "Pontifex Ring",
+  "slug": "pontifex-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/pontifex-ring.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes Part of the Archexorcist Priest Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +6 DEF, -5 VIT, +4 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pontifex-ring"
+}

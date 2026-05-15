@@ -1,0 +1,29 @@
+{
+  "id": "bronze-medal",
+  "name": "Bronze Medal",
+  "slug": "bronze-medal",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/bronze-medal.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "3%",
+  "feedPower": 200,
+  "description": "Notes Prize for winning 3rd place in the Kabam Guild Event: Synchronized Swimming. (Winning guilds: Nightingale II - Youtube link, and The Infamous - Youtube link)",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+1 SPD, +1 DEX, +1 VIT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bronze-medal"
+}

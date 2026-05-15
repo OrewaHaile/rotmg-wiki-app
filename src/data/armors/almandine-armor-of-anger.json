@@ -1,0 +1,35 @@
+{
+  "id": "almandine-armor-of-anger",
+  "name": "Almandine Armor of Anger",
+  "slug": "almandine-armor-of-anger",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/almandine-armor-of-anger.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 435,
+  "description": "Notes Part of the Oryx Awesome set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+24 DEF"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/almandine-armor-of-anger"
+}

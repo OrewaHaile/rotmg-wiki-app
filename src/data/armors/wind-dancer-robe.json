@@ -1,0 +1,40 @@
+{
+  "id": "wind-dancer-robe",
+  "name": "Wind Dancer Robe",
+  "slug": "wind-dancer-robe",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/wind-dancer-robe.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 700,
+  "description": "Notes Part of the Storm Caller Bard Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+13 DEF, +7 SPD, +12 DEX, -5 ATT",
+    "Superstorm: Increases the cast range of Thundering Chorus’ Lightning Strike to 10 Tiles"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Feargus the Obsidian Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wind-dancer-robe"
+}

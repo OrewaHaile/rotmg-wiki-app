@@ -1,0 +1,56 @@
+{
+  "id": "robe-of-the-acolyte",
+  "name": "Robe of the Acolyte",
+  "slug": "robe-of-the-acolyte",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/robe-of-the-acolyte.png",
+  "itemType": "Robe",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 11,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 14.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 MP, +4 DEF, +1 WIS"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Armored Squirrel",
+    "Deathmage Chest",
+    "Desert Werewolf",
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Fat Bee",
+    "Forest Goblin",
+    "Forest Goblin Mage",
+    "Goblin Mage",
+    "Great Lizard",
+    "Mama Megamoth",
+    "Orc King",
+    "Sandsman King",
+    "Shield Orc Queen",
+    "Sumo Master",
+    "Swarm",
+    "Ultimate Squirrel",
+    "Undead Hobbit Mage",
+    "Wasp Queen"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/robe-of-the-acolyte"
+}

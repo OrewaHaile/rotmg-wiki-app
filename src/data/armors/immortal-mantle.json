@@ -1,0 +1,40 @@
+{
+  "id": "immortal-mantle",
+  "name": "Immortal Mantle",
+  "slug": "immortal-mantle",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/immortal-mantle.png",
+  "itemType": "Robe",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Paranormal Wizard Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +50 MP, +10 DEF, +5 SPD",
+    "On Shoot: Restores 100 mana when In Combat below 50% MP Cooldown: 5 seconds"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Twilight Archmage",
+    "Event Chests"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/immortal-mantle"
+}

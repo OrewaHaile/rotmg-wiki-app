@@ -1,0 +1,42 @@
+{
+  "id": "yellow-beehemoth-armor",
+  "name": "Yellow Beehemoth Armor",
+  "slug": "yellow-beehemoth-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/yellow-beehemoth-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "History Before Patch X.33.1.0 (May 2020), this item had a Feed Power of 750.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+18 DEF, +5 SPD, +3 DEX"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Yellow Beehemoth",
+    "Adolescent Yellow Beehemoth",
+    "Yellow Soldier Bee",
+    "Honeyed Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/yellow-beehemoth-armor"
+}

@@ -1,0 +1,38 @@
+{
+  "id": "curse-binding-robes",
+  "name": "Curse Binding Robes",
+  "slug": "curse-binding-robes",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/curse-binding-robes.png",
+  "itemType": "Robe",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Globular Necromancer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 DEF, +30 HP, +5 DEX",
+    "With full set: Blood spike deals twice the damage and lasts twice as long",
+    "On Taking Damage while In Combat: Cast a blood spike that move outward and lingers Cooldown: 2 seconds Damage: 400 / 800 Speed: 0 tiles/second Lifetime: 2 / 4 seconds Amplitude: 3.54 tile(s) Frequency: 2 / 4 cycle(s)/shot Shots hit multiple targets Shots pass through obstacles Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/curse-binding-robes"
+}

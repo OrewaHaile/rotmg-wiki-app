@@ -1,0 +1,42 @@
+{
+  "id": "oceanic-apparel",
+  "name": "Oceanic Apparel",
+  "slug": "oceanic-apparel",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/oceanic-apparel.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Part of the Slurp Scion Wizard Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+55 HP, +8 DEF, +8 SPD"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Fishman Warrior",
+    "Giant Squid",
+    "Sea Mare",
+    "Sea Slurp Home",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/oceanic-apparel"
+}

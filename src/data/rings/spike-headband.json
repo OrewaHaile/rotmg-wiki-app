@@ -1,0 +1,30 @@
+{
+  "id": "spike-headband",
+  "name": "Spike Headband",
+  "slug": "spike-headband",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/spike-headband.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 600,
+  "description": "Notes Part of the Globular Necromancer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +5 DEX",
+    "On Shoot: Restores 100 HP while In Combat. Cooldown: 20 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spike-headband"
+}

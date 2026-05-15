@@ -1,0 +1,51 @@
+{
+  "id": "mantle-of-the-monarchy",
+  "name": "Mantle of the Monarchy",
+  "slug": "mantle-of-the-monarchy",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/mantle-of-the-monarchy.png",
+  "itemType": "Robe",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 900,
+  "description": "Notes Note that the proc has a 12 second downtime, which hinders its performance. Nevertheless, this robe provides good survivability in situations where DEF matters less and it is harder to avoid getting hit.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +60 MP, +12 DEF, +20 VIT",
+    "On Hit when below 80% HP: Heal 120 HP and gain Healing [40/s] for 3 seconds. Cooldown: 15 seconds."
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Stone Mage",
+    "Hollow Gypsy",
+    "Hollow Oracle",
+    "Royal Magistrate",
+    "Royal Steward",
+    "Royal Herald",
+    "Fire Adept",
+    "Ice Adept",
+    "Pyro Warlock",
+    "Cryo Warlock",
+    "Tablet of the Monarchy",
+    "Vagrant Sellsword Ond’ande",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mantle-of-the-monarchy"
+}

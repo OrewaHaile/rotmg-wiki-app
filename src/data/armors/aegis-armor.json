@@ -1,0 +1,40 @@
+{
+  "id": "aegis-armor",
+  "name": "Aegis Armor",
+  "slug": "aegis-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/aegis-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Few other heavy armors give much of an attack boost, so 4 ATT is already decent. Compared to the Fire Dragon Battle Armor, Aegis Armor gives +4 DEF at the cost of -2 ATT, FDA’s other stats, and the fire proc. However, Mad God’s Rage grants a great increase to DPS, especially where you’d be taking lots of damage anyway (e.g. exaltation dungeons, such as Lost Halls and Fungal Cavern). The effect alone adds the same DPS stats that the Gladiator Guard has, which is very powerful indeed.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+21 DEF, +4 ATT",
+    "Mad God’s Rage: Gain ATT Boost (+5 ATT) and DEX Boost (+5 DEX) for 3 seconds when hit under 80% HP."
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/aegis-armor"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "sunken-ring",
+  "name": "Sunken Ring",
+  "slug": "sunken-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/sunken-ring.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": null,
+  "feedPower": 50,
+  "description": "Notes A limited, reskinned version of the Corsair Ring.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 HP, +2 DEF"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sunken-ring"
+}

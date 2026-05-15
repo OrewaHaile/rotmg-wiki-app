@@ -1,0 +1,31 @@
+{
+  "id": "ring-of-minor-defense",
+  "name": "Ring of Minor Defense",
+  "slug": "ring-of-minor-defense",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-minor-defense.png",
+  "itemType": "Ring",
+  "tier": "T0",
+  "bagType": "Brown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 6,
+  "description": "Notes The only tier 0 ring in the game. Before becoming the only Tier 0 ring in the game, it was previously categorised as an item of UT rarity.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+1 DEF, +5 HP, +5 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Tutorial"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-minor-defense"
+}

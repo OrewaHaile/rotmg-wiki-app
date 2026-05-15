@@ -1,0 +1,37 @@
+{
+  "id": "reapers-shroud",
+  "name": "Reaper's Shroud",
+  "slug": "reapers-shroud",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/reapers-shroud.png",
+  "itemType": "Leather Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Part of the Spectral Sentry Rogue Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 MP, +16 DEF, +5 ATT"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/reaper-s-shroud"
+}

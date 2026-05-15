@@ -1,0 +1,32 @@
+{
+  "id": "alexanders-band",
+  "name": "Alexander's Band",
+  "slug": "alexanders-band",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/alexanders-band.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 600,
+  "description": "Notes A ring comparable to the Cuband, granting one more DEX in comparison. However, it lacks the ability to trigger healing unless the Barrier Reef is worn in conjunction, making it generally inferior unless the two set pieces are assembled.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +6 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Nikao the Azure Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/alexander-s-band"
+}

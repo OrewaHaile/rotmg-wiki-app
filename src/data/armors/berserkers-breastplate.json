@@ -1,0 +1,40 @@
+{
+  "id": "berserkers-breastplate",
+  "name": "Berserker's Breastplate",
+  "slug": "berserkers-breastplate",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/berserkers-breastplate.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes This heavy armor can be seen as the polar opposite to the Candy-Coated Armor at the stage of the game it’s obtained in, sacrificing survivability for DPS. While most players likely won’t be comfortable with needing to be below 50% HP to reap the full benefit of the armor, even with just the standard proc of +3 Attack, the armors do give as much ATT as Mercy’s Bane at +7 ATT.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 DEF, +4 ATT",
+    "On Shoot: ATT Boost (+3 ATT) for 5 seconds when under 90% HP. ATT Boost (+6 ATT) when under 70% HP. ATT Boost (+9 ATT) when under 50% HP."
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Malphas, Gilded Forgemaster",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/berserker-s-breastplate"
+}

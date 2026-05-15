@@ -1,0 +1,33 @@
+{
+  "id": "ring-of-the-sphinx",
+  "name": "Ring of the Sphinx",
+  "slug": "ring-of-the-sphinx",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-the-sphinx.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes This ring is a strong and versatile ring that grants the same offensive stats as the Omnipotence Ring. Its MP boost is also nice, though the lack of any defensive stats means this may not be the best choice for more difficult content.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 DEX, +100 MP",
+    "Rite of the Sphinx: Reduces the Magic casting cost of your ability by 10%"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Nut",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-the-sphinx"
+}

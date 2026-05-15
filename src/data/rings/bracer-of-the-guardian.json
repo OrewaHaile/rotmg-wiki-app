@@ -1,0 +1,32 @@
+{
+  "id": "bracer-of-the-guardian",
+  "name": "Bracer of the Guardian",
+  "slug": "bracer-of-the-guardian",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/bracer-of-the-guardian.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes The Bracer is a balanced ring, providing survivability, MP, and a small amount of ATT. It’s almost a direct upgrade to the Ring of the Pyramid, trading 10 HP for 5 DEF and 80 MP.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+90 HP, +80 MP, +9 DEF, +4 ATT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Bridge Sentinel",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bracer-of-the-guardian"
+}

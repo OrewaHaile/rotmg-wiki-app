@@ -1,0 +1,34 @@
+{
+  "id": "alien-core-power",
+  "name": "Alien Core: Power",
+  "slug": "alien-core-power",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/alien-core-power.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes While not providing any stats by itself, this ring provides significant stat boosts when worn with other Alien Gear, reaching its full potential with an Alien Weapon and a Protection Matrix. Its effect is unpredictable, but can still help a lot if it triggers.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "No stat bonuses unless worn as part of set",
+    "On Taking Damage: 10% chance to Paralyze surrounding (3.5 radius) enemies for 4 seconds. Cooldown: 10 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Suesogian",
+    "Malogia Satellite Core",
+    "Tinkerer Quests"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/alien-core-power"
+}

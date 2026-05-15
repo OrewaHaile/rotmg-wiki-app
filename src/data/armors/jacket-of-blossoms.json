@@ -1,0 +1,39 @@
+{
+  "id": "jacket-of-blossoms",
+  "name": "Jacket Of Blossoms",
+  "slug": "jacket-of-blossoms",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/jacket-of-blossoms.png",
+  "itemType": "Leather Armor",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "History Introduced in Exalt Version 5.11.0.0 (May 2025) update.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 DEF, +6 DEX"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Blooming Flower"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/jacket-of-blossoms"
+}

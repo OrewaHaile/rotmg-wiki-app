@@ -1,0 +1,36 @@
+{
+  "id": "coral-ring",
+  "name": "Coral Ring",
+  "slug": "coral-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/coral-ring.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes This ring is very rarely used by players unless they are trying to complete the Coral Huntress Set. This is because it does not give any defensive stats.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+90 MP, +5 DEX, +5 SPD, +5 WIS",
+    "Coral Blessing: Reduces the Magic casting cost of your Ability by 10%"
+  ],
+  "usableClasses": [
+    "Huntress"
+  ],
+  "dropsFrom": [
+    "Thessal the Mermaid Goddess",
+    "Coral Gift",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/coral-ring"
+}

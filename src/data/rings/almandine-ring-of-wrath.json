@@ -1,0 +1,31 @@
+{
+  "id": "almandine-ring-of-wrath",
+  "name": "Almandine Ring of Wrath",
+  "slug": "almandine-ring-of-wrath",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/almandine-ring-of-wrath.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 300,
+  "description": "Notes Part of the Oryx Awesome set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+140 HP, +40 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 2"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/almandine-ring-of-wrath"
+}

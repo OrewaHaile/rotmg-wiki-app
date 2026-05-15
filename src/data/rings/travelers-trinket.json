@@ -1,0 +1,33 @@
+{
+  "id": "travelers-trinket",
+  "name": "Traveler's Trinket",
+  "slug": "travelers-trinket",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/travelers-trinket.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 650,
+  "description": "Notes Part of the Daring Discoverer Samurai set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+70 HP, +3 ATT, +6 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Deathmage",
+    "Medusa",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/traveler-s-trinket"
+}

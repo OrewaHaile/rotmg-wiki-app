@@ -1,0 +1,34 @@
+{
+  "id": "heavenly-magatama",
+  "name": "Heavenly Magatama",
+  "slug": "heavenly-magatama",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/heavenly-magatama.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 550,
+  "description": "Notes Part of the Raijin Disciple Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +6 DEF, +5 VIT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bird Tribesman",
+    "Demon Tribesman",
+    "Insect Tribesman",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/heavenly-magatama"
+}

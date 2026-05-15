@@ -1,0 +1,42 @@
+{
+  "id": "cackling-straitjacket",
+  "name": "Cackling Straitjacket",
+  "slug": "cackling-straitjacket",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/cackling-straitjacket.png",
+  "itemType": "Leather Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Although it is not labeled in the description compared to the other effects, the +3 stat boost to non HP/MP stats are not collective, as each one has an indivudual chance to be boosted instead of getting +3 to all.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 ATT, -5 DEX, +15 DEF, -5 SPD",
+    "Generalized Insanity: On shoot, 1% chance to be inflicted with any of the following effects for 3s Generalized Insanity Effects: HP Boost (+30 HP) or MP Boost (+30 MP) ATT Boost (+3 ATT), DEF Boost (+3 DEF), DEX Boost (+3 DEX), VIT Boost (+3 VIT), WIS Boost (+3 WIS) Healing or Hexed on self"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Doctor Lobotomik",
+    "Soulwarden Murcian",
+    "Spectral Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cackling-straitjacket"
+}

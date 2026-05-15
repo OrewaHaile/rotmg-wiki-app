@@ -1,0 +1,30 @@
+{
+  "id": "gebs-lost-hedjet",
+  "name": "Geb's Lost Hedjet",
+  "slug": "gebs-lost-hedjet",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/gebs-lost-hedjet.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 950,
+  "description": "History Before Exalt Version 5.12.0.0 (June 2025), this item gave +70 HP, +70 MP, +5 VIT, +5 DEF on equip.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+75 HP, +75 MP, +6 VIT, +6 DEF",
+    "On Hit: Retaliates with a ancient attack Damage: 300-400 (350) Speed: 17 tiles/sec Acceleration: -9 tiles/sec2 after 0.1 seconds Minimum Speed: 10 tiles/second Range: 10.35"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/geb-s-lost-hedjet"
+}

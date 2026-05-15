@@ -1,0 +1,34 @@
+{
+  "id": "ring-of-transcendent-health",
+  "name": "Ring of Transcendent Health",
+  "slug": "ring-of-transcendent-health",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-transcendent-health.png",
+  "itemType": "Ring",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 600,
+  "description": "Notes This ring ties the Ring of Decades in HP while also offering +50 MP. However, it only drops from the most difficult bosses and is soulbound, whereas the Ring of Decades drops from an easier dungeon (albeit rarely) and is tradable, possibly making the latter easier to obtain.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+160 HP, +50 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Forgotten King",
+    "Royal Epic Quest Chest",
+    "Oryx the Mad God 3",
+    "Kitsune Umi"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-transcendent-health"
+}

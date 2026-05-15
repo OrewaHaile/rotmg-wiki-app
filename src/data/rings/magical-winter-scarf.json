@@ -1,0 +1,30 @@
+{
+  "id": "magical-winter-scarf",
+  "name": "Magical Winter Scarf",
+  "slug": "magical-winter-scarf",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/magical-winter-scarf.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 600,
+  "description": "Notes Part of the Frost Wander Archer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +8 DEF",
+    "Target Analysis: When worn, Heavy Critters increase damage to 350-525, and every other shot will Slowed enemies for 0.2 seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/magical-winter-scarf"
+}

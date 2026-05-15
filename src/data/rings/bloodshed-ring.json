@@ -1,0 +1,34 @@
+{
+  "id": "bloodshed-ring",
+  "name": "Bloodshed Ring",
+  "slug": "bloodshed-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/bloodshed-ring.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This ring provides a healthy balance of HP, DEF, and WIS. It is particularly effective on classes with WIS scaling, such as Sorcerer, Necromancer, and Paladin, to increase the power of their ability while maintaining good survivability.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+110 HP, +6 DEF, +8 WIS"
+  ],
+  "usableClasses": [
+    "Necromancer"
+  ],
+  "dropsFrom": [
+    "Malus",
+    "Cultish Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bloodshed-ring"
+}

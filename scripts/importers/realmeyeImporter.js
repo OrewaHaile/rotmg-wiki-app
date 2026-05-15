@@ -15,6 +15,7 @@ import fs from "fs";
 import path from "path";
 import { fileURLToPath } from "url";
 import axios from "axios";
+import * as cheerio from "cheerio";
 import { parseCategoryLinks, parseItemPage } from "../../src/utils/parser.js";
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
@@ -48,6 +49,27 @@ const ABILITY_CATEGORY_PATHS = new Set([
   "/wiki/sheaths",
 ]);
 
+const RING_CATEGORY_PATH = "/wiki/rings";
+const RING_SUBCATEGORY_PATHS = new Set([
+  "/wiki/health-rings",
+  "/wiki/magic-rings",
+  "/wiki/attack-rings",
+  "/wiki/defense-rings",
+  "/wiki/speed-rings",
+  "/wiki/dexterity-rings",
+  "/wiki/vitality-rings",
+  "/wiki/wisdom-rings",
+  "/wiki/untiered-rings",
+  "/wiki/limited-rings",
+]);
+
+const RING_EXCLUDED_PATHS = new Set([
+  "/wiki/rings",
+  "/wiki/equipment",
+  "/wiki/items",
+  "/wiki/realmeye",
+]);
+
 function normalizeCategoryName(categoryPath) {
   return categoryPath.replace(/^\/wiki\//, "").replace(/\/$/, "");
 }
@@ -62,6 +84,80 @@ function getDataCategory(categoryPath) {
 
 function getDataSubCategory(categoryPath) {
   return normalizeCategoryName(categoryPath);
+}
+
+function isRingCategory(categoryPath) {
+  return categoryPath.replace(/\/$/, "") === RING_CATEGORY_PATH;
+}
+
+function normalizeWikiHref(href) {
+  if (!href) return "";
+  const cleaned = href.split("#")[0].split("?")[0].trim();
+  if (cleaned.startsWith("http://") || cleaned.startsWith("https://")) {
+    try {
+      const url = new URL(cleaned);
+      return url.pathname + url.search;
+    } catch {
+      return cleaned;
+    }
+  }
+  return cleaned;
+}
+
+function isRingSubcategoryPath(href) {
+  const normalized = normalizeWikiHref(href).replace(/\/$/, "").toLowerCase();
+  return RING_SUBCATEGORY_PATHS.has(normalized);
+}
+
+function isExcludedRingLink(href) {
+  const normalized = normalizeWikiHref(href).replace(/\/$/, "").toLowerCase();
+  if (RING_EXCLUDED_PATHS.has(normalized)) return true;
+  if (normalized.startsWith("/wiki/special:") || normalized.includes("/edit") || normalized.includes("/history") || normalized.includes("/help")) return true;
+  return false;
+}
+
+function collectLinksFromPage(html) {
+  const $ = cheerio.load(html);
+  const seen = new Set();
+  const itemLinks = new Set();
+  const subcategoryLinks = new Set();
+
+  $("a[href^=\"/wiki/\"]").each((_, anchor) => {
+    const href = normalizeWikiHref($(anchor).attr("href") ?? "");
+    if (!href.startsWith("/wiki/")) return;
+    if (isExcludedRingLink(href)) return;
+    if (isRingSubcategoryPath(href)) {
+      subcategoryLinks.add(BASE_URL + href);
+      return;
+    }
+
+    itemLinks.add(BASE_URL + href);
+  });
+
+  return { itemLinks, subcategoryLinks };
+}
+
+async function collectRingItemLinks(html) {
+  const pageLinks = collectLinksFromPage(html);
+  const itemUrls = new Set(pageLinks.itemLinks);
+  const subcategoryUrls = new Set(pageLinks.subcategoryLinks);
+
+  for (const subUrl of RING_SUBCATEGORY_PATHS) {
+    const fullUrl = BASE_URL + subUrl;
+    subcategoryUrls.add(fullUrl);
+  }
+
+  for (const subUrl of subcategoryUrls) {
+    try {
+      const subHtml = await fetchHtml(subUrl);
+      const subLinks = collectLinksFromPage(subHtml);
+      for (const link of subLinks.itemLinks) itemUrls.add(link);
+    } catch (err) {
+      log(`  ⚠ Could not fetch ring subpage ${subUrl}: ${err.message}`);
+    }
+  }
+
+  return Array.from(itemUrls);
 }
 
 const args = process.argv.slice(2);
@@ -205,7 +301,7 @@ function loadExistingSlugs() {
 }
 
 function buildGlobalIndex() {
-  const knownCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades", "abilities"];
+  const knownCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades", "armors", "rings", "abilities"];
   const index = { total: 0, categories: {}, items: [] };
 
   if (!fs.existsSync(DATA_DIR)) {
@@ -262,7 +358,7 @@ function saveGlobalIndex() {
 function buildImportReport(duplicateCount, invalidCount) {
   const categories = {};
   let totalImported = 0;
-  const reportCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades", "abilities"];
+  const reportCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades", "armors", "rings", "abilities"];
 
   for (const category of reportCategories) {
     const folder = path.join(DATA_DIR, category);
@@ -407,7 +503,12 @@ async function main() {
       process.exit(1);
     }
 
-    state.urls = parseCategoryLinks(html);
+    if (isRingCategory(CATEGORY_PATH)) {
+      state.urls = await collectRingItemLinks(html);
+    } else {
+      state.urls = parseCategoryLinks(html);
+    }
+
     state.nextIndex = 0;
     state.imported = [];
     state.skipped = [];

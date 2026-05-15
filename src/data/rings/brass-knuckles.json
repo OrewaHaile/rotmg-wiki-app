@@ -1,0 +1,29 @@
+{
+  "id": "brass-knuckles",
+  "name": "Brass Knuckles",
+  "slug": "brass-knuckles",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/brass-knuckles.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 750,
+  "description": "Notes Part of the Mad Minotaur Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+30 HP, +7 DEF, +6 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/brass-knuckles"
+}

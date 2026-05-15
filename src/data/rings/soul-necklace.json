@@ -1,0 +1,29 @@
+{
+  "id": "soul-necklace",
+  "name": "Soul Necklace",
+  "slug": "soul-necklace",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/soul-necklace.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 550,
+  "description": "Notes Part of the Spectral Sentry Rogue Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +5 DEF, +5 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/soul-necklace"
+}

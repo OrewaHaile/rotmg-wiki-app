@@ -1,0 +1,42 @@
+{
+  "id": "sages-wakibiki",
+  "name": "Sage's Wakibiki",
+  "slug": "sages-wakibiki",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/sages-wakibiki.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes The Friendly Spirit summoned by this armor will level up in proximity with those summoned by the Ethereal Happi, Flowering Kimono, Tezutsu Hanabi, and Kagenohikari. The level of the spirit will increase further as more spirits are gathered.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 DEF, +15 VIT, +15 WIS, +80% HP equal to VIT",
+    "On Ability Use: Summons a Friendly Spirit which slows enemies and zaps them for 150 damage/sec.The spirit synergizes in the presence of different spirits. Upgrade Levels: 1: Inflicts Slowed within 3 squares. 2: Inflicts Slowed and deals 100 damage/sec within 3 squares. 3: Inflicts Slowed and deals 200 damage/sec within 3 squares. Lifetime: 6 seconds Cooldown: 1.5 seconds"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Sage Genji",
+    "Drummer Kaguya",
+    "Dancer Miko",
+    "Village Girl Umi",
+    "Moonlit Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sage-s-wakibiki"
+}

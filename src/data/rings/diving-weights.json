@@ -1,0 +1,29 @@
+{
+  "id": "diving-weights",
+  "name": "Diving Weights",
+  "slug": "diving-weights",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/diving-weights.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 750,
+  "description": "Notes Part of the Undersea Phantom Wizard Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+55 HP, +8 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/diving-weights"
+}

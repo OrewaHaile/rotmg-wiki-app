@@ -1,0 +1,31 @@
+{
+  "id": "omni-impotence-ring",
+  "name": "Omni-Impotence Ring",
+  "slug": "omni-impotence-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/omni-impotence-ring.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item. Being the only Mistake item classified as ST, equipping this ring is required to trigger any stat effects of the Mistake set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "-80 HP, -80 MP, -4 ATT, -4 DEF, -4 SPD, -4 DEX, -4 VIT, -4 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Null"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/omni-impotence-ring"
+}

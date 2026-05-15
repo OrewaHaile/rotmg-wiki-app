@@ -1,0 +1,41 @@
+{
+  "id": "magic-protective-matrix",
+  "name": "Magic Protective Matrix",
+  "slug": "magic-protective-matrix",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/magic-protective-matrix.png",
+  "itemType": "Robe",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes This is an Alien Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 DEF",
+    "Taking damage when below 50% HP: Gain Invulnerable for 1.4 seconds and Dazed for 5 seconds. Cooldown: 180 seconds"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Alien UFO",
+    "Alien Biff",
+    "Alien Leprechaun"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/magic-protective-matrix"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ring-of-the-inferno",
+  "name": "Ring of the Inferno",
+  "slug": "ring-of-the-inferno",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-the-inferno.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 750,
+  "description": "Notes Part of the Magmatic Mystic Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+75 MP, +4 DEF, +4 SPD, +4 ATT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Abyss Idol",
+    "White Demon of the Abyss",
+    "Red Demon",
+    "Heroic Archdemon Malphas"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-the-inferno"
+}

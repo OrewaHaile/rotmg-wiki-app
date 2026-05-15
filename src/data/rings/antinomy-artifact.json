@@ -1,0 +1,30 @@
+{
+  "id": "antinomy-artifact",
+  "name": "Antinomy Artifact",
+  "slug": "antinomy-artifact",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/antinomy-artifact.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This is an Antinomy Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +50 MP, +3 DEF, +3 ATT",
+    "On Ability Use: Summons a Duality creature that heals up to 10 players for 200 HP once and then applies healing to surrounding players for 6 seconds in a 4 tile radius. Dark: 100-150 Damage Light: 400 Damage Cooldown: 25 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/antinomy-artifact"
+}

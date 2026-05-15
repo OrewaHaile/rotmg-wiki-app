@@ -1,0 +1,38 @@
+{
+  "id": "wedding-dress",
+  "name": "Wedding Dress",
+  "slug": "wedding-dress",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/wedding-dress.png",
+  "itemType": "Leather Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 500,
+  "description": "Notes Part of the Resurrected Huntress Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+16 DEF, +3 DEX, +3 VIT",
+    "On taking at least 20 damage: Release 3 damaging sparks (200-275 damage) in a cone. Cooldown: 5 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wedding-dress"
+}

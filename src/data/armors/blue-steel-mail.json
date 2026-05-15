@@ -1,0 +1,55 @@
+{
+  "id": "blue-steel-mail",
+  "name": "Blue Steel Mail",
+  "slug": "blue-steel-mail",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/blue-steel-mail.png",
+  "itemType": "Heavy Armor",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 11,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 14.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+7 DEF"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Armored Squirrel",
+    "Deathmage Chest",
+    "Desert Werewolf",
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Fat Bee",
+    "Forest Goblin",
+    "Forest Goblin Mage",
+    "Goblin Mage",
+    "Great Lizard",
+    "Mama Megamoth",
+    "Orc King",
+    "Sandsman King",
+    "Shield Orc Queen",
+    "Sumo Master",
+    "Swarm",
+    "Ultimate Squirrel",
+    "Undead Hobbit Mage",
+    "Wasp Queen"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/blue-steel-mail"
+}

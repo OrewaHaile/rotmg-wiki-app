@@ -1,0 +1,48 @@
+{
+  "id": "ring-of-cubed-wisdom",
+  "name": "Ring of Cubed Wisdom",
+  "slug": "ring-of-cubed-wisdom",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-cubed-wisdom.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Note that the bonus only applied to flat wisdom bonuses from items and enchants - Relative WIS% enchants do not work. Nonetheless, this is a potent ring to convert excess WIS into strong stat bonuses. A wizard using T7 Spell, T14 Robe and this ring without any enchants or other bonuses already has +20 WIS, translating into +35 HP, +50 MP and +3 of every other stat, nearly tying with the Exalt-tier Amulet of Restoration, and can be further augmented with strong WIS and WIS tradeoff enchants.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 WIS, +175% HP / +250% MP / +15% DEF / +15% SPD / +15% ATT / +15% DEX / +15% VIT Equal to bonus WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Cubed Brain",
+    "Puzzled Cube",
+    "Puzzled Corner",
+    "Cubic Core",
+    "Square",
+    "Square Elemental",
+    "Octahedron",
+    "Dicey Cube",
+    "Dicey Square",
+    "Cubic Frame",
+    "Rectangular Prism",
+    "Pythagorean",
+    "Red Gelatinous Cube",
+    "Green Gelatinous Cube",
+    "Purple Gelatinous Cube",
+    "Squaramore Tree",
+    "God Cube",
+    "Build Block"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-cubed-wisdom"
+}

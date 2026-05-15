@@ -1,0 +1,33 @@
+{
+  "id": "the-forgotten-ring",
+  "name": "The Forgotten Ring",
+  "slug": "the-forgotten-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/the-forgotten-ring.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 550,
+  "description": "Notes A reskin of the Ring of Decades that drops from objectives within The Shatters.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+160 HP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Derelict Monument",
+    "Tablet of the Monarchy",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/the-forgotten-ring"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "foremans-hard-hat",
+  "name": "Foreman's Hard Hat",
+  "slug": "foremans-hard-hat",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/foremans-hard-hat.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 700,
+  "description": "Notes This is a Construction Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +6 ATT",
+    "On Taking Damage: DEF Boost (+15 DEF) for 5 seconds when In Combat Cooldown: 10 seconds On Shoot: Restore 200 mana when In Combat below 50% MP Cooldown: 30 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/foreman-s-hard-hat"
+}

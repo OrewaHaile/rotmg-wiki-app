@@ -1,0 +1,38 @@
+{
+  "id": "metal-plated-corset",
+  "name": "Metal-plated Corset",
+  "slug": "metal-plated-corset",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/metal-plated-corset.png",
+  "itemType": "Leather Armor",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "Notes Part of the Cursed Cursebreaker Huntress Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+11 DEF, +8 DEX, +5 VIT, +3 SPD",
+    "Hunting Frenzy: 10% chance to receive DEX Boost (+10 DEX) for 5 seconds on taking damage. Cooldown: 5 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/metal-plated-corset"
+}

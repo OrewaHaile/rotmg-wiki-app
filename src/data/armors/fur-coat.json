@@ -1,0 +1,35 @@
+{
+  "id": "fur-coat",
+  "name": "Fur Coat",
+  "slug": "fur-coat",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/fur-coat.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Blood Viking Knight Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 DEF, +6 SPD, +6 VIT"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fur-coat"
+}

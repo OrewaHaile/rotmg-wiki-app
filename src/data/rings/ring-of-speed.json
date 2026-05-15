@@ -1,0 +1,41 @@
+{
+  "id": "ring-of-speed",
+  "name": "Ring of Speed",
+  "slug": "ring-of-speed",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-speed.png",
+  "itemType": "Ring",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 12,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 20.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+3 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Deathmage Chest",
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Elf Wizard",
+    "Goblin Mage",
+    "Haunted Spirit",
+    "Hobbit Mage",
+    "Undead Hobbit Mage",
+    "Lich",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-speed"
+}

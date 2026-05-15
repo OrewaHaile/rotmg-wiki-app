@@ -1,0 +1,44 @@
+{
+  "id": "apiary-armor",
+  "name": "Apiary Armor",
+  "slug": "apiary-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/apiary-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 500,
+  "description": "Notes Part of the Swarming Huntress Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+18 DEF, +3 ATT, +3 SPD"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Red Soldier Bee",
+    "Blue Soldier Bee",
+    "Yellow Soldier Bee",
+    "Green Soldier Bee",
+    "Mini Killer Bee Nest",
+    "Honeyed Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/apiary-armor"
+}

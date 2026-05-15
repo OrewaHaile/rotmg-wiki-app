@@ -1,0 +1,35 @@
+{
+  "id": "spectral-cloth-armor",
+  "name": "Spectral Cloth Armor",
+  "slug": "spectral-cloth-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/spectral-cloth-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes This armor is a low-tier option that boosts ATT/DEX at the cost of some DEF, making it a good choice for a class like the Trickster, though it is still advised to carry a more defensive leather armor for better survivability.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 ATT, +13 DEF, +5 DEX"
+  ],
+  "usableClasses": [
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Davy Jones",
+    "Sunken Treasure",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spectral-cloth-armor"
+}

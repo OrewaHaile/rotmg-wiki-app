@@ -1,0 +1,33 @@
+{
+  "id": "alien-core-warp",
+  "name": "Alien Core: Warp",
+  "slug": "alien-core-warp",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/alien-core-warp.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes While not providing any stats by itself, this ring provides significant stat boosts when worn with other Alien Gear, reaching its full potential with an Alien Weapon and a Protection Matrix. Its effect is unpredictable, but can still help a lot if it triggers.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "No stat bonuses unless worn as part of set",
+    "On Taking Damage: 10% chance to create a decoy. Cooldown: 10 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Golden Sphinx",
+    "Katalund Satellite Core"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/alien-core-warp"
+}

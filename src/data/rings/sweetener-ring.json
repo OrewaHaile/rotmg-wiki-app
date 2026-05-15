@@ -1,0 +1,29 @@
+{
+  "id": "sweetener-ring",
+  "name": "Sweetener Ring",
+  "slug": "sweetener-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/sweetener-ring.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 400,
+  "description": "Notes Even though this item is labeled as an Untiered Item, equipping it counts towards the Valentine’s Day Samurai and Valentine’s Day Ninja set bonuses.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+140 HP, +40 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sweetener-ring"
+}

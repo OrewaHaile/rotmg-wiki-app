@@ -1,0 +1,32 @@
+{
+  "id": "the-forgotten-crown",
+  "name": "The Forgotten Crown",
+  "slug": "the-forgotten-crown",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/the-forgotten-crown.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Not to be confused with the admin Crown.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+110 HP, +6 ATT, +6 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Forgotten King",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/the-forgotten-crown"
+}

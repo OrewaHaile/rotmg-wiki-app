@@ -1,0 +1,41 @@
+{
+  "id": "vest-of-abandoned-shadows-rehearsal",
+  "name": "Vest of Abandoned Shadows (Rehearsal)",
+  "slug": "vest-of-abandoned-shadows-rehearsal",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/vest-of-abandoned-shadows-rehearsal.png",
+  "itemType": "Leather Armor",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes In comparison to the original Vest of Abandoned Shadows the proc effect is completely removed. Although it might still be a solid armor, it’s rather difficult to obtain due to the limited availability of the Rehearsal Shatters. And thus this item will most likely stay a vanity item for a while.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +15 DEF, +15 VIT"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "The Bridge Sentinel (With Rehearsal Modifier)",
+    "Twilight Archmage (With Rehearsal Modifier)",
+    "The Forgotten King (With Rehearsal Modifier)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/vest-of-abandoned-shadows-rehearsal"
+}

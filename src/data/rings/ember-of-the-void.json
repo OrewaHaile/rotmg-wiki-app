@@ -1,0 +1,30 @@
+{
+  "id": "ember-of-the-void",
+  "name": "Ember of the Void",
+  "slug": "ember-of-the-void",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ember-of-the-void.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes This is an Antinomy Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +3 DEX",
+    "On Taking Damage: When health drops below 75%, spawns a void spirit who deals damage for 5 seconds Void Spirit Effect: Deals 100-150 armor piercing damage within 4.5 squares every 0.6 seconds, click or hold your Summon Control button to move it Cooldown: 25 seconds On Taking Damage: When health drops below 50%, ATT Boost (+10 ATT) for 10 seconds Cooldown: 20 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ember-of-the-void"
+}

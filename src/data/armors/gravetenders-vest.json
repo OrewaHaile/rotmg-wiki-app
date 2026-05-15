@@ -1,0 +1,38 @@
+{
+  "id": "gravetenders-vest",
+  "name": "Gravetender's Vest",
+  "slug": "gravetenders-vest",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/gravetenders-vest.png",
+  "itemType": "Leather Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Spellbound Soulthief Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "-5 SPD, +20% DEF Equal to DEX",
+    "Grave Resistance: Gain 5/10/15/20 defense for 5 seconds on ability use. Empowerment: Empower with additional Spellbound Soulthief items."
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/gravetender-s-vest"
+}

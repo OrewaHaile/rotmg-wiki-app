@@ -1,0 +1,33 @@
+{
+  "id": "akumas-tear",
+  "name": "Akuma's Tear",
+  "slug": "akumas-tear",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/akumas-tear.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 400,
+  "description": "Notes Part of the Akuma Slayer set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +60 MP, +4 DEX, +4 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Daichi the Fallen",
+    "Old Chest",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/akuma-s-tear"
+}

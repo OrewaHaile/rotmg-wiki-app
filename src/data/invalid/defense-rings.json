@@ -1,0 +1,31 @@
+{
+  "id": "defense-rings",
+  "name": "Defense Rings",
+  "slug": "defense-rings",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/defense-rings.png",
+  "itemType": "Ring",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "Combat trigger scales with the amount of defense a character has.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/defense-rings",
+  "invalidReasons": [
+    "invalid tier"
+  ],
+  "importedAt": "2026-05-15T14:56:27.943Z"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "the-hemomancers-ring",
+  "name": "The Hemomancer's Ring",
+  "slug": "the-hemomancers-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/the-hemomancers-ring.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 500,
+  "description": "Hystory Added in the Exalt Version 6.2.0.0 (Oct 2025) update.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+135 HP, +30 MP, +4 VIT, +3 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Hemomancer"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/the-hemomancer-s-ring"
+}

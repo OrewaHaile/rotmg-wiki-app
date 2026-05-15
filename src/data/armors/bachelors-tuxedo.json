@@ -1,0 +1,41 @@
+{
+  "id": "bachelors-tuxedo",
+  "name": "Bachelor's Tuxedo",
+  "slug": "bachelors-tuxedo",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/bachelors-tuxedo.png",
+  "itemType": "Leather Armor",
+  "tier": "UT (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "Notes Using your ability will change your skin to the Eligible Bachelor skin for 30 seconds, which will reset to the actual skin you have equipped after 30 seconds (with a 30 second cooldown after), or every time you change zones.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+14 DEF, +8 DEX, +8 WIS",
+    "Halloween Costume: On ability use, dress up as Eligible Bachelor Rogue for 60 seconds! Secret Power: On ability use, consume 1/4th of your candy-filled meter to activate a secret power! Aura of Wealth: Create a coin summon that blasts nearby enemies for 500-600 damage in 6 bursts. Secret Power Cooldown: 180 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Halloween Candy",
+    "Halloween Candy (Dungeon)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bachelor-s-tuxedo"
+}

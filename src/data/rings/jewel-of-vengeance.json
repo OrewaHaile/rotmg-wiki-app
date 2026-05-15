@@ -1,0 +1,30 @@
+{
+  "id": "jewel-of-vengeance",
+  "name": "Jewel of Vengeance",
+  "slug": "jewel-of-vengeance",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/jewel-of-vengeance.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 750,
+  "description": "In-game Showcase Non-empowered Blade Waltz:",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +7 DEX",
+    "Blade Waltz: Retaliate every 0.4s with soul blades for 300-350 armor piercing damage. Empowerment: Empower with Armored effect, wearing Blade of Fates, or both."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/jewel-of-vengeance"
+}

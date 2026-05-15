@@ -1,0 +1,38 @@
+{
+  "id": "retainers-battlesuit",
+  "name": "Retainer's Battlesuit",
+  "slug": "retainers-battlesuit",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/retainers-battlesuit.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Frost Advisor Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+16 DEF, +7 DEX, -6 VIT",
+    "On ability use: Gain ATT Boost (+3 ATT) and DEX Boost (+3 DEX) for 5 seconds With MP Debuff: Gain ATT Boost (+6 ATT) for 5 seconds With WIS Debuff: Gain DEX Boost (+6 DEX) for 5 seconds"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Esben the Neurotic"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/retainer-s-battlesuit"
+}

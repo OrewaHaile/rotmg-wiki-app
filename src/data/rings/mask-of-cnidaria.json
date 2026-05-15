@@ -1,0 +1,29 @@
+{
+  "id": "mask-of-cnidaria",
+  "name": "Mask of Cnidaria",
+  "slug": "mask-of-cnidaria",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/mask-of-cnidaria.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 400,
+  "description": "Notes A limited, reskinned version of the T6 Ring of Unbound Magic.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +140 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mask-of-cnidaria"
+}

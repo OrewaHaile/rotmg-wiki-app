@@ -1,0 +1,40 @@
+{
+  "id": "luxurious-leather",
+  "name": "Luxurious Leather",
+  "slug": "luxurious-leather",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/luxurious-leather.png",
+  "itemType": "Leather Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 0,
+  "description": "Notes Part of the Golden Archer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+1 DEF"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Australia",
+    "AsiaSouthEast"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/luxurious-leather"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "fitted-protective-matrix",
+  "name": "Fitted Protective Matrix",
+  "slug": "fitted-protective-matrix",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/fitted-protective-matrix.png",
+  "itemType": "Leather Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes This is an Alien Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+16 DEF",
+    "Taking damage when below 50% HP: Gain Invulnerable for 1.4 seconds and Dazed for 5 seconds. Cooldown: 180 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Alien UFO",
+    "Alien Biff",
+    "Alien Leprechaun"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fitted-protective-matrix"
+}

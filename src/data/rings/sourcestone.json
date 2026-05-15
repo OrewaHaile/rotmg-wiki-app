@@ -1,0 +1,35 @@
+{
+  "id": "sourcestone",
+  "name": "Sourcestone",
+  "slug": "sourcestone",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/sourcestone.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Please note “Unknown.” is the actual description of the item in-game.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+110 HP, +110 MP, +6 SPD",
+    "Source of Life: On ability use, gain +60 HP Source of Magic: On taking damage, gain +60 MP Cooldown: 8 seconds"
+  ],
+  "usableClasses": [
+    "Archer"
+  ],
+  "dropsFrom": [
+    "Void Entity",
+    "Voided Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sourcestone"
+}

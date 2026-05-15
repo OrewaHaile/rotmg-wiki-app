@@ -1,0 +1,32 @@
+{
+  "id": "ring-of-the-covetous-heart",
+  "name": "Ring of the Covetous Heart",
+  "slug": "ring-of-the-covetous-heart",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-the-covetous-heart.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Phylactery Mystic set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 MP, +8 ATT, +8 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Haunted Spirit",
+    "Revenant"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-the-covetous-heart"
+}

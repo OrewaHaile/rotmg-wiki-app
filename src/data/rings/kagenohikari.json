@@ -1,0 +1,33 @@
+{
+  "id": "kagenohikari",
+  "name": "Kagenohikari",
+  "slug": "kagenohikari",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/kagenohikari.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes A powerful utility ring which grants a balance of survivability and spellcasting ability, alongside summoning spirits that can aid in damage output, crowd control, and healing, albeit with some RNG involved.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+100 HP, +100 MP, +5 VIT, +5 WIS",
+    "Reduces the Magic casting cost of your ability by 10%",
+    "On Ability: Summon a level 2 assorted Friendly Spirit. The spirit synergizes in the presence of different spirits. Pink Spirit: Heals allies and attacks enemies within 3 squares. Blue Spirit: Slows and attacks enemies within 3 squares. Yellow Spirit: Curses and attacks enemies within 3 squares. Lifetime: 6 seconds Cooldown: 1.5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Kitsune Umi"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/kagenohikari"
+}

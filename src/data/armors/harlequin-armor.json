@@ -1,0 +1,42 @@
+{
+  "id": "harlequin-armor",
+  "name": "Harlequin Armor",
+  "slug": "harlequin-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/harlequin-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes This armor boosts your MP and WIS stat, allowing you to use your ability more often. In exchange, this armor grants slightly less defense, and lacks any sort of ATT or DEX boost.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+15 DEF, +80 MP +5 WIS +3 SPD",
+    "On Shoot: WIS Boost (+10 WIS) for 1 second while firing if your health is above 85%"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "The Puppet Master",
+    "Oryx Puppet",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/harlequin-armor"
+}

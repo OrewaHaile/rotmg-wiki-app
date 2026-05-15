@@ -1,0 +1,34 @@
+{
+  "id": "turncoat-cape",
+  "name": "Turncoat Cape",
+  "slug": "turncoat-cape",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/turncoat-cape.png",
+  "itemType": "Leather Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This armor gives high DEF for a UT leather armor along with a huge SPD boost, fully outclassing all Beehemoth Armors, making it highly effective for rushing. Its ability to grant a short-lived invisibility period when damaged enough further amplifies these strengths, giving the user unprecedented evasiveness and mobility.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+18 DEF, +10 SPD",
+    "On taking over 30 damage: Invisible for 3 seconds. Cooldown: 5 seconds"
+  ],
+  "usableClasses": [
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Treasurer Gemsbok"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/turncoat-cape"
+}

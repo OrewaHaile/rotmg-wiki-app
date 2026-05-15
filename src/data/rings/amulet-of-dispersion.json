@@ -1,0 +1,35 @@
+{
+  "id": "amulet-of-dispersion",
+  "name": "Amulet of Dispersion",
+  "slug": "amulet-of-dispersion",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/amulet-of-dispersion.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "3%",
+  "feedPower": 500,
+  "description": "Notes A strange ring that provides a small amount of every stat bonus, less than half of the Omnipotence Ring. While it might be alright if obtained early, the stats aren’t great. Players are advised to equip a ring that focuses on a specific stat, like an HP ring.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +40 MP, +2 ATT, +2 DEF, +2 SPD, +2 DEX, +2 VIT, +2 WIS",
+    "Forgotten Power: On taking damage when below 20% HP, gain 120 HP. Cooldown: 1800 seconds (30 minutes)"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Troll Matriarch",
+    "Ghost Bride",
+    "Ghost of Skuld",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/amulet-of-dispersion"
+}

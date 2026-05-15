@@ -1,0 +1,36 @@
+{
+  "id": "robe-of-dark-summoning",
+  "name": "Robe of Dark Summoning",
+  "slug": "robe-of-dark-summoning",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/robe-of-dark-summoning.png",
+  "itemType": "Robe",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 231,
+  "description": "Notes This is an Antinomy Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +13 DEF, +6 WIS, +55 MP, +20 HP"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/robe-of-dark-summoning"
+}

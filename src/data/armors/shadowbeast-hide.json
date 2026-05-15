@@ -1,0 +1,37 @@
+{
+  "id": "shadowbeast-hide",
+  "name": "Shadowbeast Hide",
+  "slug": "shadowbeast-hide",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/shadowbeast-hide.png",
+  "itemType": "Leather Armor",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 231,
+  "description": "Notes This is an Antinomy Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 HP, +18 DEF, +5 DEX"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/shadowbeast-hide"
+}

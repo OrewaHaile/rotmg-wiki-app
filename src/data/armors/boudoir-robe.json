@@ -1,0 +1,36 @@
+{
+  "id": "boudoir-robe",
+  "name": "Boudoir Robe",
+  "slug": "boudoir-robe",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/boudoir-robe.png",
+  "itemType": "Robe",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Love Witch Necromancer Set",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+11 DEF, +3 ATT, +5 DEX"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/boudoir-robe"
+}

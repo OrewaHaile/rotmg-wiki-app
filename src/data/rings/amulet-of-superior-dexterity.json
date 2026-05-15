@@ -1,0 +1,30 @@
+{
+  "id": "amulet-of-superior-dexterity",
+  "name": "Amulet of Superior Dexterity",
+  "slug": "amulet-of-superior-dexterity",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/amulet-of-superior-dexterity.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "2%",
+  "feedPower": 56,
+  "description": "History Added in the Exalt Version 5.0.0.0 (July 2024) update.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 HP, +10 MP, +7 DEX",
+    "Insight Amulet: Creates effects when worn with MotMG 2024 equipment. Weapons: The weapon fires 2 extra projectiles with 80% range, dealing 55-75 damage and Multihit. Armours: Applies Energized condition for 8 seconds on hit, 20 seconds cooldown."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/amulet-of-superior-dexterity"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "chrysalis-of-eternity",
+  "name": "Chrysalis of Eternity",
+  "slug": "chrysalis-of-eternity",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/chrysalis-of-eternity.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "9%",
+  "feedPower": null,
+  "description": "Notes This item only drops from The Forgotten King if the “Hard Mode” of The Shatters has been activated. Defeating the buffed version of the boss, King Azamoth, will give all players a chance to obtain the Chrysalis of Eternity.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+120 HP, +7 ATT, +7 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "King Azamoth"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/chrysalis-of-eternity"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "floral-corset",
+  "name": "Floral Corset",
+  "slug": "floral-corset",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/floral-corset.png",
+  "itemType": "Robe",
+  "tier": "ST (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Rose Keeper Necromancer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 ATT, +13 DEF, +6 SPD, +5 VIT",
+    "On Ability Use when below 80% HP: Heal 90 HP and gain Healing [30/s] for 3 seconds.Cooldown: 15 seconds"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/floral-corset"
+}

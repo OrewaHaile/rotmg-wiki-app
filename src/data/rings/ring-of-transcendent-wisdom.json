@@ -1,0 +1,34 @@
+{
+  "id": "ring-of-transcendent-wisdom",
+  "name": "Ring of Transcendent Wisdom",
+  "slug": "ring-of-transcendent-wisdom",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-transcendent-wisdom.png",
+  "itemType": "Ring",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 600,
+  "description": "Notes This ring provides 1.32 MP/s (halved in combat).",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +50 MP, +11 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Forgotten King",
+    "Royal Epic Quest Chest",
+    "Oryx the Mad God 3",
+    "Kitsune Umi"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-transcendent-wisdom"
+}

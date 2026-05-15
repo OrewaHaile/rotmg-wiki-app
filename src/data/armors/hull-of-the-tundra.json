@@ -1,0 +1,38 @@
+{
+  "id": "hull-of-the-tundra",
+  "name": "Hull of the Tundra",
+  "slug": "hull-of-the-tundra",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/hull-of-the-tundra.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Frost Harbinger Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+45 HP, +45 MP +19 DEF",
+    "Upon taking 25+ damage: Summon a snowflake which activates after 1.6 seconds and attacks for 250 damageEmpowerment: Snowflakes deal 500 damage while near a Frostborn Crystal"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Esben the Neurotic"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hull-of-the-tundra"
+}

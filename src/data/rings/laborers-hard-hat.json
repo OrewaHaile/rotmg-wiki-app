@@ -1,0 +1,30 @@
+{
+  "id": "laborers-hard-hat",
+  "name": "Laborer's Hard Hat",
+  "slug": "laborers-hard-hat",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/laborers-hard-hat.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes This is a Construction Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +2 ATT",
+    "On Taking Damage: DEF Boost (+5 DEF) for 5 seconds when In Combat Cooldown: 10 seconds On Shoot: Restore 100 mana when In Combat below 50% MP Cooldown: 30 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/laborer-s-hard-hat"
+}

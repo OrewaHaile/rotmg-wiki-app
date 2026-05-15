@@ -1,0 +1,34 @@
+{
+  "id": "gem-of-tenderness",
+  "name": "Gem of Tenderness",
+  "slug": "gem-of-tenderness",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/gem-of-tenderness.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 350,
+  "description": "Notes Drag this item on top of a Gem of Adoration to get a Soulful Affection.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+120 MP, +6 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Valentine’s Flower",
+    "The Gardener",
+    "Ice Cave",
+    "Ocean Trench"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/gem-of-tenderness"
+}

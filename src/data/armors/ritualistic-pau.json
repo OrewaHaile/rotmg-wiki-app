@@ -1,0 +1,36 @@
+{
+  "id": "ritualistic-pau",
+  "name": "Ritualistic Pa'u",
+  "slug": "ritualistic-pau",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/ritualistic-pau.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": null,
+  "description": "Notes Part of the Ancestral Shaman Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEF, +5 DEX, +10 VIT"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ritualistic-pa-u"
+}

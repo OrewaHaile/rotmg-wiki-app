@@ -1,0 +1,32 @@
+{
+  "id": "ring-of-the-nile",
+  "name": "Ring of the Nile",
+  "slug": "ring-of-the-nile",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-the-nile.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Nile is a fairly balanced ring, decent on most characters.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 WIS, +4 DEX, +75 HP, +75 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Geb",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-the-nile"
+}

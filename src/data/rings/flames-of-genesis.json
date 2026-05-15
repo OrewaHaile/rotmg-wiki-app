@@ -1,0 +1,32 @@
+{
+  "id": "flames-of-genesis",
+  "name": "Flames of Genesis",
+  "slug": "flames-of-genesis",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/flames-of-genesis.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 600,
+  "description": "Notes Part of the Daeva Trickster Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +8 VIT",
+    "On Shoot: Release a ring of fire when In Combat. Shots: 12 (arc gap: 30°) Damage: 350-450 (400) Projectile Speed: 0.2 tiles/second Acceleration: -5 tiles/sec2 after 0.5 seconds Minimum Speed: 0 tiles/second Lifetime: 4 seconds Range: 1.4 Effects: Paralyzed for 3s Shots hit multiple targets Shots pass through obstacles Ignores defense of target Cooldown: 3 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Tablet of the Monarchy"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/flames-of-genesis"
+}

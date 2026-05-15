@@ -1,0 +1,39 @@
+{
+  "id": "darkness-overcoat",
+  "name": "Darkness Overcoat",
+  "slug": "darkness-overcoat",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/darkness-overcoat.png",
+  "itemType": "Robe",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "History Before Exalt Version 6.1.0.0 (Sep 2025), this item gave +15 DEF, +6 DEX, +8 WIS.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+15 DEF, +7 DEX, +3 WIS",
+    "Nice Leeches: Leeches will heal players throughout their lifetime"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Event Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/darkness-overcoat"
+}

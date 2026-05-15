@@ -1,0 +1,33 @@
+{
+  "id": "the-twilight-gemstone",
+  "name": "The Twilight Gemstone",
+  "slug": "the-twilight-gemstone",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/the-twilight-gemstone.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes The Twilight Gemstone offers a very noticeable MP cost reduction of 20%. This allows it to be an amazing ring for both utility and DPS. For long distance rushes, like realm clearing, the Trickster appreciates the ability to teleport more often (and a +5 SPD boost). For group healing, there’s no better ring for the Priest.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+110 MP, +8 DEF, +5 SPD, +5 WIS",
+    "Reduces the Magic casting cost of your ability by 20%"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Twilight Archmage",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/the-twilight-gemstone"
+}

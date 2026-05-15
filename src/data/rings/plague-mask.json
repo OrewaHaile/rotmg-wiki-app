@@ -1,0 +1,30 @@
+{
+  "id": "plague-mask",
+  "name": "Plague Mask",
+  "slug": "plague-mask",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/plague-mask.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 400,
+  "description": "History Before Exalt Version 5.0.0.0 (July 2024), this item required 20 / 200 / 1 / 1 ST Ring to forge.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+100 HP, +7 DEX, +3 VIT",
+    "Plump Leeches: Leeches inflict 100% more damage and deal a damaging AOE blast when they decay"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/plague-mask"
+}

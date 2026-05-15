@@ -1,0 +1,35 @@
+{
+  "id": "coral-silk-armor",
+  "name": "Coral Silk Armor",
+  "slug": "coral-silk-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/coral-silk-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes While not as defensively focused as tiered leather armors, this armor is balanced out by having more dexterity, as well as an equally sizeable Wisdom boost. If you want a more utility-focused build but don’t want to fully commit to an armor such as the Harlequin Armor, you might find this armor to be a good middle ground.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+14 DEF, +8 DEX, +8 WIS"
+  ],
+  "usableClasses": [
+    "Huntress"
+  ],
+  "dropsFrom": [
+    "Thessal the Mermaid Goddess",
+    "Coral Gift",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/coral-silk-armor"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "corsair-ring",
+  "name": "Corsair Ring",
+  "slug": "corsair-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/corsair-ring.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 50,
+  "description": "Notes Being one of the first UT rings a player may obtain, this ring has twice as much DEF as T0 Ring of Minor Defense while having two-thirds the health of a Ring of Health, making it useful for maintaining a healthy amount of HP and DEF early game.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 HP, +2 DEF"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Dreadstump the Pirate King",
+    "Beginner Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/corsair-ring"
+}

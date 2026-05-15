@@ -1,0 +1,42 @@
+{
+  "id": "frost-elementalist-robe",
+  "name": "Frost Elementalist Robe",
+  "slug": "frost-elementalist-robe",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/frost-elementalist-robe.png",
+  "itemType": "Robe",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 435,
+  "description": "Notes Although not an ST item in its own right, this item is classed as Oryxmas Gear, and, if worn in conjuntion with Ornaments of Unity, will contribute to the Oryxmas Gear bonus stats.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+55 MP, +4 ATT, +13 DEF, +6 WIS"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Event Chests",
+    "Loot Elf",
+    "Oryxmas Snowman Tier 3",
+    "Permafrost Lord",
+    "Snowy the Frost God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/frost-elementalist-robe"
+}

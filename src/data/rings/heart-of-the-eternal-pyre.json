@@ -1,0 +1,33 @@
+{
+  "id": "heart-of-the-eternal-pyre",
+  "name": "Heart of the Eternal Pyre",
+  "slug": "heart-of-the-eternal-pyre",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/heart-of-the-eternal-pyre.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 666,
+  "description": "",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +3 ATT, +3 DEF, +3 VIT",
+    "Phoenix Rebirth: On taking damage when below 30% gain Berserk and HP regen 150 HP/sec for 8 secondsPhoenix Rebirth Cooldown: 600 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Eternal Phoenix (Easy)",
+    "Eternal Phoenix (Hard)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/heart-of-the-eternal-pyre"
+}

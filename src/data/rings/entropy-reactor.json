@@ -1,0 +1,30 @@
+{
+  "id": "entropy-reactor",
+  "name": "Entropy Reactor",
+  "slug": "entropy-reactor",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/entropy-reactor.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes Obtained by combining a Loaded Core and a Locked Reactor by dragging them on top of each other (or via a quest at The Tinkerer). The item will drop in an orange bag on the ground when the two aforementioned items are combined.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "No stat bonuses unless worn as part of set",
+    "Effect: Restores 150 HP when taking damage when below 300 HP Cooldown: 60 seconds On Taking Damage: 5% chance to trigger one of the Alien Cores effects Cooldown: 15 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/entropy-reactor"
+}

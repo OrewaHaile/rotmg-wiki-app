@@ -1,0 +1,40 @@
+{
+  "id": "anointed-robe",
+  "name": "Anointed Robe",
+  "slug": "anointed-robe",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/anointed-robe.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Part of the Mad God’s Messenger Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +14 DEF, +3 DEX, -5 VIT"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Stone Guardians",
+    "Suit of Armor",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/anointed-robe"
+}

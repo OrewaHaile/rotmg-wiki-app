@@ -1,0 +1,39 @@
+{
+  "id": "cask-corslet",
+  "name": "Cask Corslet",
+  "slug": "cask-corslet",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/cask-corslet.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "Notes The Cask Corslet can theoretically achieve the highest defense of any armor after enough reactive procs, but in practice, other armors such as Candy Coated Armor would result in less overall damage taken when considering the amount of hits necessary to reach that defense.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +18 DEF, +10 VIT",
+    "On taking at least 40 damage: DEF Boost (+10 DEF), stacking with diminishing returns.Duration: 3 seconds"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Bradley the Barkeep",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cask-corslet"
+}

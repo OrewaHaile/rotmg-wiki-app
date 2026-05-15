@@ -1,0 +1,29 @@
+{
+  "id": "pressure-gauge-band",
+  "name": "Pressure Gauge Band",
+  "slug": "pressure-gauge-band",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/pressure-gauge-band.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 600,
+  "description": "Notes Part of the Mechanical Raptor Druid Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+100 HP, +10 WIS, +5 DEF"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pressure-gauge-band"
+}

@@ -1,0 +1,39 @@
+{
+  "id": "a-r-m-o-r",
+  "name": "A.R.M.O.R.",
+  "slug": "a-r-m-o-r",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/a-r-m-o-r.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "Notes Part of the Scientific Summoner Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 ATT, +12 DEF, +5 SPD, +10 VIT"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "A.E.G.I.S.",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/a-r-m-o-r"
+}

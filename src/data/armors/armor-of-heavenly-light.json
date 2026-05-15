@@ -1,0 +1,35 @@
+{
+  "id": "armor-of-heavenly-light",
+  "name": "Armor of Heavenly Light",
+  "slug": "armor-of-heavenly-light",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/armor-of-heavenly-light.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 231,
+  "description": "Notes This is an Antinomy Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+24 DEF, +20 HP"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/armor-of-heavenly-light"
+}

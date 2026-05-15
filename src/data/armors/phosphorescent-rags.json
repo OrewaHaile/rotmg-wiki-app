@@ -1,0 +1,36 @@
+{
+  "id": "phosphorescent-rags",
+  "name": "Phosphorescent Rags",
+  "slug": "phosphorescent-rags",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/phosphorescent-rags.png",
+  "itemType": "Robe",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Part of the Undersea Phantom Wizard Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+55 HP, +8 DEF, +8 SPD"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/phosphorescent-rags"
+}

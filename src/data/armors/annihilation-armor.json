@@ -1,0 +1,39 @@
+{
+  "id": "annihilation-armor",
+  "name": "Annihilation Armor",
+  "slug": "annihilation-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/annihilation-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "T14",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 950,
+  "description": "Notes A clear-cut upgrade over the Candy Coated Armor, this end-game armor offers a massive increase in defense without compromise.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+28 DEF"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 3",
+    "The Forgotten King",
+    "Twilight Archmage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/annihilation-armor"
+}

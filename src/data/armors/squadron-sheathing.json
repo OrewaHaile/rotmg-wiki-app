@@ -1,0 +1,42 @@
+{
+  "id": "squadron-sheathing",
+  "name": "Squadron Sheathing",
+  "slug": "squadron-sheathing",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/squadron-sheathing.png",
+  "itemType": "Sheath",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Glancing at its base stats alone, this item seems unremarkable. Relative to the T13 Wyrmhide Armor, it is completely outdone; the Wyrmhide Armor grants an additional +5 DEF, ad sacrifices -1 DEX. However, taking damage to under 80% maximum HP activates Mad God’s Rage, increasing DPS stats by 10. This tends to work best when you’d take lots of damage, anyways (like the Lost Halls or Oryx’s Sanctuary).",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+15 DEF, +7 DEX",
+    "Mad God’s Rage: Gain ATT Boost (+5 ATT) and DEX Boost (+5 DEX) for 3 seconds when hit under 80% HP."
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/squadron-sheathing"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "heavenly-halo",
+  "name": "Heavenly Halo",
+  "slug": "heavenly-halo",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/heavenly-halo.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 800,
+  "description": "Notes Part of the Angelic Bard Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+70 HP, +50 MP, +6 WIS",
+    "Increases the power of the Angel’s Fanfare if worn in conjunction"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx Noble",
+    "Oryx Aristocrat",
+    "Oryx Patrician",
+    "Legion Commissioner"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/heavenly-halo"
+}

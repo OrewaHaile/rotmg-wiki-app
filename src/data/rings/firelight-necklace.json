@@ -1,0 +1,32 @@
+{
+  "id": "firelight-necklace",
+  "name": "Firelight Necklace",
+  "slug": "firelight-necklace",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/firelight-necklace.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 600,
+  "description": "Notes Part of the Fiery Kensei Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +40 MP, +6 ATT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Shaitan the Advisor",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/firelight-necklace"
+}

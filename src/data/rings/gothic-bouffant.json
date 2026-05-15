@@ -1,0 +1,29 @@
+{
+  "id": "gothic-bouffant",
+  "name": "Gothic Bouffant",
+  "slug": "gothic-bouffant",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/gothic-bouffant.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes Part of the Resurrected Huntress.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +4 ATT, +4 DEX, +3 VIT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/gothic-bouffant"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ragged-robes",
+  "name": "Ragged Robes",
+  "slug": "ragged-robes",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/ragged-robes.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Shaman Necromancer set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+11 DEF, +3 ATT, +5 DEX"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ragged-robes"
+}

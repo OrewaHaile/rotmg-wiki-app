@@ -1,0 +1,33 @@
+{
+  "id": "gladiator-guard",
+  "name": "Gladiator Guard",
+  "slug": "gladiator-guard",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/gladiator-guard.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This powerful heavy armor sacrifices some defense in exchange for hefty increases in damage and mobility.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+7 SPD, +5 ATT, +5 DEX, +20 DEF"
+  ],
+  "usableClasses": [
+    "Knight"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/gladiator-guard"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "exalted-gods-horn",
+  "name": "Exalted God's Horn",
+  "slug": "exalted-gods-horn",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/exalted-gods-horn.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes A direct upgrade of the Bloodstone Ring, this exceedingly rare ring grants good defensive bonuses and a permanent +10 DEX boost as long as its user is attacking while above 90% HP.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+140 HP, +5 DEF",
+    "Mad God’s Hubris: DEX Boost (+10 DEX) while attacking if your health is above 90% Max HP"
+  ],
+  "usableClasses": [
+    "Knight"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/exalted-god-s-horn"
+}

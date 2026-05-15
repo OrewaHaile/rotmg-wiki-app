@@ -1,0 +1,43 @@
+{
+  "id": "toga-picta",
+  "name": "Toga Picta",
+  "slug": "toga-picta",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/toga-picta.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Part of the Hollow King Necromancer set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+35 MP, +10 ATT, +13 DEF, +4 VIT, -4 DEX"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Septavius the Ghost God",
+    "Lair Spectral Skeleton",
+    "Septavius, Master of the Undead",
+    "Heroic Lair Spectral Skeleton",
+    "Heroic Septavius the Ghost God",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/toga-picta"
+}

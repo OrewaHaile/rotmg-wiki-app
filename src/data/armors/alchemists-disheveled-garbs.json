@@ -1,0 +1,37 @@
+{
+  "id": "alchemists-disheveled-garbs",
+  "name": "Alchemist's Disheveled Garbs",
+  "slug": "alchemists-disheveled-garbs",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/alchemists-disheveled-garbs.png",
+  "itemType": "Leather Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Alchemist Assassin Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 ATT, +14 DEF, +5 SPD"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/alchemist-s-disheveled-garbs"
+}

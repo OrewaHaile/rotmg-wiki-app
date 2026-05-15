@@ -1,0 +1,30 @@
+{
+  "id": "chocolate-bunny-ears",
+  "name": "Chocolate Bunny Ears",
+  "slug": "chocolate-bunny-ears",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/chocolate-bunny-ears.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 900,
+  "description": "Notes Part of the Chocolate Bunny Summoner Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +40 MP, +4 DEF",
+    "Sweet Hop: Increases Chocolate Egg Mace summon damage to 800-1200, health to 2000, and defense to 30."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/chocolate-bunny-ears"
+}

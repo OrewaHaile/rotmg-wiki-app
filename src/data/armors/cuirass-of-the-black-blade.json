@@ -1,0 +1,35 @@
+{
+  "id": "cuirass-of-the-black-blade",
+  "name": "Cuirass of the Black Blade",
+  "slug": "cuirass-of-the-black-blade",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/cuirass-of-the-black-blade.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 435,
+  "description": "Notes Although this item has the same On Equip stats as the Acropolis Armor, this item has a 1% higher XP bonus compared to the Acropolis’ 6% XP bonus.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+24 DEF"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cuirass-of-the-black-blade"
+}

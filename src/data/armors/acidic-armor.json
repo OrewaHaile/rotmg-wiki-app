@@ -1,0 +1,42 @@
+{
+  "id": "acidic-armor",
+  "name": "Acidic Armor",
+  "slug": "acidic-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/acidic-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Acidified Assassin Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+18 DEF, +5 VIT, +50 HP, +50 MP, -5 SPD"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Golden Rat",
+    "Natural Slime God",
+    "Sewer Alligator",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/acidic-armor"
+}

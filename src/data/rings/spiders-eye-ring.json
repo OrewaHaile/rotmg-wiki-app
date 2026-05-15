@@ -1,0 +1,33 @@
+{
+  "id": "spiders-eye-ring",
+  "name": "Spider's Eye Ring",
+  "slug": "spiders-eye-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/spiders-eye-ring.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "2%",
+  "feedPower": 110,
+  "description": "Notes This ring provides you with +5 VIT and DEF, while these aren’t amazing, it also inflicts nearby enemies with Slowed on taking damage, which could see use as a swap-out ring for rushing through dungeons.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 VIT, +5 DEF",
+    "On Taking Damage: Inflict Slowed on enemies within 4.5 tiles for 3 seconds Cooldown: 10 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Arachna the Spider Queen",
+    "Beginner Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spider-s-eye-ring"
+}

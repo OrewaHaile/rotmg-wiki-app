@@ -1,0 +1,41 @@
+{
+  "id": "leaf-dragon-hide-armor",
+  "name": "Leaf Dragon Hide Armor",
+  "slug": "leaf-dragon-hide-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/leaf-dragon-hide-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes This armor is an interesting piece of equipment that, in comparison to the T14 Wyrmhide Armor, sacrifices 6 DEF and 6 DEX for 50 HP, 6 SPD, and 5 VIT, making it a rather situational armor to use. However, its proc gives it the ability to periodically grant a large amount of DEF when using abilities, mitigating the loss somewhat.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+14 DEF, +50 HP, +6 SPD, +5 VIT",
+    "On Ability Use: DEF Boost (+15 DEF) for 5 seconds. Cooldown: 15 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Limoz the Viridian Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/leaf-dragon-hide-armor"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "magic-construction-vest",
+  "name": "Magic Construction Vest",
+  "slug": "magic-construction-vest",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/magic-construction-vest.png",
+  "itemType": "Robe",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 435,
+  "description": "Notes This is a Construction Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +13 DEF, +6 WIS, +55 MP, +4 VIT"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/magic-construction-vest"
+}

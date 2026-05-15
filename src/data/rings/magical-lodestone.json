@@ -1,0 +1,34 @@
+{
+  "id": "magical-lodestone",
+  "name": "Magical Lodestone",
+  "slug": "magical-lodestone",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/magical-lodestone.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This ring is tied with The Forgotten Crown as the 3rd best DPS ring, being tied for first before the introduction of the Chrysalis of Eternity.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+30 HP, +6 ATT, +6 DEF, +6 SPD, +6 DEX"
+  ],
+  "usableClasses": [
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Marble Colossus",
+    "Marble Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/magical-lodestone"
+}

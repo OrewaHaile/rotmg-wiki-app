@@ -1,0 +1,36 @@
+{
+  "id": "honey-circlet",
+  "name": "Honey Circlet",
+  "slug": "honey-circlet",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/honey-circlet.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes Part of the Swarming Huntress Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +4 ATT, +4 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Red Soldier Bee",
+    "Blue Soldier Bee",
+    "Yellow Soldier Bee",
+    "Green Soldier Bee",
+    "Mini Killer Bee Nest",
+    "Honeyed Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/honey-circlet"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "luminous-armor",
+  "name": "Luminous Armor",
+  "slug": "luminous-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/luminous-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Part of the Crystal Kunoichi Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+200 HP, +5 SPD, +5 VIT"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Crystallised Boomer",
+    "Crystallised Crawler",
+    "Crystallised Shrieker",
+    "Crystallised Charger",
+    "Crystallised Watcher",
+    "Cavern Crystal",
+    "Crystallized Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/luminous-armor"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "blue-beehemoth-armor",
+  "name": "Blue Beehemoth Armor",
+  "slug": "blue-beehemoth-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/blue-beehemoth-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "History Before Patch X.33.1.0 (May 2020), this item had a Feed Power of 750.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+18 DEF, +5 SPD, +5 WIS"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Blue Beehemoth",
+    "Adolescent Blue Beehemoth",
+    "Blue Soldier Bee",
+    "Honeyed Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/blue-beehemoth-armor"
+}

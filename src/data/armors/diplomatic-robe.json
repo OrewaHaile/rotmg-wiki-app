@@ -1,0 +1,34 @@
+{
+  "id": "diplomatic-robe",
+  "name": "Diplomatic Robe",
+  "slug": "diplomatic-robe",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/diplomatic-robe.png",
+  "itemType": "Robe",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This robe has reduced defense and sacrifices stats such as MP and WIS, but more than compensates with a good HP bonus and a huge spike in damage output, the highest of all robes bar the Vesture of Duality with its proc active.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+11 DEF, +50 HP, +10 ATT",
+    "On Ability Use: Summon a portal which deals 125 damage and zaps enemies in a radius of 5 every 0.4 seconds Duration: 4 seconds Cooldown: 8 seconds"
+  ],
+  "usableClasses": [
+    "Wizard"
+  ],
+  "dropsFrom": [
+    "Chancellor Dammah"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/diplomatic-robe"
+}

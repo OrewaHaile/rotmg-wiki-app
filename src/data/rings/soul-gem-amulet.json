@@ -1,0 +1,30 @@
+{
+  "id": "soul-gem-amulet",
+  "name": "Soul Gem Amulet",
+  "slug": "soul-gem-amulet",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/soul-gem-amulet.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Shaman Necromancer set. The Fang Necklace may alternatively be used as a piece of this set, identical except for a different additional effect on the Ritual Circle.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 DEX, +5 VIT",
+    "Soul Offering: Ritual Circle now also inflicts Slowed"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/soul-gem-amulet"
+}

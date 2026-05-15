@@ -1,0 +1,33 @@
+{
+  "id": "spectral-ring-of-horrors",
+  "name": "Spectral Ring of Horrors",
+  "slug": "spectral-ring-of-horrors",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/spectral-ring-of-horrors.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes Part of the Skuld 2 The ReGhostening set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +50 MP, +8 WIS, +3 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Troll Matriarch",
+    "Ghost of Skuld",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spectral-ring-of-horrors"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "esbens-wedding-ring",
+  "name": "Esben's Wedding Ring",
+  "slug": "esbens-wedding-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/esbens-wedding-ring.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes This ring provides the same amount of Attack as the T6 Ring of Unbound Attack, along with a decent HP and MP boost, at the cost of -5 DEF. This ring has synergy with classes that can Berserk themselves and others (Warriors, Mystics with the Enchantment Orb, Bards with the Taiko Drums/Chief’s War Horn), especially for solo play. Knights also benefit greatly from this ring, as they have DEF to spare and the extra ATT and MP greatly improve their DPS and stunning, respectively",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +80 MP, +10 ATT, -5 DEF",
+    "On shooting while Berserk: Gain Damaging for 1 secondCooldown: 0.8 seconds"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer"
+  ],
+  "dropsFrom": [
+    "Esben the Neurotic",
+    "Citadel Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/esben-s-wedding-ring"
+}

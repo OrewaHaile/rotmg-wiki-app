@@ -1,0 +1,37 @@
+{
+  "id": "gjallarhorn",
+  "name": "Gjallarhorn",
+  "slug": "gjallarhorn",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/gjallarhorn.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Part of the Nordic Knight Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +4 ATT",
+    "With Dalvar’s Battle Axe: Berserk for 5 seconds on ability use Cooldown: 7 seconds",
+    "On Shoot: Armored for 5 seconds if below 50% health Cooldown: 15 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Iceion",
+    "Lizicle",
+    "Snow Bat",
+    "Yeti",
+    "Citadel Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/gjallarhorn"
+}

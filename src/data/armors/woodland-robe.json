@@ -1,0 +1,35 @@
+{
+  "id": "woodland-robe",
+  "name": "Woodland Robe",
+  "slug": "woodland-robe",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/woodland-robe.png",
+  "itemType": "Robe",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 550,
+  "description": "Notes A decent early game DPS robe that provides on-equip bonuses comparable to T13 Robe of the Grand Sorcerer, while sacrificing the utility of Mana and WIS bonuses. In exchange the robe provides an increase in SPD, which could be an asset while rushing lower level dungeons, however still being beaten by the UT Water Dragon Silk Robe’s bonus of 6 SPD.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+12 DEF, +5 SPD, +5 DEX, +5 WIS",
+    "Fey Assistance: 3% chance to spawn a fairy while shooting. Zap Fairy: Zaps enemies for 100 dmg every 0.8s for 6.4s Cooldown: 6.4 seconds"
+  ],
+  "usableClasses": [
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Fountain Spirit",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/woodland-robe"
+}

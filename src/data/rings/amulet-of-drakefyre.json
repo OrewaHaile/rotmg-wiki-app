@@ -1,0 +1,32 @@
+{
+  "id": "amulet-of-drakefyre",
+  "name": "Amulet of Drakefyre",
+  "slug": "amulet-of-drakefyre",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/amulet-of-drakefyre.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 600,
+  "description": "Notes Part of the Dragon Tamer set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+115 HP, +5 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Pyyr the Crimson Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/amulet-of-drakefyre"
+}

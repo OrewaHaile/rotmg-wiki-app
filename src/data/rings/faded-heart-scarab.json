@@ -1,0 +1,37 @@
+{
+  "id": "faded-heart-scarab",
+  "name": "Faded Heart Scarab",
+  "slug": "faded-heart-scarab",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/faded-heart-scarab.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes An offense-focused ring that provides a moderate boost to HP and a significant boost to DEX at the expense of ATT. This can synergize well with weapons or abilities that have on-shoot effects independent of the player’s ATT like the Primal Arcana or that otherwise increase in power with additional DEX. Compared to the Fractured Hannya, ATT and DEX effects are swapped.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +25% DEX equal to DEX, -15% ATT Equal to DEX",
+    "Increases the power of Syndicate weaponry if worn in conjunction"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Pirate Queen Ramm",
+    "Izel the Grand Shaman",
+    "Nefret the Pharaoh",
+    "Black Blade Ozuchi",
+    "The Wanderer",
+    "Interregnum Treasure Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/faded-heart-scarab"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "legacys-pendant",
+  "name": "Legacy's Pendant",
+  "slug": "legacys-pendant",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/legacys-pendant.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 750,
+  "description": "Notes Part of the Frost Advisor Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+120% HP equal to DEX, +0.6% DEX equal to Max HP, -6 VIT",
+    "Upon taking 40+ damage: Gain Berserk for 3 seconds while wearing Iceborn Arsenal."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Esben the Neurotic"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legacy-s-pendant"
+}

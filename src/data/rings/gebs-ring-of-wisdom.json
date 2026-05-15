@@ -1,0 +1,33 @@
+{
+  "id": "gebs-ring-of-wisdom",
+  "name": "Geb's Ring of Wisdom",
+  "slug": "gebs-ring-of-wisdom",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/gebs-ring-of-wisdom.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 400,
+  "description": "Notes Part of the Priest of Geb set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+25 HP, +25 MP, +5 VIT, +10 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Worshipping Priest",
+    "Worshipping Priestess",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/geb-s-ring-of-wisdom"
+}

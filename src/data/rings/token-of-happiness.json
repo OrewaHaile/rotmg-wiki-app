@@ -1,0 +1,32 @@
+{
+  "id": "token-of-happiness",
+  "name": "Token of Happiness",
+  "slug": "token-of-happiness",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/token-of-happiness.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes This ring is the only realistic item in the game to apply Energized. It can be used as a swapout, to increase MP regen when bosses are invulnerable. Be careful of the Slowed you get, especially as the statuses from the proc last 0.7 seconds even after you stop shooting.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+100 HP, +100 MP, +10 WIS",
+    "Happy Spirit: When shooting, gain Energized and Slowed."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ethereal Shrine"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/token-of-happiness"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "loaded-core",
+  "name": "Loaded Core",
+  "slug": "loaded-core",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/loaded-core.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes While not providing any stats by itself, this ring provides significant stat boosts when worn with other Alien Gear, reaching its full potential with an Alien Weapon and a Protection Matrix. While it gives up the triggered effects of the other four cores, its stats at full power arguably outshine every other ring in the game, and are well-balanced enough that every class can use it well. More often than not, the bonus is worth giving up one’s Weapon and Armor slot.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "No stat bonuses unless worn as part of set"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/loaded-core"
+}

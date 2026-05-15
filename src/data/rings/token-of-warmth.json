@@ -1,0 +1,32 @@
+{
+  "id": "token-of-warmth",
+  "name": "Token of Warmth",
+  "slug": "token-of-warmth",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/token-of-warmth.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes While this ring may seem weak at first glance due to the slow on shoot, it is incredibly powerful within the Moonlight Village or other encounters with high bullet density, due to lower speed being a benefit in most phases.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+100 HP, +100 MP, +10 VIT",
+    "Warm Spirit: When shooting, gain Healing and Slowed."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ethereal Shrine"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/token-of-warmth"
+}

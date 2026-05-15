@@ -1,0 +1,37 @@
+{
+  "id": "pirate-queens-brigandine",
+  "name": "Pirate Queen's Brigandine",
+  "slug": "pirate-queens-brigandine",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/pirate-queens-brigandine.png",
+  "itemType": "Leather Armor",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 231,
+  "description": "Notes Although this item has the same On Equip stats as the Hydra Skin Armor, this item has a 1% higher XP bonus compared to the Hydra’s 6% bonus. It also has a lower feedpower compared to the Hydra’s 435 feedpower.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+18 DEF, +5 DEX"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pirate-queen-s-brigandine"
+}

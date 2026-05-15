@@ -1,0 +1,40 @@
+{
+  "id": "heavy-protective-matrix",
+  "name": "Heavy Protective Matrix",
+  "slug": "heavy-protective-matrix",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/heavy-protective-matrix.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes This is an Alien Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+21 DEF",
+    "Taking damage when below 50% HP: Gain Invulnerable for 1.4 seconds and Dazed for 5 seconds. Cooldown: 180 seconds"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Alien UFO",
+    "Alien Biff",
+    "Alien Leprechaun"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/heavy-protective-matrix"
+}

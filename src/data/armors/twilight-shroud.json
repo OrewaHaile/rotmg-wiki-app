@@ -1,0 +1,43 @@
+{
+  "id": "twilight-shroud",
+  "name": "Twilight Shroud",
+  "slug": "twilight-shroud",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/twilight-shroud.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Twilight Archmage Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +50 MP, +10 DEF, +5 SPD",
+    "On Shoot: Restores 100 mana when In Combat below 50% MP Cooldown: 5 seconds"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Ice Mage",
+    "Ice Adept",
+    "Glacier Archmage",
+    "Cryo Warlock",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/twilight-shroud"
+}

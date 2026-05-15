@@ -1,0 +1,40 @@
+{
+  "id": "mantle-of-the-monarchy-rehearsal",
+  "name": "Mantle of the Monarchy (Rehearsal)",
+  "slug": "mantle-of-the-monarchy-rehearsal",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/mantle-of-the-monarchy-rehearsal.png",
+  "itemType": "Robe",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes In comparison to the original Mantle of the Monarchy the passive proc is completely removed. Although it might still be a solid option for a robe, it’s rather difficult to obtain due to the limited availability of the Rehearsal Shatters. And thus this item will most likely stay a vanity item for a while.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +40 MP, +10 DEF, +20 VIT"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "The Bridge Sentinel (With Rehearsal Modifier)",
+    "Twilight Archmage (With Rehearsal Modifier)",
+    "The Forgotten King (With Rehearsal Modifier)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mantle-of-the-monarchy-rehearsal"
+}

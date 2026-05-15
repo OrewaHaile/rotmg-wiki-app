@@ -1,0 +1,34 @@
+{
+  "id": "interregnum",
+  "name": "Interregnum",
+  "slug": "interregnum",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/interregnum.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 650,
+  "description": "Not to be confused with the Hidden Interregnum, the event-exclusive dungeon.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+75 HP, +5 ATT, +5 VIT",
+    "35% chance on ability use: ATT Boost (+5 ATT) for 4 secondsCooldown: 8 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ghost King",
+    "Sinister Scarecrow",
+    "Heroic Septavius the Ghost God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/interregnum"
+}

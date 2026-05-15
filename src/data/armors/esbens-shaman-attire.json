@@ -1,0 +1,36 @@
+{
+  "id": "esbens-shaman-attire",
+  "name": "Esben's Shaman Attire",
+  "slug": "esbens-shaman-attire",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/esbens-shaman-attire.png",
+  "itemType": "Robe",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes A good defensive robe, the Shaman Attire is a direct upgrade to the Soulless Robe with an additional +6 ATT (equal to the T14 Robe of the Ancient Intellect). However, it provides no boost to MP or WIS. Not an impressive UT, but not a bad one either.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+15 DEF, +60 HP, +6 ATT",
+    "On Taking Damage: 40% chance to Slowed enemies within 6 tiles for 5 seconds. Cooldown: 5 seconds"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Necromancer"
+  ],
+  "dropsFrom": [
+    "Esben the Neurotic",
+    "Citadel Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/esben-s-shaman-attire"
+}

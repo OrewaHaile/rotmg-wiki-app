@@ -1,0 +1,32 @@
+{
+  "id": "frozen-heart",
+  "name": "Frozen Heart",
+  "slug": "frozen-heart",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/frozen-heart.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 750,
+  "description": "Notes Part of the Frost Harbinger Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+32% HP equal to Max MP, +16% MP equal to Max HP, -5 SPD",
+    "On ability use: Boosts ally defense by 9 for 9 seconds while wearing Heartsteel Claymore."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Esben the Neurotic"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/frozen-heart"
+}

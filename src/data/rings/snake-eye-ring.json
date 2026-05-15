@@ -1,0 +1,34 @@
+{
+  "id": "snake-eye-ring",
+  "name": "Snake Eye Ring",
+  "slug": "snake-eye-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/snake-eye-ring.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes This item is an amazing swapout due to Speedy. This status can be extremely useful for dodging, rushing, and general travel. Therefore, the snake eye is great for any class without innate Speedy. As a common drop from an accessible dungeon, it isn’t hard to obtain.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +5 ATT, +5 DEF, +5 SPD",
+    "On Ability Use: Speedy for 2 seconds Cooldown: 5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Stheno the Snake Queen",
+    "Snakepit Guard",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/snake-eye-ring"
+}

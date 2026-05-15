@@ -1,0 +1,32 @@
+{
+  "id": "the-twilight-gemstone-rehearsal",
+  "name": "The Twilight Gemstone (Rehearsal)",
+  "slug": "the-twilight-gemstone-rehearsal",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/the-twilight-gemstone-rehearsal.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes In comparison to the original The Twilight Gemstone, the stats and MP discount are greatly reduced.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 MP, +4 DEF, +3 SPD, +3 WIS",
+    "Reduces the Magic casting cost of your ability by 15%"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Twilight Archmage (With Rehearsal Modifier)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/the-twilight-gemstone-rehearsal"
+}

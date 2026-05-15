@@ -1,0 +1,30 @@
+{
+  "id": "targeting-monocular",
+  "name": "Targeting Monocular",
+  "slug": "targeting-monocular",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/targeting-monocular.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 600,
+  "description": "Notes Part of the Kogbold Turretsmith Archer set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +8 DEF",
+    "Target Analysis: When worn, Heavy Turrets increase damage to 350-525, and every other shot will Slowed enemies for 0.2 seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/targeting-monocular"
+}

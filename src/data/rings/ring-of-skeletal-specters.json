@@ -1,0 +1,34 @@
+{
+  "id": "ring-of-skeletal-specters",
+  "name": "Ring of Skeletal Specters",
+  "slug": "ring-of-skeletal-specters",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-skeletal-specters.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes The reactive proc spawns a stationary summon on the player’s position when taking 20+ damage, dealing damage and slowing in a similar vein to the Honeytomb Snare. In practice the proc feels semi-consistent, as many projectiles will deal over 20 damage. For this reason it is most useful on melee classes who will get hit the most and can stay close to the summon.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +3 ATT, +7 WIS",
+    "On Taking Damage: Shots above 20 damage summon hands which slam the ground dealing 150 damage in a radius of 6 squares every second for 3 seconds On enemy: Slowed for 0.8 seconds Cooldown: 8 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Lair Spectral Skeleton",
+    "Heroic Lair Spectral Skeleton",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-skeletal-specters"
+}

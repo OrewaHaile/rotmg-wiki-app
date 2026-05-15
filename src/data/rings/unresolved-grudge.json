@@ -1,0 +1,29 @@
+{
+  "id": "unresolved-grudge",
+  "name": "Unresolved Grudge",
+  "slug": "unresolved-grudge",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/unresolved-grudge.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 900,
+  "description": "Notes Part of the Ghostly Banshee Summoner Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +8 DEF, +5 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/unresolved-grudge"
+}

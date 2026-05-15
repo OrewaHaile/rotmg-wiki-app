@@ -1,0 +1,31 @@
+{
+  "id": "ring-of-radiant-petals",
+  "name": "Ring Of Radiant Petals",
+  "slug": "ring-of-radiant-petals",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-radiant-petals.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 400,
+  "description": "History Introduced in Exalt Version 5.11.0.0 (May 2025) update.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+140 HP, +40 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Blooming Flower"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-radiant-petals"
+}

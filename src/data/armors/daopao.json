@@ -1,0 +1,38 @@
+{
+  "id": "daopao",
+  "name": "Daopao",
+  "slug": "daopao",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/daopao.png",
+  "itemType": "Leather Armor",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes Part of the Lei Gong Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+9 DEF, +8 ATT, +8 DEX",
+    "On ability with Thunder Mallet Eqipped: Gain DEF Boost (+5 DEF) for 6 secondsCooldown: 10 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/daopao"
+}

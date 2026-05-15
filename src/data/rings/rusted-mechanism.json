@@ -1,0 +1,29 @@
+{
+  "id": "rusted-mechanism",
+  "name": "Rusted Mechanism",
+  "slug": "rusted-mechanism",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/rusted-mechanism.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes With a whopping +8 to ATT and DEX, this ring provides the highest unconditional DPS stat boost of any single ring in the game, surpassing even the Chrysalis of Eternity. However, this comes at the cost of a lack of HP along with a significant DEF penalty, making it less useful if one is unwilling to sacrifice survivability for offense.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "-8 DEF, +8 ATT, +8 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/rusted-mechanism"
+}

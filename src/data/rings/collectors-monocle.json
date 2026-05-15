@@ -1,0 +1,34 @@
+{
+  "id": "collectors-monocle",
+  "name": "Collector's Monocle",
+  "slug": "collectors-monocle",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/collectors-monocle.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes The Monocle gives sublime HP and DEX boosts (equivalent to the T5 rings of each stat), but it’s main appeal is its massive +20 DEX total if you can go invisible. Assuming you can, the proc has an effective 100% uptime, with a long duration compared to its cooldown or the Cloak cooldown. A consistent Monocle far surpasses otherwise endgame rings like The Forgotten Crown.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+140 HP, +8 DEX",
+    "On Shoot: DEX Boost (+12 DEX) on self for 5 seconds if the user is Invisible. Cooldown: 1 second"
+  ],
+  "usableClasses": [
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Treasurer Gemsbok"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/collector-s-monocle"
+}

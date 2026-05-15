@@ -1,0 +1,29 @@
+{
+  "id": "silver-medal",
+  "name": "Silver Medal",
+  "slug": "silver-medal",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/silver-medal.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 350,
+  "description": "Notes Prize for winning 2nd place in the Kabam Guild Event: Synchronized Swimming. (Winning guild: LessQQmorePEWPEW - Youtube link)",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+2 SPD, +2 DEX, +2 VIT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/silver-medal"
+}

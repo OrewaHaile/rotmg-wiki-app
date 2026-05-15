@@ -1,0 +1,30 @@
+{
+  "id": "devil-horn-headband",
+  "name": "Devil Horn Headband",
+  "slug": "devil-horn-headband",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/devil-horn-headband.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 750,
+  "description": "Notes Part of the Incubus Sorcerer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+77 HP, +4 WIS, +4 DEX",
+    "On Taking Damage: 20% chance to spawn a decoy Fallen Cherub for five seconds. Cooldown: 15 seconds On Taking Damage: 20% chance to spawn an Impcubus to aid you in combat for five seconds. Dove Combat: 200 damage every 0.5 seconds, within five tiles. Cooldown: 15 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/devil-horn-headband"
+}

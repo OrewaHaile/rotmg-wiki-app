@@ -1,0 +1,40 @@
+{
+  "id": "robe-of-the-ancient-intellect",
+  "name": "Robe of the Ancient Intellect",
+  "slug": "robe-of-the-ancient-intellect",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/robe-of-the-ancient-intellect.png",
+  "itemType": "Robe",
+  "tier": "T14",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 950,
+  "description": "Notes An incredibly versatile robe boasting the highest defense in its category while offering palatable stats across the board.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+75 MP, +6 ATT, +17 DEF, +8 WIS"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 3",
+    "The Forgotten King",
+    "Twilight Archmage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/robe-of-the-ancient-intellect"
+}

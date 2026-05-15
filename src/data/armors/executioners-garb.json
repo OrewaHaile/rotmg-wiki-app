@@ -1,0 +1,38 @@
+{
+  "id": "executioners-garb",
+  "name": "Executioner's Garb",
+  "slug": "executioners-garb",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/executioners-garb.png",
+  "itemType": "Robe",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Part of the Reaper Necromancer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+35 MP, +10 ATT, +13 DEF, +4 VIT, -4 DEX"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Wine Cellar Event Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/executioner-s-garb"
+}

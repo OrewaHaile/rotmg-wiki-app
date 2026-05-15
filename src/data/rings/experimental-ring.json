@@ -1,0 +1,35 @@
+{
+  "id": "experimental-ring",
+  "name": "Experimental Ring",
+  "slug": "experimental-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/experimental-ring.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes This is one of, if not, the most used early UT ring in the game.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +60 MP, +5 DEF, +5 VIT"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [
+    "Dr. Terrible",
+    "Horrific Creation",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/experimental-ring"
+}

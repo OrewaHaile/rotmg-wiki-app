@@ -1,0 +1,36 @@
+{
+  "id": "thistleleaf-necklace",
+  "name": "Thistleleaf Necklace",
+  "slug": "thistleleaf-necklace",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/thistleleaf-necklace.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes One of the few rings capable of directly harming enemies, this one provides a fair amount of HP and DEF while also firing two counterattacks at the enemy that dealt the hit that triggered it in an attempt of self-defense.",
+  "stats": {
+    "damage": "175–175 (average: 175)",
+    "range": "1.2, 2.4, 3.6, 4.8, 6 tiles",
+    "rateOfFire": null,
+    "shots": "10",
+    "projectiles": "10"
+  },
+  "effects": [
+    "+90 HP, +5 DEF",
+    "On Hit: Retaliates with a 150 damage lingering spore. On Shoot while In Combat: Retaliates with a 175 damage + 75 damage over 4 second bleed Cooldown: 1.6 seconds",
+    "Shots are parametric Shots pass through obstacles Ignores defense of target",
+    "Bleeding on enemies for 4 seconds. (Bleed Damage: 75) Shots hit multiple targets Shots pass through obstacles Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Warped Ent Ancient",
+    "Mossy Chest",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/thistleleaf-necklace"
+}

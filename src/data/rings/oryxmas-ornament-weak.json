@@ -1,0 +1,35 @@
+{
+  "id": "oryxmas-ornament-weak",
+  "name": "Oryxmas Ornament: Weak",
+  "slug": "oryxmas-ornament-weak",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/oryxmas-ornament-weak.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 700,
+  "description": "Notes Obtained from the Oryxmas Bonus Program. It’s a component in creating the Ornaments of Unity.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 MP, +50 HP, + 4 DEF, +4 VIT",
+    "On Taking Damage: 10% chance to spawn an Oryxmas Tree that inflicts Weak to surrounding enemies for 4 seconds and deals 50 damage to surrounding enemies every 0.2 seconds. Cooldown: 10 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Legion Colonel",
+    "Legion Commissioner",
+    "Legion Missionary",
+    "Legion Principal"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/oryxmas-ornament-weak"
+}

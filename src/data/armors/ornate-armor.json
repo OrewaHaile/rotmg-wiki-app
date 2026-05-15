@@ -1,0 +1,42 @@
+{
+  "id": "ornate-armor",
+  "name": "Ornate Armor",
+  "slug": "ornate-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/ornate-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Treasure Hunter Archer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+16 DEF, +10 VIT",
+    "On taking at least 20 damage: Healing for 5 seconds Cooldown: 20 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Ancient Monolith",
+    "Sand Elemental",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ornate-armor"
+}

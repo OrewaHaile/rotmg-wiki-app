@@ -1,0 +1,35 @@
+{
+  "id": "heavy-construction-vest",
+  "name": "Heavy Construction Vest",
+  "slug": "heavy-construction-vest",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/heavy-construction-vest.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 435,
+  "description": "Notes This is a Construction Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+24 DEF, +4 VIT"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/heavy-construction-vest"
+}

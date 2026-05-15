@@ -1,0 +1,40 @@
+{
+  "id": "fairy-plate",
+  "name": "Fairy Plate",
+  "slug": "fairy-plate",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/fairy-plate.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 500,
+  "description": "Notes Part of the Swoll Paladin set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +40 MP, +16 DEF"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "MegaRototo",
+    "Swoll Fairy",
+    "Cupcake",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fairy-plate"
+}

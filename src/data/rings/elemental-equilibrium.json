@@ -1,0 +1,30 @@
+{
+  "id": "elemental-equilibrium",
+  "name": "Elemental Equilibrium",
+  "slug": "elemental-equilibrium",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/elemental-equilibrium.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes A generally weaker version of the Exalted God’s Horn, this limited ring gives some HP, MP, and great offenses when above 90% HP.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +80 MP",
+    "Fury of Flame and Storm: Gain ATT Boost (+5 ATT) and DEX Boost (+5 DEX) while attacking if your health is above 90% Max HP. Perseverance of Land and Water: Gain DEF Boost (+5 DEF) and VIT Boost (+15 VIT) for 10 seconds when taking damage below 60% Max HP. Cooldown: 15 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/elemental-equilibrium"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ring-of-transcendent-vitality",
+  "name": "Ring of Transcendent Vitality",
+  "slug": "ring-of-transcendent-vitality",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-transcendent-vitality.png",
+  "itemType": "Ring",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 600,
+  "description": "Notes This ring provides 2.64 HP/s (halved in combat) and reduces in-combat time by 0.44 seconds.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +50 MP, +11 VIT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Forgotten King",
+    "Royal Epic Quest Chest",
+    "Oryx the Mad God 3",
+    "Kitsune Umi"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-transcendent-vitality"
+}

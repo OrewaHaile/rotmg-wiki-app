@@ -1,0 +1,35 @@
+{
+  "id": "imperial-keepsake",
+  "name": "Imperial Keepsake",
+  "slug": "imperial-keepsake",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/imperial-keepsake.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 750,
+  "description": "Notes Part of the Slurp Scion Wizard Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+55 HP, +8 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Fishman Warrior",
+    "Giant Squid",
+    "Sea Mare",
+    "Sea Slurp Home",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/imperial-keepsake"
+}

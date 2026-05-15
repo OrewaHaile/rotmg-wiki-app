@@ -1,0 +1,41 @@
+{
+  "id": "cheater-light-armor",
+  "name": "Cheater Light Armor",
+  "slug": "cheater-light-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/cheater-light-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 300,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "-100 HP"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "AsiaEast",
+    "AsiaSouthEast",
+    "Australia"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cheater-light-armor"
+}

@@ -1,0 +1,42 @@
+{
+  "id": "wings-of-sanctity",
+  "name": "Wings of Sanctity",
+  "slug": "wings-of-sanctity",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/wings-of-sanctity.png",
+  "itemType": "Robe",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": null,
+  "description": "Notes Part of the Angelic Bard Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 MP, +10 DEF, +5 VIT, +5 WIS, +5 DEX",
+    "Increases the power of the Angel’s Fanfare if worn in conjunction"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Oryx Deacon",
+    "Oryx Cleric",
+    "Oryx Cardinal",
+    "Legion Missionary"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wings-of-sanctity"
+}

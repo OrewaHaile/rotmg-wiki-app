@@ -1,0 +1,32 @@
+{
+  "id": "brewers-bangle",
+  "name": "Brewer's Bangle",
+  "slug": "brewers-bangle",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/brewers-bangle.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes This ring is especially useful on classes that don’t mind the Speed loss, or classes with a very high base Attack.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+100 HP, -5 SPD, +6 ATT, +15% VIT Equal to ATT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bradley the Barkeep",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/brewer-s-bangle"
+}

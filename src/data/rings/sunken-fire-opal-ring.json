@@ -1,0 +1,37 @@
+{
+  "id": "sunken-fire-opal-ring",
+  "name": "Sunken Fire Opal Ring",
+  "slug": "sunken-fire-opal-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/sunken-fire-opal-ring.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes A balanced ring focusing on defense with moderate bonuses to HP, DEF, and SPD to increase survivability.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +5 DEF, +5 SPD",
+    "Increases the power of Syndicate weaponry if worn in conjunction"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Pirate Queen Ramm",
+    "Izel the Grand Shaman",
+    "Nefret the Pharaoh",
+    "Black Blade Ozuchi",
+    "The Wanderer",
+    "Interregnum Treasure Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sunken-fire-opal-ring"
+}

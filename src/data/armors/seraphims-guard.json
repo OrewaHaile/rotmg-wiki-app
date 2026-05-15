@@ -1,0 +1,40 @@
+{
+  "id": "seraphims-guard",
+  "name": "Seraphim's Guard",
+  "slug": "seraphims-guard",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/seraphims-guard.png",
+  "itemType": "Leather Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Daeva Trickster Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 MP, +16 DEF, +7 VIT, +7 WIS"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Tablet of the Monarchy",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/seraphim-s-guard"
+}

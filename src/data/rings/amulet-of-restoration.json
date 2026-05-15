@@ -1,0 +1,30 @@
+{
+  "id": "amulet-of-restoration",
+  "name": "Amulet of Restoration",
+  "slug": "amulet-of-restoration",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/amulet-of-restoration.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 666,
+  "description": "Notes The cooldown of Last Stand and Soul Concentration resets after entering a portal. This essentially makes soul concentration a once-per-dungeon activation unless you have been in the same dungeon for over 30 minutes.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +60 MP, +3 ATT, +3 DEF, +3 SPD, +3 DEX, +3 VIT, +3 WIS",
+    "Soul Concentration: On taking damage when below 20% HP gain Invulnerable for 2 seconds and heal 120 HP Last Stand: On shooting below 20% HP gain Healing, Berserk and Armored for 4 seconds Soul Concentration Cooldown: 1800 seconds Last Stand Cooldown: 30 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/amulet-of-restoration"
+}

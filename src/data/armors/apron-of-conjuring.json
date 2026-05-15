@@ -1,0 +1,37 @@
+{
+  "id": "apron-of-conjuring",
+  "name": "Apron of Conjuring",
+  "slug": "apron-of-conjuring",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/apron-of-conjuring.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 435,
+  "description": "",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+55 MP, +4 ATT, +13 DEF, +11 WIS",
+    "Thanksgiving Set: This apron can be further enhanced by inscribing it with a Thankful or Giver Engraving"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/apron-of-conjuring"
+}

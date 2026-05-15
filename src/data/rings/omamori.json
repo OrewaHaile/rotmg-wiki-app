@@ -1,0 +1,30 @@
+{
+  "id": "omamori",
+  "name": "Omamori",
+  "slug": "omamori",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/omamori.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 550,
+  "description": "Notes As with most ST rings, this ring is laughably bad on its own, but shines when used with other pieces of the set, in this case noteably the Invocation Scroll and Shakujo due to the Divine Strike passive.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +50 MP, +5 DEX",
+    "Divine Strike: Invocation Scroll creates an additional 2 shots if used with Shakujo. These shots deal 25% more damage, but are not armor piercing."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/omamori"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "enchanted-ice-shard",
+  "name": "Enchanted Ice Shard",
+  "slug": "enchanted-ice-shard",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/enchanted-ice-shard.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes A reskinned version of the Ring of the Sphinx.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 DEX, +100 MP",
+    "Permafrost Power: Reduces the Magic casting cost of your ability by 10%"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Polaris"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/enchanted-ice-shard"
+}

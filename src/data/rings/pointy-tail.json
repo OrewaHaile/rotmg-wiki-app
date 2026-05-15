@@ -1,0 +1,30 @@
+{
+  "id": "pointy-tail",
+  "name": "Pointy Tail",
+  "slug": "pointy-tail",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/pointy-tail.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 800,
+  "description": "Notes Part of the Demon Guitarist Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+70 HP, +50 MP, +6 WIS",
+    "Increases the power of the Inferno Pick if worn in conjunction"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pointy-tail"
+}

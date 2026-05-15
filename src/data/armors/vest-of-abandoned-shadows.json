@@ -1,0 +1,52 @@
+{
+  "id": "vest-of-abandoned-shadows",
+  "name": "Vest of Abandoned Shadows",
+  "slug": "vest-of-abandoned-shadows",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/vest-of-abandoned-shadows.png",
+  "itemType": "Leather Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 900,
+  "description": "Notes This armor bears similarity to the Leaf Dragon Hide Armor, although this armor provides slightly higher DEF, a massive bump to VIT, but no SPD bonus. The proc is also slightly different from Leaf Hide’s proc, providing Armored instead of +15 DEF, and activating when In Combat instead of activating upon ability use.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +15 DEF, +15 VIT",
+    "On Shoot: When in combat, gain Armored for 4 seconds. Cooldown: 10 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Stone Ranger",
+    "Hollow Huntsman",
+    "Hollow Tracker",
+    "Hollow Peasant",
+    "Hollow Serf",
+    "Hollow Trader",
+    "Hollow Importer",
+    "Hollow Outlaw",
+    "Hollow Brigand",
+    "Royal Jester",
+    "Tablet of the Monarchy",
+    "Vagrant Sellsword Ond’ande",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/vest-of-abandoned-shadows"
+}

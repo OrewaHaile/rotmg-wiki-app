@@ -1,0 +1,40 @@
+{
+  "id": "green-beehemoth-armor",
+  "name": "Green Beehemoth Armor",
+  "slug": "green-beehemoth-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/green-beehemoth-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "History In Exalt Version 5.12.0.0 (June 2025), this item got an extra +1 DEF increase.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +18 DEF, +5 SPD, -5 VIT"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Adolescent Green Beehemoth",
+    "Green Soldier Bee"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/green-beehemoth-armor"
+}

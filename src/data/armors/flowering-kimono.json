@@ -1,0 +1,43 @@
+{
+  "id": "flowering-kimono",
+  "name": "Flowering Kimono",
+  "slug": "flowering-kimono",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/flowering-kimono.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes In addition to the effects listed in the item description, the Friendly Spirit summoned by this item explodes in a pink blast upon expiring, healing nearby players 40 HP regardless of its level.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+120 MP, +10 DEF, +7 SPD, +12 WIS, +6% ATT equal to WIS",
+    "On Ability Use: Summon a Friendly Spirit which heals allies and zaps enemies for 150 damage/sec.The spirit synergizes in the presence of other spirits. Upgrade Levels: 1: Healing buff within 3 squares. 2: Healing buff and heals 10 HP/sec within 3 squares. 3: Healing buff and heals 20 HP/sec within 3 squares. Lifetime: 6 seconds Cooldown: 1.5 seconds"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Sage Genji",
+    "Drummer Kaguya",
+    "Dancer Miko",
+    "Village Girl Umi",
+    "Moonlit Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/flowering-kimono"
+}

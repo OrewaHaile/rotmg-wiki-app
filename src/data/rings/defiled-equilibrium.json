@@ -1,0 +1,36 @@
+{
+  "id": "defiled-equilibrium",
+  "name": "Defiled Equilibrium",
+  "slug": "defiled-equilibrium",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/defiled-equilibrium.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 750,
+  "description": "Notes Part of the Twilight Archmage Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +20 MP, +5 DEF, +5 SPD",
+    "Wearing Ancient Eminence along with this ring allows you to summon Blizzard and Inferno for 4.8 seconds. Cooldown: 5.8 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ice Mage",
+    "Ice Adept",
+    "Fire Mage",
+    "Fire Adept",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/defiled-equilibrium"
+}

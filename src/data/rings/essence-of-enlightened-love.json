@@ -1,0 +1,30 @@
+{
+  "id": "essence-of-enlightened-love",
+  "name": "Essence of Enlightened Love",
+  "slug": "essence-of-enlightened-love",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/essence-of-enlightened-love.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Love Witch Necromancer Set",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 DEX, +5 VIT",
+    "Soul Offering: Ritual Circle now also inflicts Slowed"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/essence-of-enlightened-love"
+}

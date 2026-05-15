@@ -1,0 +1,31 @@
+{
+  "id": "wisdom-rings",
+  "name": "Wisdom Rings",
+  "slug": "wisdom-rings",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/wisdom-rings.png",
+  "itemType": "Ring",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "Each point of wisdom increases mana regen by 0.12 MP/s. Increased wisdom also has the additional effect of bolstering the capabilities of Tomes, Seals, Skulls, Orbs, and Scepters. See those respective pages for how wisdom affects these abilities.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wisdom-rings",
+  "invalidReasons": [
+    "invalid tier"
+  ],
+  "importedAt": "2026-05-15T14:56:30.374Z"
+}

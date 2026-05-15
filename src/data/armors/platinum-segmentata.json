@@ -1,0 +1,39 @@
+{
+  "id": "platinum-segmentata",
+  "name": "Platinum Segmentata",
+  "slug": "platinum-segmentata",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/platinum-segmentata.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "Notes Using your ability will change your skin to the Platinum Knight skin for 30 seconds, which will reset to the actual skin you have equipped after 30 seconds (with a 30 second cooldown after), or every time you change zones.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +18 DEF, +3 VIT",
+    "Halloween Costume: On ability use, dress up as Platinum Knight for 60 seconds! Secret Power: On ability use, consume 1/4th of your candy-filled meter to activate a secret power! Pierce the Line: Gain +12 DEF for 60 seconds and throw 15 spears for 300-400 damage. Secret Power Cooldown: 180 seconds"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Halloween Candy",
+    "Halloween Candy (Dungeon)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/platinum-segmentata"
+}

@@ -1,0 +1,40 @@
+{
+  "id": "reinforced-root-armor",
+  "name": "Reinforced Root Armor",
+  "slug": "reinforced-root-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/reinforced-root-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Part of the Daring Discoverer Samurai set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 MP, +20 DEF",
+    "With Traveler’s Trinket: VIT Boost (+20 VIT) for 4 seconds when hit for at least 40 damageCooldown: 6 seconds"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Phoenix Reborn",
+    "Insurgent Rebel Commander",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/reinforced-root-armor"
+}

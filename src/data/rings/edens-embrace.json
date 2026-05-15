@@ -1,0 +1,30 @@
+{
+  "id": "edens-embrace",
+  "name": "Eden's Embrace",
+  "slug": "edens-embrace",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/edens-embrace.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "9%",
+  "feedPower": null,
+  "description": "Notes With a great mix of offense and defense, this item proves to be one of the best rings for soloing any existing content.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+100 HP, +100 MP, +10 DEF, +10 SPD",
+    "Aspect of Fire: On shoot, 6% chance to gain Berserk for 6 seconds.Aspect of Water: On ability use, 60% chance to restore +60 MP.Aspect of Air: On ability use, 60% chance to call lightning to 4 targets with shockblasts, dealing 1600 damage.Aspect of Earth: On hit, 80% chance to restore +60 HP. Cooldown: 8 seconds individually"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/eden-s-embrace"
+}

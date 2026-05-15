@@ -1,0 +1,41 @@
+{
+  "id": "rags-of-the-host",
+  "name": "Rags of the Host",
+  "slug": "rags-of-the-host",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/rags-of-the-host.png",
+  "itemType": "Leather Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Flesh Collector Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+18 DEF, +6 ATT, 2 WIS, -4 VIT"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Nightmare Colony",
+    "Infested Chest",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/rags-of-the-host"
+}

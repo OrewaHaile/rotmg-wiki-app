@@ -1,0 +1,35 @@
+{
+  "id": "ragetorn-armor",
+  "name": "Ragetorn Armor",
+  "slug": "ragetorn-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/ragetorn-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "Notes Part of the Lycan Warrior Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+19 DEF, +6 VIT, +3 SPD, -2 DEX, +8 ATT"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ragetorn-armor"
+}

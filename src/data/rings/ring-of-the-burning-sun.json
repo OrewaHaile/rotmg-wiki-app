@@ -1,0 +1,31 @@
+{
+  "id": "ring-of-the-burning-sun",
+  "name": "Ring of the Burning Sun",
+  "slug": "ring-of-the-burning-sun",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-the-burning-sun.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 300,
+  "description": "Notes This is a reskinned version of T6 Ring of Unbound Defense, released during the June 2014 Month of the Mad God event. During the event, the item dropped in the same locations as its tiered equivalent.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +40 MP, +10 DEF"
+  ],
+  "usableClasses": [
+    "Wizard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-the-burning-sun"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "burlap-hat",
+  "name": "Burlap Hat",
+  "slug": "burlap-hat",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/burlap-hat.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 700,
+  "description": "Notes Part of the Scarecrow Trickster Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+70 HP, +5 DEF, +5 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/burlap-hat"
+}

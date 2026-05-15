@@ -1,0 +1,39 @@
+{
+  "id": "cheater-heavy-armor",
+  "name": "Cheater Heavy Armor",
+  "slug": "cheater-heavy-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/cheater-heavy-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 300,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "-100 HP"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "AsiaEast",
+    "AsiaSouthEast",
+    "Australia"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cheater-heavy-armor"
+}

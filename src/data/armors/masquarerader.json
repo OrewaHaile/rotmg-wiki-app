@@ -1,0 +1,38 @@
+{
+  "id": "masquarerader",
+  "name": "Masquarerader",
+  "slug": "masquarerader",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/masquarerader.png",
+  "itemType": "Robe",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "This page is currently a work in progress.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/masquarerader",
+  "invalidReasons": [
+    "invalid tier"
+  ],
+  "importedAt": "2026-05-15T15:36:42.870Z"
+}

@@ -1,0 +1,45 @@
+{
+  "id": "light-syndicate-attire",
+  "name": "Light Syndicate Attire",
+  "slug": "light-syndicate-attire",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/light-syndicate-attire.png",
+  "itemType": "Leather Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes A powerful light armor that provides a balance of defensive and offensive stats with the unique effect of reducing the MP cost of the player’s ability, similar to the Twilight Gemstone. This effect stacks with that of the Gemstone, potentially allowing for greatly increased usage of powerful abilities like the Trap of the Vile Spirit.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+17 DEF, +6 DEX, +6 WIS",
+    "Reduces the Magic casting cost of your ability by 10%"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Pirate Queen Ramm",
+    "Izel the Grand Shaman",
+    "Nefret the Pharaoh",
+    "Black Blade Ozuchi",
+    "The Wanderer",
+    "Interregnum Treasure Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/light-syndicate-attire"
+}

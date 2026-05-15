@@ -11,6 +11,8 @@ const categoryDirs = [
   "staves",
   "katanas",
   "spellblades",
+  "armors",
+  "rings",
   "abilities"
 ];
 

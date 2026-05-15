@@ -1,0 +1,31 @@
+{
+  "id": "ring-of-the-northern-light",
+  "name": "Ring of the Northern Light",
+  "slug": "ring-of-the-northern-light",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-the-northern-light.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes A reskinned version of UT Ring of the Nile.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 WIS, +4 DEX, +75 HP, +75 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Glacius"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-the-northern-light"
+}

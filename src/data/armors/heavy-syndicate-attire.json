@@ -1,0 +1,42 @@
+{
+  "id": "heavy-syndicate-attire",
+  "name": "Heavy Syndicate Attire",
+  "slug": "heavy-syndicate-attire",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/heavy-syndicate-attire.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes A powerful heavy armor that provides good defensive stats with the unique effect of reducing the MP cost of the player’s ability, similar to the Twilight Gemstone. This effect stacks with that of the Gemstone, potentially allowing for greatly increased usage of powerful abilities like the Oryx’s Escutcheon.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+23 DEF, +6 SPD, +6 VIT",
+    "Reduces the Magic casting cost of your ability by 10%"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Pirate Queen Ramm",
+    "Izel the Grand Shaman",
+    "Nefret the Pharaoh",
+    "Black Blade Ozuchi",
+    "Interregnum Treasure Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/heavy-syndicate-attire"
+}

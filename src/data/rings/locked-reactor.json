@@ -1,0 +1,34 @@
+{
+  "id": "locked-reactor",
+  "name": "Locked Reactor",
+  "slug": "locked-reactor",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/locked-reactor.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 850,
+  "description": "Notes Obtained from the First Contact Campaign, this can also be dropped by Commander Calbrik in the Realm. This ring is one component of the Entropy Reactor, alongside the Loaded Core.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "N/A",
+    "Restores 150 HP when taking damage when below 300 HP. Cooldown: 60 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Alien UFO",
+    "Alien Biff",
+    "Alien Leprechaun"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/locked-reactor"
+}

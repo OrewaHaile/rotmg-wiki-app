@@ -1,0 +1,36 @@
+{
+  "id": "eggre-battle-armor",
+  "name": "Eggre Battle Armor",
+  "slug": "eggre-battle-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/eggre-battle-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes This item was available during the 2018 Easter’s Event as a Tinkerer Daily Quest in exchange for 40 Golden Eggs. As of Easter 2020, the price was lowered to 20 Eggs.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 ATT, +17 DEF, +6 SPD, +5 VIT",
+    "On Ability Use: Deals a burst of 500 damage to enemies within 5 sqrs and poison them for 1,000 damage over 5 seconds. Cooldown: 10 seconds"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/eggre-battle-armor"
+}

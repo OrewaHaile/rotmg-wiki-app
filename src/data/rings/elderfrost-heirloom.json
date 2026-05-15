@@ -1,0 +1,34 @@
+{
+  "id": "elderfrost-heirloom",
+  "name": "Elderfrost Heirloom",
+  "slug": "elderfrost-heirloom",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/elderfrost-heirloom.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 500,
+  "description": "History This item was added to the game in Exalt Version 6.5.0.0 (Jan 2026).",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+120 HP, +50 MP, +6 DEX, +6 WIS, +6 DEF"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Jotunn",
+    "Soulwarden Murcian",
+    "The Forgotten King",
+    "Malus"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/elderfrost-heirloom"
+}

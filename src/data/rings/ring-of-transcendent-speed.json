@@ -1,0 +1,34 @@
+{
+  "id": "ring-of-transcendent-speed",
+  "name": "Ring of Transcendent Speed",
+  "slug": "ring-of-transcendent-speed",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-transcendent-speed.png",
+  "itemType": "Ring",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 600,
+  "description": "History Introduced in Exalt Version 5.2.0.0 (Oct 2024).",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +50 MP, +11 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Forgotten King",
+    "Royal Epic Quest Chest",
+    "Oryx the Mad God 3",
+    "Kitsune Umi"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-transcendent-speed"
+}

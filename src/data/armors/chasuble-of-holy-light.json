@@ -1,0 +1,35 @@
+{
+  "id": "chasuble-of-holy-light",
+  "name": "Chasuble of Holy Light",
+  "slug": "chasuble-of-holy-light",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/chasuble-of-holy-light.png",
+  "itemType": "Robe",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes A robe that can be useful for classes with equipment that scales with WIS or VIT to up its ability usage in the early-mid game.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+30 HP, +30 MP, +12 DEF, +6 VIT, +6 WIS"
+  ],
+  "usableClasses": [
+    "Priest"
+  ],
+  "dropsFrom": [
+    "Lord Ruthven",
+    "Coffin",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/chasuble-of-holy-light"
+}

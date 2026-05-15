@@ -1,0 +1,33 @@
+{
+  "id": "steadfast-glyph",
+  "name": "Steadfast Glyph",
+  "slug": "steadfast-glyph",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/steadfast-glyph.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 900,
+  "description": "Notes Part of the Earthen Bulwark Summoner Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +40 MP, +4 DEF",
+    "Runic Stone: Increases Stonemould Mace summon damage to 800-1200, health to 2000, and defense to 30."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Limoz the Viridian Dragon",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/steadfast-glyph"
+}

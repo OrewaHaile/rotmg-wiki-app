@@ -1,0 +1,36 @@
+{
+  "id": "legacy-robe-of-twilight",
+  "name": "Legacy Robe of Twilight",
+  "slug": "legacy-robe-of-twilight",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/legacy-robe-of-twilight.png",
+  "itemType": "Robe",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 500,
+  "description": "Notes The Legacy Robe of Twilight is considered a weaker choice for robes as opposed to the traditional Robe of the Grand Sorcerer or the Robe of the Mad Scientist because it sacrifices 50 MP, 1 DEF, 6 or 5 WIS, and 4 ATT for a measly 10 HP, 3 SPD and 3 DEX.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 HP, +5 MP, +12 DEF, +3 SPD, +3 DEX"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legacy-robe-of-twilight"
+}

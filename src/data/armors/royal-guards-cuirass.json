@@ -1,0 +1,49 @@
+{
+  "id": "royal-guards-cuirass",
+  "name": "Royal Guard's Cuirass",
+  "slug": "royal-guards-cuirass",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/royal-guards-cuirass.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 900,
+  "description": "Notes The Cuirass not only provides fairly strong defensive stats, but it gives the incredibly powerful Invulnerable buff for 1.6 seconds when shooting while In Combat. While there is a 20 second cooldown, the power of invulnerability alone makes this a top-tier defensive armor.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +20 DEF, +10 VIT",
+    "On Shoot: When in combat, gain Invulnerable for 1.6 seconds. Cooldown: 20 seconds"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Stone Monolith",
+    "Stone Knight",
+    "Stone Paladin",
+    "Stone Warrior",
+    "Stone Gargoyle",
+    "Hollow Mason",
+    "Hollow Smith",
+    "Royal Chamberlain",
+    "Eye of the King",
+    "Tablet of the Monarchy",
+    "Vagrant Sellsword Ond’ande",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/royal-guard-s-cuirass"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "legacy-forgotten-ring",
+  "name": "Legacy Forgotten Ring",
+  "slug": "legacy-forgotten-ring",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/legacy-forgotten-ring.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes Part of the Legacy Twilight Archmage Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 HP, +10 MP, +3 ATT, +2 DEF"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legacy-forgotten-ring"
+}

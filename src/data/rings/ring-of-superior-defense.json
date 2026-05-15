@@ -1,0 +1,43 @@
+{
+  "id": "ring-of-superior-defense",
+  "name": "Ring of Superior Defense",
+  "slug": "ring-of-superior-defense",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-superior-defense.png",
+  "itemType": "Ring",
+  "tier": "T3",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "1%",
+  "feedPower": 50,
+  "description": "History Before Exalt Version 1.4.0.0 (Mar 2021), this item had a feed power of 75.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 HP, +10 MP, +7 DEF"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Realm Gods",
+    "Archdemon Malphas",
+    "Beginner Quest Chest",
+    "Cube God",
+    "Cyclops God Chest",
+    "Ent Ancient",
+    "Genie",
+    "Ghost King",
+    "Kogbold Expedition Engine",
+    "Limon the Sprite Goddess",
+    "Pentaract",
+    "Red Demon Chest",
+    "Skull Shrine"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-superior-defense"
+}

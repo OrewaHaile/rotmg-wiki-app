@@ -1,0 +1,41 @@
+{
+  "id": "leviathan-armor",
+  "name": "Leviathan Armor",
+  "slug": "leviathan-armor",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/leviathan-armor.png",
+  "itemType": "Heavy Armor",
+  "tier": "T14",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 950,
+  "description": "History For many years, this leather armor was an unreleased item not obtainable by players. Some armors were spawned in production by exploiters in November 2012, but they were deleted alongside other unreleased items.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+22 DEF, +7 DEX"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 3",
+    "The Forgotten King",
+    "Twilight Archmage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/leviathan-armor"
+}

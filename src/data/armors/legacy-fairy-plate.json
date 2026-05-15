@@ -1,0 +1,35 @@
+{
+  "id": "legacy-fairy-plate",
+  "name": "Legacy Fairy Plate",
+  "slug": "legacy-fairy-plate",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/legacy-fairy-plate.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 500,
+  "description": "Notes Part of the Legacy Swoll Paladin set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +40 MP, +20 DEF"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legacy-fairy-plate"
+}

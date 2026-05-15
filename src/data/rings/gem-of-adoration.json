@@ -1,0 +1,35 @@
+{
+  "id": "gem-of-adoration",
+  "name": "Gem of Adoration",
+  "slug": "gem-of-adoration",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/gem-of-adoration.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 350,
+  "description": "Notes Drag this item on top of a Gem of Tenderness to get a Soulful Affection.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+120 HP, +6 VIT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Valentine’s Flower",
+    "The Gardener",
+    "Haunted Cemetery",
+    "Cursed Library",
+    "Ocean Trench"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/gem-of-adoration"
+}

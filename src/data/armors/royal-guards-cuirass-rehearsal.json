@@ -1,0 +1,39 @@
+{
+  "id": "royal-guards-cuirass-rehearsal",
+  "name": "Royal Guard's Cuirass (Rehearsal)",
+  "slug": "royal-guards-cuirass-rehearsal",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/royal-guards-cuirass-rehearsal.png",
+  "itemType": "Heavy Armor",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes In comparison to the original Royal Guard’s Cuirass, the passive proc is completely removed, but the stats remain the same. Although it might still be a solid option for armor, it’s rather difficult to obtain due to the limited availability of the Rehearsal Shatters. And thus this item will most likely stay a vanity item for a while.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +20 DEF, +10 VIT"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "The Bridge Sentinel (With Rehearsal Modifier)",
+    "Twilight Archmage (With Rehearsal Modifier)",
+    "The Forgotten King (With Rehearsal Modifier)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/royal-guard-s-cuirass-rehearsal"
+}

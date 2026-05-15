@@ -1,0 +1,32 @@
+{
+  "id": "grim-goblet",
+  "name": "Grim Goblet",
+  "slug": "grim-goblet",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/grim-goblet.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 650,
+  "description": "Notes Part of the Reaper Necromancer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+75 HP, +5 ATT, +5 VIT",
+    "35% chance on ability use: ATT Boost (+5 ATT) for 4 secondsCooldown: 8 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Wine Cellar Event Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/grim-goblet"
+}

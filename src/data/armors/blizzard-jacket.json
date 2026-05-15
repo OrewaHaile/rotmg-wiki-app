@@ -1,0 +1,38 @@
+{
+  "id": "blizzard-jacket",
+  "name": "Blizzard Jacket",
+  "slug": "blizzard-jacket",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/blizzard-jacket.png",
+  "itemType": "Leather Armor",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Frost Wander Archer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 MP, +16 DEF, +4 SPD",
+    "Longer Links: When worn, Flail Snowflakes have longer chains, and the heads will Slowed enemies for 0.2 seconds."
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/blizzard-jacket"
+}

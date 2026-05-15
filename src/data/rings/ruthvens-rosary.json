@@ -1,0 +1,38 @@
+{
+  "id": "ruthvens-rosary",
+  "name": "Ruthven's Rosary",
+  "slug": "ruthvens-rosary",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ruthvens-rosary.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 550,
+  "description": "Notes Part of the Vampire Rogue Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +5 WIS, +5 VIT",
+    "Increases the power of the Hallowed Hide and Vampiric Cape if worn in conjunction"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Lesser Bald Vampire",
+    "Lil Feratu",
+    "Armor Guard",
+    "Helmet Head",
+    "Hellhound",
+    "Nosferatu",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ruthven-s-rosary"
+}

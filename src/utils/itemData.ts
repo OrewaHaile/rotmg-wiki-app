@@ -29,6 +29,8 @@ const itemModules = import.meta.glob<Partial<Item>>(
     "../data/staves/*.json",
     "../data/katanas/*.json",
     "../data/spellblades/*.json",
+    "../data/armors/*.json",
+    "../data/rings/*.json",
     "../data/abilities/*.json"
   ],
   {

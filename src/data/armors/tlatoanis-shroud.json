@@ -1,0 +1,41 @@
+{
+  "id": "tlatoanis-shroud",
+  "name": "Tlatoani's Shroud",
+  "slug": "tlatoanis-shroud",
+  "category": "armors",
+  "subCategory": "robes",
+  "sprite": "/items/tlatoanis-shroud.png",
+  "itemType": "Robe",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes An unconventional robe which serves as a spiritual successor to the Robe of the Tlatoani, granting a whopping +16 WIS and the highest MP bonus of any robe (+180). This makes it incredible if one is solely interested in repeatedly casting wis-boosted abilities, but the lack of any defense hurts this robe quite a bit.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+180 MP, +16 WIS"
+  ],
+  "usableClasses": [
+    "Wizard",
+    "Priest",
+    "Necromancer",
+    "Mystic",
+    "Sorcerer",
+    "Summoner"
+  ],
+  "dropsFrom": [
+    "Bird Tribesman",
+    "Demon Tribesman",
+    "Insect Tribesman",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tlatoani-s-shroud"
+}

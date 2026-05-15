@@ -1,0 +1,32 @@
+{
+  "id": "c-o-n-t-r-o-l-l-e-r",
+  "name": "C.O.N.T.R.O.L.L.E.R.",
+  "slug": "c-o-n-t-r-o-l-l-e-r",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/c-o-n-t-r-o-l-l-e-r.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 900,
+  "description": "Notes Part of the Scientific Summoner Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +8 DEF, +5 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "A.E.G.I.S.",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/c-o-n-t-r-o-l-l-e-r"
+}

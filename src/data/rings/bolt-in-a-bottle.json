@@ -1,0 +1,29 @@
+{
+  "id": "bolt-in-a-bottle",
+  "name": "Bolt in a Bottle",
+  "slug": "bolt-in-a-bottle",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/bolt-in-a-bottle.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 750,
+  "description": "Notes Part of the Storm Shaman Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+30 MP, +6 DEF, +4 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bolt-in-a-bottle"
+}

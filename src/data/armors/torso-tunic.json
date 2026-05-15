@@ -1,0 +1,37 @@
+{
+  "id": "torso-tunic",
+  "name": "Torso Tunic",
+  "slug": "torso-tunic",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/torso-tunic.png",
+  "itemType": "Leather Armor",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Reanimated Archer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +15 DEF"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/torso-tunic"
+}

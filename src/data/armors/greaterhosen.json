@@ -1,0 +1,40 @@
+{
+  "id": "greaterhosen",
+  "name": "Greaterhosen",
+  "slug": "greaterhosen",
+  "category": "armors",
+  "subCategory": "leather-armors",
+  "sprite": "/items/greaterhosen.png",
+  "itemType": "Leather Armor",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes While this armor imposes a somewhat harsh -7 DEX penalty, it compensates with a huge +15 ATT buff. It also provides a solid +15 DEF & a good +8 VIT bonus. This armor works well with weapons that have high base damage & a low rate of fire, such as the Doom Bow, Clockwork Repeater, Dirk of Cronus & Valor. It does have a small negative reactive proc in the form of Hallucinating for 1.5 seconds upon hit at a 5% chance, but this effect has a 20 second cooldown, so the Hallucinating effect is negligible.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+16 DEF, +15 ATT, -7 DEX, +8 VIT",
+    "On taking damage: 5% chance to gain Hallucinating for 1.5 seconds. Cooldown: 20 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Archer",
+    "Assassin",
+    "Huntress",
+    "Trickster",
+    "Ninja",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Beer God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/greaterhosen"
+}

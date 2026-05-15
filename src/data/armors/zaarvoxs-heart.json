@@ -1,0 +1,38 @@
+{
+  "id": "zaarvoxs-heart",
+  "name": "Zaarvox's Heart",
+  "slug": "zaarvoxs-heart",
+  "category": "armors",
+  "subCategory": "heavy-armors",
+  "sprite": "/items/zaarvoxs-heart.png",
+  "itemType": "Heavy Armor",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "Notes Part of the Dragon Tamer set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+17 DEF, +8 SPD"
+  ],
+  "usableClasses": [
+    "Warrior",
+    "Knight",
+    "Paladin",
+    "Samurai",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Pyyr the Crimson Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/zaarvox-s-heart"
+}

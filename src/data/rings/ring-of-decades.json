@@ -1,0 +1,32 @@
+{
+  "id": "ring-of-decades",
+  "name": "Ring of Decades",
+  "slug": "ring-of-decades",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-decades.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 550,
+  "description": "Notes This item is one of the most popular high-end rings since it provides a large amount of HP, tied with the T7 Ring of Transcendent Health. Although the Ring of Decades does not have that ring’s additional MP bonus, it is tradable and drops from an easier dungeon, albeit very rarely. It is often used as a form of wealth storage by players, due to how much these rings tend to be worth.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+160 HP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Cavern Crystal",
+    "Crystallized Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-decades"
+}

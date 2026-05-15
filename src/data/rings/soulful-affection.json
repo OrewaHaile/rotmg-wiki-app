@@ -1,0 +1,31 @@
+{
+  "id": "soulful-affection",
+  "name": "Soulful Affection",
+  "slug": "soulful-affection",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/soulful-affection.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 700,
+  "description": "Notes Obtainable by combining the UT Gem of Tenderness and UT Gem of Adoration.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+140 HP, +6 VIT, +6 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Gardener"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/soulful-affection"
+}

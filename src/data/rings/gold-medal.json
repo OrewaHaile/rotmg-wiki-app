@@ -1,0 +1,29 @@
+{
+  "id": "gold-medal",
+  "name": "Gold Medal",
+  "slug": "gold-medal",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/gold-medal.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 500,
+  "description": "Notes Prize for winning 1st place in the Kabam Guild Event: Synchronized Swimming. (Winning guild: CREAM - Youtube link)",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+3 SPD, +3 DEX, +3 VIT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/gold-medal"
+}

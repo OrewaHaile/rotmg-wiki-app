@@ -1,0 +1,30 @@
+{
+  "id": "painted-egg-amulet",
+  "name": "Painted Egg Amulet",
+  "slug": "painted-egg-amulet",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/painted-egg-amulet.png",
+  "itemType": "Ring",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 600,
+  "description": "Notes Part of the Treasure Hunter Archer Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEF, +5 VIT, +50 HP",
+    "Increases the power of the Fresh Breeze Quiver if worn in conjunction"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/painted-egg-amulet"
+}

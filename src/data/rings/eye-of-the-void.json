@@ -1,0 +1,34 @@
+{
+  "id": "eye-of-the-void",
+  "name": "Eye of the Void",
+  "slug": "eye-of-the-void",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/eye-of-the-void.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "4%",
+  "feedPower": 650,
+  "description": "Notes Part of the Corrupted Paladin Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 HP, +8 DEF"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Stone Mage",
+    "Stone Ranger",
+    "Stone Idol",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/eye-of-the-void"
+}

@@ -1,0 +1,41 @@
+{
+  "id": "ring-of-health",
+  "name": "Ring of Health",
+  "slug": "ring-of-health",
+  "category": "rings",
+  "subCategory": "",
+  "sprite": "/items/ring-of-health.png",
+  "itemType": "Ring",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 12,
+  "description": "Notes This is a useful ring for new players to the game. +30 HP is a very valuable stat when trying to beat lower tier quest monsters, and to make the most of when a level-up refills the HP bar.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+30 HP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Deathmage Chest",
+    "Dreadstump the Pirate King",
+    "Dwarf King",
+    "Elf Wizard",
+    "Goblin Mage",
+    "Haunted Spirit",
+    "Hobbit Mage",
+    "Undead Hobbit Mage",
+    "Lich",
+    "Oasis Giant Chest",
+    "Phoenix Lord Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ring-of-health"
+}
