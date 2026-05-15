@@ -1,0 +1,33 @@
+{
+  "id": "vision-of-draconis",
+  "name": "Vision of Draconis",
+  "slug": "vision-of-draconis",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/vision-of-draconis.png",
+  "itemType": "Orb",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes This is a really unique orb, acting similar to a Summoner’s mace.",
+  "stats": {
+    "damage": "160",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 MP",
+    "Active Time: 6.8 seconds Zap Radius: 3.5 tiles Pulse Radius: 2.5 tiles Pulse Effect: Curse for 2 seconds Attacks become slower over time"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ivory Wyvern",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/vision-of-draconis"
+}

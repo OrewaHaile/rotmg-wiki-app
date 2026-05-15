@@ -1,0 +1,35 @@
+{
+  "id": "scepter-of-fulmination",
+  "name": "Scepter of Fulmination",
+  "slug": "scepter-of-fulmination",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/scepter-of-fulmination.png",
+  "itemType": "Scepter",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Although the Scepter of Fulmination does noticeably less damage (150 damage and 5 targets) than the T6 Scepter of Storms (300 damage and 5 targets), it is the only scepter that can Slow enemies, making it a great choice for any dungeon where Slow is helpful. Examples include the Abyss and the Fungal Cavern. The Scepter of Fulmination also scales about 40% better than the tiered scepters (+1 targets per 6 Wisdom over 50 vs +1 targets per 10 Wisdom over 50), which aids its total damage and the amount of enemies it can Slow.",
+  "stats": {
+    "damage": "150 (+6 per WIS over 50) - 30 for each subsequent target",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+2 ATT, +2 WIS",
+    "On enemies: Slowed for 3 seconds"
+  ],
+  "usableClasses": [
+    "Sorcerer"
+  ],
+  "dropsFrom": [
+    "Dr. Terrible",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/scepter-of-fulmination"
+}

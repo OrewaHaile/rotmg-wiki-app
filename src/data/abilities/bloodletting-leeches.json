@@ -1,0 +1,30 @@
+{
+  "id": "bloodletting-leeches",
+  "name": "Bloodletting Leeches",
+  "slug": "bloodletting-leeches",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/bloodletting-leeches.png",
+  "itemType": "Tome",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes Spawns up to three leeches as minions that rotate around the player, draining enemy health and expiring with a healing explosion which heals 120 HP in total.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEF",
+    "Summons a leech that drains enemy healthLeeches explodes with an AOE HealSwitch abilities to immediately detonate Leeches"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bloodletting-leeches"
+}

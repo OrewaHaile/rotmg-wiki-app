@@ -1,0 +1,32 @@
+{
+  "id": "deadly-keg",
+  "name": "Deadly Keg",
+  "slug": "deadly-keg",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/deadly-keg.png",
+  "itemType": "Trap",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "History Before Exalt Version 5.4.0.0 (Nov 2024), this item didn’t have the Sticky Bomb trait or VIT scaling. It had a trigger radius of 3.57 tiles, an explosion radius of 5.5 tiles, and a throw time of 0.5 seconds.",
+  "stats": {
+    "damage": "800 (+7 per VIT over 40)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+2 ATT, +8 VIT",
+    "On enemies: Inflicts Slowed for 1.6 (+0.1s per VIT over 40) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Beer God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/deadly-keg"
+}

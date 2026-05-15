@@ -1,0 +1,34 @@
+{
+  "id": "murky-toxin",
+  "name": "Murky Toxin",
+  "slug": "murky-toxin",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/murky-toxin.png",
+  "itemType": "Poison",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes This poison is unique in that using it will throw two bombs at once, which will target the cursor and land at the same time in a concentric circle. The smaller bomb particles are a lighter shade of brown than the larger bomb’s. The smaller bomb - with a radius of 2.5 - is the one that deals most of the damage.",
+  "stats": {
+    "damage": "Smaller Bomb: 10.5 (+0.2 per DEX over 70) % Bigger Bomb: 8 (+0.2 per ATT over 60) %",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+3 ATT, +3 DEX"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Gulpord the Slime God",
+    "Golden Rat",
+    "Standard Quest Chest",
+    "Prismimic Defender"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/murky-toxin"
+}

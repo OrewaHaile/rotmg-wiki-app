@@ -1,0 +1,37 @@
+{
+  "id": "greedsnatcher-trap",
+  "name": "Greedsnatcher Trap",
+  "slug": "greedsnatcher-trap",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/greedsnatcher-trap.png",
+  "itemType": "Trap",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 380,
+  "description": "Notes Although not an ST item in its own right, this item is classed as Oryxmas Gear, and, if worn in conjuntion with Ornaments of Unity, will contribute to the Oryxmas Gear bonus stats.",
+  "stats": {
+    "damage": "460 (+5 per WIS over 34)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 HP, +20 MP, +5 ATT",
+    "On enemies: Inflicts Slowed for 5 (+0.1s per WIS over 34) seconds",
+    "Inflicts Slowed for 2.5 (+0.1s per WIS over 34) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 2",
+    "Frostaract",
+    "Frozen Ship",
+    "Hat God",
+    "Ice Cube God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/greedsnatcher-trap"
+}

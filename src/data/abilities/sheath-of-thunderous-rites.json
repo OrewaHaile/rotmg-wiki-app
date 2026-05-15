@@ -1,0 +1,33 @@
+{
+  "id": "sheath-of-thunderous-rites",
+  "name": "Sheath of Thunderous Rites",
+  "slug": "sheath-of-thunderous-rites",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/sheath-of-thunderous-rites.png",
+  "itemType": "Sheath",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "History Before Exalt Version 6.8.0.0 (Mar 2026), this item was soulbound.",
+  "stats": {
+    "damage": "350–450 (average: 400)",
+    "range": "7.52 tiles",
+    "rateOfFire": null,
+    "shots": "14",
+    "projectiles": "14"
+  },
+  "effects": [
+    "+40 HP, +4 ATT",
+    "Blast Damage: 450 / 750 Blast Radius: 4 / 6 Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Izel the Grand Shaman",
+    "Interregnum Treasure Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sheath-of-thunderous-rites"
+}

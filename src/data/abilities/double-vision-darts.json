@@ -1,0 +1,33 @@
+{
+  "id": "double-vision-darts",
+  "name": "Double Vision Darts",
+  "slug": "double-vision-darts",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/double-vision-darts.png",
+  "itemType": "Quiver",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "History Before Exalt Version 5.9.0.0 (Mar 2025), this item didn’t scale with VIT.",
+  "stats": {
+    "damage": "500-700 (+21 per VIT over 24) (average: 600)",
+    "range": "13 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "+4 DEX, +4 VIT",
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bradley the Barkeep",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/double-vision-darts"
+}

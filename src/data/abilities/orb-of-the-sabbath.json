@@ -1,0 +1,31 @@
+{
+  "id": "orb-of-the-sabbath",
+  "name": "Orb of the Sabbath",
+  "slug": "orb-of-the-sabbath",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/orb-of-the-sabbath.png",
+  "itemType": "Orb",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 700,
+  "description": "Notes Part of the Totalia Mystic Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On enemies: Stasis is centered on player Stasis Radius: 4.5 tiles Stasis Duration: 6 seconds On self: Speedy and Berserk Speedy & Berserk Duration: 2.5 (+0.1 per WIS over 55) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Totalia the Malevolent"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/orb-of-the-sabbath"
+}

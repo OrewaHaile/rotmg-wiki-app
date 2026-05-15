@@ -1,0 +1,32 @@
+{
+  "id": "pipers-pan-flute",
+  "name": "Piper's Pan Flute",
+  "slug": "pipers-pan-flute",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/pipers-pan-flute.png",
+  "itemType": "Lute",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "",
+  "stats": {
+    "damage": null,
+    "range": "x1.25",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 HP, +2 VIT",
+    "Luring Melody: Captivate rats to follow you. Party Effect: Within 4.5 squares Inspired for 4.5 seconds Party Effect: Within 5 squares Healing for 4.5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Mammoth Rat"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/piper-s-pan-flute"
+}

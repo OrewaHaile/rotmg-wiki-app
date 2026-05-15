@@ -1,0 +1,29 @@
+{
+  "id": "stasis-orb",
+  "name": "Stasis Orb",
+  "slug": "stasis-orb",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/stasis-orb.png",
+  "itemType": "Orb",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter ability for the Mystic class and does not drop from enemies.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On enemies: Stasis and Curse Stasis Radius: 3 tiles Stasis Duration: 3 seconds Curse Radius: 5 (+0.1 per WIS over 50) tiles Curse Duration: 2 (+1 per 10 WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/stasis-orb"
+}

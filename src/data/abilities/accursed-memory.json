@@ -1,0 +1,29 @@
+{
+  "id": "accursed-memory",
+  "name": "Accursed Memory",
+  "slug": "accursed-memory",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/accursed-memory.png",
+  "itemType": "Prism",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Part of the Spellbound Soulthief Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Ether Purge: Teleport to cursor, Deal 1000 damage to enemies within 5 tiles. Soul Drain: Heal 75 hit points for each enemy hit. 3+ Hits: Gain Armored for 6 seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/accursed-memory"
+}

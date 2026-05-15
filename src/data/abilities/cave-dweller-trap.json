@@ -1,0 +1,33 @@
+{
+  "id": "cave-dweller-trap",
+  "name": "Cave Dweller Trap",
+  "slug": "cave-dweller-trap",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/cave-dweller-trap.png",
+  "itemType": "Trap",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 850,
+  "description": "Notes This trap is intended for fighting single targets and dealing damage as it inflicts no status effects. The trap fires a beam directly at its target; it is not possible for a Sentry blast to “miss” its intended target.",
+  "stats": {
+    "damage": "Sentry: 450 per 0.8 seconds (2700 maximum total)",
+    "range": "Sentry: 8 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 ATT",
+    "Spawn a Crystal Sentry that attacks single enemies"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Crystal Worm Mother",
+    "Crystallized Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cave-dweller-trap"
+}

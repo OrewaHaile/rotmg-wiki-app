@@ -1,0 +1,34 @@
+{
+  "id": "seal-of-the-battle-god",
+  "name": "Seal of the Battle God",
+  "slug": "seal-of-the-battle-god",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/seal-of-the-battle-god.png",
+  "itemType": "Seal",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 700,
+  "description": "Notes Part of the Agents of Oryx Abilities.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 DEF",
+    "On party: Inflicts Damaging for 5 seconds within 5.5 squaresStagger: When used below 50% HP, inflicts Armored on self for 2 seconds.Cooldown: 2 second(s)Counter: When used above 50% HP, inflicts ATT Boost (+100 ATT) on self for 0.6 seconds.Cooldown: 1.8 second(s)"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/seal-of-the-battle-god"
+}

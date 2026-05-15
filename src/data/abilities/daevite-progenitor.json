@@ -1,0 +1,31 @@
+{
+  "id": "daevite-progenitor",
+  "name": "Daevite Progenitor",
+  "slug": "daevite-progenitor",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/daevite-progenitor.png",
+  "itemType": "Prism",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes Part of the Daeva Trickster Set.",
+  "stats": {
+    "damage": "80 (120 with Archangel’s Judgement)",
+    "range": "4 (6 with Seraphim’s Guard) tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "Divine Blessing: Each piece of the set provides a unique attribute to the DecoyWhen worn with weapon: 150% Decoy DamageWhen worn with armor: 150% Decoy RangeWhen worn with ring: 150% Decoy Duration Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Tablet of the Monarchy"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/daevite-progenitor"
+}

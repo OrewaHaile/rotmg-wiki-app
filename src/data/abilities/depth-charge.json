@@ -1,0 +1,29 @@
+{
+  "id": "depth-charge",
+  "name": "Depth Charge",
+  "slug": "depth-charge",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/depth-charge.png",
+  "itemType": "Spell",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 850,
+  "description": "Notes Part of the Undersea Phantom Wizard Set.",
+  "stats": {
+    "damage": "650–950 (+6 per SPD over 42) (average: 800)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "SPD Boost (+25 SPD) for 3 secondsDamage Nova: explodes 2 (+1 per 25 SPD over 42) times every 0.4 seconds for 5 (+1 per 10 SPD over 42) seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/depth-charge"
+}

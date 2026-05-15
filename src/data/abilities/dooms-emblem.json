@@ -1,0 +1,44 @@
+{
+  "id": "dooms-emblem",
+  "name": "Doom's Emblem",
+  "slug": "dooms-emblem",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/dooms-emblem.png",
+  "itemType": "Seal",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes WIP The consumption of HP on use makes this seal somewhat risky to use if you have a pet with a weak or no Heal ability and few healing consumables on hand. However, the poison AoE and weapon damage boost akin to the Assassin’s poisons are great for increasing weapon DPS.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +4 DEX, +4 VIT",
+    "On party: Damaging for 3.6 seconds within 6.5 tiles Sacrifice: Consumes 100 HP on ability use. Hellfire: Inflicts a poison within 4 squares dealing 750 damage over 3.6 seconds. Enemies under the effect of the poison receive 12% more damage from you, scaling with DEX. Damage boost is increased by 7% for every 10 DEX above 50."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Brimstone Wyvern",
+    "Burning Bones",
+    "Cerberus",
+    "Demonic Effigy",
+    "Eternal Tormentor",
+    "Harrowed Fiend",
+    "Infernal Ironsmith",
+    "Legion Hell Guardian",
+    "Raging Ifrit",
+    "Red Demon",
+    "Risen Hellhound",
+    "Tormented Soul",
+    "White Demon"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/doom-s-emblem"
+}

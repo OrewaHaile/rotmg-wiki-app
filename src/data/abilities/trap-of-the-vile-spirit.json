@@ -1,0 +1,34 @@
+{
+  "id": "trap-of-the-vile-spirit",
+  "name": "Trap of the Vile Spirit",
+  "slug": "trap-of-the-vile-spirit",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/trap-of-the-vile-spirit.png",
+  "itemType": "Trap",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 900,
+  "description": "Notes The trap inflicts Curse while dealing significant damage (1625 damage to cursed targets), making it one of the strongest DPS traps. Keep in mind the small radius, which can make this trap weaker against larger or spread out groups of enemies.",
+  "stats": {
+    "damage": "1300",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 ATT, +5 SPD",
+    "On enemies: Inflicts Curse for 2 (+0.1 per ATT over 46) seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ghost Ship",
+    "The Keyper",
+    "Well of Souls"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/trap-of-the-vile-spirit"
+}

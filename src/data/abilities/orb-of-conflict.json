@@ -1,0 +1,34 @@
+{
+  "id": "orb-of-conflict",
+  "name": "Orb of Conflict",
+  "slug": "orb-of-conflict",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/orb-of-conflict.png",
+  "itemType": "Orb",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 850,
+  "description": "Notes An extremely rare and unique untiered orb. This orb gives both Speedy and Damaging, turning the Mystic into a highly mobile killing machine for a few seconds. It also gives +5 ATT and +5 DEX, giving some much needed firepower. On top of that, this orb has the highest stasis duration of all orbs. Watch out for Speedy - you should be careful not to run into anything dangerous.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 ATT, +5 DEX",
+    "On enemies: Stasis Stasis Radius: 3 tiles Stasis Duration: 7 seconds On self: Speedy and Damaging Speedy & Damaging Duration: 2 (+0.1 per WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Skull Shrine",
+    "Possessed Pumpkin",
+    "The Keyper"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/orb-of-conflict"
+}

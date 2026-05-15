@@ -1,0 +1,36 @@
+{
+  "id": "skull-of-corrupted-souls",
+  "name": "Skull of Corrupted Souls",
+  "slug": "skull-of-corrupted-souls",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/skull-of-corrupted-souls.png",
+  "itemType": "Skull",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This skull lacks the Vampire Blast ability.",
+  "stats": {
+    "damage": "130-235 (+1.8 for every WIS above 55)",
+    "range": "4.05 tiles",
+    "rateOfFire": null,
+    "shots": "5",
+    "projectiles": "5"
+  },
+  "effects": [
+    "+66 HP, +6 VIT",
+    "Necromancy: raise 1 Corrupted Souls Undead to fight for you.",
+    "Curse for 2 seconds Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Necromancer"
+  ],
+  "dropsFrom": [
+    "Malus",
+    "Cultish Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/skull-of-corrupted-souls"
+}

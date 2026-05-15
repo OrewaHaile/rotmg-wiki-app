@@ -1,0 +1,37 @@
+{
+  "id": "skullish-remains-of-esben",
+  "name": "Skullish Remains of Esben",
+  "slug": "skullish-remains-of-esben",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/skullish-remains-of-esben.png",
+  "itemType": "Skull",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes The minions summoned by this skull have the unique ability to inflict Slowed on its targets, giving the Necromancer some extra utility and making it very useful in many situations, such as when there are many fast-moving enemies and you need the breathing room. However, it only slows for 2 seconds, so it is difficult to keep enemies permanently slowed with this skull alone due to the steep MP cost of 110. Furthermore, most dangerous bosses (especially in the Exaltation dungeon pool) are immune to Slowed",
+  "stats": {
+    "damage": "170-255 (+1.5 for every DEF above 9)",
+    "range": "4.05 tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "+40 HP, -3 SPD, +4 ATT",
+    "Necromancy: raise 1 Esben Undead to fight for you.",
+    "Slowed for 2 seconds Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Necromancer"
+  ],
+  "dropsFrom": [
+    "Esben the Neurotic",
+    "Prismimic Defender",
+    "Citadel Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/skullish-remains-of-esben"
+}

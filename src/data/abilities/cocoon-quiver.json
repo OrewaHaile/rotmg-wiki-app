@@ -1,0 +1,32 @@
+{
+  "id": "cocoon-quiver",
+  "name": "Cocoon Quiver",
+  "slug": "cocoon-quiver",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/cocoon-quiver.png",
+  "itemType": "Quiver",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 85,
+  "description": "Notes This, along with the Bramble Bow, is a great early to mid game archer item. It drops from an early dungeon, and paralyzes! The paralyze is not as long as the higher tiered quivers (3 seconds vs 2 seconds), but having 2 shots makes landing your paralyze easier. The DPS is also comparable to a T6 quiver if both shots hit, while costing 15 less mana per use.",
+  "stats": {
+    "damage": "150-250 (+6.5 per SPD over 41) (average: 200)",
+    "range": "7.7 tiles (true range: 5.19 tile(s))",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 5°)",
+    "projectiles": "2 (arc gap: 5°)"
+  },
+  "effects": [
+    "Paralyzed for 2 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Mama Megamoth",
+    "Beginner Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cocoon-quiver"
+}

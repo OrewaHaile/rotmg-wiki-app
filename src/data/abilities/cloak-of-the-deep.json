@@ -1,0 +1,41 @@
+{
+  "id": "cloak-of-the-deep",
+  "name": "Cloak of the Deep",
+  "slug": "cloak-of-the-deep",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/cloak-of-the-deep.png",
+  "itemType": "Cloak",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Holding spacebar and shooting example:",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 MP, +5 DEF",
+    "Inhale: While holding down the ability key, drain 50 MP/sec and become Weak. Exhale: While holding down the ability key, release a stream of bubbles whilst shooting scaling with your Lethal Strike Damage. Lethal Strike: Your weapon deals 60 (+0.5 per WIS > 34) and 10% (+0.5% per WIS > 34) of target’s defense as additional damage for 1.4 seconds Cooldown: 0 / 0.4 / 0.6 sec Damage: 55-75 (average: 65) Shots: 4 Range: 5.14 tiles Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Abyssal Hydra",
+    "Abyssal Kraken",
+    "Abyssal Siren",
+    "Abyssal Squid",
+    "Corsair Crab",
+    "Dread Angler",
+    "Hadopelagic Jellyfish",
+    "Hadopelagic Submersible",
+    "Sea Dragon",
+    "Sunken Treasure"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cloak-of-the-deep"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "seal-of-the-seeker",
+  "name": "Seal of the Seeker",
+  "slug": "seal-of-the-seeker",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/seal-of-the-seeker.png",
+  "itemType": "Seal",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 15,
+  "description": "History Before Patch X.32.7.0 (Feb 2020), this item had no stat bonus.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+2 DEX",
+    "On party: Healing, Damaging and HP Boost HP Boost: +30 (+2 per WIS over 50) max HP HP Boost Range: 4.5 (+1 per 10 WIS over 50) tiles HP Boost Duration: 3 (+1 per 10 WIS over 50) seconds Healing & Damaging Range: 4.5 (+0.1 per WIS over 50) tiles Healing & Damaging Duration: 3 (+0.1 per WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Cyclops God Chest",
+    "Deathmage Chest",
+    "Ent Ancient",
+    "Fountain Spirit",
+    "Ghost King",
+    "Great Coil Snake Chest",
+    "Kage Kami",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Ogre King",
+    "Orc King",
+    "Phoenix Lord Chest",
+    "Red Demon Chest",
+    "Shambling Sludge",
+    "Warrior Bee",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/seal-of-the-seeker"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "cloak-of-darkness",
+  "name": "Cloak of Darkness",
+  "slug": "cloak-of-darkness",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/cloak-of-darkness.png",
+  "itemType": "Cloak",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "History Before Patch X.32.7.0 (Feb 2020), this item had an MP cost of 65, an invisible duration of 3.5 seconds, and a cooldown of 4.5 seconds.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "After exiting sneak: Fire 2 additional projectiles dealing damage equal to your Lethal Strike damage for 2.4 seconds. Sneak: Invisible for 5 seconds. After 1 second can be canceled by shooting. On Invisible end: Lethal Strike: Your weapon deals 30 (+1 per WIS > 34) and 25% (+0.5% per WIS > 34) of target’s defense as additional damage for 2.4 seconds MP Cost: 2 MP/proj Cooldown: 0.1 sec"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Deathmage Chest",
+    "Dwarf King",
+    "Elf Wizard",
+    "Ent Ancient",
+    "Goblin Mage",
+    "Great Coil Snake Chest",
+    "Hobbit Mage",
+    "Lich",
+    "Mama Megamoth",
+    "Sandsman King",
+    "Sumo Master",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cloak-of-darkness"
+}

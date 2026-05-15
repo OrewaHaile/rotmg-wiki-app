@@ -1,0 +1,49 @@
+{
+  "id": "iron-lute",
+  "name": "Iron Lute",
+  "slug": "iron-lute",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/iron-lute.png",
+  "itemType": "Lute",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 15,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this item had a cooldown of 5 seconds and no DEF boost.",
+  "stats": {
+    "damage": null,
+    "range": "x1.25",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Party Effect: Within 4.5 squares Inspired for 4 seconds, DEF Boost (+3 DEF) for 3 seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Cyclops God Chest",
+    "Deathmage Chest",
+    "Ent Ancient",
+    "Fountain Spirit",
+    "Ghost King",
+    "Great Coil Snake Chest",
+    "Kage Kami",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Ogre King",
+    "Orc King",
+    "Phoenix Lord Chest",
+    "Red Demon Chest",
+    "Shambling Sludge",
+    "Warrior Bee",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/iron-lute"
+}

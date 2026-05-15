@@ -1,0 +1,32 @@
+{
+  "id": "orb-of-terror",
+  "name": "Orb of Terror",
+  "slug": "orb-of-terror",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/orb-of-terror.png",
+  "itemType": "Orb",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 850,
+  "description": "Notes A reskinned version of the Orb of Conflict, previously obtainable by exchanging 50 Pumpkin Tokens and 25 Bone Tokens (Halloween 2018) or 100 Bone Sigils (Halloween 2019).",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 ATT, +5 DEX",
+    "On enemies: Stasis Stasis Radius: 3 tiles Stasis Duration: 7 seconds On self: Speedy and Damaging Speedy & Damaging Duration: 2 (+0.1 per WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Pumpkin Shrine"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/orb-of-terror"
+}

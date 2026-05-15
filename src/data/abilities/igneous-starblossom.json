@@ -1,0 +1,32 @@
+{
+  "id": "igneous-starblossom",
+  "name": "Igneous Starblossom",
+  "slug": "igneous-starblossom",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/igneous-starblossom.png",
+  "itemType": "Star",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes The Igneous Bomb has the following sprite animation:",
+  "stats": {
+    "damage": "325–525 (+16.5 per VIT over 42) (average: 425)",
+    "range": "10.4 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "+4 SPD, +9 VIT",
+    "On Ability Use: Plants a Igneous Bomb that explodes after 0.8 secondsBomb Damage: 1000Bomb Range: 3.5 tiles Shots pass through obstaclesHitbox Size: 2"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Shaitan the Advisor"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/igneous-starblossom"
+}

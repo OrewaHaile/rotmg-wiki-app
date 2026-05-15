@@ -1,0 +1,49 @@
+{
+  "id": "pit-viper-poison",
+  "name": "Pit Viper Poison",
+  "slug": "pit-viper-poison",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/pit-viper-poison.png",
+  "itemType": "Poison",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 15,
+  "description": "Before Exalt Version 5.12.0.0 (June 2025), this item impact damage was 80, its total damage 380, WIS scale was 6, base damage boost was 6% and its damage boost scale was 0.1.",
+  "stats": {
+    "damage": "6.5 (+0.125 per WIS over 50) %",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+1 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Cyclops God Chest",
+    "Deathmage Chest",
+    "Ent Ancient",
+    "Fountain Spirit",
+    "Ghost King",
+    "Great Coil Snake Chest",
+    "Kage Kami",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Ogre King",
+    "Orc King",
+    "Phoenix Lord Chest",
+    "Red Demon Chest",
+    "Shambling Sludge",
+    "Warrior Bee",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pit-viper-poison"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "motivational-megaphone",
+  "name": "Motivational Megaphone",
+  "slug": "motivational-megaphone",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/motivational-megaphone.png",
+  "itemType": "Lute",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes A perculiar item that acts more like a skull than a lute. If one has a high level magic-heal pet or mana-cost reduction items, they may find the damage dealing aspect of the item to be more valuable than the berserk buff. With these, the damage the lute deals can be very strong for clearing in the Realm or groups of enemies in dungeons.",
+  "stats": {
+    "damage": "800 (+30 per WIS over 65)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 ATT, +5 VIT",
+    "Long-Range Assault: Buffs are centered on cursor instead of on user Party Effect: Within 4 squares Berserk for 4 seconds. On hitting at least one target: Gain Healing for 3 seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Griefkeeper Zole",
+    "Soulwarden Murcian",
+    "Spectral Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/motivational-megaphone"
+}

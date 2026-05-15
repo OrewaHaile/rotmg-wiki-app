@@ -1,0 +1,30 @@
+{
+  "id": "wooden-shield",
+  "name": "Wooden Shield",
+  "slug": "wooden-shield",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/wooden-shield.png",
+  "itemType": "Shield",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter ability for the Knight class. It does not drop from enemies.",
+  "stats": {
+    "damage": "55-90 (+2 per WIS over 34) (average: 72.5)",
+    "range": "3.2 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+2 DEF",
+    "Damage Reduction: On ability use, you receive 75% damage for 5 seconds Stunned for 3 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wooden-shield"
+}

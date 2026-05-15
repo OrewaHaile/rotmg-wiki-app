@@ -1,0 +1,34 @@
+{
+  "id": "tricorne-of-the-high-seas",
+  "name": "Tricorne of the High Seas",
+  "slug": "tricorne-of-the-high-seas",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/tricorne-of-the-high-seas.png",
+  "itemType": "Helm",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes Part of the Pirate King Warrior Set.",
+  "stats": {
+    "damage": null,
+    "range": "5 (+0.1 per WIS over 30) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+7 DEF",
+    "On party: Berserk for 4 (+0.1 per WIS over 30) seconds Shoot Cannonball: Damage: 1000 Projectile Speed: 7 tiles/second Lifetime: 1 seconds Range: 7 tiles Hitbox Size: 2 Shots hit multiple targets",
+    "Cannon Cluster: Fires a spread cannonballs when hit for at least 40 damage. Number of shots: 10 (arc gap: 18°) Cannonball Damage: 500 Total Cannonball Damage: 5000 Projectile Speed: 14 tiles/second Lifetime: 0.5 seconds Range: 7 tiles Cannonball Cooldown: 3 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Jon Bilgewater the Pirate King",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tricorne-of-the-high-seas"
+}

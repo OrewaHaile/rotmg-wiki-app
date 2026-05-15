@@ -1,0 +1,34 @@
+{
+  "id": "plague-poison",
+  "name": "Plague Poison",
+  "slug": "plague-poison",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/plague-poison.png",
+  "itemType": "Poison",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This poison has a massive area of effect and huge duration (over twice as long as tiered poisons), which makes it useful for crowd-clearing and applying a damage boost. It also takes a long time to throw, has a huge duration, and has no impact damage. Thus, it is less useful against targets that die quickly and harder to use against those who go invulnerable often.",
+  "stats": {
+    "damage": "8.5 (+0.15 per WIS over 50) %",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Pumpkin King",
+    "Grave Caretaker",
+    "Ghost of Skuld",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/plague-poison"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "tome-of-pain",
+  "name": "Tome of Pain",
+  "slug": "tome-of-pain",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/tome-of-pain.png",
+  "itemType": "Tome",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes This tome sacrifices a bit of its healing effects and your control over the cast to do high damage at a bigger radius. It can prove useful in situations where clearing unwanted groups of enemies is more important than healing. The stat bonuses are similar to other items dropped by the Nightmare Colony, taking away VIT in exchange for offensive stats.",
+  "stats": {
+    "damage": "880 (+6.65 per ATT over 65)",
+    "range": "8.5 (+0.05 per ATT over 65) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 ATT, +5 SPD, -5 VIT",
+    "Heal: 120 (+0.88 per ATT over 65) HP Party Effect: Healing [60/s] (+0.44 per ATT over 65) for 4.4 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Nightmare Colony",
+    "Infested Chest",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tome-of-pain"
+}

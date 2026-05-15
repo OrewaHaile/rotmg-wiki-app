@@ -1,0 +1,32 @@
+{
+  "id": "tome-of-hallowed-language",
+  "name": "Tome of Hallowed Language",
+  "slug": "tome-of-hallowed-language",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/tome-of-hallowed-language.png",
+  "itemType": "Tome",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "Notes Provides the strongest instant heal out of all tomes plus the stats for extra survivability.",
+  "stats": {
+    "damage": "720 (+7.6 per WIS over 70)",
+    "range": "7.4 (+0.05 per WIS over 70) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +40 MP, +7 VIT",
+    "Heal: 150 (+1.045 per WIS over 70) HP Party Effect: Healing [75/s] (+0.5225 per WIS over 70) for 4.4 seconds Damage Nova: Explodes 2 times for 0.8 seconds within 2.5 sqrs"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tome-of-hallowed-language"
+}

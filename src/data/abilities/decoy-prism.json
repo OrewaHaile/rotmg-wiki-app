@@ -1,0 +1,29 @@
+{
+  "id": "decoy-prism",
+  "name": "Decoy Prism",
+  "slug": "decoy-prism",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/decoy-prism.png",
+  "itemType": "Prism",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter ability for the Trickster class. It does not drop from enemies.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Teleport to cursor and spawns a moving decoy at original position"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/decoy-prism"
+}

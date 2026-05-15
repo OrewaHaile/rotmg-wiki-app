@@ -1,0 +1,32 @@
+{
+  "id": "quartermaster-scabbard",
+  "name": "Quartermaster Scabbard",
+  "slug": "quartermaster-scabbard",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/quartermaster-scabbard.png",
+  "itemType": "Sheath",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes The projectiles begin 2 tiles behind the player, fire forward 3 tiles in front of the player, then return appoximately 8.52 tiles behind the player. This makes it very difficult to hit enemies without dashing through them. The decoy left behind can be very useful in the same situations as the Brain of the Golem prism, although it does last 3 seconds fewer. The healing effect is applied on every dash, so with proper timing the user can give themselves permanent healing provided they aren’t quieted or silenced.",
+  "stats": {
+    "damage": "500",
+    "range": "13.52 tiles",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 6°)",
+    "projectiles": "2 (arc gap: 6°)"
+  },
+  "effects": [
+    "+30 HP",
+    "Shots hit multiple targets Shots boomerangOn Channeling: Summons a stationary decoyOn Dash: Healing for 5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Davy Jones"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/quartermaster-scabbard"
+}

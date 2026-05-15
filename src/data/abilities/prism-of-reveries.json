@@ -1,0 +1,32 @@
+{
+  "id": "prism-of-reveries",
+  "name": "Prism of Reveries",
+  "slug": "prism-of-reveries",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/prism-of-reveries.png",
+  "itemType": "Prism",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "Notes With the longest decoy time of any prism at 10 seconds, this prism is fantastic for tricksters wishing to use their ability to the fullest while also granting moderate bonuses to WIS, HP, and MP.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+7 WIS, +40 HP, +40 MP",
+    "Teleport to cursor and spawns a moving decoy at original position"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/prism-of-reveries"
+}

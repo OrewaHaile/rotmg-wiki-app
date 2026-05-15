@@ -1,0 +1,31 @@
+{
+  "id": "necrofish-poison",
+  "name": "Necrofish Poison",
+  "slug": "necrofish-poison",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/necrofish-poison.png",
+  "itemType": "Poison",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "Notes One could use this poison as a sidegrade to the Murky Toxin if they want to sacrifice the Toxin’s offensive stats for extra survivability, a bigger radius, and slightly more damage over time at a lower cost.",
+  "stats": {
+    "damage": "10.5 (+0.25 per WIS over 50) %",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +40 MP, +4 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/necrofish-poison"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "honey-scepter-supreme",
+  "name": "Honey Scepter Supreme",
+  "slug": "honey-scepter-supreme",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/honey-scepter-supreme.png",
+  "itemType": "Scepter",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "100 (+4 per WIS over 50)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers",
+    "Queen Bee",
+    "Souvenir"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/honey-scepter-supreme"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "iron-shield",
+  "name": "Iron Shield",
+  "slug": "iron-shield",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/iron-shield.png",
+  "itemType": "Shield",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "History Before Patch X.32.7.0 (Feb 2020), this item had a stat bonus of +4 DEF.",
+  "stats": {
+    "damage": "100-140 (+1.56 per WIS over 34) (average: 120)",
+    "range": "3.2 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "+3 DEF",
+    "Damage Reduction: On ability use, you receive 75% damage for 5 seconds Stunned for 3 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Deathmage Chest",
+    "Dwarf King",
+    "Elf Wizard",
+    "Ent Ancient",
+    "Goblin Mage",
+    "Great Coil Snake Chest",
+    "Hobbit Mage",
+    "Lich",
+    "Mama Megamoth",
+    "Sandsman King",
+    "Sumo Master",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/iron-shield"
+}

@@ -11,7 +11,8 @@ const categoryDirs = [
   "wands",
   "staves",
   "katanas",
-  "spellblades"
+  "spellblades",
+  "abilities"
 ];
 
 function getFiles(dir) {

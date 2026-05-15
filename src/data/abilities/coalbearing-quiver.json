@@ -1,0 +1,36 @@
+{
+  "id": "coalbearing-quiver",
+  "name": "Coalbearing Quiver",
+  "slug": "coalbearing-quiver",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/coalbearing-quiver.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 380,
+  "description": "Notes Although not an ST item in its own right, this item is classed as Oryxmas Gear, and, if worn in conjuntion with Ornaments of Unity, will contribute to the Oryxmas Gear bonus stats.",
+  "stats": {
+    "damage": "295-335 (+3.88 per WIS over 34) (average: 315)",
+    "range": "15 tiles",
+    "rateOfFire": null,
+    "shots": "4 (arc gap: 7°)",
+    "projectiles": "4 (arc gap: 7°)"
+  },
+  "effects": [
+    "+6 DEX, +20 HP, +20 MP",
+    "Vulnerable: Targets receive 110% damage for 3 seconds after being hit. Paralyzed for 3 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 2",
+    "Frostaract",
+    "Frozen Ship",
+    "Hat God",
+    "Ice Cube God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/coalbearing-quiver"
+}

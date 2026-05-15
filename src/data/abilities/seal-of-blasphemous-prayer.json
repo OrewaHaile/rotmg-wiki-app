@@ -1,0 +1,35 @@
+{
+  "id": "seal-of-blasphemous-prayer",
+  "name": "Seal of Blasphemous Prayer",
+  "slug": "seal-of-blasphemous-prayer",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/seal-of-blasphemous-prayer.png",
+  "itemType": "Seal",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 900,
+  "description": "Notes This versatile seal grants Invulnerable upon use - It is one of very few items in the game to grant such a status effect, on top of the Healing and Damaging commonly showcased in most other tiered seals.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 SPD",
+    "On party: Healing and Damaging Healing & Damaging Range: 5 (+0.1 per WIS over 50) tiles Healing & Damaging Duration: 5 (+0.1 per WIS over 50) seconds On self: Invulnerable for 2.2 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Pentaract",
+    "The Lich King",
+    "The Keyper",
+    "The Plague Doctor"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/seal-of-blasphemous-prayer"
+}

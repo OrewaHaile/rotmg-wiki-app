@@ -1,0 +1,32 @@
+{
+  "id": "shield-of-orcish-regalia",
+  "name": "Shield of Orcish Regalia",
+  "slug": "shield-of-orcish-regalia",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/shield-of-orcish-regalia.png",
+  "itemType": "Shield",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "Notes The strongest tiered shield, possessing comparable stats to the Shield of Ogmur in terms of DEF and HP, but offers superior average damage and an additional +40 MP.",
+  "stats": {
+    "damage": "340-400 (+5 per WIS over 34) (average: 370)",
+    "range": "3.2 tiles",
+    "rateOfFire": null,
+    "shots": "5",
+    "projectiles": "5"
+  },
+  "effects": [
+    "+14 DEF, +40 HP, +40 MP",
+    "Damage Reduction: On ability use, you receive 75% damage for 5 seconds Stunned for 3 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/shield-of-orcish-regalia"
+}

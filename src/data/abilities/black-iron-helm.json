@@ -1,0 +1,50 @@
+{
+  "id": "black-iron-helm",
+  "name": "Black Iron Helm",
+  "slug": "black-iron-helm",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/black-iron-helm.png",
+  "itemType": "Helm",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 15,
+  "description": "History Before Patch X.32.7.0 (Feb 2020), this item had a stat bonus of +5 DEF, a duration of 4.5 seconds, and cooldown of 5.5 seconds.",
+  "stats": {
+    "damage": null,
+    "range": "4.5 (+0.1 per WIS over 30) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 DEF",
+    "On party: Berserk for 3 (+0.1 per WIS over 30) seconds On self: Speedy for 3 (+0.1 per WIS over 30) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Cyclops God Chest",
+    "Deathmage Chest",
+    "Ent Ancient",
+    "Fountain Spirit",
+    "Ghost King",
+    "Great Coil Snake Chest",
+    "Kage Kami",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Ogre King",
+    "Orc King",
+    "Phoenix Lord Chest",
+    "Red Demon Chest",
+    "Shambling Sludge",
+    "Warrior Bee",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/black-iron-helm"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "pharaohs-requiem",
+  "name": "Pharaoh's Requiem",
+  "slug": "pharaohs-requiem",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/pharaohs-requiem.png",
+  "itemType": "Lute",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This is a defense-oriented lute. It is currently one of two items able to consistently apply Weak, which reduces enemy attack damage by 10%. This can seem small, but can make a difference with endgame enemies that may inflict hundreds of damage per shot.",
+  "stats": {
+    "damage": null,
+    "range": "x1.25",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 DEF, +4 VIT",
+    "Party Effect: Within 4.5 squares Inspired for 4 seconds. Pharaoh’s Wrath: Summons a Pharaoh’s Mask on the cursors location that inflicts Weak for 3 secs within 3 squares every 1 sec.",
+    "Pharaoh’s Ward: Upon taking at least 50 damage, protects you with Armored on Self for 3 secs. Inflicts Weak on enemies for 5 secs within 5 squares. Pharaoh’s Ward Cooldown: 15 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Nut",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pharaoh-s-requiem"
+}

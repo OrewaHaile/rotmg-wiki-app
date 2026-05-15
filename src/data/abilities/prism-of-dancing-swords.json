@@ -1,0 +1,35 @@
+{
+  "id": "prism-of-dancing-swords",
+  "name": "Prism of Dancing Swords",
+  "slug": "prism-of-dancing-swords",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/prism-of-dancing-swords.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes This prism is most often used because of its stat boosts, as most other prisms don’t provide any relevant boosts. Its ability to produce two different copies of the Trickster at the time length of the Hallucination Prism is also very handy, and proves to be the most effective prism if the Trickster using it is trying to create Decoys to distract enemies, making this prism a possible primary ability depending on your playstyle. However, it is still advised to bring a T0 Decoy Prism for its ability to teleport for only 60 Mana.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 SPD, +40 HP",
+    "No teleport If used when moving, spawns two moving decoys in opposite directions If used when standing still, spawns two moving decoys in random directions"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Puppet Master",
+    "Oryx Puppet",
+    "Standard Quest Chest",
+    "Prismimic Defender"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/prism-of-dancing-swords"
+}

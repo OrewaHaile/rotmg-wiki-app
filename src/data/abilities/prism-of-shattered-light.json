@@ -1,0 +1,34 @@
+{
+  "id": "prism-of-shattered-light",
+  "name": "Prism of Shattered Light",
+  "slug": "prism-of-shattered-light",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/prism-of-shattered-light.png",
+  "itemType": "Prism",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 700,
+  "description": "Notes Part of the Agents of Oryx Abilities.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 SPD, +2 ATT",
+    "No teleportIf used when moving, spawns a moving decoy in the opposite directionIf used when standing still, spawns a moving decoy in a random directionUpper Hand: ATT Boost (+15 ATT) on self for 4 seconds when used above 50% HPCooldown: 6 secondsTactical Retreat: Invisible on self for 6 seconds when used below 50% HPCooldown: 7 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/prism-of-shattered-light"
+}

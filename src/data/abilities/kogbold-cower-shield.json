@@ -1,0 +1,34 @@
+{
+  "id": "kogbold-cower-shield",
+  "name": "Kogbold Cower Shield",
+  "slug": "kogbold-cower-shield",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/kogbold-cower-shield.png",
+  "itemType": "Shield",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes This shield provides no innate DEF bonus and relatively low damage despite its armor-piercing shots. In exchange, however, it grants a significant DEF buff to you and the group, analogous to the Marble Seal. For robe classes, the +15 DEF is approximately equal to Armored, and it stacks with Armored. It also gives some SPD and VIT on equip.",
+  "stats": {
+    "damage": "325-400 (+7.5 per DEF over 20) (average: 362.5)",
+    "range": "3.42 tiles",
+    "rateOfFire": null,
+    "shots": "5",
+    "projectiles": "5"
+  },
+  "effects": [
+    "+5 SPD, +5 VIT",
+    "Damage Reduction: On ability use, you receive 70% damage for 5 seconds Shots hit multiple targets Ignores defense of target",
+    "On ability use: Gain DEF Boost (+15 DEF) to self and nearby players for 4 seconds.On ability use below 50% health: Grant DEF Boost (+20 DEF) defense instead of the usual 15."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Factory Control Core",
+    "Steampunk Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/kogbold-cower-shield"
+}

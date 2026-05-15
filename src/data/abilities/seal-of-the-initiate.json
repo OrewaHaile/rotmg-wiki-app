@@ -1,0 +1,29 @@
+{
+  "id": "seal-of-the-initiate",
+  "name": "Seal of the Initiate",
+  "slug": "seal-of-the-initiate",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/seal-of-the-initiate.png",
+  "itemType": "Seal",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter ability for the Paladin class. It does not drop from enemies.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On party: Healing, Damaging and HP Boost HP Boost: +10 (+2 per WIS over 50) max HP HP Boost Range: 4.5 (+1 per 10 WIS over 50) tiles HP Boost Duration: 2.5 (+1 per 10 WIS over 50) seconds Healing & Damaging Range: 4.5 (+0.1 per WIS over 50) tiles Healing & Damaging Duration: 2.5 (+0.1 per WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/seal-of-the-initiate"
+}

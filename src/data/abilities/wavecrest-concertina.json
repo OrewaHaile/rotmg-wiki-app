@@ -1,0 +1,36 @@
+{
+  "id": "wavecrest-concertina",
+  "name": "Wavecrest Concertina",
+  "slug": "wavecrest-concertina",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/wavecrest-concertina.png",
+  "itemType": "Lute",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes A DPS-oriented item for an otherwise support-oriented class, the parrots that are spawned by either using the ability or through its proc will inflict large amounts of DEF-piercing damage to enemies. The proc is particularly effective if paired with a high rate-of-fire weapon such as the Thousand Shot, DEX-boosting equipment/consumables (ex. Effusions of Dexterity), or buffs such as Berserk (from Warriors). The tradeoff of the massive DPS capabilities of this item is that it does not inflict DEF Boost on the user, unlike tiered lutes.",
+  "stats": {
+    "damage": null,
+    "range": "x1.25",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 DEX",
+    "Party Effect: Within 4.5 squares Inspired for 4 seconds. Parrot Cannon: Throws a fighting parrot at your target. Parrot Throw Time: 0.6s Fighting Parrot: 450 damage within 2 squares every 1 second. (1800 maximum total) Fighting Parrot Effect: Ignores defense of target",
+    "Feather Frenzy: 5% chance upon shooting for a fighting parrot to protect you for 3 seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Jon Bilgewater the Pirate King",
+    "Bilgewater’s Booty",
+    "Calamity Crab",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wavecrest-concertina"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "thousand-suns-spell",
+  "name": "Thousand Suns Spell",
+  "slug": "thousand-suns-spell",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/thousand-suns-spell.png",
+  "itemType": "Spell",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "Notes This is a reskinned version of T6 Elemental Detonation Spell, released during the June 2014 Month of the Mad God event. During the event, the item dropped in the same locations as its tiered equivalent.",
+  "stats": {
+    "damage": "80–165 (+2 per WIS over 42) (average: 122.5)",
+    "range": "16 tiles",
+    "rateOfFire": null,
+    "shots": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)",
+    "projectiles": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)"
+  },
+  "effects": [
+    "+20 HP, +20 MP, +6 WIS"
+  ],
+  "usableClasses": [
+    "Wizard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/thousand-suns-spell"
+}

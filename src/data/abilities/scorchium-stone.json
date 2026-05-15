@@ -1,0 +1,35 @@
+{
+  "id": "scorchium-stone",
+  "name": "Scorchium Stone",
+  "slug": "scorchium-stone",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/scorchium-stone.png",
+  "itemType": "Orb",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes Part of the Magmatic Mystic Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Shoot a spread of fireballs at the cursor. Number of Shots: 5 (arc gap: 9°) Damage: 350 (+3 per VIT over 30) (total: 1750) Projectile Speed: 15 tiles/second Range: 5 tiles Effect on enemies: Curse for 5 seconds Shots pass through obstacles Ignores defense of target",
+    "Heat Wave: Stasis on surrounding enemies (centered on player) when taking damage below 50% HP. Stasis Radius: 4 tiles Duration: 2 seconds Cooldown: 60 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Malphas, Gilded Forgemaster",
+    "Heroic Archdemon Malphas",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/scorchium-stone"
+}

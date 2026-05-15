@@ -1,0 +1,32 @@
+{
+  "id": "kagebooshi",
+  "name": "Kagebooshi",
+  "slug": "kagebooshi",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/kagebooshi.png",
+  "itemType": "Star",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 950,
+  "description": "History Before Exalt Version 5.6.0.0 (Jan 2025), this item dealt 450-650 damage and didn’t scale with WIS. It had a projectile speed of 15 tiles/second, a lifetime of 0.8 seconds and an MP cost of 100.",
+  "stats": {
+    "damage": "400-600 (+11.5 per WIS over 50)",
+    "range": "6 tiles (true range: 2.35 tile(s))",
+    "rateOfFire": null,
+    "shots": "4 (arc gap: 8°)",
+    "projectiles": "4 (arc gap: 8°)"
+  },
+  "effects": [
+    "+5 DEF, +5 SPD",
+    "Hitbox Size: 1.4 Shots hit multiple targets Shots boomerang Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Infested Oryx the Mad God 2"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/kagebooshi"
+}

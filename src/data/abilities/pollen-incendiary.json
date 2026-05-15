@@ -1,0 +1,43 @@
+{
+  "id": "pollen-incendiary",
+  "name": "Pollen Incendiary",
+  "slug": "pollen-incendiary",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/pollen-incendiary.png",
+  "itemType": "Poison",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Don’t be fooled by the wisdom scaling on Pollen Incendiary’s base damage - the overwhelming majority of this poison’s damage comes from its Pollen Fallout effect. Upon use, any leftover mana is consumed in batches of 60mp, with each batch spawning additional fallout. Each instance of fallout hits enemies within the area of effect 10 times over several seconds (avg 1,600 damage each if all hit). This process occurs up to twelve times, capping the total mana cost at 840mp (or lower with MP cost reducers such as an MP Cost Reduction enchantment or The Twilight Gemstone).",
+  "stats": {
+    "damage": "600 (+25 per WIS over 50)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, -6 VIT, -6 WIS",
+    "Arcane Nourishment: Consumes most of your available MP upon casting the poison. The greater the amount of MP consumed the more potent the explosion. Pollen Fallout: Pollen lingers within 10 squares of ground zero, dealing 120-200 damage."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Alluring Blossom",
+    "Elder Ent Ancient",
+    "Great Owl",
+    "Green Fingers",
+    "Hornet’s Nest",
+    "Legion Commissioner",
+    "Overgrown Lily",
+    "Rhinoceros",
+    "Snapdragon",
+    "Spore Spreader",
+    "Sunflower Sentinel",
+    "Vegetarian Tiger"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pollen-incendiary"
+}

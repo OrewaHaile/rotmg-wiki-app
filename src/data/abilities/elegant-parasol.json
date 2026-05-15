@@ -1,0 +1,35 @@
+{
+  "id": "elegant-parasol",
+  "name": "Elegant Parasol",
+  "slug": "elegant-parasol",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/elegant-parasol.png",
+  "itemType": "Sheath",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes With a huge explosion radius of 7.5 tiles, and a decent 600 or more damage, this sheath is extremely useful for clearing low-mid dungeons. The max dashes being 4 also helps a lot with clearing, while being mana-effecient (Although the 5 second cooldown will not let you spam dashes without making you stop in between). It sacrifices trail damage for a line of paralyzing shots that will also come in handy when dealing with chasing enemies during rushing or dealing with godland dungeon bosses.",
+  "stats": {
+    "damage": "200-300",
+    "range": "2.75 tiles",
+    "rateOfFire": null,
+    "shots": "14",
+    "projectiles": "14"
+  },
+  "effects": [
+    "+8 ATT, +8 VIT",
+    "Trail of Seasons: Call forth a line of diverging projectiles that paralyzes enemies Shots hit multiple targets Shots pass through obstacles Ignores defense of target Paralyzed for 3 seconds Blossoming Power: Release an explosion at the end of each dash dealing 600 base damage, scaling with VIT. Damage: 600 (+12 per VIT over 60) Radius: 7.5"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Sage Genji",
+    "Drummer Kaguya",
+    "Dancer Miko",
+    "Moonlit Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/elegant-parasol"
+}

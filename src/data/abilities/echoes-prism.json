@@ -1,0 +1,34 @@
+{
+  "id": "echoes-prism",
+  "name": "Echoes Prism",
+  "slug": "echoes-prism",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/echoes-prism.png",
+  "itemType": "Prism",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes This unique prism summons following prisms that do not decoy until they activate, making it a bad choice for decoying enemies that approach quickly. Instead, this prism proves itself very useful while dragging enemies that chase the player, as the prisms follow the player’s path until they activate.",
+  "stats": {
+    "damage": "50–75 (average: 62.5)",
+    "range": "7 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+40 HP, +4 DEF, +4 DEX",
+    "No TeleportActive Duration: 4 secondsAttack Rate: 0.1 secondsDecoys enemies once active Ignores defense of target",
+    "Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Crystal Entity",
+    "Crystallized Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/echoes-prism"
+}

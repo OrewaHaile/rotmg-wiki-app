@@ -1,0 +1,30 @@
+{
+  "id": "honey-scepter",
+  "name": "Honey Scepter",
+  "slug": "honey-scepter",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/honey-scepter.png",
+  "itemType": "Scepter",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 250,
+  "description": "Notes The Honey Scepter hits more targets than any other scepter, but doesn’t do as much damage as a tiered scepter would. This can be useful for newer players who tend to encounter plentiful amounts of weaker enemies, but it usually isn’t too useful in endgame content against single-target bosses or enemies that boast high defense and are able to mostly ignore the damage it deals.",
+  "stats": {
+    "damage": "100 (+4 per WIS over 50)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Queen Bee",
+    "Beginner Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/honey-scepter"
+}

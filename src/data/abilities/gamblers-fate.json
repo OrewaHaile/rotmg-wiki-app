@@ -1,0 +1,34 @@
+{
+  "id": "gamblers-fate",
+  "name": "Gambler's Fate",
+  "slug": "gamblers-fate",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/gamblers-fate.png",
+  "itemType": "Prism",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes A unique “prism” that doesn’t teleport the player, but rather puts a stationary coin decoy on the cursor’s location. While the length of the decoy is highly inconsistent due to using a luck-based system to determine its duration (≈ 4s*), the ability to plant the decoy exactly wherever the user wishes from a safe distance (unlike the Brain of the Golem, which also deploys a stationary decoy, except on the user’s current position) allows Tricksters to be far more precise with their decoy placements than with any other prism. This makes it a highly useful tool for setting up precise decoys,",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 DEX",
+    "On Ability Use: Summons a coin that acts as a decoy. Each second it has a 50% chance to become silver or continue to exist. Silver Coin: Acts as a decoy. Each second it has a 50% chance to disappear or continue to exist."
+  ],
+  "usableClasses": [
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Treasurer Gemsbok"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/gambler-s-fate"
+}

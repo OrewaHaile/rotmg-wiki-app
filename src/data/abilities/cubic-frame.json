@@ -1,0 +1,36 @@
+{
+  "id": "cubic-frame",
+  "name": "Cubic Frame",
+  "slug": "cubic-frame",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/cubic-frame.png",
+  "itemType": "Skull",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "For The Third Dimension enemy, see Cubic Frame (Enemy).",
+  "stats": {
+    "damage": "150 (+3 for every VIT above 24)",
+    "range": "4.05 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+5 DEF",
+    "Necromancy: raise 1 Cubic Undead to fight for you. Cubic Protection: Locks onto the closest player granting 20hp/sec within 3 sqrs.",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Tesseract Goddess",
+    "Shadow Cube Blaster",
+    "Perfected Cube God",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cubic-frame"
+}

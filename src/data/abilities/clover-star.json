@@ -1,0 +1,29 @@
+{
+  "id": "clover-star",
+  "name": "Clover Star",
+  "slug": "clover-star",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/clover-star.png",
+  "itemType": "Star",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "3%",
+  "feedPower": 100,
+  "description": "Notes A vanity star, which can replace the T0 Basic Star for players that use Speedy in short bursts often, to prevent additional loss of MP.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Pot of Gold"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/clover-star"
+}

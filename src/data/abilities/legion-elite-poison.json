@@ -1,0 +1,32 @@
+{
+  "id": "legion-elite-poison",
+  "name": "Legion Elite Poison",
+  "slug": "legion-elite-poison",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/legion-elite-poison.png",
+  "itemType": "Poison",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.0.0.0 (Sep 2025) update.",
+  "stats": {
+    "damage": "9.5 (+0.225 per WIS over 50) %",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 HP, +20 MP, +3 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-poison"
+}

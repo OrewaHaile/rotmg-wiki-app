@@ -1,0 +1,33 @@
+{
+  "id": "ballistic-star",
+  "name": "Ballistic Star",
+  "slug": "ballistic-star",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/ballistic-star.png",
+  "itemType": "Star",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This ability uniquely throws out eight armor-piercing parametric discs that revolve around the user, with the inner four red discs Stunning foes. Its total damage is massive, but requires an already-squishy class to be standing on top of a foe, or for an enemy to be standing on the firing origin when the discs return to their origin - both of which are highly impractical. While its ability to Stun is devastating (as of its release, this makes Ninja the only class besides the Knight that can Stun foes), the Inner Circle’s pitiful range of 1.5 tiles mean that the Ninja has to get dangerous",
+  "stats": {
+    "damage": "350-450 (+5 per ATT over 50)",
+    "range": "1.5 / 3 tiles",
+    "rateOfFire": null,
+    "shots": "8",
+    "projectiles": "8"
+  },
+  "effects": [
+    "On Ability Use: Throws 4 parametric stars Inner Circle: Throws an additional 4 parametric stars at half the range which inflict Stunned on enemies for 3 seconds Hitbox Size: 2 Shots hit multiple targets Ignores defense of target Shots pass through obstacles Shots are parametric Effect on Self: Healing for 4 seconds"
+  ],
+  "usableClasses": [
+    "Ninja"
+  ],
+  "dropsFrom": [
+    "Chief Beisa"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ballistic-star"
+}

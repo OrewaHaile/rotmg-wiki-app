@@ -1,0 +1,32 @@
+{
+  "id": "dimensiongate-orb",
+  "name": "Dimensiongate Orb",
+  "slug": "dimensiongate-orb",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/dimensiongate-orb.png",
+  "itemType": "Orb",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "Notes Quite the flexible orb as it offers useful stats with the +40 HP boosting the Mystic’s survivability and +5 DEX increasing her damage output, the second longest stasis duration at 6.5 seconds and even the longest curse duration of 8.5 seconds at 80 WIS.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEX, +40 HP, +40 MP",
+    "On enemies: Stasis and Curse Stasis Radius: 3 tiles Stasis Duration: 6.5 seconds Curse Radius: 5 (+0.1 per WIS over 50) tiles Curse Duration: 5.5 (+1 per 10 WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dimensiongate-orb"
+}

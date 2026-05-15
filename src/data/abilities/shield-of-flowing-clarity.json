@@ -1,0 +1,34 @@
+{
+  "id": "shield-of-flowing-clarity",
+  "name": "Shield of Flowing Clarity",
+  "slug": "shield-of-flowing-clarity",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/shield-of-flowing-clarity.png",
+  "itemType": "Shield",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes This unconventional shield is tied with the T0 Wooden Shield for having the 2nd lowest MP cost of a shield (only behind Champion’s Bastion), but unlike most other shields it Slows its targets instead of Stunning them. While this makes it less practical in situations that call specifically for Stuns, this shield has value against foes that are immune to Stuns, allowing Knights to continue inflicting status effects onto them. Since Knight is rather slow to begin with, this shield can help tackle faster enemies by slowing them down.",
+  "stats": {
+    "damage": "150-330 (+7.75 per WIS over 34) (average: 240)",
+    "range": "3.2 tiles",
+    "rateOfFire": null,
+    "shots": "5",
+    "projectiles": "5"
+  },
+  "effects": [
+    "+17 DEF",
+    "Slowed for 4 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Decaract",
+    "Fountain Spirit",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/shield-of-flowing-clarity"
+}

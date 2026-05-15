@@ -1,0 +1,30 @@
+{
+  "id": "hydroflow-prism",
+  "name": "Hydroflow Prism",
+  "slug": "hydroflow-prism",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/hydroflow-prism.png",
+  "itemType": "Prism",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.9.0.0 (Apr 2026) update.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 WIS, +20 HP, +20 MP",
+    "Teleport to cursor and spawns a moving decoy at original position"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hydroflow-prism"
+}

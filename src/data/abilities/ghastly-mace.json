@@ -1,0 +1,30 @@
+{
+  "id": "ghastly-mace",
+  "name": "Ghastly Mace",
+  "slug": "ghastly-mace",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/ghastly-mace.png",
+  "itemType": "Mace",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "When the entire Ghostly Banshee Summoner Set is equipped, the summon changes to:",
+  "stats": {
+    "damage": "150–200 (average: 175)",
+    "range": "7 tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "+5 ATT",
+    "Unbearable Presence: The Terrible Specter, unbound from its world, becomes unstable after 5 seconds. Unbearable Presence: Shoots 3 paralyzing shots thrice, then explodes for 1250 damage in 4.5 squares. Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ghastly-mace"
+}

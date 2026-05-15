@@ -1,0 +1,43 @@
+{
+  "id": "seal-of-the-pilgrim",
+  "name": "Seal of the Pilgrim",
+  "slug": "seal-of-the-pilgrim",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/seal-of-the-pilgrim.png",
+  "itemType": "Seal",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this seal lacked a HP Boost. It has received new WisMod formulas.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On party: Healing, Damaging and HP Boost HP Boost: +20 (+2 per WIS over 50) max HP HP Boost Range: 4.5 (+1 per 10 WIS over 50) tiles HP Boost Duration: 2.5 (+1 per 10 WIS over 50) seconds Healing & Damaging Range: 4.5 (+0.1 per WIS over 50) tiles Healing & Damaging Duration: 3 (+0.1 per WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Deathmage Chest",
+    "Dwarf King",
+    "Elf Wizard",
+    "Ent Ancient",
+    "Goblin Mage",
+    "Great Coil Snake Chest",
+    "Hobbit Mage",
+    "Lich",
+    "Mama Megamoth",
+    "Sandsman King",
+    "Sumo Master",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/seal-of-the-pilgrim"
+}

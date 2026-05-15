@@ -1,0 +1,33 @@
+{
+  "id": "grotesque-scepter",
+  "name": "Grotesque Scepter",
+  "slug": "grotesque-scepter",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/grotesque-scepter.png",
+  "itemType": "Scepter",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 700,
+  "description": "Notes The Grotesque Scepter deals a high amount of lightning damage against a few targets, akin to the Scepter of Devastation before the addition of the Shockblast proc. This scepter’s shockblast is also good, with a large radius and high damage compared to tiered options.",
+  "stats": {
+    "damage": "935 (+4 per WIS over 50) - 135 for each subsequent target",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 SPD",
+    "On self: Inflicts Hexed for 1 second; Dazed for 1 second"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Dr Terrible",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/grotesque-scepter"
+}

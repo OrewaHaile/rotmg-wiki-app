@@ -1,0 +1,33 @@
+{
+  "id": "midnight-star",
+  "name": "Midnight Star",
+  "slug": "midnight-star",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/midnight-star.png",
+  "itemType": "Star",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 850,
+  "description": "Notes While lacking any on-hold effect like most shurikens, the Midnight Star is intended as a burst damage item, inflicting massive damage with a relatively low MP cost. With enough speed-increasing gear, its damage can increase well above 4000 in total, surpassing even the high DMG/MP efficiency of the Ballistic Star. Its straightforward shot pattern allows usage at range with minimal struggle, with all projectiles despawning at the same point.",
+  "stats": {
+    "damage": "400-500 (+12 per SPD over 65)",
+    "range": "10 tiles",
+    "rateOfFire": null,
+    "shots": "4",
+    "projectiles": "4"
+  },
+  "effects": [
+    "+10 SPD",
+    "Afterimages: 3 extra afterimages follow each starHitbox Size: 2 Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ivory Wyvern",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/midnight-star"
+}

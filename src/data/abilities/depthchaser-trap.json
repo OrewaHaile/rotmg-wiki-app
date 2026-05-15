@@ -1,0 +1,33 @@
+{
+  "id": "depthchaser-trap",
+  "name": "Depthchaser Trap",
+  "slug": "depthchaser-trap",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/depthchaser-trap.png",
+  "itemType": "Trap",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "History On release, the T7 trap gave +4 ATT on equip, which is less than the T6 Giantcatcher Trap. This was corrected in Exalt Version 1.0.1.0 (Aug 2020).",
+  "stats": {
+    "damage": "525 (+5 per WIS over 34)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +40 MP, +6 ATT",
+    "On enemies: Inflicts Slowed for 5 (+0.1s per WIS over 34) seconds",
+    "Inflicts Slowed for 2.5 (+0.1s per WIS over 34) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/depthchaser-trap"
+}

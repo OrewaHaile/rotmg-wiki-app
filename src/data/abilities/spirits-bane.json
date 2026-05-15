@@ -1,0 +1,32 @@
+{
+  "id": "spirits-bane",
+  "name": "Spirit's Bane",
+  "slug": "spirits-bane",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/spirits-bane.png",
+  "itemType": "Poison",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "History Introduced in Exalt Version 6.0.0.0 (Sep 2025).",
+  "stats": {
+    "damage": "5 (+0.35 per WIS over 50) %",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+8 WIS",
+    "On self: WIS Boost (+8 WIS) for 2.2 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Septavius, Master of the Undead"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spirit-s-bane"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "scepter-of-devastation",
+  "name": "Scepter of Devastation",
+  "slug": "scepter-of-devastation",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/scepter-of-devastation.png",
+  "itemType": "Scepter",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes This scepter focuses on single-target damage. Although it has poor lightning damage and is limited to a few targets, its redeeming feature is the shockblast. Uniquely, the shockblast scales with Attack. On a Sorcerer maxed in both ATT and WIS, this will be the highest DPS scepter (against 1-2 targets).",
+  "stats": {
+    "damage": "200 (+10 per WIS over 50) - 20 for each subsequent target",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "-20 HP, +4 ATT, -5 VIT, +2 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Nightmare Colony",
+    "Infested Chest",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/scepter-of-devastation"
+}

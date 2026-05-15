@@ -1,0 +1,38 @@
+{
+  "id": "pathfinders-helm",
+  "name": "Pathfinder's Helm",
+  "slug": "pathfinders-helm",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/pathfinders-helm.png",
+  "itemType": "Helm",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 380,
+  "description": "Notes Although not an ST item in its own right, this item is classed as Oryxmas Gear, and, if worn in conjuntion with Ornaments of Unity, will contribute to the Oryxmas Gear bonus stats.",
+  "stats": {
+    "damage": null,
+    "range": "4.5 (+0.1 per WIS over 30) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 DEF, +20 HP, +20 MP",
+    "On party: Berserk for 4 (+0.1 per WIS over 30) seconds On self: Speedy for 4 (+0.1 per WIS over 30) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Permafrost Lord",
+    "Snowy the Frost God",
+    "Oryx the Mad God 2",
+    "Frostaract",
+    "Frozen Ship",
+    "Hat God",
+    "Ice Cube God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pathfinder-s-helm"
+}

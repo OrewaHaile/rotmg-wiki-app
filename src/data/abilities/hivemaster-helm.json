@@ -1,0 +1,34 @@
+{
+  "id": "hivemaster-helm",
+  "name": "Hivemaster Helm",
+  "slug": "hivemaster-helm",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/hivemaster-helm.png",
+  "itemType": "Helm",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "A unique helm that gives up its speedy ability and some of its defense to summon 3 bees to help you in battle. It also gives a hefty speed boost to compensate for the loss of Speedy.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 DEF, +6 SPD",
+    "On party: Inflicts Berserk within 4 tiles for 6 seconds Summon 3 bees to aid the player in combat for 6 seconds Bee Attack: 120 damage every 0.6 seconds Bee Range: 4 sqrs Red Bee Effect: Inflicts Curse for 4 seconds after being active for 1.6 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Killer Bee Queen",
+    "The Beekeeper",
+    "Honeyed Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hivemaster-helm"
+}

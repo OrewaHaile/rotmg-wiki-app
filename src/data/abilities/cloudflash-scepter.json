@@ -1,0 +1,53 @@
+{
+  "id": "cloudflash-scepter",
+  "name": "Cloudflash Scepter",
+  "slug": "cloudflash-scepter",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/cloudflash-scepter.png",
+  "itemType": "Scepter",
+  "tier": "T4",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "2%",
+  "feedPower": 68,
+  "description": "History Before Patch X.32.7.0 (Feb 2020), this item had an MP cost of 80 and no stat bonus.",
+  "stats": {
+    "damage": "240 (+6 per WIS over 50) - 30 for each subsequent target",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+1 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Avalon the Archivist",
+    "Beginner Quest Chest",
+    "Standard Quest Chest",
+    "Brute of Oryx",
+    "Cube God",
+    "Cyclops God Chest",
+    "Genie",
+    "Ghost King",
+    "Kage Kami",
+    "Kogbold Expedition Engine",
+    "Lair Blue Spectre",
+    "Lair Grey Spectre",
+    "Lair White Spectre",
+    "Limon the Sprite Goddess",
+    "Native Sprite God",
+    "Oryx the Mad God",
+    "Pentaract",
+    "Realm Gods",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Skull Shrine",
+    "Stone Guardians"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cloudflash-scepter"
+}

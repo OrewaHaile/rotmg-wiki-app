@@ -1,0 +1,33 @@
+{
+  "id": "helm-of-the-jack-o-naut",
+  "name": "Helm of the Jack-o'-naut",
+  "slug": "helm-of-the-jack-o-naut",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/helm-of-the-jack-o-naut.png",
+  "itemType": "Helm",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes Reskinned version of UT Helm of the Juggernaut.",
+  "stats": {
+    "damage": null,
+    "range": "4.5 (+0.1 per WIS over 30) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 DEF, +5 SPD",
+    "On party: Berserk for 2.5 (+0.1 per WIS over 30) seconds On self: Armored for 2.5 (+0.1 per WIS over 30) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Withered Sphinx",
+    "Reanimated Hermit God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/helm-of-the-jack-o-naut"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "seal-of-invocation",
+  "name": "Seal of Invocation",
+  "slug": "seal-of-invocation",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/seal-of-invocation.png",
+  "itemType": "Seal",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "History This item previously had the following sprite:",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +40 MP, +4 DEX",
+    "On party: Healing, Damaging and HP Boost HP Boost: +80 (+2 per WIS over 50) max HP HP Boost Range: 4.5 (+1 per 10 WIS over 50) tiles HP Boost Duration: 4 (+1 per 10 WIS over 50) seconds Healing & Damaging Range: 4.5 (+0.1 per WIS over 50) tiles Healing & Damaging Duration: 4.5 (+0.1 per WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/seal-of-invocation"
+}

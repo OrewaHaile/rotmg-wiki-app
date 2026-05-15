@@ -1,0 +1,34 @@
+{
+  "id": "oryxs-escutcheon",
+  "name": "Oryx's Escutcheon",
+  "slug": "oryxs-escutcheon",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/oryxs-escutcheon.png",
+  "itemType": "Shield",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes Unlike other shields, this ability does not fire any shots. Instead, it calls down three sequential Exalted Beams on the cursor location, dealing huge armor-piercing AoE damage and stunning foes hit for a total of 3.2 seconds (provided all beams land). This unique mechanic allows it to stun foes for potentially longer than any other shield and extends the maximum range from a slightly lower 3 tiles to an effective 5.75, which is nearly double that of any other shield.",
+  "stats": {
+    "damage": null,
+    "range": "3 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+7 SPD, +10 DEF",
+    "On Ability Use: Summons three consecutive Exalted Beams that each deal 1000-1200 damage in a 2.75 square radius, inflicting Stunned for 2 seconds Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Knight"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/oryx-s-escutcheon"
+}

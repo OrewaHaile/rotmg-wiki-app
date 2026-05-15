@@ -1,0 +1,33 @@
+{
+  "id": "b-o-o-m",
+  "name": "B.O.O.M.",
+  "slug": "b-o-o-m",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/b-o-o-m.png",
+  "itemType": "Mace",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "Summon When the entire Scientific Summoner Set is equipped, the summon changes to:",
+  "stats": {
+    "damage": "150–200 (average: 175)",
+    "range": "7 tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "+5 ATT",
+    "Early Prototype: The M.E.R.V. becomes unstable after 5 seconds. Unstable M.E.R.V: Shoots 3 paralyzing shots thrice, then explodes for 1250 damage in 4.5 squares. Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "F.E.R.A.L.",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/b-o-o-m"
+}

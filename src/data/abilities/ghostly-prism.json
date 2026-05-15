@@ -1,0 +1,35 @@
+{
+  "id": "ghostly-prism",
+  "name": "Ghostly Prism",
+  "slug": "ghostly-prism",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/ghostly-prism.png",
+  "itemType": "Prism",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes A more peculiar prism. Unlike other prisms each use leaves behind a stationary grenade which does not attract enemies, and then detonates in a series of six explosions, similar to a Rock Candy. Each explosion is centered within a tile of the grenade, but the exact epicenter of each explosion is random.",
+  "stats": {
+    "damage": "320–480 (average: 400)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Teleport to cursor Spawns a stationary non-decoy grenade that explodes at the end of its duration Number of explosions: 6"
+  ],
+  "usableClasses": [
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Davy Jones",
+    "Sunken Treasure",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ghostly-prism"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "hydroflow-spell",
+  "name": "Hydroflow Spell",
+  "slug": "hydroflow-spell",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/hydroflow-spell.png",
+  "itemType": "Spell",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.9.0.0 (Apr 2026) update.",
+  "stats": {
+    "damage": "95–200 (+2 per WIS over 42) (average: 147.5)",
+    "range": "16 tiles",
+    "rateOfFire": null,
+    "shots": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)",
+    "projectiles": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)"
+  },
+  "effects": [
+    "+20 HP, +20 MP, +6 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hydroflow-spell"
+}

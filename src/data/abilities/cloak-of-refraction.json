@@ -1,0 +1,33 @@
+{
+  "id": "cloak-of-refraction",
+  "name": "Cloak of Refraction",
+  "slug": "cloak-of-refraction",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/cloak-of-refraction.png",
+  "itemType": "Cloak",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes A powerful cloak that offers sublime stat bonuses and the ability to deploy a stationary decoy. The two mirror images orbiting the decoy rapidly shoot towards the decoy every 0.2 seconds, allowing for high concentrated damage as enemies approach it.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+3 DEF, +10 SPD",
+    "Summon: 3 Mirror Images - the center is a decoy, the outer two orbit the center and fire 1 shot inwards and 2 shots outwards Damage: 200-300 (average: 250) Range: 6 tiles Shots hit multiple targets Shots pass through obstacles After exiting sneak: Fire 2 additional projectiles dealing damage equal to your Lethal Strike damage for 2.4 seconds. Sneak: Invisible for 5 seconds. After 1 second can be canceled by shooting. On Invisible end: Lethal Strike: Your weapon deals 40 (+1 per WIS > 34) and 30% (+1% per WIS > 34) of target’s defense as additional damage for 2.4 seconds MP Cost: 2 MP/proj Cooldown: 0.1 sec"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Crystal Entity",
+    "Crystallized Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cloak-of-refraction"
+}

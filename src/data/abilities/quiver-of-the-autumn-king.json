@@ -1,0 +1,32 @@
+{
+  "id": "quiver-of-the-autumn-king",
+  "name": "Quiver of the Autumn King",
+  "slug": "quiver-of-the-autumn-king",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/quiver-of-the-autumn-king.png",
+  "itemType": "Quiver",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "Notes The +7 DEX provided by this quiver boasts the highest damage increase out of all quivers.",
+  "stats": {
+    "damage": "350-390 (+4.5 per WIS over 34) (average: 370)",
+    "range": "15 tiles",
+    "rateOfFire": null,
+    "shots": "4 (arc gap: 7°)",
+    "projectiles": "4 (arc gap: 7°)"
+  },
+  "effects": [
+    "+7 DEX, +40 HP, +40 MP",
+    "Vulnerable: Targets receive 110% damage for 3 seconds after being hit. Paralyzed for 3 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/quiver-of-the-autumn-king"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "lightshow-scepter",
+  "name": "Lightshow Scepter",
+  "slug": "lightshow-scepter",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/lightshow-scepter.png",
+  "itemType": "Scepter",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes Part of the Court Magician Sorcerer Set.",
+  "stats": {
+    "damage": "200 (+6 per WIS over 50)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On self: WIS Boost (+20 WIS) for 5 seconds; With Full Set: MP Decrease (-50 MP) for 5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Puppet Master",
+    "The Puppet Master (Encore)",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/lightshow-scepter"
+}

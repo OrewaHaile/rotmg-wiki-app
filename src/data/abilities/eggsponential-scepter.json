@@ -1,0 +1,32 @@
+{
+  "id": "eggsponential-scepter",
+  "name": "Eggsponential Scepter",
+  "slug": "eggsponential-scepter",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/eggsponential-scepter.png",
+  "itemType": "Scepter",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "History This item was added in Exalt Version 5.10.0.0 (Apr 2025).",
+  "stats": {
+    "damage": "120 (+10 per WIS over 50) + 150 for each subsequent target",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+2 DEF, +2 DEX, +2 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Biff the Buffed Bunny",
+    "Event Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/eggsponential-scepter"
+}

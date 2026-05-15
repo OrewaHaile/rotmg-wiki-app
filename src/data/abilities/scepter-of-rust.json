@@ -1,0 +1,33 @@
+{
+  "id": "scepter-of-rust",
+  "name": "Scepter of Rust",
+  "slug": "scepter-of-rust",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/scepter-of-rust.png",
+  "itemType": "Scepter",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes This Scepter is one of an elusive few items that can inflict the Weak status on enemies. Weak reduces the affected enemy’s damage output by 10%, and no enemy in the game is immune to weak. It shines in dangerous dungeons, where enemies can do hundreds of damage per hit. Because of the nature of Scepters, it can apply the debuff to multiple targets from long range, and it boasts a relatively cheap MP cost to make the debuff spammable.",
+  "stats": {
+    "damage": "300 (+5 per WIS over 50) - 25 for each subsequent target",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+7 WIS",
+    "On enemies: Weak for 4 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Factory Control Core",
+    "Steampunk Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/scepter-of-rust"
+}

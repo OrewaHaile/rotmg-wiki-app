@@ -1,0 +1,30 @@
+{
+  "id": "hydroflow-tome",
+  "name": "Hydroflow Tome",
+  "slug": "hydroflow-tome",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/hydroflow-tome.png",
+  "itemType": "Tome",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.9.0.0 (Apr 2026) update.",
+  "stats": {
+    "damage": "640 (+7.2 per WIS over 70)",
+    "range": "7.2 (+0.05 per WIS over 70) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 HP, +20 MP, +6 VIT",
+    "Heal: 140 (+0.99 per WIS over 70) HP Party Effect: Healing [70/s] (+0.495 per WIS over 70) for 4.4 seconds Damage Nova: Explodes 2 times for 0.8 seconds within 2.5 sqrs"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hydroflow-tome"
+}

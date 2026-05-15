@@ -1,0 +1,34 @@
+{
+  "id": "volcanic-sheath",
+  "name": "Volcanic Sheath",
+  "slug": "volcanic-sheath",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/volcanic-sheath.png",
+  "itemType": "Sheath",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Volcanic Sheath is the only sheath which possesses wismod, boosting its own damage output as the user’s wisdom increases, as every 5 wisdom boosts its damage and radius. With maxed wisdom and no other items boosting it, kensei can reach 71 wisdom, making the explosion do 600 instead of 400 damage. This may be useful when clearing larger groups of enemies, as dashing through them and landing behind them will provide the user with stacks to increase damage output when the dash ends.",
+  "stats": {
+    "damage": "1200",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 WIS",
+    "Area Damage: 400 (+10 per WIS over 50)"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Malphas, Gilded Forgemaster",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/volcanic-sheath"
+}

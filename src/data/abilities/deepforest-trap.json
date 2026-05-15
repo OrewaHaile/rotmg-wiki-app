@@ -1,0 +1,50 @@
+{
+  "id": "deepforest-trap",
+  "name": "Deepforest Trap",
+  "slug": "deepforest-trap",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/deepforest-trap.png",
+  "itemType": "Trap",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 15,
+  "description": "History Before Exalt Version 3.3.5.0 (Mar 2023), this item dealt 140 damage and the trap duration was 20 seconds.",
+  "stats": {
+    "damage": "170",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On enemies: Inflicts Slowed for 3 (+0.1s per WIS over 34) seconds",
+    "Inflicts Slowed for 1.5 (+0.1s per WIS over 34) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Cyclops God Chest",
+    "Deathmage Chest",
+    "Ent Ancient",
+    "Fountain Spirit",
+    "Ghost King",
+    "Great Coil Snake Chest",
+    "Kage Kami",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Ogre King",
+    "Orc King",
+    "Phoenix Lord Chest",
+    "Red Demon Chest",
+    "Shambling Sludge",
+    "Warrior Bee",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/deepforest-trap"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "tome-of-holy-protection",
+  "name": "Tome of Holy Protection",
+  "slug": "tome-of-holy-protection",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/tome-of-holy-protection.png",
+  "itemType": "Tome",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes The Tome of Holy Protection (or “Prot”) grants Armored to yourself, which boosts effective defense by 50%. In addition, it gives a decent boost to stats when equipped. A maxed Priest will often have defenses in the 60+ range, which is comparable to a heavy armor class. (Note that Armored does not increase the In Combat threshold.)",
+  "stats": {
+    "damage": null,
+    "range": "8 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +8 DEF",
+    "Party Effect: Healing [70/s] (+0.495 per DEF over 40) for 4.4 seconds Party Effect: Within 8 sqrs DEF Boost (+12 DEF) for 6 seconds Effect on Self: Armored for 6 (+0.1 per DEF over 40) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bes",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tome-of-holy-protection"
+}

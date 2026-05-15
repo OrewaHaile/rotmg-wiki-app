@@ -1,0 +1,29 @@
+{
+  "id": "legacy-ghastly-drape",
+  "name": "Legacy Ghastly Drape",
+  "slug": "legacy-ghastly-drape",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/legacy-ghastly-drape.png",
+  "itemType": "Cloak",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 500,
+  "description": "Notes The reworked Snake Eye Ring has effectively obsoleted this legacy item, as the ring gives the same Speedy duration with a shorter cooldown.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Sneak: Invisible for 5 seconds. After 1 second can be canceled by shooting. Effect on Self: Speedy for 2 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legacy-ghastly-drape"
+}

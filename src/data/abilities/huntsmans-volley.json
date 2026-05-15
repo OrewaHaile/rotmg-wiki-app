@@ -1,0 +1,34 @@
+{
+  "id": "huntsmans-volley",
+  "name": "Huntsman's Volley",
+  "slug": "huntsmans-volley",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/huntsmans-volley.png",
+  "itemType": "Quiver",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes A unique quiver that fires one shot followed by 20 smaller shots that ignore enemy DEF at a delay. Theoretically this quiver could slightly outdamage Quiver of Shadows, however this is unlikely to happen as there is a low chance that all 21 shots will hit a single target. This quiver also loses to the void quiver in mana efficiency. Nevertheless, it remains a great quiver against enemies with high DEF and in situations where paralyzing enemies does not matter.",
+  "stats": {
+    "damage": "450-500 (+10 per WIS over 34) (average: 475)",
+    "range": "8.5 tiles",
+    "rateOfFire": null,
+    "shots": "1 (Additional 20 shots after 1 second)Additional Shot: 100-130 (+1 per WIS over 34) (average: 115) Ignores defense of target",
+    "projectiles": "1 (Additional 20 shots after 1 second)Additional Shot: 100-130 (+1 per WIS over 34) (average: 115) Ignores defense of target"
+  },
+  "effects": [
+    "+5 SPD",
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Wanderer",
+    "The Wanderer (Hidden Interregnum)",
+    "Interregnum Treasure Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/huntsman-s-volley"
+}

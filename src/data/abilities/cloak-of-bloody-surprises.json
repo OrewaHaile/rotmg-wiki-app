@@ -1,0 +1,35 @@
+{
+  "id": "cloak-of-bloody-surprises",
+  "name": "Cloak of Bloody Surprises",
+  "slug": "cloak-of-bloody-surprises",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/cloak-of-bloody-surprises.png",
+  "itemType": "Cloak",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes The Cloak of Bloody Surprises is an incredibly rare ability with a tremendous offensive focus. It provides a massive +30 ATT boost upon uncloaking, with 150 flat damage from lethal strike.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 DEF, +4 VIT",
+    "Sneak: Invisible for 5 seconds. After 1 second can be canceled by shooting. On Invisible end: Effect on Self: SPD Decrease (-40 SPD) for 3 seconds, ATT Boost (+30 ATT) for 3 seconds Lethal Strike: Your weapon deals 150 (+0 per ATT > 55) and 35% (+2% per ATT > 55) of target’s defense as additional damage for 3 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bloodroot Heart",
+    "Lost Sentry",
+    "Ravenous Rot",
+    "The Keyper"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cloak-of-bloody-surprises"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "embellished-quiver",
+  "name": "Embellished Quiver",
+  "slug": "embellished-quiver",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/embellished-quiver.png",
+  "itemType": "Quiver",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 850,
+  "description": "Notes Part of the Treasure Hunter Archer Set.",
+  "stats": {
+    "damage": "175 / 225 / 325 (outer/middle/inner shots), Total: 725 / 1565",
+    "range": "8 / 6 / 4 tiles",
+    "rateOfFire": null,
+    "shots": "3 / 9 (arc gap: 0° / 8°)",
+    "projectiles": "3 / 9 (arc gap: 0° / 8°)"
+  },
+  "effects": [
+    "Effect: Fire 3 projectiles in a line with the closest inflicting Paralyzed and the middle inflicting Slowed Middle Projectile: Slowed for 2 seconds Inner Projectile: Paralyzed for 2 seconds Shots hit multiple targets Ignores defense of target With Aquamarine Amulet: Fire an additional 2 lines of projectiles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Sandstone Titan",
+    "Genie",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/embellished-quiver"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "hivemind-mace",
+  "name": "Hivemind Mace",
+  "slug": "hivemind-mace",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/hivemind-mace.png",
+  "itemType": "Mace",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Unlike with tiered maces, the summons orbit around the player and cannot be moved. In order to get the full damage of the mace, it’s recommended to stand within melee range of the enemy if possible.",
+  "stats": {
+    "damage": "240–310 (average: 275)",
+    "range": "8.5 tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "+4 DEF, +4 DEX",
+    "Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Killer Bee Queen",
+    "The Beekeeper",
+    "Honeyed Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hivemind-mace"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "brain-of-the-golem",
+  "name": "Brain of the Golem",
+  "slug": "brain-of-the-golem",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/brain-of-the-golem.png",
+  "itemType": "Prism",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes This prism has a long duration (7 seconds) while costing 15 mana less that the tiered prism with the same duration, making this prism fairly efficient.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "No teleport; summons a stationary golem decoy that explodes at the end of its duration Explosion: Dazed for 2 seconds on enemies within 1.75 tiles; 0 damage"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Marble Defender",
+    "Marble Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/brain-of-the-golem"
+}

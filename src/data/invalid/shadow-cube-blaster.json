@@ -1,0 +1,31 @@
+{
+  "id": "shadow-cube-blaster",
+  "name": "Shadow Cube Blaster",
+  "slug": "shadow-cube-blaster",
+  "category": "skulls",
+  "subCategory": "skulls",
+  "sprite": "/items/shadow-cube-blaster.png",
+  "itemType": "Skull",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "This page is currently a work in progress.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/shadow-cube-blaster",
+  "invalidReasons": [
+    "invalid tier"
+  ],
+  "importedAt": "2026-05-15T14:31:59.200Z"
+}

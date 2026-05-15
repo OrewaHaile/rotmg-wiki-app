@@ -1,0 +1,45 @@
+{
+  "id": "breathtaker-skull",
+  "name": "Breathtaker Skull",
+  "slug": "breathtaker-skull",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/breathtaker-skull.png",
+  "itemType": "Skull",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "History Before Exalt Version 3.3.5.0 (Mar 2023), this item dealt 55 damage, had 1.5 damage scaling and 6 healing radius.",
+  "stats": {
+    "damage": "110-120 (+3 for every WIS above 55)",
+    "range": "4 (+0.1 for every WIS above 50) tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+5 HP",
+    "Necromancy: raise 1 Breathtaker Undead to fight for you.",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Deathmage Chest",
+    "Dwarf King",
+    "Elf Wizard",
+    "Ent Ancient",
+    "Goblin Mage",
+    "Great Coil Snake Chest",
+    "Hobbit Mage",
+    "Lich",
+    "Mama Megamoth",
+    "Sandsman King",
+    "Sumo Master",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/breathtaker-skull"
+}

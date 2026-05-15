@@ -1,0 +1,50 @@
+{
+  "id": "iron-quiver",
+  "name": "Iron Quiver",
+  "slug": "iron-quiver",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/iron-quiver.png",
+  "itemType": "Quiver",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 15,
+  "description": "History Before Patch X.32.7.0 (Feb 2020), this item had an MP cost of 60 and a damage of 180-220 (200).",
+  "stats": {
+    "damage": "95-115 (+1.63 per WIS over 34) (average: 105)",
+    "range": "15 tiles",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 7°)",
+    "projectiles": "2 (arc gap: 7°)"
+  },
+  "effects": [
+    "+2 DEX",
+    "Vulnerable: Targets receive 110% damage for 3 seconds after being hit. Paralyzed for 3 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Cyclops God Chest",
+    "Deathmage Chest",
+    "Ent Ancient",
+    "Fountain Spirit",
+    "Ghost King",
+    "Great Coil Snake Chest",
+    "Kage Kami",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Ogre King",
+    "Orc King",
+    "Phoenix Lord Chest",
+    "Red Demon Chest",
+    "Shambling Sludge",
+    "Warrior Bee",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/iron-quiver"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "parasitic-concoction",
+  "name": "Parasitic Concoction",
+  "slug": "parasitic-concoction",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/parasitic-concoction.png",
+  "itemType": "Poison",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 850,
+  "description": "Notes Part of the Flesh Collector Set.",
+  "stats": {
+    "damage": "7.5 (+0.2 per WIS over 50) %",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+2 ATT, -2 VIT",
+    "On enemies: Curse for 4 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Infested Chest",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/parasitic-concoction"
+}

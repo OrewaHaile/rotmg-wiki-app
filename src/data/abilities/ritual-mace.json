@@ -1,0 +1,43 @@
+{
+  "id": "ritual-mace",
+  "name": "Ritual Mace",
+  "slug": "ritual-mace",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/ritual-mace.png",
+  "itemType": "Mace",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "",
+  "stats": {
+    "damage": "50–75 (average: 62.5)",
+    "range": "4.05 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Deathmage Chest",
+    "Dwarf King",
+    "Elf Wizard",
+    "Ent Ancient",
+    "Goblin Mage",
+    "Great Coil Snake Chest",
+    "Hobbit Mage",
+    "Lich",
+    "Mama Megamoth",
+    "Sandsman King",
+    "Sumo Master",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ritual-mace"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "lightning-in-a-bottle",
+  "name": "Lightning in a Bottle",
+  "slug": "lightning-in-a-bottle",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/lightning-in-a-bottle.png",
+  "itemType": "Poison",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "300",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Hurls Lightning: Stasis for 1.8 seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/lightning-in-a-bottle"
+}

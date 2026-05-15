@@ -1,0 +1,36 @@
+{
+  "id": "ancient-eminence",
+  "name": "Ancient Eminence",
+  "slug": "ancient-eminence",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/ancient-eminence.png",
+  "itemType": "Spell",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Part of the Twilight Archmage Set.",
+  "stats": {
+    "damage": "85–145 (+2.3 per WIS over 42) (average: 115)",
+    "range": "12.1 tiles",
+    "rateOfFire": null,
+    "shots": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)",
+    "projectiles": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)"
+  },
+  "effects": [
+    "+20 MP, +5 VIT",
+    "With Defiled Equilibrium: Summons Inferno for 4.8 seconds that deals 130-150 armor piercing damage Summons Blizzard for 4.8 seconds that deals 90-100 damage and inflicts Slowed for 3 seconds Cooldown: 5.8 seconds Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Fire Mage",
+    "Fire Adept",
+    "Archmage of Flame",
+    "Pyro Warlock",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ancient-eminence"
+}

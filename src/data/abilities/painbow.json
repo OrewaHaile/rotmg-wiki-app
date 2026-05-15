@@ -1,0 +1,32 @@
+{
+  "id": "painbow",
+  "name": "Painbow",
+  "slug": "painbow",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/painbow.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 100,
+  "description": "Notes A unique trap in that the Painbow’s explosion can begin from anywhere within 1 tile of the trap’s placement. This is also the only trap to have a random explosion radius of 1-4, with all other traps explosion radius’ being a set value.",
+  "stats": {
+    "damage": "10-60 (35) per pulse (120-720 (420) total); 1 pulse per 1.2 seconds (12 total)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Triggers every 0.6 second for 7.2 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Pot of Gold",
+    "Yellow Leprechaun"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/painbow"
+}

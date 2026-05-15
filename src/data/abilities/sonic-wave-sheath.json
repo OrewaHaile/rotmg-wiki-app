@@ -1,0 +1,32 @@
+{
+  "id": "sonic-wave-sheath",
+  "name": "Sonic Wave Sheath",
+  "slug": "sonic-wave-sheath",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/sonic-wave-sheath.png",
+  "itemType": "Sheath",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "",
+  "stats": {
+    "damage": "450–500 (average: 475)",
+    "range": "8 tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "+40 HP, +40 MP, +7 DEF",
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sonic-wave-sheath"
+}

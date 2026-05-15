@@ -1,0 +1,30 @@
+{
+  "id": "carrot-cake-crest",
+  "name": "Carrot Cake Crest",
+  "slug": "carrot-cake-crest",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/carrot-cake-crest.png",
+  "itemType": "Seal",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes Part of the Fresh Carrot Paladin Set. Although the description doesn’t state it, the effect most likely curses just like Abyssal Insignia.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +5 VIT",
+    "Summon a sweet carrot cake for 5 seconds Carrot Cake Effect: Sugar bombs enemies and deals 150-200 damage within 4.5 sqrs every 0.4 seconds Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/carrot-cake-crest"
+}

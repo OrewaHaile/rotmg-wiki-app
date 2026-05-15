@@ -1,0 +1,33 @@
+{
+  "id": "tipsy-topper",
+  "name": "Tipsy Topper",
+  "slug": "tipsy-topper",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/tipsy-topper.png",
+  "itemType": "Helm",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes This helm trades a lack of Speedy, and the same Berserk duration as the T0 Combat Helm, in exchange for a decently large ATT Boost, DEF Boost, and VIT Boost. The main drawback is that this helm also inflicts Unstable on the user, making precise aiming and landing shots much harder on most melees without being dangerously close to an enemy.",
+  "stats": {
+    "damage": null,
+    "range": "4.5 (+0.1 per WIS over 30) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 DEF, +6 VIT",
+    "ATT Boost (+10 ATT), VIT Boost (+10 VIT), DEF Boost (+10 DEF) for 4 seconds On party: Berserk for 2.5 (+0.1 per WIS over 30) seconds On self: Unstable for 2.5 (+0.1 per WIS over 30) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bradley the Barkeep",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tipsy-topper"
+}

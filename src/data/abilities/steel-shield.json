@@ -1,0 +1,50 @@
+{
+  "id": "steel-shield",
+  "name": "Steel Shield",
+  "slug": "steel-shield",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/steel-shield.png",
+  "itemType": "Shield",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 15,
+  "description": "History Before Patch X.32.7.0 (Feb 2020), this item had a stat bonus of +6 DEF.",
+  "stats": {
+    "damage": "150-190 (+2.13 per WIS over 34) (average: 170)",
+    "range": "3.2 tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "+4 DEF",
+    "Damage Reduction: On ability use, you receive 75% damage for 5 seconds Stunned for 3 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Cyclops God Chest",
+    "Deathmage Chest",
+    "Ent Ancient",
+    "Fountain Spirit",
+    "Ghost King",
+    "Great Coil Snake Chest",
+    "Kage Kami",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Ogre King",
+    "Orc King",
+    "Phoenix Lord Chest",
+    "Red Demon Chest",
+    "Shambling Sludge",
+    "Warrior Bee",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/steel-shield"
+}

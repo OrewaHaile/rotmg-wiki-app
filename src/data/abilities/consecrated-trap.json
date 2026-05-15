@@ -1,0 +1,31 @@
+{
+  "id": "consecrated-trap",
+  "name": "Consecrated Trap",
+  "slug": "consecrated-trap",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/consecrated-trap.png",
+  "itemType": "Trap",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 700,
+  "description": "Notes Part of the Cursed Cursebreaker Huntress Set.",
+  "stats": {
+    "damage": "0",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 MP, +5 DEX",
+    "Woodland Blessing: Trap creates an Aura that provides Healing and Berserk within 4 Squares for as long as the trap remains untriggered.",
+    "Inflicts Slowed for 3 (+0.1s per DEX over 32) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/consecrated-trap"
+}

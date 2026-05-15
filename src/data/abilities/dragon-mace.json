@@ -1,0 +1,32 @@
+{
+  "id": "dragon-mace",
+  "name": "Dragon Mace",
+  "slug": "dragon-mace",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/dragon-mace.png",
+  "itemType": "Mace",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "History Before Exalt Version 6.9.0.0 (Apr 2026), this item was soulbound.",
+  "stats": {
+    "damage": "50–70 (average: 60)",
+    "range": "5 tiles",
+    "rateOfFire": null,
+    "shots": "5",
+    "projectiles": "5"
+  },
+  "effects": [
+    "+4 SPD, +4 WIS",
+    "Shots pass through obstacles Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ivory Wyvern"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dragon-mace"
+}

@@ -1,0 +1,50 @@
+{
+  "id": "spirit-salve-tome",
+  "name": "Spirit Salve Tome",
+  "slug": "spirit-salve-tome",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/spirit-salve-tome.png",
+  "itemType": "Tome",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 15,
+  "description": "Trivia This item is sometimes used a joke replacement for the Tome of Purification, as their sprites are somewhat similar.",
+  "stats": {
+    "damage": "320 (+5.6 per WIS over 70)",
+    "range": "6.4 (+0.05 per WIS over 70) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+2 VIT",
+    "Heal: 100 (+0.77 per WIS over 70) HP Party Effect: Healing [50/s] (+0.3850 per WIS over 70) for 4.4 seconds Damage Nova: Explodes 2 times for 0.8 seconds within 2.5 sqrs"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Cyclops God Chest",
+    "Deathmage Chest",
+    "Ent Ancient",
+    "Fountain Spirit",
+    "Ghost King",
+    "Great Coil Snake Chest",
+    "Kage Kami",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Ogre King",
+    "Orc King",
+    "Phoenix Lord Chest",
+    "Red Demon Chest",
+    "Shambling Sludge",
+    "Warrior Bee",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spirit-salve-tome"
+}

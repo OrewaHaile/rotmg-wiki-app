@@ -1,0 +1,31 @@
+{
+  "id": "epiphany-skull",
+  "name": "Epiphany Skull",
+  "slug": "epiphany-skull",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/epiphany-skull.png",
+  "itemType": "Skull",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Summons a mind minion to enlighten foes"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/epiphany-skull"
+}

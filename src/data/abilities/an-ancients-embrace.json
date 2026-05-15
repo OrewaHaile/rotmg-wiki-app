@@ -1,0 +1,30 @@
+{
+  "id": "an-ancients-embrace",
+  "name": "An Ancient's Embrace",
+  "slug": "an-ancients-embrace",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/an-ancients-embrace.png",
+  "itemType": "Sheath",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "History Before Exalt Version 6.9.0.0 (Apr 2026), this item was soulbound.",
+  "stats": {
+    "damage": "1200",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 WIS",
+    "Area Damage: 400 (+10 per WIS over 50)"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/an-ancient-s-embrace"
+}

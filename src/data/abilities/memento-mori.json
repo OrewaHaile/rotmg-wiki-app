@@ -1,0 +1,35 @@
+{
+  "id": "memento-mori",
+  "name": "Memento Mori",
+  "slug": "memento-mori",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/memento-mori.png",
+  "itemType": "Skull",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes Part of the Hollow King Necromancer Set.",
+  "stats": {
+    "damage": "565 (+4 for every ATT above 55)",
+    "range": "4.05 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "+5 VIT, +10 ATT",
+    "Does not heal Necromancy: raise 1 Mori Undead to fight for you. On self: Damaging for 3 seconds",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ghost King",
+    "Flesh Golem",
+    "Heroic Septavius the Ghost God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/memento-mori"
+}

@@ -1,0 +1,51 @@
+{
+  "id": "heartstealer-skull",
+  "name": "Heartstealer Skull",
+  "slug": "heartstealer-skull",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/heartstealer-skull.png",
+  "itemType": "Skull",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 15,
+  "description": "History Before Exalt Version 3.3.5.0 (Mar 2023), this item dealt 80 damage, had 2 damage scaling and 6 healing radius.",
+  "stats": {
+    "damage": "145-160 (+3 for every WIS above 55)",
+    "range": "4 (+0.1 for every WIS above 50) tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+15 HP",
+    "Necromancy: raise 1 Heartstealer Undead to fight for you.",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Cyclops God Chest",
+    "Deathmage Chest",
+    "Ent Ancient",
+    "Fountain Spirit",
+    "Ghost King",
+    "Great Coil Snake Chest",
+    "Kage Kami",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Ogre King",
+    "Orc King",
+    "Phoenix Lord Chest",
+    "Red Demon Chest",
+    "Shambling Sludge",
+    "Warrior Bee",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/heartstealer-skull"
+}

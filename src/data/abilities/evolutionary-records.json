@@ -1,0 +1,41 @@
+{
+  "id": "evolutionary-records",
+  "name": "Evolutionary Records",
+  "slug": "evolutionary-records",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/evolutionary-records.png",
+  "itemType": "Tome",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes The Evolutionary Records is a unique tome with three modes that change the Priest’s stats and add additional shots to boost DPS.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +50 MP",
+    "Hold [Shift] for 3 seconds to change modes Sea Evolution: Turn into a powerful crustacean for 6 seconds. Transformation Perks: Gain two additional projectiles on shoot which deal 80-110 damage. Effect on Self: WIS Boost (+15 WIS), VIT Boost (+15 VIT), SPD Decrease (-10 SPD), DEX Decrease (-10 DEX) for 6 seconds. Heal: 90 (+0.715 per VIT over 35) HP Self Effect: Healing [45/s] (+0.3575 per VIT over 35) for 6 seconds Land Evolution: Turn into a powerful reptile for 6 seconds. Transformation Perks: Gain two additional projectiles on shoot which deal 90-110 damage. Effect on Self: ATT Boost (+15 ATT), DEF Boost (+15 DEF), WIS Decrease (-10 WIS), HP Decrease (-100 HP) for 6 seconds. Heal: 90 (+0.715 per DEF over 35) HP Self Effect: Healing [45/s] (+0.3575 per DEF over 35) for 6 seconds Sky Evolution: Turn into a powerful insect for 6 seconds. Transformation Perks: Gain two additional projectiles on shoot which deal 40-60 armour piercing damage. Effect on Self: DEX Boost (+15 DEX), SPD Boost (+15 SPD), VIT Decrease (-10 VIT), DEF Decrease (-10 DEF) for 6 seconds. Heal: 90 (+0.715 per SPD over 50) HP Self Effect: Healing [45/s] (+0.3575 per SPD over 50) for 6 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Animate Sigillaria",
+    "Colossal Mantis",
+    "Critter Brood",
+    "Grand Dragonfly",
+    "Hunter Dragonfly",
+    "Legion Colonel",
+    "Man-Eating Flytrap",
+    "Scutosaurus",
+    "Spitting Arachnid",
+    "Sting Spider"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/evolutionary-records"
+}

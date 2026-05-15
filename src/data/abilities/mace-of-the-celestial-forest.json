@@ -1,0 +1,32 @@
+{
+  "id": "mace-of-the-celestial-forest",
+  "name": "Mace of the Celestial Forest",
+  "slug": "mace-of-the-celestial-forest",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/mace-of-the-celestial-forest.png",
+  "itemType": "Mace",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes This mace randomly summons one of four possible stationary sprite trees, which have varying amounts of shots, damage, and attack frequency.",
+  "stats": {
+    "damage": "90–110 (average: 100 / total: 270-330 (300))",
+    "range": "10 tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "+5 DEX",
+    "Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Limon the Sprite Goddess"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mace-of-the-celestial-forest"
+}

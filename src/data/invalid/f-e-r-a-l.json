@@ -1,0 +1,31 @@
+{
+  "id": "f-e-r-a-l",
+  "name": "F.E.R.A.L.",
+  "slug": "f-e-r-a-l",
+  "category": "maces",
+  "subCategory": "maces",
+  "sprite": "/items/f-e-r-a-l.png",
+  "itemType": "Mace",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "F.E.R.A.L. is the boss of High Tech Terror.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/f-e-r-a-l",
+  "invalidReasons": [
+    "invalid tier"
+  ],
+  "importedAt": "2026-05-15T14:37:27.762Z"
+}

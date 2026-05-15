@@ -1,0 +1,30 @@
+{
+  "id": "spinal-quiver",
+  "name": "Spinal Quiver",
+  "slug": "spinal-quiver",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/spinal-quiver.png",
+  "itemType": "Quiver",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes Part of the Reanimated Archer Set.",
+  "stats": {
+    "damage": "100-150 (+4 per SPD over 41) (average: 125)",
+    "range": "6 tiles (true range: 0 tile(s))",
+    "rateOfFire": null,
+    "shots": "20 (arc gap: 18°)",
+    "projectiles": "20 (arc gap: 18°)"
+  },
+  "effects": [
+    "+4 SPD",
+    "Slowed for 2.5 seconds on enemies Speedy on self for 3 seconds Wavy shots Shots pass through obstacles Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spinal-quiver"
+}

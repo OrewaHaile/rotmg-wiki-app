@@ -1,0 +1,36 @@
+{
+  "id": "crystallised-fangs-venom",
+  "name": "Crystallised Fang's Venom",
+  "slug": "crystallised-fangs-venom",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/crystallised-fangs-venom.png",
+  "itemType": "Poison",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 850,
+  "description": "Notes This poison sacrifices personal damage for the unique and very powerful effect of inflicting Armor Broken, which can massively increase group damage. Unlike the Knight’s Shield of Ogmur, Assassins can Armor Break from a distance. The downside is the very long throw time and small radius, which can make it difficult to aim at mobile targets.",
+  "stats": {
+    "damage": "0",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 DEX",
+    "On enemies: Armor Broken for 4 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Adult Baneserpent",
+    "Ancient Kaiju",
+    "Sentient Monolith",
+    "Crystal Worm Father (Event Boss)",
+    "The Keyper"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/crystallised-fang-s-venom"
+}

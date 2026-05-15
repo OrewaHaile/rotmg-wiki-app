@@ -1,0 +1,34 @@
+{
+  "id": "cloak-of-the-darkened-sun",
+  "name": "Cloak of the Darkened Sun",
+  "slug": "cloak-of-the-darkened-sun",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/cloak-of-the-darkened-sun.png",
+  "itemType": "Cloak",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 700,
+  "description": "Notes Part of the Agents of Oryx Abilities.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEF, +4 DEX",
+    "Strike Precautions: HP Boost (+100 HP) for 4.5 seconds when used above 550 HP Cooldown: 5.5 seconds Stealth Guard: Restore 20 HP when hit while Invisible above 550 HP Emergency Ration: Restore 80 HP when hit while Invisible below 550 HP Cooldown: 4 seconds After exiting sneak: Fire 2 additional projectiles dealing damage equal to your Lethal Strike damage for 2.4 seconds. Sneak: Invisible for 5 seconds. After 1 second can be canceled by shooting. On Invisible end: Lethal Strike: Your weapon deals 60 (+3 per VIT > 24) and 45% (+1% per VIT > 24) of target’s defense as additional damage for 2.4 seconds MP Cost: 2 MP/proj Cooldown: 0.1 sec"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cloak-of-the-darkened-sun"
+}

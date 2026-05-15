@@ -1,0 +1,33 @@
+{
+  "id": "polarity-poison",
+  "name": "Polarity Poison",
+  "slug": "polarity-poison",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/polarity-poison.png",
+  "itemType": "Poison",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This poison throws an orange primary bomb that, on impact, creates 13 secondary blue bombs which radiate outwards in an X pattern (3 on each arm and 1 in the center), each one with the same radius as the original. The orange bomb deals exclusively (but much higher) poison damage over time, and the blue bombs deal both poison and impact damage while inflicting Slowed onto all enemies hit.",
+  "stats": {
+    "damage": "Primary Bomb: 5 (+0.2 per WIS over 50) % Secondary Bombs: 0 %",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+8 WIS",
+    "Secondary Bombs: Slowed for 3s"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Twilight Archmage",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/polarity-poison"
+}

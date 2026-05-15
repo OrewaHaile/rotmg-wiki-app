@@ -1,0 +1,31 @@
+{
+  "id": "tome-of-moral-support",
+  "name": "Tome of Moral Support",
+  "slug": "tome-of-moral-support",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/tome-of-moral-support.png",
+  "itemType": "Tome",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Encourages allies less"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tome-of-moral-support"
+}

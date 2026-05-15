@@ -1,0 +1,29 @@
+{
+  "id": "novices-lute",
+  "name": "Novice's Lute",
+  "slug": "novices-lute",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/novices-lute.png",
+  "itemType": "Lute",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter ability for the Bard class. It does not drop from enemies.",
+  "stats": {
+    "damage": null,
+    "range": "x1.25",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Party Effect: Within 4.5 squares Inspired for 3 seconds, DEF Boost (+1 DEF) for 2 seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/novice-s-lute"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "enchantment-orb",
+  "name": "Enchantment Orb",
+  "slug": "enchantment-orb",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/enchantment-orb.png",
+  "itemType": "Orb",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes This orb doesn’t inflict Stasis, but instead, it grants the user Berserk, which is only shared with Soul of the Bearer, however, Soul of the Bearer doesn’t curse and has a 4 second cooldown, and also grants Speedy, which can be undesirable when dodging enemy attacks, and is also much rarer.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On self: Berserk for 2 (+0.06667 per WIS over 55) secondsOn enemies: Curse (on cursor): Curse Radius: 2 (+0.1 per WIS over 55) tiles Curse Duration: 3 (+1 per 15 WIS over 55) seconds"
+  ],
+  "usableClasses": [
+    "Mystic"
+  ],
+  "dropsFrom": [
+    "Fountain Spirit",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/enchantment-orb"
+}

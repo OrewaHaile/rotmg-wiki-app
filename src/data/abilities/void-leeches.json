@@ -1,0 +1,32 @@
+{
+  "id": "void-leeches",
+  "name": "Void Leeches",
+  "slug": "void-leeches",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/void-leeches.png",
+  "itemType": "Tome",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEF",
+    "Summons a leech that drains enemy healthLeeches explodes with an AOE HealSwitch abilities to immediately detonate Leeches"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Event Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/void-leeches"
+}

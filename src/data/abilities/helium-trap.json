@@ -1,0 +1,29 @@
+{
+  "id": "helium-trap",
+  "name": "Helium Trap",
+  "slug": "helium-trap",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/helium-trap.png",
+  "itemType": "Trap",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "2,000",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/helium-trap"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "snake-charmer-pungi",
+  "name": "Snake Charmer Pungi",
+  "slug": "snake-charmer-pungi",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/snake-charmer-pungi.png",
+  "itemType": "Lute",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes This lute sacrifices Inspired effect for a flat +7 SPD and Speedy effect on activation. However, it retains the active defense bonus from tiered lutes. The combined speed and defense it grants make it ideal for rushing dungeons.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+7 SPD",
+    "Party Effect: Within 4.5 squares DEF Boost (+4 DEF) for 5 seconds On self: Speedy for 4 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Stheno the Snake Queen",
+    "Snakepit Guard",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/snake-charmer-pungi"
+}

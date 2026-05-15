@@ -1,0 +1,32 @@
+{
+  "id": "tezutsu-hanabi",
+  "name": "Tezutsu Hanabi",
+  "slug": "tezutsu-hanabi",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/tezutsu-hanabi.png",
+  "itemType": "Scepter",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes The Friendly Spirit summoned by this ability will level up in proximity with those summoned by the Sage’s Wakibiki, Ethereal Happi, Flowering Kimono, and Kagenohikari. The level of the spirit will increase further as more spirits are gathered.",
+  "stats": {
+    "damage": "175 (+7.5 per WIS over 50)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +5 VIT",
+    "Hold [Shift] for 0.75 seconds to change modes Light Show: On Ability Use: Summon an orbiting Friendly Spirit which chases and attacks enemies. The spirit synergizes in the presence of other spirits. Upgrade Levels: 1: 150-200 damage shotgun. 2: 150-200 damage shotgun and infrequent 70-100 damage novas. 3: 150-200 damage shotgun and infrequent 70-100 damage novas. Lifetime: 6 / 8 / 10 seconds Cooldown: 10 seconds Fireworks Stockpile: On Shoot: Build up a stockpile which invigorates and strengthens nearby spirits. Cooldown: 5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Kitsune Umi"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tezutsu-hanabi"
+}

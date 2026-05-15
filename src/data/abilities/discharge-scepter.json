@@ -1,0 +1,41 @@
+{
+  "id": "discharge-scepter",
+  "name": "Discharge Scepter",
+  "slug": "discharge-scepter",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/discharge-scepter.png",
+  "itemType": "Scepter",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "History Before Patch X.32.7.0 (Feb 2020), this item had an MP cost of 50.",
+  "stats": {
+    "damage": "120 (+2.5 per WIS over 50) - 12 for each subsequent target",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Deathmage Chest",
+    "Dwarf King",
+    "Elf Wizard",
+    "Ent Ancient",
+    "Goblin Mage",
+    "Great Coil Snake Chest",
+    "Hobbit Mage",
+    "Lich",
+    "Mama Megamoth",
+    "Sandsman King",
+    "Sumo Master",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/discharge-scepter"
+}

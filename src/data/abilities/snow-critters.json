@@ -1,0 +1,34 @@
+{
+  "id": "snow-critters",
+  "name": "Snow Critters",
+  "slug": "snow-critters",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/snow-critters.png",
+  "itemType": "Quiver",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 850,
+  "description": "Notes Part of the Frost Wander Archer Set.",
+  "stats": {
+    "damage": "300–350 (average: 325 / total: 900-1050 (975)) With Magical Winter Scarf equipped: 350-525 (average: 437.5 / total: 1050-1575 (1312.5))",
+    "range": "6 tiles (true range: ~3 tiles)",
+    "rateOfFire": null,
+    "shots": "3 (arc gap: 15°)",
+    "projectiles": "3 (arc gap: 15°)"
+  },
+  "effects": [
+    "+5 DEF",
+    "Gun Critter: This critter rapidly fires towards enemies. Flail Snowflake: Creates 4 spinning flails around the spawn point. Heavy Critter: This critter fires 3 larger, heavier bullets in a cone.",
+    "Shots hit multiple targets Shots pass through obstaclesWith Frostbite Mittens equipped: Every 3rd shot inflicts Slowed for 0.2s",
+    "Shots hit multiple targets Shots pass through obstacles",
+    "With Blizzard Jacket equipped: Inflicts Slowed for 0.2s",
+    "Shots pass through obstaclesWith Magical Winter Scarf equipped: Every other shot inflicts Slowed for 0.2 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/snow-critters"
+}

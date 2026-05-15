@@ -1,0 +1,44 @@
+{
+  "id": "bronze-helm",
+  "name": "Bronze Helm",
+  "slug": "bronze-helm",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/bronze-helm.png",
+  "itemType": "Helm",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "History Before Patch X.32.7.0 (Feb 2020), this item had a duration of 4 seconds and cooldown of 5 seconds.",
+  "stats": {
+    "damage": null,
+    "range": "4.5 (+0.1 per WIS over 30) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+3 DEF",
+    "On party: Berserk for 3 (+0.1 per WIS over 30) seconds On self: Speedy for 2.5 (+0.1 per WIS over 30) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Deathmage Chest",
+    "Dwarf King",
+    "Elf Wizard",
+    "Ent Ancient",
+    "Goblin Mage",
+    "Great Coil Snake Chest",
+    "Hobbit Mage",
+    "Lich",
+    "Mama Megamoth",
+    "Sandsman King",
+    "Sumo Master",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bronze-helm"
+}

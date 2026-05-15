@@ -1,0 +1,32 @@
+{
+  "id": "helm-of-the-tribune",
+  "name": "Helm of the Tribune",
+  "slug": "helm-of-the-tribune",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/helm-of-the-tribune.png",
+  "itemType": "Helm",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "Notes This helm provides the most DEF out of any helmet, while also providing 40 HP/MP. In order to permanently activate this helmet, you need a Magic Heal level of 76, as well as a maxed wisdom stat.",
+  "stats": {
+    "damage": null,
+    "range": "4.5 (+0.1 per WIS over 30) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+12 DEF, +40 HP, +40 MP",
+    "On party: Berserk for 4.5 (+0.1 per WIS over 30) seconds On self: Speedy for 4 (+0.1 per WIS over 30) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/helm-of-the-tribune"
+}

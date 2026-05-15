@@ -1,0 +1,53 @@
+{
+  "id": "felwasp-toxin",
+  "name": "Felwasp Toxin",
+  "slug": "felwasp-toxin",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/felwasp-toxin.png",
+  "itemType": "Poison",
+  "tier": "T4",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "2%",
+  "feedPower": 68,
+  "description": "Before Exalt Version 5.12.0.0 (June 2025), this item impact damage was 140, its total damage 640, WIS scale was 11, base damage boost was 7% and its damage boost scale was 0.15.",
+  "stats": {
+    "damage": "8 (+0.175 per WIS over 50) %",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+2 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Avalon the Archivist",
+    "Beginner Quest Chest",
+    "Standard Quest Chest",
+    "Brute of Oryx",
+    "Cube God",
+    "Cyclops God Chest",
+    "Genie",
+    "Ghost King",
+    "Kage Kami",
+    "Kogbold Expedition Engine",
+    "Lair Blue Spectre",
+    "Lair Grey Spectre",
+    "Lair White Spectre",
+    "Limon the Sprite Goddess",
+    "Native Sprite God",
+    "Oryx the Mad God",
+    "Pentaract",
+    "Realm Gods",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Skull Shrine",
+    "Stone Guardians"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/felwasp-toxin"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "skull-of-krampus",
+  "name": "Skull of Krampus",
+  "slug": "skull-of-krampus",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/skull-of-krampus.png",
+  "itemType": "Skull",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 380,
+  "description": "Notes Although not an ST item in its own right, this item is classed as Oryxmas Gear, and, if worn in conjuntion with Ornaments of Unity, will contribute to the Oryxmas Gear bonus stats.",
+  "stats": {
+    "damage": "290-315 (+3 for every WIS above 55)",
+    "range": "4 (+0.1 for every WIS above 50) tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+90 HP, +20 MP",
+    "Necromancy: raise 1 Krampus Undead to fight for you.",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 2",
+    "Frostaract",
+    "Frozen Ship",
+    "Hat God",
+    "Ice Cube God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/skull-of-krampus"
+}

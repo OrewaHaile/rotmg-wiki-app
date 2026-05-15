@@ -1,0 +1,30 @@
+{
+  "id": "makeshift-blowpipe",
+  "name": "Makeshift Blowpipe",
+  "slug": "makeshift-blowpipe",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/makeshift-blowpipe.png",
+  "itemType": "Poison",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Alchemist Assassin Set.",
+  "stats": {
+    "damage": "350–375 (+4 per ATT over 50) (average: 362.5)",
+    "range": "8.1 tiles",
+    "rateOfFire": null,
+    "shots": "4",
+    "projectiles": "4"
+  },
+  "effects": [
+    "+6 ATT",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/makeshift-blowpipe"
+}

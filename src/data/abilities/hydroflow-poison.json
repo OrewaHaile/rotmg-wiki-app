@@ -1,0 +1,29 @@
+{
+  "id": "hydroflow-poison",
+  "name": "Hydroflow Poison",
+  "slug": "hydroflow-poison",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/hydroflow-poison.png",
+  "itemType": "Poison",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.9.0.0 (Apr 2026) update.",
+  "stats": {
+    "damage": "9.5 (+0.225 per WIS over 50) %",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 HP, +20 MP, +3 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hydroflow-poison"
+}

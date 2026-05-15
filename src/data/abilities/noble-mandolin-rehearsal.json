@@ -1,0 +1,32 @@
+{
+  "id": "noble-mandolin-rehearsal",
+  "name": "Noble Mandolin (Rehearsal)",
+  "slug": "noble-mandolin-rehearsal",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/noble-mandolin-rehearsal.png",
+  "itemType": "Lute",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes In comparison to the original Noble Mandolin the damage values are greatly reduced, but the equip stats, ATT buff, and damaging duration remain the same. Even with the nerf, this is a powerful lute, especially for small groups / solo play.",
+  "stats": {
+    "damage": "320–400 (average: 360)",
+    "range": "16 (effective ~3) tiles",
+    "rateOfFire": null,
+    "shots": "8 (arc gap: 45°)",
+    "projectiles": "8 (arc gap: 45°)"
+  },
+  "effects": [
+    "+30 HP, +5 DEF",
+    "Self Only: On use, lowers your shot speed by half for 4 seconds. ATT Boost (+10 ATT) for 4.5s Party Effect: Within 5 squares Damaging for 4.5 seconds Shots hit multiple targets Shots pass through obstacles Turning: 150 degrees/sec Circular Motion: After 0.6s, shots turn 90 degrees before circling."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Forgotten King (With Rehearsal Modifier)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/noble-mandolin-rehearsal"
+}

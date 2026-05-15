@@ -1,0 +1,33 @@
+{
+  "id": "the-triangle",
+  "name": "The Triangle",
+  "slug": "the-triangle",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/the-triangle.png",
+  "itemType": "Lute",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "History Introduced in Exalt Version 6.8.0.0 (Mar 2026).",
+  "stats": {
+    "damage": "300–450 (+25 per ATT over 55) (average: 375)",
+    "range": "10 tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "+3 ATT, +3 WIS",
+    "Self Only: On use, quadruples shot speed for 4 seconds. ATT Boost: +5 (+1 per 8 WIS over 75) ATT ATT Boost Range: 4 (+0.1 per WIS over 75) tiles ATT Boost Duration: 4 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Tesseract Goddess",
+    "Masquarerader"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/the-triangle"
+}

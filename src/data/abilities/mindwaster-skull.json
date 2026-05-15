@@ -1,0 +1,33 @@
+{
+  "id": "mindwaster-skull",
+  "name": "Mindwaster Skull",
+  "slug": "mindwaster-skull",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/mindwaster-skull.png",
+  "itemType": "Skull",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "Notes Provides a whopping +120 HP and +40 MP on equip (the equivalent of a T5 HP ring), the highest of any skull. The summon does a solid amount of damage and has a nice heal compared to other UT skulls, while still having the ability to cast Vampire Burst.",
+  "stats": {
+    "damage": "340-515 (+3 for every WIS above 55)",
+    "range": "4 (+0.1 for every WIS above 50) tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+120 HP, +40 MP",
+    "Necromancy: raise 1 Mindwaster Undead to fight for you.",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mindwaster-skull"
+}

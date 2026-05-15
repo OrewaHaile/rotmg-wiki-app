@@ -1,0 +1,33 @@
+{
+  "id": "vanguards-visage",
+  "name": "Vanguard's Visage",
+  "slug": "vanguards-visage",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/vanguards-visage.png",
+  "itemType": "Helm",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes When used, the Vanguard’s Visage shoots a large sword-shaped set of bullets, each doing 150 armor-piercing damage. Very similar to the Bridge Sentinel’s own sword attack, it is practically impossible to hit every shot.",
+  "stats": {
+    "damage": "150 (total: 3,600)",
+    "range": "4.5 (+0.1 per WIS over 30) tiles Shot Range: 5.175 tiles",
+    "rateOfFire": null,
+    "shots": "24",
+    "projectiles": "24"
+  },
+  "effects": [
+    "+9 DEF, +4 ATT, +4 VIT",
+    "On party: Berserk for 3 (+0.1 per WIS over 30) seconds Eternal Defender: Fires a sword of projectiles towards your cursor Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Bridge Sentinel",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/vanguard-s-visage"
+}

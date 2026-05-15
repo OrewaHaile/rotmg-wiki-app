@@ -1,0 +1,32 @@
+{
+  "id": "adamantine-helm",
+  "name": "Adamantine Helm",
+  "slug": "adamantine-helm",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/adamantine-helm.png",
+  "itemType": "Helm",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "History Before Exalt Version 6.8.0.0 (Mar 2026), this item was soulbound.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 DEF, +4 ATT, +4 VIT",
+    "On party: Berserk and Healing within 5 tiles for 5 seconds On self: VIT Boost (+20 VIT) for 5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Malphas, Gilded Forgemaster"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/adamantine-helm"
+}

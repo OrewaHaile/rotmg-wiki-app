@@ -1,0 +1,35 @@
+{
+  "id": "shield-of-ogmur",
+  "name": "Shield of Ogmur",
+  "slug": "shield-of-ogmur",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/shield-of-ogmur.png",
+  "itemType": "Shield",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes The Shield of Ogmur is a cosmically rare UT drop that inflicts Armor Broken, a powerful buff for group DPS. It is one of 2 practical items that Armor Break, with the other being the similarly rare Crystallised Fang’s Venom. It is especially good on high DEF bosses like the Avatar of the Forgotten King. Its shield damage is also very respectable, being in between a T6 and T7 shield.",
+  "stats": {
+    "damage": "300-400 (+8 per ATT over 34) (average: 350)",
+    "range": "3.2 tiles",
+    "rateOfFire": null,
+    "shots": "5",
+    "projectiles": "5"
+  },
+  "effects": [
+    "+60 HP, +14 DEF",
+    "Armor Broken for 4 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Lord of the Lost Lands",
+    "Skeletal Centipede",
+    "Bilgewater’s Galleon",
+    "The Keyper"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/shield-of-ogmur"
+}

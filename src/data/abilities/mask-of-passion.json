@@ -1,0 +1,31 @@
+{
+  "id": "mask-of-passion",
+  "name": "Mask of Passion",
+  "slug": "mask-of-passion",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/mask-of-passion.png",
+  "itemType": "Skull",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Love Witch Necromancer Set",
+  "stats": {
+    "damage": "Burst 1: 190-235 (+3 for every WIS above 55) Burst 2: 170-215 Burst 3: 150-190 Burst 4: 130-190 Burst 5: 105-170 Burst 6: 85-150",
+    "range": "Burst 1: 0.9 tiles Burst 2: 1.4 tiles Burst 3: 1.9 tiles Burst 4: 2.4 tiles Burst 5: 2.9 tiles Burst 5: 3.4 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +2 DEX",
+    "Necromancy: raise 1 Ritual Undead to fight for you. On ability Use: Summons ritual circle for 6 seconds Ritual Circle: Inflicts 225-275 Damage within 3 sqrs at the radius, scaling up to 1350-1650 Damage at the center every second Healing within 3 sqrs With Essence of Love : The Ritual Circle gives Berserk within 3 sqrs With Essence of Enlightened Love : The Ritual Circle inflicts Slowed within 3 sqrs Cooldown: 6 seconds",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mask-of-passion"
+}

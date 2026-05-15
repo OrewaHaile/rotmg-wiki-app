@@ -1,0 +1,31 @@
+{
+  "id": "crossbones-skull",
+  "name": "Crossbones Skull",
+  "slug": "crossbones-skull",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/crossbones-skull.png",
+  "itemType": "Skull",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 380,
+  "description": "Notes This is a reskinned item of Bloodsucker Skull.",
+  "stats": {
+    "damage": "290-315 (+3 for every WIS above 55)",
+    "range": "4 (+0.1 for every WIS above 50) tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+90 HP, +20 MP",
+    "Necromancy: raise 1 Crossbones Undead to fight for you.",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/crossbones-skull"
+}

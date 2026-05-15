@@ -1,0 +1,30 @@
+{
+  "id": "daybreak-chakram",
+  "name": "Daybreak Chakram",
+  "slug": "daybreak-chakram",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/daybreak-chakram.png",
+  "itemType": "Star",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes Part of the Raijin Disciple Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [
+    "El Dorado",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/daybreak-chakram"
+}

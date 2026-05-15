@@ -1,0 +1,33 @@
+{
+  "id": "mimicry-trap",
+  "name": "Mimicry Trap",
+  "slug": "mimicry-trap",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/mimicry-trap.png",
+  "itemType": "Trap",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "8%",
+  "feedPower": 750,
+  "description": "Notes In most situations, the decoys don’t last enough to be helpful. It also has a large cooldown and low damage, relegating it to a vanity item. It could be used with good timing and in certain situations, but the rarity of the Prismimic boss outside of events makes it impractical.",
+  "stats": {
+    "damage": "360 (+20 per WIS over 42)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "-3 DEF, +3 SPD, +5 DEX",
+    "Creates a centered decoy for as long as the trap remains untriggered. On enemies: Inflicts Slowed for 3.5 (+0.1 per WIS over 42) seconds",
+    "Inflicts Slowed for 2 (+0.1s per WIS over 42) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Prismimic Attacker"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mimicry-trap"
+}

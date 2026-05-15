@@ -1,0 +1,33 @@
+{
+  "id": "bottled-medusozoan",
+  "name": "Bottled Medusozoan",
+  "slug": "bottled-medusozoan",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/bottled-medusozoan.png",
+  "itemType": "Poison",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes The Bottled Medusozoan is an interesting alternative to the Assassin’s tiered poisons. It doesn’t give a damage boost, nor does it actually poison enemies. Instead, it lobs a single Cnidarian - a stationary minion that releases short bursts of damage every half-second.",
+  "stats": {
+    "damage": "0, instead tosses a stationary cnidarian that releases bursts of AoE damage",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+2 DEF, +4 DEX",
+    "Poison: 2500 damage over 3 seconds within 3.5-4.5 squares Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Royal Cnidarian",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bottled-medusozoan"
+}

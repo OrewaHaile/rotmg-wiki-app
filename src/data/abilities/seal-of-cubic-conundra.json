@@ -1,0 +1,34 @@
+{
+  "id": "seal-of-cubic-conundra",
+  "name": "Seal of Cubic Conundra",
+  "slug": "seal-of-cubic-conundra",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/seal-of-cubic-conundra.png",
+  "itemType": "Seal",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes This seal’s effect appears to be directly based on that of the Legacy Seal of the Enchanted Forest, but sacrifices its Maximum HP increase for the other two seal buffs (Healing and Damaging) and double the base duration of Slowed.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 HP, +3 DEF",
+    "On party: Healing and Damaging Healing & Damaging Range: 4.5 (+0.1 per WIS over 50) tiles Healing & Damaging Duration: 4 (+0.1 per WIS over 50) seconds On enemies: Slowed Slowed Range: 3.5 (+??? per WIS over ???) tiles Slowed Duration: 4 (+??? per WIS over ???) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Tesseract Goddess",
+    "Masquarerader",
+    "Perfected Cube God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/seal-of-cubic-conundra"
+}

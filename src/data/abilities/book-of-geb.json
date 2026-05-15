@@ -1,0 +1,35 @@
+{
+  "id": "book-of-geb",
+  "name": "Book of Geb",
+  "slug": "book-of-geb",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/book-of-geb.png",
+  "itemType": "Tome",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes Part of the Priest of Geb set.",
+  "stats": {
+    "damage": "560 (+6.8 per WIS over 75)",
+    "range": "7 (+0.05 per WIS over 75) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 VIT, +5 WIS, +5 DEF",
+    "Heal: 130 (+0.935 per WIS over 75) HP Party Effect: Healing [65/s] (+0.4675 per WIS over 75) for 4.4 seconds Damage Nova: Explodes 2 times for 0.8 seconds within 2.5 sqrs Self Effect: Speedy for 6 (+0.075 per WIS over 80) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Nut",
+    "Sarcophagus",
+    "Treasure Sarcophagus",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/book-of-geb"
+}

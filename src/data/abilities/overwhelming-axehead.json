@@ -1,0 +1,34 @@
+{
+  "id": "overwhelming-axehead",
+  "name": "Overwhelming Axehead",
+  "slug": "overwhelming-axehead",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/overwhelming-axehead.png",
+  "itemType": "Helm",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "History Before Exalt Version 5.3.0.0 (Nov 2024), this item had 200 MP Cost.",
+  "stats": {
+    "damage": "325-525 (+5 per DEX over 50)",
+    "range": "14.85 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 ATT, +5 VIT",
+    "Unstoppable Force: Launches a giant projectile with 7 hitboxes Relentless Recharge: On shooting after ability use, restore 2 MP/shot for 5 seconds MP Decrease (-50 MP) on self for 5 seconds Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Griefkeeper Zole",
+    "Soulwarden Murcian",
+    "Spectral Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/overwhelming-axehead"
+}

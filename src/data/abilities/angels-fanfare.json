@@ -1,0 +1,34 @@
+{
+  "id": "angels-fanfare",
+  "name": "Angel's Fanfare",
+  "slug": "angels-fanfare",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/angels-fanfare.png",
+  "itemType": "Lute",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Part of the Angelic Bard Set.",
+  "stats": {
+    "damage": null,
+    "range": "x1.25",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Party Effect: Within 4 squares Inspired for 4 seconds.Party Effect: Within 4 squares HP Boost (+80 HP) for 4 seconds.If Harmonious Harp equipped: ATT Boost (+8 ATT) on self for 4 seconds (cooldown: 0.5 seconds)If Wings of Sanctity equipped: DEF Boost (+12 DEF) on self for 4 seconds (cooldown: 0.5 seconds)If Heavenly Halo equipped: Within 4 squares Healing for 4 seconds (cooldown: 0.5 seconds)"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx Officer",
+    "Oryx Sergeant",
+    "Oryx Major",
+    "Legion Colonel"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/angel-s-fanfare"
+}

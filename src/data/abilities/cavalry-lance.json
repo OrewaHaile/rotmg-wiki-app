@@ -1,0 +1,47 @@
+{
+  "id": "cavalry-lance",
+  "name": "Cavalry Lance",
+  "slug": "cavalry-lance",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/cavalry-lance.png",
+  "itemType": "Shield",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes An incredibly peculiar shield, this ability acts as a short-ranged sheath that additionally grants Inspired like a lute. With the Knight’s already high base survivability, it granting the most Attack out of any shield, giving respectable defense equal to a T5 Mithril Shield, having +25% weapon range while Inspired, and the fact that it grants Invulnerable during the dash, this shield allows the Knight to play extremely aggressively. However, this shield’s dash distance is incredibly short, making it impractical for increasing mobility and crossing through all shots unharmed in comparison",
+  "stats": {
+    "damage": "400-500 (+6 per WIS over 34) (average: 450)",
+    "range": "11.02 tiles",
+    "rateOfFire": null,
+    "shots": "6",
+    "projectiles": "6"
+  },
+  "effects": [
+    "+10 DEF, +6 ATT",
+    "Stunned for 3 seconds On self: Inspired for 5 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Beholder",
+    "Djinn",
+    "Dragon’s Treasure",
+    "Ent God",
+    "Flying Brain",
+    "Insurgent Rebel Commander",
+    "Legion City Guardian",
+    "Medusa",
+    "Nameless Gladiator",
+    "Slime God",
+    "Sword in the Stone?",
+    "Unsung Jester",
+    "Vagabond Satyr",
+    "Wood Construct",
+    "Rock Construct",
+    "Steel Construct"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cavalry-lance"
+}

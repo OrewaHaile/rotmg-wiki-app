@@ -1,0 +1,33 @@
+{
+  "id": "legion-elite-mace",
+  "name": "Legion Elite Mace",
+  "slug": "legion-elite-mace",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/legion-elite-mace.png",
+  "itemType": "Mace",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.0.0.0 (Sep 2025) update.",
+  "stats": {
+    "damage": "205–230 (average: 217.5)",
+    "range": "4.05 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+5 ATT, +20 HP, +20 MP",
+    "Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-mace"
+}

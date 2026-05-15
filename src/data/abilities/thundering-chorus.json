@@ -1,0 +1,33 @@
+{
+  "id": "thundering-chorus",
+  "name": "Thundering Chorus",
+  "slug": "thundering-chorus",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/thundering-chorus.png",
+  "itemType": "Ring",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 850,
+  "description": "Notes Part of the Storm Caller Bard Set.",
+  "stats": {
+    "damage": null,
+    "range": "5 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEF",
+    "Party Effect: Within 4.5 squares Inspired for 7 seconds. Lightning Strike: Deals 1200 Damage within 3 sqrs. Thundering Resonance: Creates 7 additional random explosions that each deal 200-250 damage within 2 sqrs. If Wind Dancer Robe equipped: Cast range of the lightning strike increased to 10 tiles If Augur of the Tempest equipped: Recursive thunder explosions to the lightning strike dealing 200-250 damage"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Feargus the Obsidian Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/thundering-chorus"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "vitamine-buster",
+  "name": "Vitamine Buster",
+  "slug": "vitamine-buster",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/vitamine-buster.png",
+  "itemType": "Spell",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 500,
+  "description": "Notes Although this is a vanity item, some players may still find use in it. It deals, on average, as much damage as the T5 Magic Nova Spell, offering a large VIT increase but with a slightly increased MP cost. Also of note is the decreased shot speed; the projectiles travel at only 6 tiles/second instead of the 16 tiles/second of other spells.",
+  "stats": {
+    "damage": "0–210 (+1 per WIS over 42) (average: 105)",
+    "range": "15 tiles",
+    "rateOfFire": null,
+    "shots": "16 (+1 per 10 WIS over 42) (arc gap: 22.5°)",
+    "projectiles": "16 (+1 per 10 WIS over 42) (arc gap: 22.5°)"
+  },
+  "effects": [
+    "+2 SPD, +10 VIT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Biff the Buffed Bunny"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/vitamine-buster"
+}

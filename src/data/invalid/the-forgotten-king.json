@@ -1,0 +1,31 @@
+{
+  "id": "the-forgotten-king",
+  "name": "The Forgotten King",
+  "slug": "the-forgotten-king",
+  "category": "maces",
+  "subCategory": "maces",
+  "sprite": "/items/the-forgotten-king.png",
+  "itemType": "Mace",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "The Forgotten King is the third and final boss of The Shatters.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/the-forgotten-king",
+  "invalidReasons": [
+    "invalid tier"
+  ],
+  "importedAt": "2026-05-15T14:37:25.705Z"
+}

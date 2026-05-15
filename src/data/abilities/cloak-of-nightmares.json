@@ -1,0 +1,32 @@
+{
+  "id": "cloak-of-nightmares",
+  "name": "Cloak of Nightmares",
+  "slug": "cloak-of-nightmares",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/cloak-of-nightmares.png",
+  "itemType": "Cloak",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "Notes Just as with the T6 Cloak of Ghostly Concealment, chain cloaking using the Cloak of Nightmares requires the player to have a pet with an MP Heal level of at least 64 (6.72 MP/s), assuming the WIS stat is maxed and you are not In Combat.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 SPD, +6 DEX, +40 HP, +40 MP",
+    "After exiting sneak: Fire 2 additional projectiles dealing damage equal to your Lethal Strike damage for 2.4 seconds. Sneak: Invisible for 5 seconds. After 1 second can be canceled by shooting. On Invisible end: Lethal Strike: Your weapon deals 80 (+3 per WIS > 34) and 55% (+0.5% per WIS > 34) of target’s defense as additional damage for 2.4 seconds MP Cost: 2 MP/proj Cooldown: 0.1 sec"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cloak-of-nightmares"
+}

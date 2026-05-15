@@ -1,0 +1,43 @@
+{
+  "id": "suspension-orb",
+  "name": "Suspension Orb",
+  "slug": "suspension-orb",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/suspension-orb.png",
+  "itemType": "Orb",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this item inflicted Curse for 4.5s, scaling at 30 wisdom and above. It has received new WisMod formulas.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On enemies: Stasis and Curse Stasis Radius: 3 tiles Stasis Duration: 3.5 seconds Curse Radius: 5 (+0.1 per WIS over 50) tiles Curse Duration: 2.5 (+1 per 10 WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Deathmage Chest",
+    "Dwarf King",
+    "Elf Wizard",
+    "Ent Ancient",
+    "Goblin Mage",
+    "Great Coil Snake Chest",
+    "Hobbit Mage",
+    "Lich",
+    "Mama Megamoth",
+    "Sandsman King",
+    "Sumo Master",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/suspension-orb"
+}

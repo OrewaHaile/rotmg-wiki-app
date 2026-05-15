@@ -1,0 +1,32 @@
+{
+  "id": "shield-of-jawgmur",
+  "name": "Shield of Jawgmur",
+  "slug": "shield-of-jawgmur",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/shield-of-jawgmur.png",
+  "itemType": "Shield",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes Unlike any other reskin in the game, this reskin works differently than the original item, scaling off of WIS instead of ATT. As WIS is easier to build a lot of than ATT, this can work in its favor, especially with the Boundless Vessel, which is already a very solid pick for maintaining Armor Break for players with weaker pets.",
+  "stats": {
+    "damage": "300-400 (+8 per WIS over 34) (average: 350)",
+    "range": "3.2 tiles",
+    "rateOfFire": null,
+    "shots": "5",
+    "projectiles": "5"
+  },
+  "effects": [
+    "+60 HP, +14 DEF",
+    "Armor Broken for 4 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Infested Oryx the Mad God 2"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/shield-of-jawgmur"
+}

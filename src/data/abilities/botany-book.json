@@ -1,0 +1,33 @@
+{
+  "id": "botany-book",
+  "name": "Botany Book",
+  "slug": "botany-book",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/botany-book.png",
+  "itemType": "Tome",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes During the 2020 event, this item could be obtained from the Tinkerer in exchange for 40 Golden Eggs. It could also drop from the Wine Cellar event chest.",
+  "stats": {
+    "damage": null,
+    "range": "8 (+0.05 per VIT over 45) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 VIT, +10 WIS",
+    "Heal: 150 (+0.935 per VIT over 45) HP Party Effect: Healing [75/s] (+0.4675 per VIT over 45) for 4.4 seconds Effect on Self: Removes negative status effects"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Biff the Buffed Bunny",
+    "Event Chests"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/botany-book"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "burlap-cowl",
+  "name": "Burlap Cowl",
+  "slug": "burlap-cowl",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/burlap-cowl.png",
+  "itemType": "Helm",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes Part of the Killbilly Warrior Set.",
+  "stats": {
+    "damage": null,
+    "range": "3 (+0.1 per WIS over 30) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+8 DEF, +4 DEX",
+    "On party: Berserk for 5 (+0.1 per WIS over 30) seconds On self: DEX Boost (+8 DEX) for 3 seconds On self: SPD Boost (+4 SPD) for 3 seconds On self: Bleeding for 3 seconds (Bleed Damage: 20)"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/burlap-cowl"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "legion-elite-helm",
+  "name": "Legion Elite Helm",
+  "slug": "legion-elite-helm",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/legion-elite-helm.png",
+  "itemType": "Helm",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.0.0.0 (Sep 2025) update.",
+  "stats": {
+    "damage": null,
+    "range": "4.5 (+0.1 per WIS over 30) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 DEF, +20 HP, +20 MP",
+    "On party: Berserk for 4 (+0.1 per WIS over 30) seconds On self: Speedy for 4 (+0.1 per WIS over 30) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-helm"
+}

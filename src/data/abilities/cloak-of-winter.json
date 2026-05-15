@@ -1,0 +1,36 @@
+{
+  "id": "cloak-of-winter",
+  "name": "Cloak of Winter",
+  "slug": "cloak-of-winter",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/cloak-of-winter.png",
+  "itemType": "Cloak",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 380,
+  "description": "Notes Although not an ST item in its own right, this item is classed as Oryxmas Gear, and, if worn in conjuntion with Ornaments of Unity, will contribute to the Oryxmas Gear bonus stats.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 SPD, +5 DEX, +20 HP, +20 MP",
+    "After exiting sneak: Fire 2 additional projectiles dealing damage equal to your Lethal Strike damage for 2.4 seconds. Sneak: Invisible for 5 seconds. After 1 second can be canceled by shooting. On Invisible end: Lethal Strike: Your weapon deals 70 (+3 per WIS > 34) and 50% (+0.5% per WIS > 34) of target’s defense as additional damage for 2.4 seconds MP Cost: 2 MP/proj Cooldown: 0.1 sec"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 2",
+    "Frostaract",
+    "Frozen Ship",
+    "Hat God",
+    "Ice Cube God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cloak-of-winter"
+}

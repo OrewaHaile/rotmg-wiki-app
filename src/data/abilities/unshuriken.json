@@ -1,0 +1,29 @@
+{
+  "id": "unshuriken",
+  "name": "Unshuriken",
+  "slug": "unshuriken",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/unshuriken.png",
+  "itemType": "Shuriken",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/unshuriken"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "hanagasaku",
+  "name": "Hanagasaku",
+  "slug": "hanagasaku",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/hanagasaku.png",
+  "itemType": "Star",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes A unique star that offers no buffs when held but instead creates 2 projectiles and a blooming flower at the cursor location which after a delay of 0.8 seconds explodes and deals a flat 1000 damage to all targets within the 3.5 tile explosion radius. The twin projectiles have a wide amplitude, but are not too difficult to land thanks to their enlarged hitbox. Hitting both the projectiles and the AoE results in massive damage, with the AoE aiding in crowd control targets.",
+  "stats": {
+    "damage": "325–525 (+16.5 per VIT over 42) (average: 425)",
+    "range": "10.4 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "+4 SPD, +9 VIT",
+    "On Ability Use: Plants a Bud Bomb that explodes after 0.8 secondsBud Damage: 1000Bud Range: 3.5 tiles Shots pass through obstaclesHitbox Size: 2"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Belladonna"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hanagasaku"
+}

@@ -1,0 +1,44 @@
+{
+  "id": "remedy-tome",
+  "name": "Remedy Tome",
+  "slug": "remedy-tome",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/remedy-tome.png",
+  "itemType": "Tome",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "History Before Patch X.32.7.0 (Feb 2020), this item had no stat bonus.",
+  "stats": {
+    "damage": "240 (+5.2 per WIS over 70)",
+    "range": "6.2 (+0.05 per WIS over 70) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+1 VIT",
+    "Heal: 90 (+0.715 per WIS over 70) HP Party Effect: Healing [45/s] (+0.3575 per WIS over 70) for 4.4 seconds Damage Nova: Explodes 2 times for 0.8 seconds within 2.5 sqrs"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Deathmage Chest",
+    "Dwarf King",
+    "Elf Wizard",
+    "Ent Ancient",
+    "Goblin Mage",
+    "Great Coil Snake Chest",
+    "Hobbit Mage",
+    "Lich",
+    "Mama Megamoth",
+    "Sandsman King",
+    "Sumo Master",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/remedy-tome"
+}

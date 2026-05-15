@@ -1,0 +1,37 @@
+{
+  "id": "bubblegum-bucket",
+  "name": "Bubblegum Bucket",
+  "slug": "bubblegum-bucket",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/bubblegum-bucket.png",
+  "itemType": "Helm",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 500,
+  "description": "Notes Despite its status as a vanity item, this helm is actually quite useful. While it lacks the Berserk buff of most other helms, it has a speedy duration of 12 seconds. This is very useful if you do not have a high MHeal pet and can’t permanently activate tiered helmets.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 DEF, +10 SPD, +10 VIT",
+    "On self: Speedy for 12 seconds On self: Healing for 4 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Desire Troll",
+    "MegaRototo",
+    "Swoll Fairy",
+    "Spoiled Creampuff",
+    "Gigacorn",
+    "Cupcake"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bubblegum-bucket"
+}

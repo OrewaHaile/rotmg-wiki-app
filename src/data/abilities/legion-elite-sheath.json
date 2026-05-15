@@ -1,0 +1,33 @@
+{
+  "id": "legion-elite-sheath",
+  "name": "Legion Elite Sheath",
+  "slug": "legion-elite-sheath",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/legion-elite-sheath.png",
+  "itemType": "Sheath",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.0.0.0 (Sep 2025) update.",
+  "stats": {
+    "damage": "350–400 (average: 375)",
+    "range": "8 tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "+20 HP, +20 MP, +6 DEF",
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-sheath"
+}

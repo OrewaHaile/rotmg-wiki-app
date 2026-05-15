@@ -1,0 +1,34 @@
+{
+  "id": "brutal-buckler",
+  "name": "Brutal Buckler",
+  "slug": "brutal-buckler",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/brutal-buckler.png",
+  "itemType": "Shield",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 700,
+  "description": "Notes Part of the Agents of Oryx Abilities.",
+  "stats": {
+    "damage": "225-325 (+3 per VIT over 55) (average: 275)",
+    "range": "Shield Bash: 4 tiles; Full Strength: 5.7 tiles",
+    "rateOfFire": null,
+    "shots": "8 (from shield bash); 12 (from Full Strength); 20 total (arc gap: Shield Bash: 7°; Full Strength: 30°)",
+    "projectiles": "8 (from shield bash); 12 (from Full Strength); 20 total (arc gap: Shield Bash: 7°; Full Strength: 30°)"
+  },
+  "effects": [
+    "+40 HP, +4 ATT, +10 DEF",
+    "Full Strength: Shoots additional radial projectiles with a longer range when used above 80% HP. Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/brutal-buckler"
+}

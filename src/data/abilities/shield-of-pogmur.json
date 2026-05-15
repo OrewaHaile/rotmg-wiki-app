@@ -1,0 +1,31 @@
+{
+  "id": "shield-of-pogmur",
+  "name": "Shield of Pogmur",
+  "slug": "shield-of-pogmur",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/shield-of-pogmur.png",
+  "itemType": "Shield",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "300-400 (+0.5 per WIS over 34) (average: 350)",
+    "range": "0.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Armor Broken for 0.5 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/shield-of-pogmur"
+}

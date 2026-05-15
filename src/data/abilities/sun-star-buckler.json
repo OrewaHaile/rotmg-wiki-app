@@ -1,0 +1,30 @@
+{
+  "id": "sun-star-buckler",
+  "name": "Sun Star Buckler",
+  "slug": "sun-star-buckler",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/sun-star-buckler.png",
+  "itemType": "Shield",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 950,
+  "description": "Notes Part of the Blood Viking Knight Set.",
+  "stats": {
+    "damage": "165-185 (+7 per SPD over 36) (average: 175)",
+    "range": "3.2 tiles",
+    "rateOfFire": null,
+    "shots": "10 (arc gap: 20°)",
+    "projectiles": "10 (arc gap: 20°)"
+  },
+  "effects": [
+    "+10 DEF, +8 SPD, +4 VIT",
+    "Stunned for 2.5 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sun-star-buckler"
+}

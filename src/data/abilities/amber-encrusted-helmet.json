@@ -1,0 +1,34 @@
+{
+  "id": "amber-encrusted-helmet",
+  "name": "Amber Encrusted Helmet",
+  "slug": "amber-encrusted-helmet",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/amber-encrusted-helmet.png",
+  "itemType": "Helm",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 350,
+  "description": "Notes Although this helm gives a SPD bonus of 6, using this ability will NOT grant the user Speedy, making this helm less suitable for rushing than tiered helms.",
+  "stats": {
+    "damage": null,
+    "range": "5 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 DEF, +6 SPD",
+    "Party Effect: Berserk for 5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Sandstone Titan",
+    "Genie",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/amber-encrusted-helmet"
+}

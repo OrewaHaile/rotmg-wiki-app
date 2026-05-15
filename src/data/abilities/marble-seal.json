@@ -1,0 +1,35 @@
+{
+  "id": "marble-seal",
+  "name": "Marble Seal",
+  "slug": "marble-seal",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/marble-seal.png",
+  "itemType": "Seal",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This seal has the completely unique function of giving Armored to other players. This increases the effective DEF of all players in its radius, making it significantly easier to survive.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEF",
+    "Summon an Eye of Marble for 4.5 seconds Eye Effect: Armored and Damaging within 3 tiles"
+  ],
+  "usableClasses": [
+    "Paladin"
+  ],
+  "dropsFrom": [
+    "Marble Colossus",
+    "Marble Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/marble-seal"
+}

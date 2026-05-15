@@ -1,0 +1,45 @@
+{
+  "id": "mace-of-the-pumpkin-effigy",
+  "name": "Mace of the Pumpkin Effigy",
+  "slug": "mace-of-the-pumpkin-effigy",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/mace-of-the-pumpkin-effigy.png",
+  "itemType": "Mace",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This is a unique mace that is closer to a Trickster’s prism than most maces. Not only is the stationary summon spawned on the player’s position, but it acts as a decoy. It works exactly like the ST prism Brain of the Golem, but with the addition of damage.",
+  "stats": {
+    "damage": "70–85 (average: 77.5)",
+    "range": "10.8 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "+5 DEF, +5 ATT",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles Shots boomerang",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles Shots boomerang",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles Shots boomerang"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ghost God",
+    "Werewolf Berserker",
+    "Creepy Beholder",
+    "Wraith",
+    "Banshee",
+    "Pumpkin Brute",
+    "Sinister Scarecrow",
+    "Alpha Werewolf",
+    "Flesh Golem",
+    "Skeleton of the Damned",
+    "Headless Horseman",
+    "Legion Graveyard Guardian"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mace-of-the-pumpkin-effigy"
+}

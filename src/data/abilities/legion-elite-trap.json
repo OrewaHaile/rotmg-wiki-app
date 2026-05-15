@@ -1,0 +1,34 @@
+{
+  "id": "legion-elite-trap",
+  "name": "Legion Elite Trap",
+  "slug": "legion-elite-trap",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/legion-elite-trap.png",
+  "itemType": "Trap",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.0.0.0 (Sep 2025) update.",
+  "stats": {
+    "damage": "460 (+5 per WIS over 34)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+20 HP, +20 MP, +5 ATT",
+    "On enemies: Inflicts Slowed for 5 (+0.1s per WIS over 34) seconds",
+    "Inflicts Slowed for 2.5 (+0.1s per WIS over 34) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-trap"
+}

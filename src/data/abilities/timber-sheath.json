@@ -1,0 +1,44 @@
+{
+  "id": "timber-sheath",
+  "name": "Timber Sheath",
+  "slug": "timber-sheath",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/timber-sheath.png",
+  "itemType": "Sheath",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "",
+  "stats": {
+    "damage": "250–350 (average: 300)",
+    "range": "8 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+1 DEF",
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Deathmage Chest",
+    "Dwarf King",
+    "Elf Wizard",
+    "Ent Ancient",
+    "Goblin Mage",
+    "Great Coil Snake Chest",
+    "Hobbit Mage",
+    "Lich",
+    "Mama Megamoth",
+    "Sandsman King",
+    "Sumo Master",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/timber-sheath"
+}

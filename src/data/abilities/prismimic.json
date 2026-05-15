@@ -1,0 +1,32 @@
+{
+  "id": "prismimic",
+  "name": "Prismimic",
+  "slug": "prismimic",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/prismimic.png",
+  "itemType": "Prism",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "8%",
+  "feedPower": 750,
+  "description": "Not to be confused with the Prismimic Boss, which can be found here",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+3 DEX",
+    "Teleport to cursor Creates an expanding ring of 8 crystal decoys"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Prismimic Defender"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/prismimic"
+}

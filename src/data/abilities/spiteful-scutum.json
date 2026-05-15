@@ -1,0 +1,33 @@
+{
+  "id": "spiteful-scutum",
+  "name": "Spiteful Scutum",
+  "slug": "spiteful-scutum",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/spiteful-scutum.png",
+  "itemType": "Shield",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes Compared to the Mithril Shield, its DEF is equal as well as its average damage. In addition, this shield gives better range, armor piercing, an extra second of stun and costing 5 less MP, as well as an extra 4 ATT/SPD. As tiered shields increase in MP but not stun duration, and no other UT has a longer stun, this UT is the most efficient MP/Stun Shield available. In addition to the stun, the shots deal the 2nd highest damage of any shield - only beaten by Oryx’s Escutcheon’s exalted beams.",
+  "stats": {
+    "damage": "500-700 (+20 per DEX over 34) (average: 600)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 8°)",
+    "projectiles": "2 (arc gap: 8°)"
+  },
+  "effects": [
+    "+4 ATT, +10 DEF, +4 SPD",
+    "Stunned for 4 seconds Shots hit multiple targets Shots pass through obstacles Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Janus the Doorwarden",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spiteful-scutum"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "combcutter-kunai",
+  "name": "Combcutter Kunai",
+  "slug": "combcutter-kunai",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/combcutter-kunai.png",
+  "itemType": "Star",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes Compared to tiered versions, this star gives up some of the Ninja’s trademark Speed for higher DPS, subtracting 10 Speed on equip and trading Speedy for Damaging. Furthermore, it provides an ATT Boost while held and fires additional kunai when in combat and when below 75% HP. The additional kunai fire at an awkward angle when using Tachis, about 22.5 degrees to the left of where the player is aiming.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 MP, -10 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Killer Bee Queen",
+    "Honeyed Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/combcutter-kunai"
+}

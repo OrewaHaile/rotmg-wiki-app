@@ -1,0 +1,32 @@
+{
+  "id": "mouse-trap",
+  "name": "Mouse Trap",
+  "slug": "mouse-trap",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/mouse-trap.png",
+  "itemType": "Trap",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 600,
+  "description": "The Mouse Trap Rat has the following sprite: The Trick Cheese has the following sprite:",
+  "stats": {
+    "damage": "Mouse Trap Rat: 100 per ? seconds (? maximum total)",
+    "range": "Mouse Trap Rat: ? tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+2 ATT, +2 DEX",
+    "Throw an ally rat at your cursor that zaps enemies for 100 damage. Trick Cheese: Spawn a block of cheese lasting 12 seconds. Cheese attracts rats to orbit nearby and can sustain ally rats. Trick Cheese Cooldown: 12 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Mammoth Rat"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mouse-trap"
+}

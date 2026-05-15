@@ -1,0 +1,32 @@
+{
+  "id": "tome-of-the-dragon",
+  "name": "Tome of the Dragon",
+  "slug": "tome-of-the-dragon",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/tome-of-the-dragon.png",
+  "itemType": "Tome",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "History In Exalt Version 6.1.0.0 (Sep 2025), this item got reworked.",
+  "stats": {
+    "damage": "95",
+    "range": "10 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "+60 HP, +6 DEX",
+    "Dragonflame: While DEX Boost, 50% chance to shoot an additional 2 shots every weapon shot Party Effect: Within 7 sqrs DEX Boost (+12 DEX) for 5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ivory Wyvern"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tome-of-the-dragon"
+}

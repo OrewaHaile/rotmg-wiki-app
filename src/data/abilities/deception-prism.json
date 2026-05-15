@@ -1,0 +1,44 @@
+{
+  "id": "deception-prism",
+  "name": "Deception Prism",
+  "slug": "deception-prism",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/deception-prism.png",
+  "itemType": "Prism",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "History Before Patch X.32.7.0 (Feb 2020), this item had a decoy duration of 4.5 and no stat bonus.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+1 WIS",
+    "Teleport to cursor and spawns a moving decoy at original position"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Deathmage Chest",
+    "Dwarf King",
+    "Elf Wizard",
+    "Ent Ancient",
+    "Goblin Mage",
+    "Great Coil Snake Chest",
+    "Hobbit Mage",
+    "Lich",
+    "Mama Megamoth",
+    "Sandsman King",
+    "Sumo Master",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/deception-prism"
+}

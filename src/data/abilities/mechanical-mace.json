@@ -1,0 +1,35 @@
+{
+  "id": "mechanical-mace",
+  "name": "Mechanical Mace",
+  "slug": "mechanical-mace",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/mechanical-mace.png",
+  "itemType": "Mace",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 700,
+  "description": "Notes Part of the Agents of Oryx Abilities.",
+  "stats": {
+    "damage": "200–275 (average: 250)",
+    "range": "3.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+80 HP",
+    "Shots hit multiple targets Shots pass through obstaclesFaces Direction",
+    "On Ability use: Summons an Exalted Oryx Eye. Damage: 375-525 (450) Cooldown: 30 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mechanical-mace"
+}

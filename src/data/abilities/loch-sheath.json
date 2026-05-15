@@ -1,0 +1,33 @@
+{
+  "id": "loch-sheath",
+  "name": "Loch Sheath",
+  "slug": "loch-sheath",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/loch-sheath.png",
+  "itemType": "Sheath",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes The tornadoes summoned by this weapon fire 5 shots every second, for a total of 40 shots over their lifetime. This means that each tornado can deal an average of 3000 armor piercing damage, however they only have about 5 tiles of range so you need to be in katana range for them to shoot. There is a maximum of 3 tornadoes at any given time, similar to other summons.",
+  "stats": {
+    "damage": "200",
+    "range": "9.6 tiles",
+    "rateOfFire": null,
+    "shots": "4 (arc gap: 8°)",
+    "projectiles": "4 (arc gap: 8°)"
+  },
+  "effects": [
+    "+5 DEX",
+    "Shots hit multiple targets Shots pass through obstaclesOn Dash: Summons Tornado for 8 secondsTornado Shot Damage: 50-100"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Nikao the Azure Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/loch-sheath"
+}

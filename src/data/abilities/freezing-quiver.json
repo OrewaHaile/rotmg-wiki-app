@@ -1,0 +1,34 @@
+{
+  "id": "freezing-quiver",
+  "name": "Freezing Quiver",
+  "slug": "freezing-quiver",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/freezing-quiver.png",
+  "itemType": "Quiver",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes This quiver’s main usage is that it slows. It has less range than other quivers but the three shots make this quiver easy to aim and allow for more targets to be slowed. The quiver also offers supreme stat bonuses, just barely surpassing the T6 Quiver of Elvish Mastery DPS-wise.",
+  "stats": {
+    "damage": "300-420 (+13 per DEX over 34) (average: 360)",
+    "range": "9.6 tiles (true range: 3.56 tile(s))",
+    "rateOfFire": null,
+    "shots": "3 (arc gap: 8°)",
+    "projectiles": "3 (arc gap: 8°)"
+  },
+  "effects": [
+    "+3 ATT, +3 DEX",
+    "Slowed for 5 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Frimar",
+    "Glacius",
+    "Polaris"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/freezing-quiver"
+}

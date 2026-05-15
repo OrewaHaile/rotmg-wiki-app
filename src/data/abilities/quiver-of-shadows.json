@@ -1,0 +1,35 @@
+{
+  "id": "quiver-of-shadows",
+  "name": "Quiver of Shadows",
+  "slug": "quiver-of-shadows",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/quiver-of-shadows.png",
+  "itemType": "Quiver",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes A powerful quiver that fires 6 shots, all of which ignore the target’s DEF, but with no status effect. If all 6 shots hit, this quiver is one of the best damage abilities in the game. For damage per mana, it’s on-par with the Tablet, better than the Recurring Terror Spell, and better than all other quivers. Even when you don’t hit every shot, it is a powerful ability. The downside is the short true range, lack of status effect, and no DEX boost. It also comes at a minor speed penalty.",
+  "stats": {
+    "damage": "400-500 (+5 per DEF over 9) (average: 450)",
+    "range": "10 tiles (true range: 2.84 tile(s))",
+    "rateOfFire": null,
+    "shots": "6 (arc gap: 4°)",
+    "projectiles": "6 (arc gap: 4°)"
+  },
+  "effects": [
+    "+6 DEF, -2 SPD",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Archer"
+  ],
+  "dropsFrom": [
+    "Void Entity",
+    "Voided Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/quiver-of-shadows"
+}

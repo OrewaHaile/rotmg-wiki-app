@@ -1,0 +1,32 @@
+{
+  "id": "legion-elite-star",
+  "name": "Legion Elite Star",
+  "slug": "legion-elite-star",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/legion-elite-star.png",
+  "itemType": "Star",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.0.0.0 (Sep 2025) update.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+9 VIT, +20 HP, +20 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-star"
+}

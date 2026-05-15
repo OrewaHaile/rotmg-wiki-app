@@ -1,0 +1,30 @@
+{
+  "id": "cloak-of-eerie-trepidation",
+  "name": "Cloak of Eerie Trepidation",
+  "slug": "cloak-of-eerie-trepidation",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/cloak-of-eerie-trepidation.png",
+  "itemType": "Cloak",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This is a halloween reskinned version of the extremely rare UT Cloak of Bloody Surprises.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 DEF, +4 VIT",
+    "Effect on Self: SPD Decrease (-40 SPD) for 3 seconds, ATT Boost (+30 ATT) for 3 seconds Sneak: Invisible for 5 seconds. After 1 second can be canceled by shooting. On Invisible end: Lethal Strike: Your weapon deals 150 (+0 per ATT > 55) and 35% (+2% per ATT > 55) of target’s defense as additional damage for 3 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cloak-of-eerie-trepidation"
+}

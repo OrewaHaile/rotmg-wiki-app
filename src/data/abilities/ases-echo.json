@@ -1,0 +1,32 @@
+{
+  "id": "ases-echo",
+  "name": "Ase's Echo",
+  "slug": "ases-echo",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/ases-echo.png",
+  "itemType": "Prism",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes The mark stays even after teleporting, but is removed after using the ability after the second activation.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "First activation: Mark the location creating Berserk aura in a radius of3. Second activation: Teleport back to the marked location exploding the previous mark dealing 1000 damage and granting Armored for 5 seconds in a radius of 5. Note: Mark is reset upon changing area or after 10 seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Esben the Neurotic",
+    "Citadel Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ase-s-echo"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "hydroflow-seal",
+  "name": "Hydroflow Seal",
+  "slug": "hydroflow-seal",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/hydroflow-seal.png",
+  "itemType": "Seal",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.9.0.0 (Apr 2026) update.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 DEX, +20 HP, +20 MP",
+    "On party: Healing, Damaging and HP Boost HP Boost: +70 (+2 per WIS over 50) max HP HP Boost Range: 4.5 (+1 per 10 WIS over 50) tiles HP Boost Duration: 4 (+1 per 10 WIS over 50) seconds Healing & Damaging Range: 4.5 (+0.1 per WIS over 50) tiles Healing & Damaging Duration: 4 (+0.1 per WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hydroflow-seal"
+}

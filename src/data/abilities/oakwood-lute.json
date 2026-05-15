@@ -1,0 +1,43 @@
+{
+  "id": "oakwood-lute",
+  "name": "Oakwood Lute",
+  "slug": "oakwood-lute",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/oakwood-lute.png",
+  "itemType": "Lute",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "History Before Exalt Version 1.1.0.0 (Sep 2020), this item had a cooldown of 4.5 seconds and no DEF boost.",
+  "stats": {
+    "damage": null,
+    "range": "x1.25",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Party Effect: Within 4.5 squares Inspired for 3.5 seconds, DEF Boost (+2 DEF) for 2.5 seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Deathmage Chest",
+    "Dwarf King",
+    "Elf Wizard",
+    "Ent Ancient",
+    "Goblin Mage",
+    "Great Coil Snake Chest",
+    "Hobbit Mage",
+    "Lich",
+    "Mama Megamoth",
+    "Sandsman King",
+    "Sumo Master",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/oakwood-lute"
+}

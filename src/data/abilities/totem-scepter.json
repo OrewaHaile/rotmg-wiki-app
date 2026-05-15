@@ -1,0 +1,29 @@
+{
+  "id": "totem-scepter",
+  "name": "Totem Scepter",
+  "slug": "totem-scepter",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/totem-scepter.png",
+  "itemType": "Scepter",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes Part of the Storm Shaman set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Totems: deals 80-160 damage and Paralyzed enemies for 0.3 seconds in a 5 tile area. with 2 pieces: 100-200 damage with 3 pieces: 120-240 damage with 4 pieces: 140-280 damage Lifetime: 10 seconds Cooldown: 0.3 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/totem-scepter"
+}

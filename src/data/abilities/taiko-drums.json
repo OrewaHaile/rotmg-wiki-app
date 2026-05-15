@@ -1,0 +1,35 @@
+{
+  "id": "taiko-drums",
+  "name": "Taiko Drums",
+  "slug": "taiko-drums",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/taiko-drums.png",
+  "itemType": "Lute",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes A lute with 2 modes. Like the Kogbold Multitool, you can swap abilities by holding Shift. Both modes give Inspired to allies, but give a special version of Inspired to the user which modifies your shots differently than normal.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 DEF, +6 DEX",
+    "Within 4.5 tiles Inspired for 6.5 seconds. Tempo Change: Control the rhythm of the drums to match the situation Ability 1: Crescendo Effect on self: Berserk for 5 seconds. Blitz Rhythm: Greatly increases shot speed, whilst boosting effective weapon range Ability 2: Adagio Party Effect: Healing [40/s] (+1 per WIS over 75) for 4 seconds within 5.5 sqrs Tranquil Rhythm: Lowers your shot speed, but boosts effective weapon range"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Sage Genji",
+    "Drummer Kaguya",
+    "Dancer Miko",
+    "Moonlit Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/taiko-drums"
+}

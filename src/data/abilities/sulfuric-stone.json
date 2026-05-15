@@ -1,0 +1,42 @@
+{
+  "id": "sulfuric-stone",
+  "name": "Sulfuric Stone",
+  "slug": "sulfuric-stone",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/sulfuric-stone.png",
+  "itemType": "Trap",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 650,
+  "description": "Notes This trap deals more damage than the T7 trap. However, it always explodes after 2 seconds, never before or after. In addition, this trap does not inflict Slowed, and has a smaller radius.",
+  "stats": {
+    "damage": "250 armor pierce on impact",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+25 HP, +25 MP",
+    "Spawn a Sulfuric Stone that deals 250 impact damage."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Heart of the Wetlands",
+    "Warped Ent Ancient",
+    "Swamp Stalker",
+    "Swamp Spirit",
+    "Thorned Ravager",
+    "Thorned Drake",
+    "Thorned Drake Baby",
+    "Mossy Chest",
+    "Wetlands Chomper",
+    "Sulfuric Centipede",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sulfuric-stone"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "soul-of-the-bearer",
+  "name": "Soul of the Bearer",
+  "slug": "soul-of-the-bearer",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/soul-of-the-bearer.png",
+  "itemType": "Orb",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes Part of the Phylactery Mystic set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On enemies: Stasis is centered on player Stasis Radius: 4.5 tiles Stasis Duration: 6 seconds On self: Speedy and Berserk Speedy & Berserk Duration: 2.5 (+0.1 per WIS over 55) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Phylactery Bearer",
+    "Lantern Holder"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/soul-of-the-bearer"
+}

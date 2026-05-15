@@ -1,0 +1,35 @@
+{
+  "id": "cloak-of-cubic-enigma",
+  "name": "Cloak of Cubic Enigma",
+  "slug": "cloak-of-cubic-enigma",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/cloak-of-cubic-enigma.png",
+  "itemType": "Cloak",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes An offensive cloak designed to wreak as much havoc as possible while staying mobile, leaving behind explosions as you travel to deal high AoE damage. It also provides a good DEF boost.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEF",
+    "Shadow Burst: Leaves bursts of damage in your wake while Invisible. Duration: 4.8 seconds Damage: 600 (Total: 7200) Range: 4.5 tiles Burst Cooldown: 0.4 seconds Ignores defense of target After exiting sneak: Fire 2 additional projectiles dealing damage equal to your Lethal Strike damage for 2.4 seconds. Sneak: Invisible for 5 seconds. After 1 second can be canceled by shooting. On Invisible end: Lose the effects of Shadow Burst Lethal Strike: Your weapon deals 65 (+3 per DEF > 25) and 45% (+0.5% per DEF > 25) of target’s defense as additional damage for 2.4 seconds MP Cost: 2 MP/proj Cooldown: 0.1 sec"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Shadow Cube Blaster",
+    "Tesseract Goddess",
+    "Masquarerader",
+    "Perfected Cube God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cloak-of-cubic-enigma"
+}

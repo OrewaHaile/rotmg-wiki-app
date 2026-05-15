@@ -1,0 +1,35 @@
+{
+  "id": "helm-of-the-juggernaut",
+  "name": "Helm of the Juggernaut",
+  "slug": "helm-of-the-juggernaut",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/helm-of-the-juggernaut.png",
+  "itemType": "Helm",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes The Helm of the Juggernaut is an elusive helm, trading Speedy for the Armored status. Armored gives +50% effective defense. A maxed warrior with tiered armor can easily reach 90-100 DEF, allowing them to eat lots of bullets at no great risk, at least in easier dungeons.",
+  "stats": {
+    "damage": null,
+    "range": "4.5 (+0.1 per WIS over 30) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 DEF, +5 SPD",
+    "On party: Berserk for 2.5 (+0.1 per WIS over 30) seconds On self: Armored for 2.5 (+0.1 per WIS over 30) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Crab Sovereign",
+    "Grand Sphinx",
+    "Sigma Werewolf",
+    "The Keyper"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/helm-of-the-juggernaut"
+}

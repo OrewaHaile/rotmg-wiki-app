@@ -1,0 +1,30 @@
+{
+  "id": "hydroflow-cloak",
+  "name": "Hydroflow Cloak",
+  "slug": "hydroflow-cloak",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/hydroflow-cloak.png",
+  "itemType": "Cloak",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.9.0.0 (Apr 2026) update.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 SPD, +5 DEX, +20 HP, +20 MP",
+    "After exiting sneak: Fire 2 additional projectiles dealing damage equal to your Lethal Strike damage for 2.4 seconds. Sneak: Invisible for 5 seconds. After 1 second can be canceled by shooting. On Invisible end: Lethal Strike: Your weapon deals 70 (+3 per WIS > 34) and 50% (+0.5% per WIS > 34) of target’s defense as additional damage for 2.4 seconds MP Cost: 2 MP/proj Cooldown: 0.1 sec"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hydroflow-cloak"
+}

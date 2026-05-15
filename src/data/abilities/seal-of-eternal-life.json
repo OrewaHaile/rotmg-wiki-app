@@ -1,0 +1,31 @@
+{
+  "id": "seal-of-eternal-life",
+  "name": "Seal of Eternal Life",
+  "slug": "seal-of-eternal-life",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/seal-of-eternal-life.png",
+  "itemType": "Seal",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On Self: Inflicts Energized [20/s] for 5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/seal-of-eternal-life"
+}

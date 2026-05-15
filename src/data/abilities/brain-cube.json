@@ -1,0 +1,34 @@
+{
+  "id": "brain-cube",
+  "name": "Brain Cube",
+  "slug": "brain-cube",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/brain-cube.png",
+  "itemType": "Skull",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Unlike tiered skulls, the Brain Cube does not have a Vampire Blast ability. In exchange, the minion it summons rapidly deals 4 hits of heavy defense-ignoring damage in an expanding area of effect with a generous 10% lifesteal. As the lifesteal is applied to each instance of damage, the Brain Cube can rapidly heal players if multiple enemies are caught in the blast radius.",
+  "stats": {
+    "damage": "Burst 1: 340 (+10 for every DEX above 42) Burst 2: 425-510 (+10 for every DEX above 42) Burst 3: 340-425 (+10 for every DEX above 42) Burst 4: 255-340 (+10 for every DEX above 42)",
+    "range": "Burst 1: 2.25 tiles Burst 2: 3.25 tiles Burst 3: 4.25 tiles Burst 4: 5.25 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+50 MP, +6 DEX",
+    "Necromancy: raise 1 Brain Undead to fight for you.On Use: Produces 4 explosions at the aim point.Subsequent bursts deal decreasing damage over a wider area.",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Factory Control Core",
+    "Steampunk Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/brain-cube"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "symbol-of-the-lost",
+  "name": "Symbol of the Lost",
+  "slug": "symbol-of-the-lost",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/symbol-of-the-lost.png",
+  "itemType": "Seal",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Part of the Frost Harbinger Set.",
+  "stats": {
+    "damage": "200",
+    "range": null,
+    "rateOfFire": null,
+    "shots": "42",
+    "projectiles": "42"
+  },
+  "effects": [
+    "+6 DEF, -5 SPD",
+    "Summon a Frostborn Crystal for 9 seconds Ally effect: Damaging within 7 squares Blizzard: Creates a swarm of snowflakes for 100 armor piercing damage Cold Snap: Deals 200 damage and inflicts Slowed for 2 seconds to enemies within 7 tiles every 2 seconds",
+    "Ignores defense of target Shots hit multiple targets Shots pass through obstacles Shots are parametric"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Esben the Neurotic"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/symbol-of-the-lost"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "cnidaria-rod",
+  "name": "Cnidaria Rod",
+  "slug": "cnidaria-rod",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/cnidaria-rod.png",
+  "itemType": "Scepter",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes This scepter is very unique for its increase in damage with each additional target, while other scepters have lower damage each time you hit an enemy. This and its low base damage - which is half of Scepter of Storm’s and the same as Scepter of Fulmination’s - make it best used as a swapout when large crowds of enemies are present.",
+  "stats": {
+    "damage": "120 (+10 per WIS over 50) + 150 for each subsequent target",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+2 DEF, +2 DEX, +2 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Royal Cnidarian",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cnidaria-rod"
+}

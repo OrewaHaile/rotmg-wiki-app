@@ -1,0 +1,43 @@
+{
+  "id": "skull-of-restless-souls",
+  "name": "Skull of Restless Souls",
+  "slug": "skull-of-restless-souls",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/skull-of-restless-souls.png",
+  "itemType": "Skull",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "In-game Showcase Attack Mode:",
+  "stats": {
+    "damage": "120-250",
+    "range": "4 (+0.1 for every WIS above 50) tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "+50 HP, +4 DEF, +4 ATT",
+    "Necromancy: raise 1 Restless Souls Undead to fight for you. Attack Mode: Summon Undead skeletons that last for 5 seconds and chases enemies. Defense Mode: Summon Undead skeletons with 1500 HP that last for 10 seconds and protects the user, heal 50 HP within 5 squares upon decaying.",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Death Knight",
+    "Flying Vampire",
+    "Ghastly Nun",
+    "Kage Kami",
+    "Lantern Holder",
+    "Legion Church Guardian",
+    "Revenant",
+    "Shady Sect Leader",
+    "Skeleton Worshipper",
+    "Zombie Cleric"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/skull-of-restless-souls"
+}

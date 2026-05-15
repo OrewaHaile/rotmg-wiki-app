@@ -1,0 +1,31 @@
+{
+  "id": "fools-prism",
+  "name": "Fool's Prism",
+  "slug": "fools-prism",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/fools-prism.png",
+  "itemType": "Prism",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Places a fake white bag on cursor"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fool-s-prism"
+}

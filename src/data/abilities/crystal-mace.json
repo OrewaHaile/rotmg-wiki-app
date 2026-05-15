@@ -1,0 +1,33 @@
+{
+  "id": "crystal-mace",
+  "name": "Crystal Mace",
+  "slug": "crystal-mace",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/crystal-mace.png",
+  "itemType": "Mace",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes Along with the Stonemould Mace, this is currently only one of two maces to ignore the defense of its target, making it a solid choice for cracking high-DEF enemies that would normally shrug off other summons. While its total base damage is higher than many other maces, the steeds’ reliance on hitting all their (individually weaker) shots crimps its DPS somewhat, especially against enemies with low DEF that would generally take more damage from other maces.",
+  "stats": {
+    "damage": "50–70 (average: 60)",
+    "range": "5 tiles",
+    "rateOfFire": null,
+    "shots": "5",
+    "projectiles": "5"
+  },
+  "effects": [
+    "+4 SPD, +4 WIS",
+    "Shots pass through obstacles Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Crystal Prisoner",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/crystal-mace"
+}

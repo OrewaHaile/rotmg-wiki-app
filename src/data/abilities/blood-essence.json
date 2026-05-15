@@ -1,0 +1,31 @@
+{
+  "id": "blood-essence",
+  "name": "Blood Essence",
+  "slug": "blood-essence",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/blood-essence.png",
+  "itemType": "Skull",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "Notes Part of the Globular Necromancer Set.",
+  "stats": {
+    "damage": "150 (+3 for every VIT above 24)",
+    "range": "4.05 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+5 DEF",
+    "Necromancy: raise 1 Blood Undead to fight for you. Cubic Protection: Locks onto the closest player granting 20hp/sec within 3 sqrs.",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/blood-essence"
+}

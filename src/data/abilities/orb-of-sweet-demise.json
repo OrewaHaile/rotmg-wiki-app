@@ -1,0 +1,32 @@
+{
+  "id": "orb-of-sweet-demise",
+  "name": "Orb of Sweet Demise",
+  "slug": "orb-of-sweet-demise",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/orb-of-sweet-demise.png",
+  "itemType": "Orb",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 200,
+  "description": "Notes Due to the small stasis radius, this orb is suited for disabling a single target or a dense group of enemies. The nature of this item generally allows for a faster paced playstyle since the comparatively short stasis duration is just enough to properly position and optionally switch orbs for further self-buffing or enemy debuffing.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On enemies: Stasis and Slowed Stasis Radius: 3 tiles Stasis Duration: 3 seconds Slowed Radius: 2 (+0.1 per WIS over 50) tiles Slowed Duration: 3.5 (+1 per 10 WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Queen Bee",
+    "Beginner Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/orb-of-sweet-demise"
+}

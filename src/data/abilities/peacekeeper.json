@@ -1,0 +1,36 @@
+{
+  "id": "peacekeeper",
+  "name": "Peacekeeper",
+  "slug": "peacekeeper",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/peacekeeper.png",
+  "itemType": "Mace",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This mace summons three Royal Guards instead of a single minion, instantly taking up all 3 of a player’s summon slots on use. Each Royal Guard has its own movement patterns, attacks, and behaviors.",
+  "stats": {
+    "damage": "500–600 (average: 550)",
+    "range": "9.9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+30 HP, +5 DEX",
+    "Archer’s Bow: 500-600 damage Raider’s Spear: 100-150 damage Knight’s Slash: 100-250 damage Knight’s Flurry: 100-200 damage",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles",
+    "Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Forgotten King",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/peacekeeper"
+}

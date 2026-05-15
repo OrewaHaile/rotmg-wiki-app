@@ -1,0 +1,32 @@
+{
+  "id": "trap-of-the-blood-spirit",
+  "name": "Trap of the Blood Spirit",
+  "slug": "trap-of-the-blood-spirit",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/trap-of-the-blood-spirit.png",
+  "itemType": "Trap",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 900,
+  "description": "Notes A reskinned version of the Trap of the Vile Spirit, obtainable by completing Tinkerer Quests during Halloween Events from 2018 onwards. During Halloween 2019, this item could also drop from The Flying Dutchman, a reskin of the Ghost Ship.",
+  "stats": {
+    "damage": "1300",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 ATT, +5 SPD",
+    "On enemies: Inflicts Curse for 2 (+0.1 per ATT over 46) seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Flying Dutchman"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/trap-of-the-blood-spirit"
+}

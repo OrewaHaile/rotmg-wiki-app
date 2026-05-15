@@ -1,0 +1,38 @@
+{
+  "id": "mace-of-the-depths",
+  "name": "Mace of the Depths",
+  "slug": "mace-of-the-depths",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/mace-of-the-depths.png",
+  "itemType": "Mace",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes This mace is one of two that inflict a status effect, this one being Slowed. As the Slowed duration lasts longer than the spider’s attack delay, it can be used to permanently slow enemies. In addition to its slowing shot, the spider minion possesses a secondary, rapid explosive attack. These explosions make it great for crowd-clearing, and increase overall DPS past mediocre levels.",
+  "stats": {
+    "damage": "100–200 (average: 150)",
+    "range": "9.1 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 SPD",
+    "Slowed for 3 seconds Shots hit multiple targets Explosion Damage: 100-200 Explosion Cooldown: 0.4"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Son of Arachna",
+    "Glowing Egg",
+    "Blue Son of Arachna Giant Egg Sac",
+    "Green Son of Arachna Giant Egg Sac",
+    "Red Son of Arachna Giant Egg Sac",
+    "Silver Son of Arachna Giant Egg Sac",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mace-of-the-depths"
+}

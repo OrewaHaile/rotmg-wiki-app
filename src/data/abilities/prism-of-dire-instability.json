@@ -1,0 +1,33 @@
+{
+  "id": "prism-of-dire-instability",
+  "name": "Prism of Dire Instability",
+  "slug": "prism-of-dire-instability",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/prism-of-dire-instability.png",
+  "itemType": "Prism",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes This unique prism does not teleport the player, but instead sends out a short-lived decoy that will explode into a dense ring of bullets at the end of its lifetime.",
+  "stats": {
+    "damage": "200–320 (average: 260)",
+    "range": "4.5 tiles",
+    "rateOfFire": null,
+    "shots": "15",
+    "projectiles": "15"
+  },
+  "effects": [
+    "+2 ATT, +2 WIS, +40 MP",
+    "No teleport; sends out a decoy that explodes into projectiles Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Puppet Master (Encore)",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/prism-of-dire-instability"
+}

@@ -1,0 +1,27 @@
+{
+  "id": "lightning-scepter",
+  "name": "Lightning Scepter",
+  "slug": "lightning-scepter",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/lightning-scepter.png",
+  "itemType": "Scepter",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter ability for the Sorcerer class. It does not drop from enemies.",
+  "stats": {
+    "damage": "80 (+1.5 per WIS over 50) - 8 for each subsequent target",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/lightning-scepter"
+}

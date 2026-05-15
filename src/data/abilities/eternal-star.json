@@ -1,0 +1,29 @@
+{
+  "id": "eternal-star",
+  "name": "Eternal Star",
+  "slug": "eternal-star",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/eternal-star.png",
+  "itemType": "Star",
+  "tier": "ST (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes An interesting star that grants Berserk instead of the usual Speedy, massively boosting the ninjas DPS on top of a massive DEX boost. While an obvious detriment, the passive speed reduction can work in your favour in other areas where micrododging is more important than running away, such as that of the Moonlight Village. While your ability key is held down, your pet is still able to regenerate your MP, and as such is easier to sustain its effects.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEX, -10 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/eternal-star"
+}

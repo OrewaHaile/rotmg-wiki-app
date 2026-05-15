@@ -1,0 +1,33 @@
+{
+  "id": "stonemould-mace",
+  "name": "Stonemould Mace",
+  "slug": "stonemould-mace",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/stonemould-mace.png",
+  "itemType": "Mace",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "When the entire Earthen Bulwark Summoner Set is equipped, the summon changes to:",
+  "stats": {
+    "damage": "600–1,000 (average: 800)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+5 DEF",
+    "Reflect attack: Summons only shoot when they are hit. Shots hit multiple targets Shots pass through obstacles Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Limoz the Viridian Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/stonemould-mace"
+}

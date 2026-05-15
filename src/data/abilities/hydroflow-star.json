@@ -1,0 +1,29 @@
+{
+  "id": "hydroflow-star",
+  "name": "Hydroflow Star",
+  "slug": "hydroflow-star",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/hydroflow-star.png",
+  "itemType": "Star",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.9.0.0 (Apr 2026) update.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+9 VIT, +20 HP, +20 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hydroflow-star"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "ceremonial-merlot",
+  "name": "Ceremonial Merlot",
+  "slug": "ceremonial-merlot",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/ceremonial-merlot.png",
+  "itemType": "Tome",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes If a priest would like to maximize their dps but does not have the Vesture of Duality, using this tome could be a solution.",
+  "stats": {
+    "damage": null,
+    "range": "6.8 (+0.05 per WIS over 70) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 ATT, -5 DEF",
+    "Heal: 120 (+0.88 per WIS over 70) HP Party Effect: Healing [60/s] (+0.44 per WIS over 70) for 4.4 seconds Self Effect: ATT Boost (+15 ATT) for 6 seconds",
+    "Sommelier’s Gamble: 1% chance to become Drunk for 2 seconds after taking at least 50 damage.Cooldown: 2 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Janus the Doorwarden",
+    "Oryx the Mad God",
+    "Giant Oryx Chicken",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ceremonial-merlot"
+}

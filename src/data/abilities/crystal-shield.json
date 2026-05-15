@@ -1,0 +1,33 @@
+{
+  "id": "crystal-shield",
+  "name": "Crystal Shield",
+  "slug": "crystal-shield",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/crystal-shield.png",
+  "itemType": "Shield",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes A bizarre and completely unique shield that functions similarly to a Ninja star.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 DEF, +40 HP, -10 SPD",
+    "While Armored: On taking damage, fire a shot in retaliation. While Armored: On taking 30 or more damage, heal 10 HP."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Crystal Worm Mother",
+    "Crystallized Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/crystal-shield"
+}

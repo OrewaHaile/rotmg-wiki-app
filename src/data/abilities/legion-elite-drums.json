@@ -1,0 +1,33 @@
+{
+  "id": "legion-elite-drums",
+  "name": "Legion Elite Drums",
+  "slug": "legion-elite-drums",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/legion-elite-drums.png",
+  "itemType": "Lute",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.0.0.0 (Sep 2025) update.",
+  "stats": {
+    "damage": null,
+    "range": "x1.25",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 DEF, +20 HP, +20 MP",
+    "Party Effect: Within 4.5 squares Inspired for 6 seconds, DEF Boost (+7 DEF) for 5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-drums"
+}

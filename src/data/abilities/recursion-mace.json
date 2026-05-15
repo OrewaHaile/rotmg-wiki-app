@@ -1,0 +1,31 @@
+{
+  "id": "recursion-mace",
+  "name": "Recursion Mace",
+  "slug": "recursion-mace",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/recursion-mace.png",
+  "itemType": "Mace",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "145–180 (average: 162.5)",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/recursion-mace"
+}

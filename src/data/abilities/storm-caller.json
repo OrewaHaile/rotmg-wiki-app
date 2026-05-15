@@ -1,0 +1,33 @@
+{
+  "id": "storm-caller",
+  "name": "Storm Caller",
+  "slug": "storm-caller",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/storm-caller.png",
+  "itemType": "Scepter",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes Because the scepter stats are exactly the same as the Scepter of Fulmination, it can be considered an alternative drop.",
+  "stats": {
+    "damage": "150 (+6 per WIS over 50) - 30 for each subsequent target",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+2 ATT, +2 WIS",
+    "On enemies: Slowed for 3 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Izel the Grand Shaman",
+    "Interregnum Treasure Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/storm-caller"
+}

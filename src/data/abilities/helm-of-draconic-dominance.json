@@ -1,0 +1,33 @@
+{
+  "id": "helm-of-draconic-dominance",
+  "name": "Helm of Draconic Dominance",
+  "slug": "helm-of-draconic-dominance",
+  "category": "abilities",
+  "subCategory": "helms",
+  "sprite": "/items/helm-of-draconic-dominance.png",
+  "itemType": "Helm",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes Part of the Dragon Tamer set.",
+  "stats": {
+    "damage": "500–650 (average: 575)",
+    "range": "5.6 tiles (true range: 2.84 tile(s))",
+    "rateOfFire": null,
+    "shots": "3 (arc gap: 10°)",
+    "projectiles": "3 (arc gap: 10°)"
+  },
+  "effects": [
+    "+10 DEF, +5 SPD",
+    "On self: HP Boost (+150 HP) for 6 secondsOn self: Berserk for 2 (+0.1 per WIS over 30) secondsShoots 3 fireballsHitbox Size: 1.5 Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Pyyr the Crimson Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/helm-of-draconic-dominance"
+}

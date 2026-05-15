@@ -1,0 +1,32 @@
+{
+  "id": "storied-blades",
+  "name": "Storied Blades",
+  "slug": "storied-blades",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/storied-blades.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes At a glance, it appears as a sidegrade to the Star of Enlightenment, giving the user damaging and an ATT boost instead. But on closer inspection, meeting the above proc thresholds allows the user to deal additional damage in the form of extra projectiles. What the items tooltip fails to mention however is that any MP regeneration (including your own pet) is disabled while the ability is held down. Thus, this item is best used when you expect to get hit frequently.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 MP, -10 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Black Blade Ozuchi",
+    "Interregnum Treasure Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/storied-blades"
+}

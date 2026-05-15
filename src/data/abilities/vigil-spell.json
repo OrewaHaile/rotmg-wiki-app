@@ -1,0 +1,35 @@
+{
+  "id": "vigil-spell",
+  "name": "Vigil Spell",
+  "slug": "vigil-spell",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/vigil-spell.png",
+  "itemType": "Spell",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 380,
+  "description": "Notes Although not an ST item in its own right, this item is classed as Oryxmas Gear, and, if worn in conjuntion with Ornaments of Unity, will contribute to the Oryxmas Gear bonus stats.",
+  "stats": {
+    "damage": "80–165 (+2 per WIS over 42) (average: 122.5)",
+    "range": "16 tiles",
+    "rateOfFire": null,
+    "shots": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)",
+    "projectiles": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)"
+  },
+  "effects": [
+    "+20 HP, +20 MP, +6 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 2",
+    "Frostaract",
+    "Frozen Ship",
+    "Hat God",
+    "Ice Cube God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/vigil-spell"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "ocular-entrapment",
+  "name": "Ocular Entrapment",
+  "slug": "ocular-entrapment",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/ocular-entrapment.png",
+  "itemType": "Trap",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes The Lingering Eyebawl has the following sprite(s):",
+  "stats": {
+    "damage": "1200",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEX, +5 WIS",
+    "Eyebawl Toss: Summon a lingering eyebawl that lasts for 10 seconds Upon repeated throws targeting an Eyebawl, it deals 1200 damage within 6 sqrs Eyebawl Damage Cooldown: 0.8 seconds Eyebawl Toss Cooldown: 2 seconds On enemies: Inflicts Slowed for 3 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Overseer Oculon",
+    "Soulwarden Murcian",
+    "Spectral Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ocular-entrapment"
+}

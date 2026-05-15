@@ -1,0 +1,29 @@
+{
+  "id": "slashing-sheath",
+  "name": "Slashing Sheath",
+  "slug": "slashing-sheath",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/slashing-sheath.png",
+  "itemType": "Sheath",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter ability for the Kensei class. It does not drop from enemies.",
+  "stats": {
+    "damage": "150–250 (average: 200)",
+    "range": "8 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/slashing-sheath"
+}

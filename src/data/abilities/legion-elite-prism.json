@@ -1,0 +1,33 @@
+{
+  "id": "legion-elite-prism",
+  "name": "Legion Elite Prism",
+  "slug": "legion-elite-prism",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/legion-elite-prism.png",
+  "itemType": "Prism",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.0.0.0 (Sep 2025) update.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 WIS, +20 HP, +20 MP",
+    "Teleport to cursor and spawns a moving decoy at original position"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-prism"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "heart-of-gold-prism",
+  "name": "Heart of Gold Prism",
+  "slug": "heart-of-gold-prism",
+  "category": "abilities",
+  "subCategory": "prisms",
+  "sprite": "/items/heart-of-gold-prism.png",
+  "itemType": "Prism",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 500,
+  "description": "Notes This prism was a reskin of the T0 Decoy Prism and has the same stats that the Decoy Prism had before it was buffed. It currently has the same decoy duration and distance as the Decoy Prism, but the decoy moves to position slightly (0.7 seconds) slower, and thus remains still for slightly shorter compared to the Decoy Prism.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Teleport to cursor and spawns a moving decoy at original position."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Gardener",
+    "Valentine’s Flower"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/heart-of-gold-prism"
+}

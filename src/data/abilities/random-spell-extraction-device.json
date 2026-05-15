@@ -1,0 +1,31 @@
+{
+  "id": "random-spell-extraction-device",
+  "name": "Random Spell Extraction Device",
+  "slug": "random-spell-extraction-device",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/random-spell-extraction-device.png",
+  "itemType": "Spell",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 0,
+  "description": "Notes Although this spell pierces both enemies and obstacles, its total damage is so low that there is hardly a practical use for it. However, its high XP Bonus may give it some use for leveling, or grinding fame.",
+  "stats": {
+    "damage": "12–75 (average: 43.5)",
+    "range": "6 tiles",
+    "rateOfFire": null,
+    "shots": "10 (arc gap: 36°)",
+    "projectiles": "10 (arc gap: 36°)"
+  },
+  "effects": [
+    "Shots hit multiple targets Shots pass through obstacles Shots fire inwards"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Mad God Mayhem"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/random-spell-extraction-device"
+}

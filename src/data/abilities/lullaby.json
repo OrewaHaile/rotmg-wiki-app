@@ -1,0 +1,31 @@
+{
+  "id": "lullaby",
+  "name": "Lullaby",
+  "slug": "lullaby",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/lullaby.png",
+  "itemType": "Lute",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": null,
+    "range": "x0.25",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On self: Uninspired for 7 seconds, DEF Decrease (-10 DEF) for 10 seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/lullaby"
+}

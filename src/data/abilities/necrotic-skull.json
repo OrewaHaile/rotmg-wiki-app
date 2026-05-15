@@ -1,0 +1,30 @@
+{
+  "id": "necrotic-skull",
+  "name": "Necrotic Skull",
+  "slug": "necrotic-skull",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/necrotic-skull.png",
+  "itemType": "Skull",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter ability for the Necromancer class. It does not drop from enemies.",
+  "stats": {
+    "damage": "55-60 (+3 for every WIS above 55)",
+    "range": "4 (+0.1 for every WIS above 50) tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Necromancy: raise 1 Necrotic Undead to fight for you.",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/necrotic-skull"
+}

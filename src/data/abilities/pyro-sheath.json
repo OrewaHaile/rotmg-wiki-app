@@ -1,0 +1,33 @@
+{
+  "id": "pyro-sheath",
+  "name": "Pyro Sheath",
+  "slug": "pyro-sheath",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/pyro-sheath.png",
+  "itemType": "Sheath",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes Part of the Fiery Kensei Set.",
+  "stats": {
+    "damage": "550",
+    "range": "14.23 tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "+5 DEF",
+    "Shots hit multiple targets Shots pass through obstaclesOn Third Dash: 3 more shotsWith Full Set: Bullets deal 600 damage and travel longer distance"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Shaitan the Advisor",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pyro-sheath"
+}

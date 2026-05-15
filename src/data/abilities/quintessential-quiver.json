@@ -1,0 +1,31 @@
+{
+  "id": "quintessential-quiver",
+  "name": "Quintessential Quiver",
+  "slug": "quintessential-quiver",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/quintessential-quiver.png",
+  "itemType": "Quiver",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 0,
+  "description": "Notes Part of the Golden Archer Set.",
+  "stats": {
+    "damage": "10-20 (+1 per 2 WIS over 34) (average: 15)",
+    "range": "15 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Paralyzed for 0.2 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Glitch"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/quintessential-quiver"
+}

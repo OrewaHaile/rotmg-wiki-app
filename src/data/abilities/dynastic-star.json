@@ -1,0 +1,31 @@
+{
+  "id": "dynastic-star",
+  "name": "Dynastic Star",
+  "slug": "dynastic-star",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/dynastic-star.png",
+  "itemType": "Star",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "Notes A versatile star that boasts impressive damage on top of a sublime +12 Vitality bonus.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+12 VIT, +40 HP, +40 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dynastic-star"
+}

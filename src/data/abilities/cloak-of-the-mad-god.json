@@ -1,0 +1,34 @@
+{
+  "id": "cloak-of-the-mad-god",
+  "name": "Cloak of the Mad God",
+  "slug": "cloak-of-the-mad-god",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/cloak-of-the-mad-god.png",
+  "itemType": "Cloak",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 950,
+  "description": "Notes An extremely unconventional cloak that sacrifices a large portion of its invisibility time for the ability to Armor its user for 5 seconds upon use. The +50% DEF the buff gives its user can be a godsend in situations where shots are being fired regardless of your invisibility, or if you uncloak in an unfortunate spot (since it lasts longer than your invisibility). After the Cloak rework was introduced, this remains the only Cloak that allows you to shoot without ending Invisibility, making it a great cloak to pair with the Collector’s Monocle.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 DEF",
+    "Shooting with lethal strike: Grants Armored buff for 5 seconds After exiting sneak: Fire 2 additional projectiles dealing damage equal to your Lethal Strike damage for 2.4 seconds. Sneak: Invisible for 3 seconds. On Invisible end: Lethal Strike: Your weapon deals 65 (+3 per DEF > 25) and 45% (+0.5% per DEF > 25) of target’s defense as additional damage for 2.4 seconds MP Cost: 4 MP/proj Cooldown: 0.4 sec"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Decaract",
+    "Oryx the Mad God",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cloak-of-the-mad-god"
+}

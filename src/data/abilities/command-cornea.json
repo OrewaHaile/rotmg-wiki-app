@@ -1,0 +1,34 @@
+{
+  "id": "command-cornea",
+  "name": "Command Cornea",
+  "slug": "command-cornea",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/command-cornea.png",
+  "itemType": "Orb",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This is a very powerful orb that can inflict one of the longest curses in the game. This is the best orb for converting mana into raw damage, especially with the 5.13 update removing the quiet effect.",
+  "stats": {
+    "damage": "1000 (+1.5 per MP over 300)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEF, +10 WIS",
+    "On enemies: Curse Curse Radius: 6.5 (+0.1 per WIS over 50) tiles Curse Duration: 5.5 (+1 per 10 WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Overseer Oculon",
+    "Soulwarden Murcian",
+    "Spectral Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/command-cornea"
+}

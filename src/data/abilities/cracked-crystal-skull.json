@@ -1,0 +1,36 @@
+{
+  "id": "cracked-crystal-skull",
+  "name": "Cracked Crystal Skull",
+  "slug": "cracked-crystal-skull",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/cracked-crystal-skull.png",
+  "itemType": "Skull",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "2%",
+  "feedPower": 300,
+  "description": "Notes This is the easiest UT skull to obtain, but it is as bad as it gets. It gives 5 HP more compared to Essence Tap Skull, but the summon does a bit less damage, and lacks Vampiric Blast. So it’s not advisable to use over any other skull (other than Heartstealer Skull or less tiered ones).",
+  "stats": {
+    "damage": "155-225 (+3 for every WIS above 55)",
+    "range": "4.05 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+50 HP",
+    "Necromancy: raise 1 Cracked Crystal Undead to fight for you.",
+    "Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Necromancer"
+  ],
+  "dropsFrom": [
+    "Mixcoatl the Masked God",
+    "Beginner Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cracked-crystal-skull"
+}

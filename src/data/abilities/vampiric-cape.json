@@ -1,0 +1,34 @@
+{
+  "id": "vampiric-cape",
+  "name": "Vampiric Cape",
+  "slug": "vampiric-cape",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/vampiric-cape.png",
+  "itemType": "Cloak",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes Part of the Vampire Rogue Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 SPD",
+    "Effect on Self: Healing for 4 seconds With Soulcursed Scythe: DEX Boost (+10 DEX) on ability use for 4 seconds With Ruthven’s Rosary: Spawns 3 bats summons that circle and deal 60-80 (70) Armor Piercing Damage every 0.4 seconds Sneak: Invisible for 5 seconds. After 1 second can be canceled by shooting. On Invisible end: Lethal Strike: Your weapon deals 55 (+4 per VIT > 50) and 40% (+1% per VIT > 50) of target’s defense as additional damage for 2.4 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Lord Ruthven",
+    "Coffin",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/vampiric-cape"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "rain-maker",
+  "name": "Rain Maker",
+  "slug": "rain-maker",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/rain-maker.png",
+  "itemType": "Trap",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This completely unique trap consumes MP for every shot, creating a rain AOE near your character. It can deal huge amounts of burst damage. However, this trap’s range is very short.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+100 MP, +6 DEX",
+    "While Key Held and Shooting: Rain falls 4.5 tiles away in the direction of your cursor MP Cost: Drains 68 MP/sec while shooting Rain: Deals 500-550 armor piercing damage"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Sage Genji",
+    "Drummer Kaguya",
+    "Dancer Miko",
+    "Moonlit Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/rain-maker"
+}

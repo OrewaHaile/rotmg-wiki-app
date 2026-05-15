@@ -1,0 +1,37 @@
+{
+  "id": "tome-of-purification",
+  "name": "Tome of Purification",
+  "slug": "tome-of-purification",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/tome-of-purification.png",
+  "itemType": "Tome",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 700,
+  "description": "Notes The Tome of Purification is a fairly solid tome for any Priest. The +10 VIT and +10 WIS provide you with a mix of stronger HP and MP regeneration. The WIS boost means that, as long as the priest has at least 50 wisdom, this tome beats out all other tomes in terms of range, and is better than the Tome of Holy Guidance in terms of instant heal.",
+  "stats": {
+    "damage": null,
+    "range": "8 (+0.05 per VIT over 45) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+10 VIT, +10 WIS",
+    "Heal: 150 (+0.935 per VIT over 45) HP Party Effect: Healing [75/s] (+0.4675 per VIT over 45) for 4.4 seconds Effect on Self: Removes negative status effects"
+  ],
+  "usableClasses": [
+    "Priest"
+  ],
+  "dropsFrom": [
+    "Lord Ruthven",
+    "Coffin",
+    "Prismimic Defender",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tome-of-purification"
+}

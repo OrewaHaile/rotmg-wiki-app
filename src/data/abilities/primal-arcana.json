@@ -1,0 +1,34 @@
+{
+  "id": "primal-arcana",
+  "name": "Primal Arcana",
+  "slug": "primal-arcana",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/primal-arcana.png",
+  "itemType": "Orb",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 1200,
+  "description": "Notes This very unique orb doesn’t inflict Stasis, but on activation it fires a solid wall of shots that deals a good amount of damage and applies Curse to enemies hit. This is useful for easily applying Curse to enemies when Stasis is unusable or unhelpful, such as in most boss fights. This orb is able to Curse some entities that cannot be Cursed by the area-of-effect from tiered orbs, such as the breakable walls in Oryx’s Chamber or Parasite Chambers.",
+  "stats": {
+    "damage": "100–120 (average: 110 / total: 300-360 (330))",
+    "range": "8.75 tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "+8 DEX",
+    "Your weapon fires two (33% chance for third bullet) more bullets, each dealing 100-120 damage with cooldown 0.2 (0 for third bullet) seconds Curse for 5s Shots hit multiple targets Shots pass through obstacles",
+    "Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Twilight Archmage",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/primal-arcana"
+}

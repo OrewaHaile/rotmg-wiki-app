@@ -10,7 +10,8 @@ const categoryDirs = [
   "wands",
   "staves",
   "katanas",
-  "spellblades"
+  "spellblades",
+  "abilities"
 ];
 
 const duplicatesDir = path.join(DATA_DIR, "duplicates");

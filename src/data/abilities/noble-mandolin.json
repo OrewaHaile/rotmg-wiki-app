@@ -1,0 +1,33 @@
+{
+  "id": "noble-mandolin",
+  "name": "Noble Mandolin",
+  "slug": "noble-mandolin",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/noble-mandolin.png",
+  "itemType": "Lute",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes An unusual lute which does not grant Inspired, but compensates with a buff granting significant damage at the cost of your weapon’s shot speed (note that weapon range stays the same), as well as summoning a spinning ring of shots around your position. It also provides nice defensive bonuses on equip.",
+  "stats": {
+    "damage": "400–500 (average: 450)",
+    "range": "16 (effective ~3) tiles",
+    "rateOfFire": null,
+    "shots": "8 (arc gap: 45°)",
+    "projectiles": "8 (arc gap: 45°)"
+  },
+  "effects": [
+    "+30 HP, +5 DEF",
+    "Self Only: On use, lowers your shot speed by half for 4 seconds. ATT Boost (+10 ATT) for 4.5s Party Effect: Within 5 squares Damaging for 4.5 seconds Shots hit multiple targets Shots pass through obstacles Turning: 150 degrees/sec Circular Motion: After 0.6s, shots turn 90 degrees before circling."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Forgotten King",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/noble-mandolin"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "honeytomb-snare",
+  "name": "Honeytomb Snare",
+  "slug": "honeytomb-snare",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/honeytomb-snare.png",
+  "itemType": "Trap",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 700,
+  "description": "Notes Part of the Swarming Huntress Set.",
+  "stats": {
+    "damage": "150 (+3 per DEX over 32)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On enemies: Slowed for 1.2 (+0.1s per DEX over 32) seconds",
+    "Inflicts Slowed for 0.6 (+0.1s per 7 DEX over 32) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Mini Killer Bee Nest",
+    "Honeyed Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/honeytomb-snare"
+}

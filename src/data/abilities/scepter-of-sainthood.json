@@ -1,0 +1,35 @@
+{
+  "id": "scepter-of-sainthood",
+  "name": "Scepter of Sainthood",
+  "slug": "scepter-of-sainthood",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/scepter-of-sainthood.png",
+  "itemType": "Scepter",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 380,
+  "description": "Notes Although not an ST item in its own right, this item is classed as Oryxmas Gear, and, if worn in conjuntion with Ornaments of Unity, will contribute to the Oryxmas Gear bonus stats.",
+  "stats": {
+    "damage": "300 (+8 per WIS over 50) - 40 for each subsequent target",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+3 SPD, +20 HP, +20 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 2",
+    "Frostaract",
+    "Frozen Ship",
+    "Hat God",
+    "Ice Cube God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/scepter-of-sainthood"
+}

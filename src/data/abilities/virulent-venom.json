@@ -1,0 +1,34 @@
+{
+  "id": "virulent-venom",
+  "name": "Virulent Venom",
+  "slug": "virulent-venom",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/virulent-venom.png",
+  "itemType": "Poison",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes Part of the Acidified Assassin Set.",
+  "stats": {
+    "damage": "900 (+20 per DEF over 25)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEF",
+    "Toxic Terror: Throw a poison when hit Toxic Terror Damage: 700 (+18 per DEF over 25) Toxic Terror Radius: 3 (+0.025 per DEF over 25) tiles Toxic Terror Cooldown: 4 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Gulpord the Slime God",
+    "Master Rat",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/virulent-venom"
+}

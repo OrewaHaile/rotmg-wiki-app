@@ -1,0 +1,34 @@
+{
+  "id": "ghastly-drape",
+  "name": "Ghastly Drape",
+  "slug": "ghastly-drape",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/ghastly-drape.png",
+  "itemType": "Cloak",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes Part of the Skuld 2 The ReGhostening set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 ATT, +3 WIS",
+    "With Full Set: Ghastly Nova Paralyzed enemies for 2.5 seconds and fires more often. While Lethal Strike is active: Releases a Ghastly Nova. Shots: 6 Damage: 50-150 (average: 100) Total Damage: 300-900 (average: 600) Lifetime: 1.1 second Range: 4 tiles Shots hit multiple targets Sneak: Invisible for 5 seconds. After 1 second can be canceled by shooting. On Invisible end: Lethal Strike: Your weapon deals 30 (+4 per WIS > 34) and 30% (+0.5% per WIS > 34) of target’s defense as additional damage for 3 seconds MP Cost: 4 MP/proj Cooldown: 0.6 sec"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Pumpkin King",
+    "Ghost of Skuld",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ghastly-drape"
+}

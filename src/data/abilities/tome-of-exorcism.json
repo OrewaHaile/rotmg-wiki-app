@@ -1,0 +1,31 @@
+{
+  "id": "tome-of-exorcism",
+  "name": "Tome of Exorcism",
+  "slug": "tome-of-exorcism",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/tome-of-exorcism.png",
+  "itemType": "Tome",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Part of the Archexorcist Priest Set.",
+  "stats": {
+    "damage": null,
+    "range": "6.8 (+0.05 per WIS over 70) tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 ATT, -5 DEF",
+    "Heal: 120 (+0.88 per WIS over 70) HP Party Effect: Healing [60/s] (+0.44 per WIS over 70) for 4.4 seconds Self Effect: ATT Boost (+15 ATT) for 6 seconds",
+    "Drunk on Righteousness: 1% chance to become Drunk for 2 seconds after taking at least 50 damage.Cooldown: 2 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tome-of-exorcism"
+}

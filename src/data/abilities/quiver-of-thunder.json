@@ -1,0 +1,33 @@
+{
+  "id": "quiver-of-thunder",
+  "name": "Quiver of Thunder",
+  "slug": "quiver-of-thunder",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/quiver-of-thunder.png",
+  "itemType": "Quiver",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 850,
+  "description": "Notes Often abbreviated to “QoT”, the Quiver of Thunder is one of two ways to reliably inflict Dazed. The alternative, the Brain of the Golem, can be impractical - it is placed on you, and lasts for 7 seconds before dazing.",
+  "stats": {
+    "damage": "925-1125 (+40 per ATT over 55) (average: 1025)",
+    "range": "15 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+5 ATT",
+    "Vulnerable: Targets receive 115% damage for 3 seconds after being hit. Dazed for 3 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Eye of the Storm",
+    "Greater Nature Sprite"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/quiver-of-thunder"
+}

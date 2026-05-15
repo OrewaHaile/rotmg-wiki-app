@@ -1,0 +1,27 @@
+{
+  "id": "basic-star",
+  "name": "Basic Star",
+  "slug": "basic-star",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/basic-star.png",
+  "itemType": "Star",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter ability for the Ninja class. It does not drop from enemies. This star can be spammed for decent damage, but its better to just use a Doom circle.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/basic-star"
+}

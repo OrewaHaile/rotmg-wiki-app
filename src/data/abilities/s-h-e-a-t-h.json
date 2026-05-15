@@ -1,0 +1,33 @@
+{
+  "id": "s-h-e-a-t-h",
+  "name": "S.H.E.A.T.H.",
+  "slug": "s-h-e-a-t-h",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/s-h-e-a-t-h.png",
+  "itemType": "Sheath",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "History Introduced in Exalt Version 5.11.0.0 (May 2025), as a way to add an holiday themed event to the main game.",
+  "stats": {
+    "damage": "350–450 (average: 400)",
+    "range": "7.52 tiles",
+    "rateOfFire": null,
+    "shots": "14",
+    "projectiles": "14"
+  },
+  "effects": [
+    "+40 HP, +4 ATT",
+    "Blast Damage: 450 / 750 Blast Radius: 4 / 6 Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "F.E.R.A.L.",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/s-h-e-a-t-h"
+}

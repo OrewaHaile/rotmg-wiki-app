@@ -1,0 +1,31 @@
+{
+  "id": "mirror-cloak",
+  "name": "Mirror Cloak",
+  "slug": "mirror-cloak",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/mirror-cloak.png",
+  "itemType": "Cloak",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Effect on Self: Invisible and Weak for 7 seconds On Use: Creates a mirror clone and Weakens the user."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/mirror-cloak"
+}

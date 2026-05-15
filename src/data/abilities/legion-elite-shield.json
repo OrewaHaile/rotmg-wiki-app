@@ -1,0 +1,33 @@
+{
+  "id": "legion-elite-shield",
+  "name": "Legion Elite Shield",
+  "slug": "legion-elite-shield",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/legion-elite-shield.png",
+  "itemType": "Shield",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.0.0.0 (Sep 2025) update.",
+  "stats": {
+    "damage": "300-360 (+5 per WIS over 34) (average: 330)",
+    "range": "3.2 tiles",
+    "rateOfFire": null,
+    "shots": "5",
+    "projectiles": "5"
+  },
+  "effects": [
+    "+12 DEF, +20 HP, +20 MP",
+    "Damage Reduction: On ability use, you receive 75% damage for 5 seconds Stunned for 3 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-shield"
+}

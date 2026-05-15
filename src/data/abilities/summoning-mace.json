@@ -1,0 +1,29 @@
+{
+  "id": "summoning-mace",
+  "name": "Summoning Mace",
+  "slug": "summoning-mace",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/summoning-mace.png",
+  "itemType": "Mace",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter ability for the Summoner class. It does not drop from enemies.",
+  "stats": {
+    "damage": "25–50 (average: 37.5)",
+    "range": "4.05 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/summoning-mace"
+}

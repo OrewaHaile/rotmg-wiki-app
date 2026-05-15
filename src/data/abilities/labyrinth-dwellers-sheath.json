@@ -1,0 +1,32 @@
+{
+  "id": "labyrinth-dwellers-sheath",
+  "name": "Labyrinth Dweller's Sheath",
+  "slug": "labyrinth-dwellers-sheath",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/labyrinth-dwellers-sheath.png",
+  "itemType": "Sheath",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "History Before Exalt Version 6.8.0.0 (Mar 2026), this item was soulbound.",
+  "stats": {
+    "damage": "350",
+    "range": "8.05 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+6 SPD",
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Swarm Tree"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/labyrinth-dweller-s-sheath"
+}

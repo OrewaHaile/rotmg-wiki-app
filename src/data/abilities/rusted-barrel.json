@@ -1,0 +1,32 @@
+{
+  "id": "rusted-barrel",
+  "name": "Rusted Barrel",
+  "slug": "rusted-barrel",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/rusted-barrel.png",
+  "itemType": "Poison",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Because the poison stats are exactly the same as the Plague Poison, it can be considered an alternative drop.",
+  "stats": {
+    "damage": "8.5 (+0.15 per WIS over 50) %",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Pirate Queen Ramm",
+    "Interregnum Treasure Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/rusted-barrel"
+}

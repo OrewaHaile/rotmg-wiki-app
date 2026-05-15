@@ -1,0 +1,32 @@
+{
+  "id": "bottled-lemonade",
+  "name": "Bottled Lemonade",
+  "slug": "bottled-lemonade",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/bottled-lemonade.png",
+  "itemType": "Poison",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes A limited, reskinned version of the Bottled Medusozoan.",
+  "stats": {
+    "damage": "0, instead tosses a stationary glass of lemonade that releases bursts of AoE damage",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+2 DEF, +4 DEX",
+    "Poison: 2500 damage over 3 seconds within 3.5-4.5 squares Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx Wood Totem"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bottled-lemonade"
+}

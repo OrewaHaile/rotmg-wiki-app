@@ -1,0 +1,33 @@
+{
+  "id": "sunken-buckler",
+  "name": "Sunken Buckler",
+  "slug": "sunken-buckler",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/sunken-buckler.png",
+  "itemType": "Shield",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 950,
+  "description": "Notes Part of the Nordic Knight Set.",
+  "stats": {
+    "damage": "165-185 (+7 per SPD over 36) (average: 175)",
+    "range": "3.2 tiles",
+    "rateOfFire": null,
+    "shots": "10 (arc gap: 20°)",
+    "projectiles": "10 (arc gap: 20°)"
+  },
+  "effects": [
+    "+10 DEF, +8 SPD, +4 VIT",
+    "Stunned for 2.5 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Esben the Neurotic",
+    "Citadel Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sunken-buckler"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "legion-elite-skull",
+  "name": "Legion Elite Skull",
+  "slug": "legion-elite-skull",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/legion-elite-skull.png",
+  "itemType": "Skull",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.0.0.0 (Sep 2025) update.",
+  "stats": {
+    "damage": "290-315 (+3 for every WIS above 55)",
+    "range": "4 (+0.1 for every WIS above 50) tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+90 HP, +20 MP",
+    "Necromancy: raise 1 Legion Undead to fight for you.",
+    "Shots hit multiple targets Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-skull"
+}

@@ -1,0 +1,37 @@
+{
+  "id": "snowbound-orb",
+  "name": "Snowbound Orb",
+  "slug": "snowbound-orb",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/snowbound-orb.png",
+  "itemType": "Orb",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 380,
+  "description": "Notes A reskinned version of the T6 Planefetter Orb.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 DEX, +20 HP, +20 MP",
+    "On enemies: Stasis and Curse Stasis Radius: 3 tiles Stasis Duration: 6 seconds Curse Radius: 5 (+0.1 per WIS over 50) tiles Curse Duration: 5 (+1 per 10 WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 2",
+    "Frostaract",
+    "Frozen Ship",
+    "Hat God",
+    "Ice Cube God",
+    "Permafrost Lord"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/snowbound-orb"
+}

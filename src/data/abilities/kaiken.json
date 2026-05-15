@@ -1,0 +1,33 @@
+{
+  "id": "kaiken",
+  "name": "Kaiken",
+  "slug": "kaiken",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/kaiken.png",
+  "itemType": "Sheath",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes 8 shots extend outwards from the user’s final location after each charge. Upon reaching 4.48 tiles of range, these shots circle for a full rotation (3s) before disappearing.",
+  "stats": {
+    "damage": "200",
+    "range": "4.48 tiles",
+    "rateOfFire": null,
+    "shots": "8",
+    "projectiles": "8"
+  },
+  "effects": [
+    "+4 DEX, +4 ATT",
+    "Shots hit multiple targets Shots pass through obstacles Inflicts Slowed for 2 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Daichi the Fallen",
+    "Old Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/kaiken"
+}

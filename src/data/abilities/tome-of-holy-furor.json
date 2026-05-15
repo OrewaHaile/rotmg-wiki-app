@@ -1,0 +1,35 @@
+{
+  "id": "tome-of-holy-furor",
+  "name": "Tome of Holy Furor",
+  "slug": "tome-of-holy-furor",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/tome-of-holy-furor.png",
+  "itemType": "Tome",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes This tome sacrifices all personal healing and team HP regen buffs in exchange for a hefty AoE DEX Boost (+12 DEX). This greatly increases group DPS and stacks with Berserk to push damage to ridiculous amounts, while granting the user extra shots while DEX boosted for even more damage. As a tradeoff for not healing, it provides +60 HP and +6 DEX when equipped. Needless to say, it should be used when damage is a priority over healing, such as when trying to push a boss into the next phase or if there are already other priests focused on healing. The lack of a self-heal makes this tome more",
+  "stats": {
+    "damage": "95",
+    "range": "10 tiles",
+    "rateOfFire": null,
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "+60 HP, +6 DEX",
+    "Holy Barrage: While DEX Boost, 50% chance to shoot an additional 2 shots every weapon shot Party Effect: Within 7 sqrs DEX Boost (+12 DEX) for 5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Decaract",
+    "Oryx the Mad God",
+    "Oryx the Mad God 2",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tome-of-holy-furor"
+}

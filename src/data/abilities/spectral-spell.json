@@ -1,0 +1,33 @@
+{
+  "id": "spectral-spell",
+  "name": "Spectral Spell",
+  "slug": "spectral-spell",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/spectral-spell.png",
+  "itemType": "Spell",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes The animated staff and skull summoned by this item act like standard summons with follow speeds of 1.15, and have the following sprites & projectile sprites:",
+  "stats": {
+    "damage": "85–145 (+2.3 per WIS over 42) (average: 115)",
+    "range": "12.1 tiles",
+    "rateOfFire": null,
+    "shots": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)",
+    "projectiles": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)"
+  },
+  "effects": [
+    "+20 MP, +5 VIT",
+    "With Phantom Pendant: Summons Animated Staff for 4.8 seconds that deals 130-150 armor piercing damage Summons Spectral Skull for 4.8 seconds that deals 90-100 damage and inflicts Slowed for 3 seconds Cooldown: 5.8 seconds Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Twilight Archmage",
+    "Event Chests"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spectral-spell"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sealed-crystal-skull",
+  "name": "Sealed Crystal Skull",
+  "slug": "sealed-crystal-skull",
+  "category": "abilities",
+  "subCategory": "skulls",
+  "sprite": "/items/sealed-crystal-skull.png",
+  "itemType": "Seal",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes The undead spawned from this skull uniquely scale off Max MP, and hence can be decently effective damage-wise.",
+  "stats": {
+    "damage": "195-280 (+0.2 for every MP above 355)",
+    "range": "4.05 tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "+50 HP, +4 DEX, +4 VIT",
+    "Necromancy: raise 1 Sealed Crystal Undead to fight for you.",
+    "Ignores defense of target Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "El Dorado",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sealed-crystal-skull"
+}

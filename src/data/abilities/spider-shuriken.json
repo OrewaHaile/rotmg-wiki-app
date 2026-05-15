@@ -1,0 +1,30 @@
+{
+  "id": "spider-shuriken",
+  "name": "Spider Shuriken",
+  "slug": "spider-shuriken",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/spider-shuriken.png",
+  "itemType": "Shuriken",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 170,
+  "description": "Notes Despite its paltry damage output (inferior than that of the T2 Spiral Shuriken) and lack of stats, the scarcity of immunity to Slow amongst lategame bosses makes this shuriken a top-tier swapout to carry.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Arachna the Spider Queen",
+    "Beginner Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spider-shuriken"
+}

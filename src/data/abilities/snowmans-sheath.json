@@ -1,0 +1,36 @@
+{
+  "id": "snowmans-sheath",
+  "name": "Snowman's Sheath",
+  "slug": "snowmans-sheath",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/snowmans-sheath.png",
+  "itemType": "Sheath",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "Notes Although not an ST item in its own right, this item is classed as Oryxmas Gear, and, if worn in conjuntion with Ornaments of Unity, will contribute to the Oryxmas Gear bonus stats.",
+  "stats": {
+    "damage": "350–400 (average: 375)",
+    "range": "8 tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "+20 HP, +20 MP, +6 DEF",
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 2",
+    "Frostaract",
+    "Frozen Ship",
+    "Hat God",
+    "Ice Cube God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/snowman-s-sheath"
+}

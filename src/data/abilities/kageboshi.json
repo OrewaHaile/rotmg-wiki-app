@@ -1,0 +1,34 @@
+{
+  "id": "kageboshi",
+  "name": "Kageboshi",
+  "slug": "kageboshi",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/kageboshi.png",
+  "itemType": "Star",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 950,
+  "description": "Notes This star sacrifices its Speedy ability and quite a bit of range for piercing and potentially massive damage that’s stronger the closer you are to targets. Additionally, the extra +5 defense can be beneficial.",
+  "stats": {
+    "damage": "400-600 (+11.5 per WIS over 50)",
+    "range": "6 tiles (true range: 2.35 tile(s))",
+    "rateOfFire": null,
+    "shots": "4 (arc gap: 8°)",
+    "projectiles": "4 (arc gap: 8°)"
+  },
+  "effects": [
+    "+5 DEF, +5 SPD",
+    "Hitbox Size: 1.4 Shots hit multiple targets Shots boomerang Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Garnet Statue",
+    "Skull Knight",
+    "The Keyper"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/kageboshi"
+}

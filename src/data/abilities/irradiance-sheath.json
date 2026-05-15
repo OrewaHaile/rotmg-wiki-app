@@ -1,0 +1,37 @@
+{
+  "id": "irradiance-sheath",
+  "name": "Irradiance Sheath",
+  "slug": "irradiance-sheath",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/irradiance-sheath.png",
+  "itemType": "Sheath",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes Summons 2 pairs of initially stationary swords, which fire forward together in a wave pattern. They spawn 1 tile behind the user’s initial location when a charge is used.",
+  "stats": {
+    "damage": "500",
+    "range": "14.22 tiles",
+    "rateOfFire": null,
+    "shots": "4",
+    "projectiles": "4"
+  },
+  "effects": [
+    "+40 HP, +5 ATT",
+    "Shots hit multiple targets Wavy shots"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Crystallised Cyclops",
+    "Crystallised Lizard",
+    "Crystallised Fish",
+    "Crystallised Scorpion",
+    "Crystallised Monstrosity",
+    "Crystallized Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/irradiance-sheath"
+}

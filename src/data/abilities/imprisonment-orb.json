@@ -1,0 +1,49 @@
+{
+  "id": "imprisonment-orb",
+  "name": "Imprisonment Orb",
+  "slug": "imprisonment-orb",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/imprisonment-orb.png",
+  "itemType": "Orb",
+  "tier": "T2",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 15,
+  "description": "Notes For Discord Raid servers that do “full skips,” for dungeons such as The Shatters and Lost Halls, this orb is seen as the most efficient orb for stasising enemies. As such, in those specific places, they’re more sought after than other orbs.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On enemies: Stasis and Curse Stasis Radius: 3 tiles Stasis Duration: 4 seconds Curse Radius: 5 (+0.1 per WIS over 50) tiles Curse Duration: 3 (+1 per 10 WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Beginner Quest Chest",
+    "Cyclops God Chest",
+    "Deathmage Chest",
+    "Ent Ancient",
+    "Fountain Spirit",
+    "Ghost King",
+    "Great Coil Snake Chest",
+    "Kage Kami",
+    "Horned Drake",
+    "Lich",
+    "Mama Megamoth",
+    "Oasis Giant Chest",
+    "Ogre King",
+    "Orc King",
+    "Phoenix Lord Chest",
+    "Red Demon Chest",
+    "Shambling Sludge",
+    "Warrior Bee",
+    "Werelion"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/imprisonment-orb"
+}

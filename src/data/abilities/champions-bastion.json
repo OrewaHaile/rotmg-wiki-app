@@ -1,0 +1,32 @@
+{
+  "id": "champions-bastion",
+  "name": "Champion's Bastion",
+  "slug": "champions-bastion",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/champions-bastion.png",
+  "itemType": "Shield",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes Part of the Oryx’s Battle Attires Set.",
+  "stats": {
+    "damage": "385-455 (+8 per WIS over 34) (average: 420)",
+    "range": "2.8 tiles",
+    "rateOfFire": null,
+    "shots": "5",
+    "projectiles": "5"
+  },
+  "effects": [
+    "On self: DEF Boost (+15 DEF) for 2.5 seconds On enemies: Stunned for 1.5 seconds Shots hit multiple targets Shots pass through obstacles Wavy shots"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 2",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/champion-s-bastion"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "sandstone-seal",
+  "name": "Sandstone Seal",
+  "slug": "sandstone-seal",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/sandstone-seal.png",
+  "itemType": "Seal",
+  "tier": "UT",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 350,
+  "description": "Notes This seal provides VIT Boost instead of a tiered seal’s Healing or HP Boost. This seal is most useful when other Paladins are around, as the group will gain Healing, HP Boost, and the extra VIT boost at the same time. If you are the only paladin around, a tiered seal is usually better.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +3 DEX",
+    "Party Effect: Damaging and VIT Boost (+15 VIT) Damaging Range: 5 (+0.1 per WIS over 50) tiles Damaging Duration: 5 (+0.1 per WIS over 50) seconds VIT Boost Range: 5 tiles VIT Boost Duration: 5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Sandstone Titan",
+    "Genie",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sandstone-seal"
+}

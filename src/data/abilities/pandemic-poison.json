@@ -1,0 +1,29 @@
+{
+  "id": "pandemic-poison",
+  "name": "Pandemic Poison",
+  "slug": "pandemic-poison",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/pandemic-poison.png",
+  "itemType": "Poison",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes Upgraded version of Plague Poison that deals more damage, has greater radius and 20% shorter throw time. Some of the notable perks include not having to be accurate with this poison and every target hit during vulnerability is being damaged over time for 10s.",
+  "stats": {
+    "damage": "9.5 (+0.175 per WIS over 50) %",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 ATT, +5 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pandemic-poison"
+}

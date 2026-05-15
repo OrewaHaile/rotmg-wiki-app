@@ -1,0 +1,30 @@
+{
+  "id": "hunting-trap",
+  "name": "Hunting Trap",
+  "slug": "hunting-trap",
+  "category": "abilities",
+  "subCategory": "traps",
+  "sprite": "/items/hunting-trap.png",
+  "itemType": "Trap",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter ability for the Huntress class. It does not drop from enemies.",
+  "stats": {
+    "damage": "65 (+5 per WIS over 34)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On enemies: Inflicts Slowed for 2 (+0.1s per WIS over 34) seconds",
+    "Inflicts Slowed for 1 (+0.1s per WIS over 34) second(s)"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hunting-trap"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "forbidden-artifact",
+  "name": "Forbidden Artifact",
+  "slug": "forbidden-artifact",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/forbidden-artifact.png",
+  "itemType": "Orb",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes This is a really unique orb, acting similar to a Summoner’s mace. It summons a controllable Vindication Orb.",
+  "stats": {
+    "damage": "160",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+80 MP",
+    "Active Time: 6.8 seconds Zap Radius: 3.5 tiles Pulse Radius: 2.5 tiles Pulse Effect: Curse for 2 seconds Attacks become slower over time"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Nefret the Pharaoh",
+    "Interregnum Treasure Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/forbidden-artifact"
+}

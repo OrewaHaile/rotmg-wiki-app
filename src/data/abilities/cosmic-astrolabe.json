@@ -1,0 +1,29 @@
+{
+  "id": "cosmic-astrolabe",
+  "name": "Cosmic Astrolabe",
+  "slug": "cosmic-astrolabe",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/cosmic-astrolabe.png",
+  "itemType": "Orb",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Part of the Astral Arcanist Set",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Hold [Shift] for 1 seconds to change modes Star Fire: Emit flaming stars for 185-315 damage. Empowerment: Gain additional stars while Energized. Teleport to Target MP Decrease (-50 MP) on self for 5 seconds. Ability 1: Space Warp Solar Flare: Curse enemies for 4 seconds within 5.6 tiles. Empowerment: Duration increases to 6.5 seconds while wearing Nebular Rod. Ability 2: Time Warp Effect on Enemy: Stasis for 5 seconds within 4 squares."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cosmic-astrolabe"
+}

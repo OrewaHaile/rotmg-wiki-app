@@ -1,0 +1,35 @@
+{
+  "id": "cloak-of-the-planewalker",
+  "name": "Cloak of the Planewalker",
+  "slug": "cloak-of-the-planewalker",
+  "category": "abilities",
+  "subCategory": "cloaks",
+  "sprite": "/items/cloak-of-the-planewalker.png",
+  "itemType": "Cloak",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Because of the ability to teleport, lack of invisibility cooldown, and high speed bonus, this cloak is the best for rushing dungeons. It is also commonly used to avoid dangerous situations that would normally lead to players either dying or nexusing. This makes the cloak a must-have swap-out for every Rogue.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+15 SPD, +6 DEX",
+    "Effect on Self: Invisible for 3 seconds. After 1 second can be cancelled by shooting On Use: Teleports to cursor location when activated"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Limon the Sprite Goddess",
+    "Standard Quest Chest",
+    "Golden Oryx Effigy",
+    "Souvenir"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/cloak-of-the-planewalker"
+}

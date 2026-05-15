@@ -1,0 +1,30 @@
+{
+  "id": "quiver-of-dazing-love",
+  "name": "Quiver of Dazing Love",
+  "slug": "quiver-of-dazing-love",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/quiver-of-dazing-love.png",
+  "itemType": "Quiver",
+  "tier": "ST (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 800,
+  "description": "Notes Part of the Valentine’s Day Archer Set.",
+  "stats": {
+    "damage": "925-1125 (+40 per ATT over 55) (average: 1025)",
+    "range": "15 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+5 ATT",
+    "Vulnerable: Targets receive 115% damage for 3 seconds after being hit. Dazed for 3 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/quiver-of-dazing-love"
+}

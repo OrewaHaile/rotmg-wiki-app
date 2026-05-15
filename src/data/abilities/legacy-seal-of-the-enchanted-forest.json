@@ -1,0 +1,30 @@
+{
+  "id": "legacy-seal-of-the-enchanted-forest",
+  "name": "Legacy Seal of the Enchanted Forest",
+  "slug": "legacy-seal-of-the-enchanted-forest",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/legacy-seal-of-the-enchanted-forest.png",
+  "itemType": "Seal",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes Part of the Legacy Swoll Paladin Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+2 ATT, +5 VIT, +5 WIS",
+    "On party: HP Boost by HP Party effect duration: seconds On enemies: Slowed for seconds Range: tiles On self: Hallucinating for 1 second"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legacy-seal-of-the-enchanted-forest"
+}

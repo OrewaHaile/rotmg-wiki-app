@@ -1,0 +1,29 @@
+{
+  "id": "magic-quiver",
+  "name": "Magic Quiver",
+  "slug": "magic-quiver",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/magic-quiver.png",
+  "itemType": "Quiver",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter ability for the Archer class. It does not drop from enemies.",
+  "stats": {
+    "damage": "35-50 (+1 per 2 WIS over 34) (average: 42.5)",
+    "range": "15 tiles",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 7°)",
+    "projectiles": "2 (arc gap: 7°)"
+  },
+  "effects": [
+    "Vulnerable: Targets receive 110% damage for 3 seconds after being hit. Paralyzed for 3 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/magic-quiver"
+}

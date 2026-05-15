@@ -1,0 +1,31 @@
+{
+  "id": "limoz-the-viridian-dragon",
+  "name": "Limoz the Viridian Dragon",
+  "slug": "limoz-the-viridian-dragon",
+  "category": "maces",
+  "subCategory": "maces",
+  "sprite": "/items/limoz-the-viridian-dragon.png",
+  "itemType": "Mace",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "Limoz the Viridian Dragon is one of the five bosses of the Lair of Draconis. If Limoz is the fourth dragon fought, his name will change to Limoz the Plague Bearer.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/limoz-the-viridian-dragon",
+  "invalidReasons": [
+    "invalid tier"
+  ],
+  "importedAt": "2026-05-15T14:37:29.806Z"
+}

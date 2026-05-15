@@ -1,0 +1,34 @@
+{
+  "id": "orb-of-conquest",
+  "name": "Orb of Conquest",
+  "slug": "orb-of-conquest",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/orb-of-conquest.png",
+  "itemType": "Orb",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 700,
+  "description": "Notes Part of the Agents of Oryx Abilities.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 DEX",
+    "Beacon of Blight: On cursor location, constructs a beacon that damages and curses enemies in three bursts.Beacon Duration: 2 secondsFirst Explosion: Curse for 5 seconds and inflicts 600 damage within 5 squaresSecond Explosion: Curse for 5 seconds and inflicts 600 damage within 4 squaresThird Explosion: Curse for 5 seconds and inflicts 600 damage within 3 squaresConquerer’s Energy: ATT Boost (+10 ATT) on self for 5 seconds.Energy Cooldown: 15 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/orb-of-conquest"
+}

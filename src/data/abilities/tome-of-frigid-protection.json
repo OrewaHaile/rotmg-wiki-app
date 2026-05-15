@@ -1,0 +1,34 @@
+{
+  "id": "tome-of-frigid-protection",
+  "name": "Tome of Frigid Protection",
+  "slug": "tome-of-frigid-protection",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/tome-of-frigid-protection.png",
+  "itemType": "Tome",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": null,
+  "description": "Notes A winter reskinned version of the Tome of Holy Protection however with an XP Bonus of 6% as opposed to the Tome of Holy Protection’s 7%.",
+  "stats": {
+    "damage": null,
+    "range": "8 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +8 DEF",
+    "Party Effect: Healing [70/s] (+0.495 per DEF over 40) for 4.4 seconds Party Effect: Within 8 sqrs DEF Boost (+12 DEF) for 6 seconds Effect on Self: Armored for 6 (+0.1 per DEF over 40) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Permafrost Lord",
+    "Snowy the Frost God",
+    "Tinkerer Winter Quests"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tome-of-frigid-protection"
+}

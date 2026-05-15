@@ -1,0 +1,35 @@
+{
+  "id": "sinister-syringes",
+  "name": "Sinister Syringes",
+  "slug": "sinister-syringes",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/sinister-syringes.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Hold Shift to switch between modes. Note that the weapon defaults to Sharps mode whenever a new dungeon instance is entered or if unequipped and requipped.",
+  "stats": {
+    "damage": "20–30 (average: 25)",
+    "range": "10 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+5 DEX, +10 VIT",
+    "Ability 1: Sharps While Key Held and Shooting: Drain 20 MP/sec and VIT Decrease (-50 VIT) for 1 second Drain 3 HP/shot to fire a deadly needle Ability 2: Stitches Surgical Maneuver: On key press and release, spend 30 MP for Healing on self for 2 seconds While Key Held and Shooting: Drain 10 MP/sec Spend 10 MP/shot to heal 12 HP when below 90% HP",
+    "Bleeding on enemies for 3 seconds. (Bleed Damage: 80) Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Doctor Lobotomik",
+    "Soulwarden Murcian",
+    "Spectral Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sinister-syringes"
+}

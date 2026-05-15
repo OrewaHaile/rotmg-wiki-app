@@ -1,0 +1,33 @@
+{
+  "id": "scholars-seal",
+  "name": "Scholar's Seal",
+  "slug": "scholars-seal",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/scholars-seal.png",
+  "itemType": "Seal",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "This seal gives a unique buff - MP Boost and WIS Boost - in place of the regular seal buffs. The Scholar’s Seal is most useful when other Paladins are around, as the group will gain the benefit of both seals. It is recommended to carry a tiered seal as a swapout. If you are the only Paladin in a group, then it’s usually better to apply Damaging and HP Boost over this seal’s buffs.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 SPD, +4 DEX",
+    "On party: WIS Boost, MP Boost and Healing WIS Boost: +15 WIS WIS Boost Range: 3 tiles WIS Boost Duration: 5 seconds MP Boost: +34 (+2 per WIS over 50) max MP MP Boost Range: 5 (+1 per 10 WIS over 50) tiles MP Boost Duration: 3 (+1 per 10 WIS over 50) seconds Healing Range: 5 (+0.1 per WIS over 50) tiles Healing Duration: 3 (+0.1 per WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Avalon the Archivist",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/scholar-s-seal"
+}

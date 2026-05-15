@@ -1,0 +1,33 @@
+{
+  "id": "tome-of-the-mushroom-tribes",
+  "name": "Tome of the Mushroom Tribes",
+  "slug": "tome-of-the-mushroom-tribes",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/tome-of-the-mushroom-tribes.png",
+  "itemType": "Tome",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 850,
+  "description": "Notes This tome spawns a stationary healing mushroom wherever your cursor is, which heals 75 health every second (for a total of 225 HP). It is a uniquely useful tome for these reasons:",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 DEX, +6 SPD",
+    "On Ability use: Create a Healing Mushroom that lasts 6 seconds. While within range: Grants 90 HP/s Healing effect Range: 6"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Crystal Worm Mother",
+    "Crystallized Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tome-of-the-mushroom-tribes"
+}

@@ -1,0 +1,30 @@
+{
+  "id": "hydroflow-orb",
+  "name": "Hydroflow Orb",
+  "slug": "hydroflow-orb",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/hydroflow-orb.png",
+  "itemType": "Orb",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.9.0.0 (Apr 2026) update.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 DEX, +20 HP, +20 MP",
+    "On enemies: Stasis and Curse Stasis Radius: 3 tiles Stasis Duration: 6 seconds Curse Radius: 5 (+0.1 per WIS over 50) tiles Curse Duration: 5 (+1 per 10 WIS over 50) seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hydroflow-orb"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "archerang",
+  "name": "Archerang",
+  "slug": "archerang",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/archerang.png",
+  "itemType": "Quiver",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "50-100 (+1 per 2 WIS over 34) (average: 75)",
+    "range": "5 tiles",
+    "rateOfFire": null,
+    "shots": "5 (arc gap: 12°)",
+    "projectiles": "5 (arc gap: 12°)"
+  },
+  "effects": [
+    "Inflicts Slowed for 2 secondsInflicts Paralyzed for 2 seconds Shots hit multiple targets Shots boomerang"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/archerang"
+}

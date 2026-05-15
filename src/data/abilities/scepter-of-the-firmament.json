@@ -1,0 +1,31 @@
+{
+  "id": "scepter-of-the-firmament",
+  "name": "Scepter of the Firmament",
+  "slug": "scepter-of-the-firmament",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/scepter-of-the-firmament.png",
+  "itemType": "Scepter",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "Notes When compared to other scepters, it is slightly behind if you need to clear minions or fighting a single target but nevertheless it’s a strong and all rounded alternative.",
+  "stats": {
+    "damage": "320 (+9 per WIS over 50) - 45 for each subsequent target",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +40 MP, +4 SPD"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/scepter-of-the-firmament"
+}

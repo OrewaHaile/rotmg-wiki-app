@@ -1,0 +1,32 @@
+{
+  "id": "grandmaster-mace",
+  "name": "Grandmaster Mace",
+  "slug": "grandmaster-mace",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/grandmaster-mace.png",
+  "itemType": "Mace",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "Notes The strongest tiered mace, providing healthy stat bonuses to increase the Summoner’s offensive and defensive capabilities while also dealing a great amount of damage by itself.",
+  "stats": {
+    "damage": "240–265 (average: 252.5)",
+    "range": "4.05 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+6 ATT, +40 HP, +40 MP",
+    "Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/grandmaster-mace"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "nebular-lute",
+  "name": "Nebular Lute",
+  "slug": "nebular-lute",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/nebular-lute.png",
+  "itemType": "Lute",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "Notes This lute provides solid defensive stats and the biggest party boost to DEF on use of any lute, with a whopping +8 DEF for 5.5 seconds. This makes it a great all-around lute to use to make both yourself and your group incredibly tanky.",
+  "stats": {
+    "damage": null,
+    "range": "x1.25",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+5 DEF, +40 HP, +40 MP",
+    "Party Effect: Within 4.5 squares Inspired for 6.5 seconds, DEF Boost (+8 DEF) for 5.5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/nebular-lute"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "dragon-slayer",
+  "name": "Dragon Slayer",
+  "slug": "dragon-slayer",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/dragon-slayer.png",
+  "itemType": "Shield",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes This is a reskinned item of Shield of Flowing Clarity.",
+  "stats": {
+    "damage": "150-330 (+7.75 per WIS over 34) (average: 240)",
+    "range": "3.2 tiles",
+    "rateOfFire": null,
+    "shots": "5",
+    "projectiles": "5"
+  },
+  "effects": [
+    "+17 DEF",
+    "Slowed for 4 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Ivory Wyvern"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dragon-slayer"
+}

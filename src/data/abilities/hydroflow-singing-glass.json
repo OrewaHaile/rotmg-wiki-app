@@ -1,0 +1,30 @@
+{
+  "id": "hydroflow-singing-glass",
+  "name": "Hydroflow Singing Glass",
+  "slug": "hydroflow-singing-glass",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/hydroflow-singing-glass.png",
+  "itemType": "Lute",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.9.0.0 (Apr 2026) update.",
+  "stats": {
+    "damage": null,
+    "range": "x1.25",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 DEF, +20 HP, +20 MP",
+    "Party Effect: Within 4.5 squares Inspired for 6 seconds, DEF Boost (+7 DEF) for 5 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hydroflow-singing-glass"
+}

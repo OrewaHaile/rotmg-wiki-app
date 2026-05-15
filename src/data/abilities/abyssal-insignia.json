@@ -1,0 +1,33 @@
+{
+  "id": "abyssal-insignia",
+  "name": "Abyssal Insignia",
+  "slug": "abyssal-insignia",
+  "category": "abilities",
+  "subCategory": "seals",
+  "sprite": "/items/abyssal-insignia.png",
+  "itemType": "Seal",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 900,
+  "description": "Notes Part of the Corrupted Paladin Set.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+40 HP, +5 VIT",
+    "Summon a void rift for 5 seconds Rift Effect: Curses enemies and deals 150-200 damage within 4.5 sqrs every 0.4 seconds Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Stone Monolith",
+    "Stone Idol"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/abyssal-insignia"
+}

@@ -1,0 +1,53 @@
+{
+  "id": "wind-circle",
+  "name": "Wind Circle",
+  "slug": "wind-circle",
+  "category": "abilities",
+  "subCategory": "stars",
+  "sprite": "/items/wind-circle.png",
+  "itemType": "Star",
+  "tier": "T4",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "2%",
+  "feedPower": 68,
+  "description": "History Before Patch X.32.7.0 (Feb 2020), this item had no stat bonus, a projectile speed of 17, and a range of 17.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+6 VIT"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Avalon the Archivist",
+    "Beginner Quest Chest",
+    "Standard Quest Chest",
+    "Brute of Oryx",
+    "Cube God",
+    "Cyclops God Chest",
+    "Genie",
+    "Ghost King",
+    "Kage Kami",
+    "Kogbold Expedition Engine",
+    "Lair Blue Spectre",
+    "Lair Grey Spectre",
+    "Lair White Spectre",
+    "Limon the Sprite Goddess",
+    "Native Sprite God",
+    "Oryx the Mad God",
+    "Pentaract",
+    "Realm Gods",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Skull Shrine",
+    "Stone Guardians"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wind-circle"
+}

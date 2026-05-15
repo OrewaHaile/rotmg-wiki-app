@@ -1,0 +1,34 @@
+{
+  "id": "chaotic-scripture",
+  "name": "Chaotic Scripture",
+  "slug": "chaotic-scripture",
+  "category": "abilities",
+  "subCategory": "tomes",
+  "sprite": "/items/chaotic-scripture.png",
+  "itemType": "Tome",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This tome’s ability to instantly strike anywhere within the user’s sight range with a devastating, low cooldown, armor-piercing AoE attack, makes it unrivaled among tomes in terms of increasing DPS. This ability can single-handedly turn a Priest into a long-distance damage machine, good against groups and bosses alike.",
+  "stats": {
+    "damage": "2500 (+14.25 per ATT over 60)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+60 HP, +6 VIT",
+    "Heal: 90 (+0.715 per ATT over 60) HP Damage Nova: Explodes once within 2.5 sqrs"
+  ],
+  "usableClasses": [
+    "Priest"
+  ],
+  "dropsFrom": [
+    "Archbishop Leucoryx"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/chaotic-scripture"
+}

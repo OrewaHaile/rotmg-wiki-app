@@ -1,0 +1,31 @@
+{
+  "id": "ghost-ships-bell",
+  "name": "Ghost Ship's Bell",
+  "slug": "ghost-ships-bell",
+  "category": "abilities",
+  "subCategory": "lutes",
+  "sprite": "/items/ghost-ships-bell.png",
+  "itemType": "Lute",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes A DPS-oriented item for an otherwise support-oriented class, the parrots that are spawned by either using the ability or through its proc will inflict large amounts of DEF-piercing damage to enemies. The proc is particularly effective if paired with a high rate-of-fire weapon such as the Thousand Shot, DEX-boosting equipment/consumables (ex. Effusions of Dexterity), or buffs such as Berserk (from Warriors). The tradeoff of the massive DPS capabilities of this item is that it does not inflict DEF Boost on the user, unlike tiered lutes.",
+  "stats": {
+    "damage": null,
+    "range": "x1.25",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+4 ATT, +4 DEX",
+    "Party Effect: Within 4.5 squares Inspired for 4 seconds. Deep Pact: Summons a ghostly fish attack your enemies. Fish Throw Time: 0.6s Ghostly Fish: 450 damage within 2 squares every 1 second. (1800 maximum total) Fighting Parrot Effect: Ignores defense of target",
+    "Unearthly Clang: 5% chance upon shooting for a ghostly fish to protect you for 3 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ghost-ship-s-bell"
+}

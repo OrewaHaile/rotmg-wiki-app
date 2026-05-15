@@ -1,0 +1,33 @@
+{
+  "id": "orb-of-aether",
+  "name": "Orb of Aether",
+  "slug": "orb-of-aether",
+  "category": "abilities",
+  "subCategory": "orbs",
+  "sprite": "/items/orb-of-aether.png",
+  "itemType": "Orb",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes This is an incredibly unique orb. Rather than putting enemies into Stasis, it summons a stationary Aether Trap at the cursor location. The Aether Trap persists for about 5 seconds, and each second it will emit a pulse that slows enemies within 4.5 tiles and paralyzes enemies for within 2.5 tiles. The duration of the status effects last long enough to permanently affect anything in the trap’s radius until the trap vanishes.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Creates an Aether Trap at the target location On enemy: Inflicts Slowed and Paralyzed Slowed Radius: 4.5 tiles Slowed Duration: 5 seconds Paralyze Radius: 2.5 tiles Paralyze Duration: 2 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Daichi the Fallen",
+    "Old Chest",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/orb-of-aether"
+}

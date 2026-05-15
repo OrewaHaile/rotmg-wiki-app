@@ -1,0 +1,30 @@
+{
+  "id": "hydroflow-quiver",
+  "name": "Hydroflow Quiver",
+  "slug": "hydroflow-quiver",
+  "category": "abilities",
+  "subCategory": "quivers",
+  "sprite": "/items/hydroflow-quiver.png",
+  "itemType": "Quiver",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.9.0.0 (Apr 2026) update.",
+  "stats": {
+    "damage": "295-335 (+3.88 per WIS over 34) (average: 315)",
+    "range": "15 tiles",
+    "rateOfFire": null,
+    "shots": "4 (arc gap: 7°)",
+    "projectiles": "4 (arc gap: 7°)"
+  },
+  "effects": [
+    "+6 DEX, +20 HP, +20 MP",
+    "Vulnerable: Targets receive 110% damage for 3 seconds after being hit. Paralyzed for 3 seconds Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hydroflow-quiver"
+}

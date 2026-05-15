@@ -1,0 +1,29 @@
+{
+  "id": "paper-machete",
+  "name": "Paper Machete",
+  "slug": "paper-machete",
+  "category": "abilities",
+  "subCategory": "sheaths",
+  "sprite": "/items/paper-machete.png",
+  "itemType": "Sheath",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "100",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/paper-machete"
+}

@@ -1,0 +1,43 @@
+{
+  "id": "spider-venom",
+  "name": "Spider Venom",
+  "slug": "spider-venom",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/spider-venom.png",
+  "itemType": "Poison",
+  "tier": "T1",
+  "bagType": "Pink",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 8,
+  "description": "Before Exalt Version 5.12.0.0 (June 2025), this item impact damage was 50, its total damage 250, WIS scale was 4, base damage boost was 5.5% and its damage boost scale was 0.05.",
+  "stats": {
+    "damage": "6 (+0.1 per WIS over 50) %",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+1 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Bandit Leader",
+    "Deathmage Chest",
+    "Dwarf King",
+    "Elf Wizard",
+    "Ent Ancient",
+    "Goblin Mage",
+    "Great Coil Snake Chest",
+    "Hobbit Mage",
+    "Lich",
+    "Mama Megamoth",
+    "Sandsman King",
+    "Sumo Master",
+    "Undead Hobbit Mage"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spider-venom"
+}

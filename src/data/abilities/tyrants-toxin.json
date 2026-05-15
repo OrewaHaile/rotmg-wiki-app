@@ -1,0 +1,34 @@
+{
+  "id": "tyrants-toxin",
+  "name": "Tyrant's Toxin",
+  "slug": "tyrants-toxin",
+  "category": "abilities",
+  "subCategory": "poisons",
+  "sprite": "/items/tyrants-toxin.png",
+  "itemType": "Poison",
+  "tier": "UT",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 700,
+  "description": "Notes Part of the Agents of Oryx Abilities.",
+  "stats": {
+    "damage": "Initial Bomb: 5 (+0.2 per WIS over 50) %",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+3 ATT, +3 DEF",
+    "Cluster Bomb: Initial poison bomb creates 3 cluster bombs 1.5 tiles from its center.Alchemical Boon: On ability use, 33% chance to restore 50 MP on self."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Adept)",
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tyrant-s-toxin"
+}

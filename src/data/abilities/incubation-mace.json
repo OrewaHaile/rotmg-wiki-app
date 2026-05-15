@@ -1,0 +1,43 @@
+{
+  "id": "incubation-mace",
+  "name": "Incubation Mace",
+  "slug": "incubation-mace",
+  "category": "abilities",
+  "subCategory": "maces",
+  "sprite": "/items/incubation-mace.png",
+  "itemType": "Mace",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes The description of this item is slightly non-indicative. Rabbits will charge for 2.6 seconds, then fire 4 bursts of shots, before repeating once more. A rabbit fires 8 bursts of 3 shots over its lifetime. The rabbits will visually grow while charging up, and shrink back down when firing.",
+  "stats": {
+    "damage": "300–350 (average: 325)",
+    "range": "5.4 tiles",
+    "rateOfFire": null,
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "+5 ATT, +40 HP",
+    "Charge Duration: 2.6 seconds Rabbits charge and discharge twice"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Biff the Buffed Bunny",
+    "Chicken",
+    "Chocolate Head",
+    "Easter Egg",
+    "Eggs Golem",
+    "Lamb",
+    "Pigeon",
+    "Fluffy Bunny God",
+    "Fuzzy Bunny God",
+    "Orange Bunny God",
+    "Playful Bunny God",
+    "White Bunny God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/incubation-mace"
+}

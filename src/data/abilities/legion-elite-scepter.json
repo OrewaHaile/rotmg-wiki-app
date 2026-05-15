@@ -1,0 +1,32 @@
+{
+  "id": "legion-elite-scepter",
+  "name": "Legion Elite Scepter",
+  "slug": "legion-elite-scepter",
+  "category": "abilities",
+  "subCategory": "scepters",
+  "sprite": "/items/legion-elite-scepter.png",
+  "itemType": "Scepter",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 380,
+  "description": "History Added in the Exalt Version 6.0.0.0 (Sep 2025) update.",
+  "stats": {
+    "damage": "300 (+8 per WIS over 50) - 40 for each subsequent target",
+    "range": "9 tiles",
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "+3 SPD, +20 HP, +20 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Inspector Stromwell (Veteran)",
+    "Inspector Stromwell (Expert)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-scepter"
+}

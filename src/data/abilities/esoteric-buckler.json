@@ -1,0 +1,32 @@
+{
+  "id": "esoteric-buckler",
+  "name": "Esoteric Buckler",
+  "slug": "esoteric-buckler",
+  "category": "abilities",
+  "subCategory": "shields",
+  "sprite": "/items/esoteric-buckler.png",
+  "itemType": "Shield",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "History Added in the Exalt Version 6.2.0.0 (Oct 2025) update.",
+  "stats": {
+    "damage": "500-700 (+20 per DEX over 34) (average: 600)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 8°)",
+    "projectiles": "2 (arc gap: 8°)"
+  },
+  "effects": [
+    "+4 ATT, +10 DEF, +4 SPD",
+    "Stunned for 4 seconds Shots hit multiple targets Shots pass through obstacles Ignores defense of target"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Janus the Doorwarden"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/esoteric-buckler"
+}
