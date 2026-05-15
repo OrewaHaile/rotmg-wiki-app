@@ -20,6 +20,205 @@ const tabGroups = {
   pets: { label: "Pets", categories: ["pets"] },
 };
 
+type SortMode =
+  | "name-asc"
+  | "name-desc"
+  | "tier-asc"
+  | "tier-desc"
+  | "damage-asc"
+  | "damage-desc"
+  | "feedPower-desc"
+  | "fameBonus-desc"
+  | "category"
+  | "itemType";
+
+const sortLabels: Record<SortMode, string> = {
+  "name-asc": "Name A-Z",
+  "name-desc": "Name Z-A",
+  "tier-asc": "Tier low to high",
+  "tier-desc": "Tier high to low",
+  "damage-asc": "Damage low to high",
+  "damage-desc": "Damage high to low",
+  "feedPower-desc": "Feed Power high to low",
+  "fameBonus-desc": "Fame Bonus high to low",
+  category: "Category",
+  itemType: "Item Type",
+};
+
+const sortOptions: Array<{ value: SortMode; label: string }> = [
+  { value: "name-asc", label: "Name A-Z" },
+  { value: "name-desc", label: "Name Z-A" },
+  { value: "tier-asc", label: "Tier low to high" },
+  { value: "tier-desc", label: "Tier high to low" },
+  { value: "damage-asc", label: "Damage low to high" },
+  { value: "damage-desc", label: "Damage high to low" },
+  { value: "feedPower-desc", label: "Feed Power high to low" },
+  { value: "fameBonus-desc", label: "Fame Bonus high to low" },
+  { value: "category", label: "Category" },
+  { value: "itemType", label: "Item Type" },
+];
+
+function getNumberValue(value: unknown): number | null {
+  if (value == null || value === "" || value === "Unknown") {
+    return null;
+  }
+
+  if (typeof value === "number") {
+    return Number.isFinite(value) ? value : null;
+  }
+
+  if (typeof value !== "string") {
+    return null;
+  }
+
+  const text = value.trim();
+  const averageMatch = text.match(/average:\s*([0-9]+(?:\.[0-9]+)?)/i);
+  if (averageMatch) {
+    return parseFloat(averageMatch[1]);
+  }
+
+  const rangeMatch = text.match(/([0-9]+(?:\.[0-9]+)?)\s*[–-]\s*([0-9]+(?:\.[0-9]+)?)/);
+  if (rangeMatch) {
+    return (parseFloat(rangeMatch[1]) + parseFloat(rangeMatch[2])) / 2;
+  }
+
+  const numberMatch = text.match(/([0-9]+(?:\.[0-9]+)?)/);
+  if (numberMatch) {
+    return parseFloat(numberMatch[1]);
+  }
+
+  return null;
+}
+
+function getAverageDamage(item: any): number | null {
+  const damageTargets = [
+    item.damage,
+    item.stats?.damage,
+    item.stats?.Damage,
+    item.stats?.["Damage"],
+    item.stats?.projectileDamage,
+    item.stats?.["projectileDamage"],
+  ];
+
+  for (const target of damageTargets) {
+    const value = getNumberValue(target);
+    if (value != null) {
+      return value;
+    }
+  }
+
+  return null;
+}
+
+function getNumericField(item: any, names: string[]): number | null {
+  for (const name of names) {
+    const value = item[name] ?? item.stats?.[name];
+    const parsed = getNumberValue(value);
+    if (parsed != null) {
+      return parsed;
+    }
+  }
+  return null;
+}
+
+function getTierRank(item: any): number {
+  const tier = item.tier ? String(item.tier).trim() : "";
+  const normalized = tier.toUpperCase();
+
+  if (/^T(\d{1,2})$/.test(normalized)) {
+    return Number(normalized.slice(1));
+  }
+  if (normalized.startsWith("ST") && normalized.includes("LIMITED")) {
+    return 18;
+  }
+  if (normalized.startsWith("UT") && normalized.includes("LIMITED")) {
+    return 17;
+  }
+  if (normalized.startsWith("ST")) {
+    return 15;
+  }
+  if (normalized.startsWith("UT")) {
+    return 16;
+  }
+  return 99;
+}
+
+function sortItems(items: typeof allItems, sortMode: SortMode) {
+  return [...items].sort((a, b) => {
+    const nameA = String(a.name || "").toLowerCase();
+    const nameB = String(b.name || "").toLowerCase();
+
+    switch (sortMode) {
+      case "name-asc":
+        return nameA.localeCompare(nameB);
+      case "name-desc":
+        return nameB.localeCompare(nameA);
+      case "tier-asc": {
+        const rankA = getTierRank(a);
+        const rankB = getTierRank(b);
+        if (rankA !== rankB) return rankA - rankB;
+        return nameA.localeCompare(nameB);
+      }
+      case "tier-desc": {
+        const rankA = getTierRank(a);
+        const rankB = getTierRank(b);
+        if (rankA !== rankB) return rankB - rankA;
+        return nameA.localeCompare(nameB);
+      }
+      case "damage-asc": {
+        const damageA = getAverageDamage(a);
+        const damageB = getAverageDamage(b);
+        if (damageA == null && damageB == null) return nameA.localeCompare(nameB);
+        if (damageA == null) return 1;
+        if (damageB == null) return -1;
+        if (damageA !== damageB) return damageA - damageB;
+        return nameA.localeCompare(nameB);
+      }
+      case "damage-desc": {
+        const damageA = getAverageDamage(a);
+        const damageB = getAverageDamage(b);
+        if (damageA == null && damageB == null) return nameA.localeCompare(nameB);
+        if (damageA == null) return 1;
+        if (damageB == null) return -1;
+        if (damageA !== damageB) return damageB - damageA;
+        return nameA.localeCompare(nameB);
+      }
+      case "feedPower-desc": {
+        const feedA = getNumericField(a, ["feedPower", "feed power", "Feed Power"]);
+        const feedB = getNumericField(b, ["feedPower", "feed power", "Feed Power"]);
+        if (feedA == null && feedB == null) return nameA.localeCompare(nameB);
+        if (feedA == null) return 1;
+        if (feedB == null) return -1;
+        if (feedA !== feedB) return feedB - feedA;
+        return nameA.localeCompare(nameB);
+      }
+      case "fameBonus-desc": {
+        const fameA = getNumericField(a, ["fameBonus", "fame bonus", "Fame Bonus", "xp bonus"]);
+        const fameB = getNumericField(b, ["fameBonus", "fame bonus", "Fame Bonus", "xp bonus"]);
+        if (fameA == null && fameB == null) return nameA.localeCompare(nameB);
+        if (fameA == null) return 1;
+        if (fameB == null) return -1;
+        if (fameA !== fameB) return fameB - fameA;
+        return nameA.localeCompare(nameB);
+      }
+      case "category": {
+        const catA = String(a.category || "").toLowerCase();
+        const catB = String(b.category || "").toLowerCase();
+        if (catA !== catB) return catA.localeCompare(catB);
+        return nameA.localeCompare(nameB);
+      }
+      case "itemType": {
+        const typeA = String(a.itemType || "").toLowerCase();
+        const typeB = String(b.itemType || "").toLowerCase();
+        if (typeA !== typeB) return typeA.localeCompare(typeB);
+        return nameA.localeCompare(nameB);
+      }
+      default:
+        return nameA.localeCompare(nameB);
+    }
+  });
+}
+
 const emptyFilters: FilterState = {
   category: "",
   subCategory: "",
@@ -34,6 +233,7 @@ export default function Home() {
   const [search, setSearch] = useState("");
   const [filters, setFilters] = useState<FilterState>(emptyFilters);
   const [activeTab, setActiveTab] = useState<keyof typeof tabGroups>("all");
+  const [sortMode, setSortMode] = useState<SortMode>("name-asc");
 
   useEffect(() => {
     const params = new URLSearchParams(searchParams);
@@ -65,7 +265,7 @@ export default function Home() {
   }, [searchParams]);
 
   const filtered = useMemo(() => {
-    return allItems.filter((item) => {
+    const results = allItems.filter((item) => {
       if (search && !item.name.toLowerCase().includes(search.toLowerCase())) return false;
       if (activeTab !== "all" && !tabGroups[activeTab].categories.includes(item.category)) return false;
       if (filters.category && item.category !== filters.category) return false;
@@ -76,7 +276,9 @@ export default function Home() {
       if (filters.usableClass && !item.usableClasses?.includes(filters.usableClass)) return false;
       return true;
     });
-  }, [search, filters, activeTab]);
+
+    return sortItems(results, sortMode);
+  }, [search, filters, activeTab, sortMode]);
 
   const totalCount = allItems.length;
   const groupCounts = {
@@ -137,8 +339,31 @@ export default function Home() {
           </div>
 
           <div className="rounded-3xl border border-amber-900/30 bg-stone-900/75 px-4 py-4">
-            <div className="flex flex-col gap-4 xl:flex-row xl:items-center xl:justify-between">
-              <SearchBar value={search} onChange={setSearch} placeholder="Search weapons, armors, rings, abilities or pets..." />
+            <div className="grid gap-4 xl:grid-cols-[1.4fr_auto] xl:items-center">
+              <div className="grid gap-4 w-full sm:grid-cols-[minmax(0,1fr)_220px]">
+                <SearchBar value={search} onChange={setSearch} placeholder="Search weapons, armors, rings, abilities or pets..." />
+                <div className="rounded-3xl border border-stone-800/70 bg-stone-950/80 p-4">
+                  <label htmlFor="home-sort" className="text-xs uppercase tracking-[0.35em] text-stone-500">
+                    Sort by
+                  </label>
+                  <select
+                    id="home-sort"
+                    value={sortMode}
+                    onChange={(event) => setSortMode(event.target.value as SortMode)}
+                    className="mt-2 w-full rounded-2xl border border-stone-800/70 bg-stone-900/90 px-3 py-2 text-sm text-stone-100 outline-none transition focus:border-amber-500 focus:ring-2 focus:ring-amber-500/20"
+                  >
+                    {sortOptions.map((option) => (
+                      <option key={option.value} value={option.value}>
+                        {option.label}
+                      </option>
+                    ))}
+                  </select>
+                  <p className="mt-3 text-xs text-stone-400">
+                    Sorted by <span className="font-semibold text-amber-200">{sortLabels[sortMode]}</span>
+                  </p>
+                </div>
+              </div>
+
               <div className="flex flex-wrap gap-2">
                 {Object.entries(tabGroups).map(([key, tab]) => (
                   <button
