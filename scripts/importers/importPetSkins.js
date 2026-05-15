@@ -79,7 +79,8 @@ function rebuildIndexAndReport() {
     "abilities",
     "armors",
     "rings",
-    "pets"
+    "pets",
+    "dungeons"
   ];
 
   const allItems = [];

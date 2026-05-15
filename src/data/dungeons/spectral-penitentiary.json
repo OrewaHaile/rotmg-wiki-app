@@ -1,0 +1,25 @@
+{
+  "id": "spectral-penitentiary",
+  "name": "Spectral Penitentiary",
+  "slug": "spectral-penitentiary",
+  "category": "dungeons",
+  "sprite": "/dungeons/spectral-penitentiary.png",
+  "difficulty": "",
+  "realmPortal": false,
+  "location": [],
+  "drops": [],
+  "bosses": [
+    "Oryx",
+    "Prismimic",
+    "The Inner Workings",
+    "Court of Oryx",
+    "Oryx's Castle",
+    "Oryx's Chamber",
+    "Oryx's Sanctuary",
+    "Queen Bunny Chamber",
+    "Oryx's Kitchen"
+  ],
+  "description": "The Spectral Penitentiary is an endgame dungeon and one of the Exaltation dungeons, offering an Attack boost. It shares thematic and mechanical similarities with the Haunted Cemetery, appearing to be a penitentiary for souls that have defied Skuld, although it is not as similar to that dungeon as prior “hard version” dungeons such as Deadwater Docks are to their counterparts.",
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spectral-penitentiary"
+}

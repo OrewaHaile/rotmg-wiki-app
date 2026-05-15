@@ -1,0 +1,23 @@
+{
+  "id": "the-tavern",
+  "name": "The Tavern",
+  "slug": "the-tavern",
+  "category": "dungeons",
+  "sprite": "/dungeons/the-tavern.png",
+  "difficulty": "",
+  "realmPortal": false,
+  "location": [],
+  "drops": [],
+  "bosses": [
+    "The Inner Workings",
+    "Court of Oryx",
+    "Oryx's Castle",
+    "Oryx's Chamber",
+    "Oryx's Sanctuary",
+    "Queen Bunny Chamber",
+    "Oryx's Kitchen"
+  ],
+  "description": "The Tavern is a high-level dungeon that is a source of Potions of Vitality, Greater Potions of Vitality and Potions of Mana. It is also the source of the untiered The Right Hook, Tipsy Topper, Double Vision Darts, Cask Corslet and Brewer’s Bangle.",
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/the-tavern"
+}

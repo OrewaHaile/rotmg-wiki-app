@@ -303,7 +303,7 @@ function loadExistingSlugs() {
 }
 
 function buildGlobalIndex() {
-  const knownCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades", "armors", "rings", "abilities", "pets"];
+  const knownCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades", "armors", "rings", "abilities", "pets", "dungeons"];
   const index = { total: 0, categories: {}, items: [] };
 
   if (!fs.existsSync(DATA_DIR)) {
@@ -360,7 +360,7 @@ function saveGlobalIndex() {
 function buildImportReport(duplicateCount, invalidCount) {
   const categories = {};
   let totalImported = 0;
-  const reportCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades", "armors", "rings", "abilities", "pets"];
+  const reportCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades", "armors", "rings", "abilities", "pets", "dungeons"];
 
   for (const category of reportCategories) {
     const folder = path.join(DATA_DIR, category);

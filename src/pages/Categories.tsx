@@ -34,7 +34,7 @@ const categories = [
   {
     title: "Dungeons",
     description: "Dungeon pages, bosses and loot tables.",
-    href: "/items",
+    href: "/dungeons",
     icon: "🗺️"
   },
   {

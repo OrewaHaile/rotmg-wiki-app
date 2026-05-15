@@ -9,6 +9,7 @@ export default function Navigation() {
   const navItems = [
     { label: "Home", path: "/" },
     { label: "Items", path: "/items" },
+    { label: "Dungeons", path: "/dungeons" },
     { label: "Categories", path: "/categories" },
     { label: "Import Stats", path: "/stats" },
   ];

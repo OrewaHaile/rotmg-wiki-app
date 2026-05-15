@@ -1,0 +1,17 @@
+{
+  "id": "realm-of-the-mad-god",
+  "name": "Realm of the Mad God",
+  "slug": "realm-of-the-mad-god",
+  "category": "dungeons",
+  "sprite": "/dungeons/realm-of-the-mad-god.png",
+  "difficulty": "",
+  "realmPortal": false,
+  "location": [],
+  "drops": [],
+  "bosses": [
+    "Oryx the Mad God"
+  ],
+  "description": "Realm of the Mad God (RotMG) is a free-to-play, massively multiplayer, “bullet hell,” roguelike RPG that drops players into the thick of the fight in a world overwhelmed by Oryx the Mad God and his minions. The game features online cooperative gameplay in a huge world, more than 60 unique dungeons, thousands of enemies, real-time action combat, 19 playable classes, leveling, and thousands of items to collect. To play the game, simply download the launcher and install the game, create a free account, and go!",
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/realm-of-the-mad-god"
+}

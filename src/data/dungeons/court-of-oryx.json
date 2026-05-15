@@ -1,0 +1,25 @@
+{
+  "id": "court-of-oryx",
+  "name": "Court of Oryx",
+  "slug": "court-of-oryx",
+  "category": "dungeons",
+  "sprite": "/dungeons/court-of-oryx.png",
+  "difficulty": "",
+  "realmPortal": false,
+  "location": [],
+  "drops": [],
+  "bosses": [
+    "Oryx’s Castle",
+    "Oryx’s Chamber",
+    "The Inner Workings",
+    "Court of Oryx",
+    "Oryx's Castle",
+    "Oryx's Chamber",
+    "Oryx's Sanctuary",
+    "Queen Bunny Chamber",
+    "Oryx's Kitchen"
+  ],
+  "description": "The Court of Oryx is a room accessible via a portal after killing Janus the Doorwarden in Oryx’s Castle. From this area, several mini-dungeons will be opened by Craig, Intern of the Mad God.",
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/court-of-oryx"
+}

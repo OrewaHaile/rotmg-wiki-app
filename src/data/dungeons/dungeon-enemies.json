@@ -1,0 +1,22 @@
+{
+  "id": "dungeon-enemies",
+  "name": "Dungeon Enemies",
+  "slug": "dungeon-enemies",
+  "category": "dungeons",
+  "sprite": "/dungeons/dungeon-enemies.png",
+  "difficulty": "",
+  "realmPortal": false,
+  "location": [],
+  "drops": [],
+  "bosses": [
+    "Oryx's Castle Enemies",
+    "Oryx's Chamber Enemies",
+    "Oryx's Kitchen Enemies",
+    "Oryx's Sanctuary Enemies",
+    "Queen Bunny Chamber Enemies",
+    "Dungeon Bosses"
+  ],
+  "description": "These enemies normally only spawn in their respective dungeons.",
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dungeon-enemies"
+}

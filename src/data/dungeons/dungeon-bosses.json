@@ -1,0 +1,24 @@
+{
+  "id": "dungeon-bosses",
+  "name": "Dungeon Bosses",
+  "slug": "dungeon-bosses",
+  "category": "dungeons",
+  "sprite": "/dungeons/dungeon-bosses.png",
+  "difficulty": "",
+  "realmPortal": false,
+  "location": [],
+  "drops": [
+    "untiered equipment"
+  ],
+  "bosses": [
+    "Oryx’s Castle",
+    "Oryx’s Chamber",
+    "Oryx’s Sanctuary",
+    "Queen Bunny Chamber",
+    "Oryx’s Kitchen",
+    "Dungeon Bosses"
+  ],
+  "description": "Dungeon Bosses are the main enemies of dungeons. The majority of dungeon bosses drop stat increase pots, various consumable items, tiered equipment, and unique untiered equipment.",
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dungeon-bosses"
+}
