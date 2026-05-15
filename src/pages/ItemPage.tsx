@@ -64,9 +64,9 @@ export default function ItemPage() {
           This item doesn't exist in the wiki yet.
         </p>
         <Link href="/">
-          <button className="flex items-center gap-2 text-sm text-amber-500 hover:text-amber-300 transition-colors border border-amber-800/50 hover:border-amber-600/50 px-4 py-2 rounded-lg bg-amber-950/30">
+          <button className="inline-flex items-center gap-2 rounded-full border border-amber-700/70 bg-stone-900/70 px-4 py-2 text-sm font-semibold uppercase tracking-[0.14em] text-amber-100 hover:border-amber-500/80 hover:bg-stone-800 transition-colors">
             <ArrowLeft className="w-4 h-4" />
-            Back to home
+            Back to Items
           </button>
         </Link>
       </div>
