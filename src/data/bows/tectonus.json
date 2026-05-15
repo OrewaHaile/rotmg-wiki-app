@@ -1,0 +1,32 @@
+{
+  "id": "tectonus",
+  "name": "Tectonus",
+  "slug": "tectonus",
+  "sprite": "/items/tectonus.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "History This is a reskinned version of the Leaf Bow released during the April 2022 Nature’s Upheaval campaign event. See all releases of 2022.",
+  "stats": {
+    "damage": "120–175 (average: 147.5)",
+    "range": "7.2 tiles",
+    "rateOfFire": "140%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Wavy shots",
+    "+5 SPD"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tectonus"
+}

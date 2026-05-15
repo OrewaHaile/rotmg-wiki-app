@@ -1,0 +1,33 @@
+{
+  "id": "aspirants-bow",
+  "name": "Aspirant's Bow",
+  "slug": "aspirants-bow",
+  "sprite": "/items/aspirants-bow.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Before Exalt Version 4.0.0.0 (Aug 2023), this item was not soulbound.",
+  "stats": {
+    "damage": "35–45 (average: 40)",
+    "range": "7.04 tiles",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "Aspirant’s Set: This item can be further improved by inscribing it with an artifact from the Path of the Stalwart, Sniper, Swiftblade, or Magus.",
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/aspirant-s-bow"
+}

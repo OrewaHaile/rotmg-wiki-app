@@ -1,0 +1,31 @@
+{
+  "id": "spring-wonder-bow",
+  "name": "Spring Wonder Bow",
+  "slug": "spring-wonder-bow",
+  "sprite": "/items/spring-wonder-bow.png",
+  "itemType": "Bow",
+  "tier": "ST (Limited)",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 800,
+  "description": "Notes Part of the Painted Egg Archer Set.",
+  "stats": {
+    "damage": "250–325 (average: 287.5)",
+    "range": "7.5 tiles",
+    "rateOfFire": "35%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spring-wonder-bow"
+}

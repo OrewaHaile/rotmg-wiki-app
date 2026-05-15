@@ -1,0 +1,45 @@
+{
+  "id": "bloodbath-blade",
+  "name": "Bloodbath Blade",
+  "slug": "bloodbath-blade",
+  "sprite": "/items/bloodbath-blade.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes A katana focused on damage, with additional armor piercing on its extra projectiles. The bonus attack is anywhere from +2 to +20, scaling linearly once the player reaches 95% HP, and increasing in increments of +2 with each additional 10% HP lost with the max of +20 attack given at 5% HP.",
+  "stats": {
+    "damage": "60–80 (average: 70 / total: 210)",
+    "range": "1.12 tiles",
+    "rateOfFire": "25%",
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "-15 VIT",
+    "On Shoot: Sick on self when in combat, Gain an ATK Boost the lower your HP is.",
+    "Shots hit multiple targets Shots boomerang",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Blood Hound",
+    "Blood Ooze",
+    "Bloodroot Treant",
+    "Bulbous Perforator",
+    "Ghoul",
+    "Legion Missionary",
+    "Organ Harvester",
+    "Ravenous Harpy",
+    "Scout Colony",
+    "Shadow Lurker"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bloodbath-blade"
+}

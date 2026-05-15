@@ -1,0 +1,31 @@
+{
+  "id": "aspirants-blade",
+  "name": "Aspirant's Blade",
+  "slug": "aspirants-blade",
+  "sprite": "/items/aspirants-blade.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Before Exalt Version 4.0.0.0 (Aug 2023), this item was not soulbound.",
+  "stats": {
+    "damage": "120–165 (average: 142.5)",
+    "range": "4.745 tiles",
+    "rateOfFire": "120%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targetsAspirant’s Set: This item can be further improved by inscribing it with an artifact from the Path of the Stalwart, Sniper, Swiftblade, or Magus."
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/aspirant-s-blade"
+}

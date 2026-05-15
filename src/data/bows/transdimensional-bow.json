@@ -1,0 +1,32 @@
+{
+  "id": "transdimensional-bow",
+  "name": "Transdimensional Bow",
+  "slug": "transdimensional-bow",
+  "sprite": "/items/transdimensional-bow.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "History Added in the Exalt Version 5.0.0.0 (July 2024) update.",
+  "stats": {
+    "damage": "205–235 (average: 220)",
+    "range": "4.07",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/transdimensional-bow"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "krathana",
+  "name": "Krathana",
+  "slug": "krathana",
+  "sprite": "/items/krathana.png",
+  "itemType": "Katana",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 0,
+  "description": "Notes Although its range surpasses that of the Ray Katana, the pitiful damage on this vanity item makes it impractical for actual combat.",
+  "stats": {
+    "damage": "1–75 (average: 38)",
+    "range": "8.45 tiles",
+    "rateOfFire": "120%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Mad God Mayhem"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/krathana"
+}

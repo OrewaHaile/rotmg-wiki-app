@@ -1,0 +1,35 @@
+{
+  "id": "kiritsukeru",
+  "name": "Kiritsukeru",
+  "slug": "kiritsukeru",
+  "sprite": "/items/kiritsukeru.png",
+  "itemType": "Katana",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 800,
+  "description": "Notes A katana that sacrifices fire rate and shot speed for a great increase in damage and a slight range boost. It is best used to instantly kill minions with the higher damage per shot, such as various Demons in the Abyss of Demons.",
+  "stats": {
+    "damage": "240–280 (average: 260)",
+    "range": "5 tiles",
+    "rateOfFire": "70%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Cyclops God",
+    "Sword in the Stone?",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/kiritsukeru"
+}

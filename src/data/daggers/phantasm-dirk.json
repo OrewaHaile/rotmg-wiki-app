@@ -1,0 +1,33 @@
+{
+  "id": "phantasm-dirk",
+  "name": "Phantasm Dirk",
+  "slug": "phantasm-dirk",
+  "sprite": "/items/phantasm-dirk.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 950,
+  "description": "Notes This is a halloween reskinned version of the extremely rare UT Dirk of Cronus.",
+  "stats": {
+    "damage": "150–290 (average: 220)",
+    "range": "4.5 tiles",
+    "rateOfFire": "95%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+6 WIS"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Calcium God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/phantasm-dirk"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "valor-rehearsal",
+  "name": "Valor (Rehearsal)",
+  "slug": "valor-rehearsal",
+  "sprite": "/items/valor-rehearsal.png",
+  "itemType": "Katana",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 900,
+  "description": "History Before Exalt Version 5.0.0.1 (Aug 2024), this item dealt 425-500 damage.",
+  "stats": {
+    "damage": "435–505 (average: 470)",
+    "range": "4.76 tiles",
+    "rateOfFire": "45%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "+5 SPD",
+    "On Shoot: When in combat, ATT Decrease (-10 ATT) for 1 second"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "The Bridge Sentinel (With Rehearsal Modifier)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/valor-rehearsal"
+}

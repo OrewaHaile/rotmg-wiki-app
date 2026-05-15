@@ -1,0 +1,33 @@
+{
+  "id": "evergreen-dagger",
+  "name": "Evergreen Dagger",
+  "slug": "evergreen-dagger",
+  "sprite": "/items/evergreen-dagger.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes A somewhat odd dagger that utilizes both the Burst mechanic as well acceleration. Its shots start out slow, but speed up quickly once they have traveled half of their range. The low arc gap allows both shots to still hit at a reasonable range, allowing it to deal a good amount of damage.",
+  "stats": {
+    "damage": "140–230 (average: 185)",
+    "range": "6.14 tiles (true range: 4.2 tiles)",
+    "rateOfFire": "130%",
+    "shots": "2 (arc gap: 10°)",
+    "projectiles": "2 (arc gap: 10°)"
+  },
+  "effects": [
+    "Burst Count: 3 Burst Delay: 1.6 seconds Minimum Burst Delay 0.8 seconds"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Jack Frost"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/evergreen-dagger"
+}

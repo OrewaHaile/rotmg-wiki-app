@@ -1,0 +1,33 @@
+{
+  "id": "garland-bow",
+  "name": "Garland Bow",
+  "slug": "garland-bow",
+  "sprite": "/items/garland-bow.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes This is a powerful bow with a tight shot spread, boasting 0.51 more true range than tiered bows (true range: 3.56), making it a bit safer to land all the shots.",
+  "stats": {
+    "damage": "100–200 (average: 150 / total: 450)",
+    "range": "6.08 tiles (true range: 4.07 tiles)",
+    "rateOfFire": "85%",
+    "shots": "3 (arc gap: 7°)",
+    "projectiles": "3 (arc gap: 7°)"
+  },
+  "effects": [
+    "Burst Count: 3 Burst Delay: 1.6 seconds Minimum Burst Delay 0.8 seconds Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Jack Frost"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/garland-bow"
+}

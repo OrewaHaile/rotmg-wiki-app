@@ -1,0 +1,32 @@
+{
+  "id": "skybound-blade",
+  "name": "Skybound Blade",
+  "slug": "skybound-blade",
+  "sprite": "/items/skybound-blade.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "History Before Exalt Version 5.0.0.1 (Aug 2024), this item dealt 140-190 damage.",
+  "stats": {
+    "damage": "145–195 (average: 170)",
+    "range": "4.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "+2 ATT"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/skybound-blade"
+}

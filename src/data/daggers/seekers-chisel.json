@@ -1,0 +1,29 @@
+{
+  "id": "seekers-chisel",
+  "name": "Seeker's Chisel",
+  "slug": "seekers-chisel",
+  "sprite": "/items/seekers-chisel.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "History Introduced in Exalt Version 5.14.0.0 (July 2025) update.",
+  "stats": {
+    "damage": "125–220 (average: 172.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/seeker-s-chisel"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "fiery-katana",
+  "name": "Fiery Katana",
+  "slug": "fiery-katana",
+  "sprite": "/items/fiery-katana.png",
+  "itemType": "Katana",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 800,
+  "description": "Notes Part of the Fiery Kensei Set.",
+  "stats": {
+    "damage": "105–205 (average: 155 / total: 310)",
+    "range": "5.33 tiles",
+    "rateOfFire": "140%",
+    "shots": "2 (arc gap: 90° and 270°)",
+    "projectiles": "2 (arc gap: 90° and 270°)"
+  },
+  "effects": [
+    "Burst: Shots are fired in bursts of 3 at an increased fire rate.Burst Count: 3Maximum Burst Delay: 1.2 secondsMinimum Burst Delay: 1 second"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Shaitan the Advisor",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fiery-katana"
+}

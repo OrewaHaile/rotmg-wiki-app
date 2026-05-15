@@ -1,0 +1,31 @@
+{
+  "id": "silver-revolvers",
+  "name": "Silver Revolvers",
+  "slug": "silver-revolvers",
+  "sprite": "/items/silver-revolvers.png",
+  "itemType": "Bow",
+  "tier": "ST (Limited)",
+  "bagType": "Unknown",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 850,
+  "description": "Notes Part of the Cursed Cursebreaker Huntress Set.",
+  "stats": {
+    "damage": "160–195 (average: 177.5)",
+    "range": "8 tiles",
+    "rateOfFire": "90%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/silver-revolvers"
+}

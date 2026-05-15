@@ -1,0 +1,31 @@
+{
+  "id": "firestarter",
+  "name": "Firestarter",
+  "slug": "firestarter",
+  "sprite": "/items/firestarter.png",
+  "itemType": "Bow",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Part of the Ancestral Shaman Set.",
+  "stats": {
+    "damage": "200–275 (average: 237.5 / total: 712.5)",
+    "range": "7.2 tiles",
+    "rateOfFire": "30%",
+    "shots": "3",
+    "projectiles": "3"
+  },
+  "effects": [
+    "Shots hit multiple targets Bleeding on enemies for 3 seconds. (Bleed Damage: 90)"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/firestarter"
+}

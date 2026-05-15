@@ -1,0 +1,31 @@
+{
+  "id": "blood-siphoning-katana",
+  "name": "Blood Siphoning Katana",
+  "slug": "blood-siphoning-katana",
+  "sprite": "/items/blood-siphoning-katana.png",
+  "itemType": "Katana",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "History Added in the Exalt Version 6.2.0.0 (Oct 2025) update.",
+  "stats": {
+    "damage": "440–520 (average: 480)",
+    "range": "10.92 tiles",
+    "rateOfFire": "40%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shoots backwards Shots hit multiple targets Shots boomerang Bleeding Causes up to 80 damage for 3 seconds per stack."
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/blood-siphoning-katana"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "coral-bow",
+  "name": "Coral Bow",
+  "slug": "coral-bow",
+  "sprite": "/items/coral-bow.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 800,
+  "description": "Notes The Coral Bow is comparable to the T12 Bow of Covert Havens. The Coral Bow has a longer true range and higher projectile speed than tiered bows (6.35 tiles compared to 4.07 for tiered bows), but is outdamaged by the T12 when all shots hit, outside of very low DEF. When two shots hit from the T12, it will outdamage the Coral Bow at 54/48/43 DEF.",
+  "stats": {
+    "damage": "75–95 (average: 85 / total: 170)",
+    "range": "7.77 tiles (true range: 6.35 tiles)",
+    "rateOfFire": "125%",
+    "shots": "2 (arc gap: 9°)",
+    "projectiles": "2 (arc gap: 9°)"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Huntress"
+  ],
+  "dropsFrom": [
+    "Thessal the Mermaid Goddess",
+    "Coral Gift",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/coral-bow"
+}

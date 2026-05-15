@@ -1,0 +1,29 @@
+{
+  "id": "avarice",
+  "name": "Avarice",
+  "slug": "avarice",
+  "sprite": "/items/avarice.png",
+  "itemType": "Dagger",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes A dagger with great DPS, above the T14 Dagger of Dire Hatred, and high range, 0.38 tiles greater than tiered. The tradeoff is that its shots alternate left and right, much like the shots of the Sword of the Colossus (though to a lesser extent). This makes it hard to hit enemies in the middle of your range. If you can master this quirk, Avarice will be one of the strongest daggers in the game, safe to use as your main dagger.",
+  "stats": {
+    "damage": "190–215 (average: 202.5)",
+    "range": "5.985 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Treasurer Gemsbok"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/avarice"
+}

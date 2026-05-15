@@ -1,0 +1,35 @@
+{
+  "id": "arctic-bow",
+  "name": "Arctic Bow",
+  "slug": "arctic-bow",
+  "sprite": "/items/arctic-bow.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 750,
+  "description": "Notes This is a Winter themed reskin of the Coral Bow.",
+  "stats": {
+    "damage": "75–95 (average: 85 / total: 170)",
+    "range": "7.77 tiles (true range: 6.35 tiles)",
+    "rateOfFire": "125%",
+    "shots": "2 (arc gap: 9°)",
+    "projectiles": "2 (arc gap: 9°)"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Frimar",
+    "Glacius",
+    "Polaris"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/arctic-bow"
+}

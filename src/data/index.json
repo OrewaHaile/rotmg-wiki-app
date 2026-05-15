@@ -17,6 +17,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/acidic-slasher"
   },
   {
+    "id": "acrobats-edge",
+    "name": "Acrobat's Edge",
+    "slug": "acrobats-edge",
+    "category": "katanas",
+    "sprite": "/items/acrobats-edge.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/acrobat-s-edge"
+  },
+  {
     "id": "agateclaw-dagger",
     "name": "Agateclaw Dagger",
     "slug": "agateclaw-dagger",
@@ -32,6 +49,23 @@
       "Trickster"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/agateclaw-dagger"
+  },
+  {
+    "id": "an-icicle",
+    "name": "An Icicle",
+    "slug": "an-icicle",
+    "category": "daggers",
+    "sprite": "/items/an-icicle.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/an-icicle"
   },
   {
     "id": "anatis-staff",
@@ -68,6 +102,40 @@
     "sourceUrl": "https://www.realmeye.com/wiki/ancient-stone-sword"
   },
   {
+    "id": "arashi",
+    "name": "Arashi",
+    "slug": "arashi",
+    "category": "katanas",
+    "sprite": "/items/arashi.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "Unknown",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/arashi"
+  },
+  {
+    "id": "arbiters-wrath",
+    "name": "Arbiter's Wrath",
+    "slug": "arbiters-wrath",
+    "category": "katanas",
+    "sprite": "/items/arbiters-wrath.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/arbiter-s-wrath"
+  },
+  {
     "id": "arcane-rapier",
     "name": "Arcane Rapier",
     "slug": "arcane-rapier",
@@ -83,6 +151,23 @@
       "Paladin"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/arcane-rapier"
+  },
+  {
+    "id": "archangels-judgement",
+    "name": "Archangel's Judgement",
+    "slug": "archangels-judgement",
+    "category": "daggers",
+    "sprite": "/items/archangels-judgement.png",
+    "itemType": "Dagger",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/archangel-s-judgement"
   },
   {
     "id": "archon-sword",
@@ -102,6 +187,91 @@
     "sourceUrl": "https://www.realmeye.com/wiki/archon-sword"
   },
   {
+    "id": "arctic-bow",
+    "name": "Arctic Bow",
+    "slug": "arctic-bow",
+    "category": "bows",
+    "sprite": "/items/arctic-bow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/arctic-bow"
+  },
+  {
+    "id": "ashen-talon",
+    "name": "Ashen Talon",
+    "slug": "ashen-talon",
+    "category": "daggers",
+    "sprite": "/items/ashen-talon.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/ashen-talon"
+  },
+  {
+    "id": "aspirants-blade",
+    "name": "Aspirant's Blade",
+    "slug": "aspirants-blade",
+    "category": "katanas",
+    "sprite": "/items/aspirants-blade.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/aspirant-s-blade"
+  },
+  {
+    "id": "aspirants-bow",
+    "name": "Aspirant's Bow",
+    "slug": "aspirants-bow",
+    "category": "bows",
+    "sprite": "/items/aspirants-bow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/aspirant-s-bow"
+  },
+  {
+    "id": "aspirants-dagger",
+    "name": "Aspirant's Dagger",
+    "slug": "aspirants-dagger",
+    "category": "daggers",
+    "sprite": "/items/aspirants-dagger.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/aspirant-s-dagger"
+  },
+  {
     "id": "atavistic-soul-sabre",
     "name": "Atavistic Soul Sabre",
     "slug": "atavistic-soul-sabre",
@@ -117,6 +287,38 @@
       "Paladin"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/atavistic-soul-sabre"
+  },
+  {
+    "id": "avarice",
+    "name": "Avarice",
+    "slug": "avarice",
+    "category": "daggers",
+    "sprite": "/items/avarice.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/avarice"
+  },
+  {
+    "id": "b-o-w",
+    "name": "B.O.W.",
+    "slug": "b-o-w",
+    "category": "bows",
+    "sprite": "/items/b-o-w.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/b-o-w"
   },
   {
     "id": "baked-bow",
@@ -168,6 +370,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/beach-shovel"
   },
   {
+    "id": "bergenia-bow",
+    "name": "Bergenia Bow",
+    "slug": "bergenia-bow",
+    "category": "bows",
+    "sprite": "/items/bergenia-bow.png",
+    "itemType": "Bow",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bergenia-bow"
+  },
+  {
     "id": "blade-of-ages",
     "name": "Blade of Ages",
     "slug": "blade-of-ages",
@@ -202,6 +421,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/blade-of-blooming"
   },
   {
+    "id": "blade-of-fates",
+    "name": "Blade of Fates",
+    "slug": "blade-of-fates",
+    "category": "daggers",
+    "sprite": "/items/blade-of-fates.png",
+    "itemType": "Sword",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/blade-of-fates"
+  },
+  {
     "id": "blade-of-the-assailant",
     "name": "Blade of the Assailant",
     "slug": "blade-of-the-assailant",
@@ -217,6 +453,74 @@
       "Kensei"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/blade-of-the-assailant"
+  },
+  {
+    "id": "blazon-bow",
+    "name": "Blazon Bow",
+    "slug": "blazon-bow",
+    "category": "bows",
+    "sprite": "/items/blazon-bow.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/blazon-bow"
+  },
+  {
+    "id": "blood-coated-dirk",
+    "name": "Blood Coated Dirk",
+    "slug": "blood-coated-dirk",
+    "category": "daggers",
+    "sprite": "/items/blood-coated-dirk.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/blood-coated-dirk"
+  },
+  {
+    "id": "blood-siphoning-katana",
+    "name": "Blood Siphoning Katana",
+    "slug": "blood-siphoning-katana",
+    "category": "katanas",
+    "sprite": "/items/blood-siphoning-katana.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/blood-siphoning-katana"
+  },
+  {
+    "id": "bloodbath-blade",
+    "name": "Bloodbath Blade",
+    "slug": "bloodbath-blade",
+    "category": "katanas",
+    "sprite": "/items/bloodbath-blade.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bloodbath-blade"
   },
   {
     "id": "bloody-pitch-fork-staff",
@@ -251,6 +555,57 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/bloom-fire-scepter"
+  },
+  {
+    "id": "blossom-bow",
+    "name": "Blossom Bow",
+    "slug": "blossom-bow",
+    "category": "bows",
+    "sprite": "/items/blossom-bow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/blossom-bow"
+  },
+  {
+    "id": "blue-falcon",
+    "name": "Blue Falcon",
+    "slug": "blue-falcon",
+    "category": "bows",
+    "sprite": "/items/blue-falcon.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/blue-falcon"
+  },
+  {
+    "id": "bolt-thrower",
+    "name": "Bolt Thrower",
+    "slug": "bolt-thrower",
+    "category": "bows",
+    "sprite": "/items/bolt-thrower.png",
+    "itemType": "Bow",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bolt-thrower"
   },
   {
     "id": "bone-dagger",
@@ -321,6 +676,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/bow-of-deep-enchantment"
   },
   {
+    "id": "bow-of-eternal-frost",
+    "name": "Bow of Eternal Frost",
+    "slug": "bow-of-eternal-frost",
+    "category": "bows",
+    "sprite": "/items/bow-of-eternal-frost.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bow-of-eternal-frost"
+  },
+  {
     "id": "bow-of-fey-magic",
     "name": "Bow of Fey Magic",
     "slug": "bow-of-fey-magic",
@@ -372,6 +744,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/bow-of-mystical-energy"
   },
   {
+    "id": "bow-of-nightmares",
+    "name": "Bow of Nightmares",
+    "slug": "bow-of-nightmares",
+    "category": "bows",
+    "sprite": "/items/bow-of-nightmares.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bow-of-nightmares"
+  },
+  {
     "id": "bow-of-the-morning-star",
     "name": "Bow of the Morning Star",
     "slug": "bow-of-the-morning-star",
@@ -389,6 +778,38 @@
     "sourceUrl": "https://www.realmeye.com/wiki/bow-of-the-morning-star"
   },
   {
+    "id": "bow-of-the-skys-glory",
+    "name": "Bow of the Sky's Glory",
+    "slug": "bow-of-the-skys-glory",
+    "category": "bows",
+    "sprite": "/items/bow-of-the-skys-glory.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bow-of-the-sky-s-glory"
+  },
+  {
+    "id": "bow-of-the-void",
+    "name": "Bow of the Void",
+    "slug": "bow-of-the-void",
+    "category": "bows",
+    "sprite": "/items/bow-of-the-void.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bow-of-the-void"
+  },
+  {
     "id": "bramble-bow",
     "name": "Bramble Bow",
     "slug": "bramble-bow",
@@ -404,6 +825,23 @@
       "Bard"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/bramble-bow"
+  },
+  {
+    "id": "brilliance-bow",
+    "name": "Brilliance Bow",
+    "slug": "brilliance-bow",
+    "category": "bows",
+    "sprite": "/items/brilliance-bow.png",
+    "itemType": "Bow",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/brilliance-bow"
   },
   {
     "id": "broad-sword",
@@ -474,6 +912,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/caduceus-of-enlightened-chaos"
   },
   {
+    "id": "candy-katana",
+    "name": "Candy Katana",
+    "slug": "candy-katana",
+    "category": "katanas",
+    "sprite": "/items/candy-katana.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/candy-katana"
+  },
+  {
     "id": "caramel-spellblade",
     "name": "Caramel Spellblade",
     "slug": "caramel-spellblade",
@@ -487,6 +942,23 @@
       "Sorcerer"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/caramel-spellblade"
+  },
+  {
+    "id": "carved-golem-remains",
+    "name": "Carved Golem Remains",
+    "slug": "carved-golem-remains",
+    "category": "daggers",
+    "sprite": "/items/carved-golem-remains.png",
+    "itemType": "Dagger",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/carved-golem-remains"
   },
   {
     "id": "celestial-blade",
@@ -506,6 +978,91 @@
     "sourceUrl": "https://www.realmeye.com/wiki/celestial-blade"
   },
   {
+    "id": "celestial-recurve",
+    "name": "Celestial Recurve",
+    "slug": "celestial-recurve",
+    "category": "bows",
+    "sprite": "/items/celestial-recurve.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/celestial-recurve"
+  },
+  {
+    "id": "chain-dagger",
+    "name": "Chain Dagger",
+    "slug": "chain-dagger",
+    "category": "daggers",
+    "sprite": "/items/chain-dagger.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/chain-dagger"
+  },
+  {
+    "id": "chicken-leg-of-doom",
+    "name": "Chicken Leg of Doom",
+    "slug": "chicken-leg-of-doom",
+    "category": "daggers",
+    "sprite": "/items/chicken-leg-of-doom.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/chicken-leg-of-doom"
+  },
+  {
+    "id": "clockwork-repeater",
+    "name": "Clockwork Repeater",
+    "slug": "clockwork-repeater",
+    "category": "bows",
+    "sprite": "/items/clockwork-repeater.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/clockwork-repeater"
+  },
+  {
+    "id": "clover-bow",
+    "name": "Clover Bow",
+    "slug": "clover-bow",
+    "category": "bows",
+    "sprite": "/items/clover-bow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/clover-bow"
+  },
+  {
     "id": "comet-of-calamity",
     "name": "Comet of Calamity",
     "slug": "comet-of-calamity",
@@ -523,6 +1080,72 @@
     "sourceUrl": "https://www.realmeye.com/wiki/comet-of-calamity"
   },
   {
+    "id": "coral-bow",
+    "name": "Coral Bow",
+    "slug": "coral-bow",
+    "category": "bows",
+    "sprite": "/items/coral-bow.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Huntress"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/coral-bow"
+  },
+  {
+    "id": "coral-soda",
+    "name": "Coral Soda",
+    "slug": "coral-soda",
+    "category": "bows",
+    "sprite": "/items/coral-soda.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/coral-soda"
+  },
+  {
+    "id": "corrosion-cutter",
+    "name": "Corrosion Cutter",
+    "slug": "corrosion-cutter",
+    "category": "daggers",
+    "sprite": "/items/corrosion-cutter.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/corrosion-cutter"
+  },
+  {
+    "id": "corrupted-cleaver",
+    "name": "Corrupted Cleaver",
+    "slug": "corrupted-cleaver",
+    "category": "katanas",
+    "sprite": "/items/corrupted-cleaver.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/corrupted-cleaver"
+  },
+  {
     "id": "corruption-cutter",
     "name": "Corruption Cutter",
     "slug": "corruption-cutter",
@@ -538,6 +1161,40 @@
       "Trickster"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/corruption-cutter"
+  },
+  {
+    "id": "crescent-dagger",
+    "name": "Crescent Dagger",
+    "slug": "crescent-dagger",
+    "category": "daggers",
+    "sprite": "/items/crescent-dagger.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/crescent-dagger"
+  },
+  {
+    "id": "crest-of-the-rising-sun",
+    "name": "Crest of the Rising Sun",
+    "slug": "crest-of-the-rising-sun",
+    "category": "bows",
+    "sprite": "/items/crest-of-the-rising-sun.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/crest-of-the-rising-sun"
   },
   {
     "id": "crystal-sword",
@@ -640,6 +1297,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/dagger-of-dire-hatred"
   },
   {
+    "id": "dagger-of-eternal-chaos",
+    "name": "Dagger of Eternal Chaos",
+    "slug": "dagger-of-eternal-chaos",
+    "category": "daggers",
+    "sprite": "/items/dagger-of-eternal-chaos.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dagger-of-eternal-chaos"
+  },
+  {
     "id": "dagger-of-foul-malevolence",
     "name": "Dagger of Foul Malevolence",
     "slug": "dagger-of-foul-malevolence",
@@ -674,6 +1348,57 @@
     "sourceUrl": "https://www.realmeye.com/wiki/dagger-of-sinister-deeds"
   },
   {
+    "id": "dagger-of-the-amethyst-prism",
+    "name": "Dagger of the Amethyst Prism",
+    "slug": "dagger-of-the-amethyst-prism",
+    "category": "daggers",
+    "sprite": "/items/dagger-of-the-amethyst-prism.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dagger-of-the-amethyst-prism"
+  },
+  {
+    "id": "dagger-of-the-hasteful-rabbit",
+    "name": "Dagger of the Hasteful Rabbit",
+    "slug": "dagger-of-the-hasteful-rabbit",
+    "category": "daggers",
+    "sprite": "/items/dagger-of-the-hasteful-rabbit.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dagger-of-the-hasteful-rabbit"
+  },
+  {
+    "id": "dagger-of-the-terrible-talon",
+    "name": "Dagger of the Terrible Talon",
+    "slug": "dagger-of-the-terrible-talon",
+    "category": "daggers",
+    "sprite": "/items/dagger-of-the-terrible-talon.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dagger-of-the-terrible-talon"
+  },
+  {
     "id": "dalvars-battle-axe",
     "name": "Dalvar's Battle Axe",
     "slug": "dalvars-battle-axe",
@@ -689,6 +1414,23 @@
       "Paladin"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/dalvar-s-battle-axe"
+  },
+  {
+    "id": "deathless-crossbow",
+    "name": "Deathless Crossbow",
+    "slug": "deathless-crossbow",
+    "category": "bows",
+    "sprite": "/items/deathless-crossbow.png",
+    "itemType": "Bow",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/deathless-crossbow"
   },
   {
     "id": "demon-blade",
@@ -740,6 +1482,23 @@
       "Kensei"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/diamond-bladed-katana"
+  },
+  {
+    "id": "dirk-of-cronus",
+    "name": "Dirk of Cronus",
+    "slug": "dirk-of-cronus",
+    "category": "daggers",
+    "sprite": "/items/dirk-of-cronus.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dirk-of-cronus"
   },
   {
     "id": "divinity",
@@ -825,6 +1584,40 @@
     "sourceUrl": "https://www.realmeye.com/wiki/dragonsoul-sword"
   },
   {
+    "id": "dueling-daggers",
+    "name": "Dueling Daggers",
+    "slug": "dueling-daggers",
+    "category": "daggers",
+    "sprite": "/items/dueling-daggers.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dueling-daggers"
+  },
+  {
+    "id": "dynamite",
+    "name": "Dynamite",
+    "slug": "dynamite",
+    "category": "katanas",
+    "sprite": "/items/dynamite.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dynamite"
+  },
+  {
     "id": "edictum-praetoris",
     "name": "Edictum Praetoris",
     "slug": "edictum-praetoris",
@@ -893,6 +1686,55 @@
     "sourceUrl": "https://www.realmeye.com/wiki/enchanted-ice-blade"
   },
   {
+    "id": "enforcer",
+    "name": "Enforcer",
+    "slug": "enforcer",
+    "category": "katanas",
+    "sprite": "/items/enforcer.png",
+    "itemType": "Katana",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Ninja"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/enforcer"
+  },
+  {
+    "id": "etherite-dagger",
+    "name": "Etherite Dagger",
+    "slug": "etherite-dagger",
+    "category": "daggers",
+    "sprite": "/items/etherite-dagger.png",
+    "itemType": "Dagger",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/etherite-dagger"
+  },
+  {
+    "id": "evergreen-dagger",
+    "name": "Evergreen Dagger",
+    "slug": "evergreen-dagger",
+    "category": "daggers",
+    "sprite": "/items/evergreen-dagger.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/evergreen-dagger"
+  },
+  {
     "id": "falchion",
     "name": "Falchion",
     "slug": "falchion",
@@ -942,6 +1784,23 @@
       "Paladin"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/ffabulous-fflail"
+  },
+  {
+    "id": "fiery-katana",
+    "name": "Fiery Katana",
+    "slug": "fiery-katana",
+    "category": "katanas",
+    "sprite": "/items/fiery-katana.png",
+    "itemType": "Katana",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/fiery-katana"
   },
   {
     "id": "fire-blade",
@@ -1012,6 +1871,40 @@
     "sourceUrl": "https://www.realmeye.com/wiki/fire-sword"
   },
   {
+    "id": "firestarter",
+    "name": "Firestarter",
+    "slug": "firestarter",
+    "category": "bows",
+    "sprite": "/items/firestarter.png",
+    "itemType": "Bow",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/firestarter"
+  },
+  {
+    "id": "floral-edge-katana",
+    "name": "Floral Edge Katana",
+    "slug": "floral-edge-katana",
+    "category": "katanas",
+    "sprite": "/items/floral-edge-katana.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/floral-edge-katana"
+  },
+  {
     "id": "foramite-staff",
     "name": "Foramite Staff",
     "slug": "foramite-staff",
@@ -1027,6 +1920,40 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/foramite-staff"
+  },
+  {
+    "id": "frost-lichs-finger",
+    "name": "Frost Lich's Finger",
+    "slug": "frost-lichs-finger",
+    "category": "daggers",
+    "sprite": "/items/frost-lichs-finger.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/frost-lich-s-finger"
+  },
+  {
+    "id": "frost-storm-bow",
+    "name": "Frost Storm Bow",
+    "slug": "frost-storm-bow",
+    "category": "bows",
+    "sprite": "/items/frost-storm-bow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/frost-storm-bow"
   },
   {
     "id": "frostbite",
@@ -1061,6 +1988,40 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/frostfall-rod"
+  },
+  {
+    "id": "frozen-whisper",
+    "name": "Frozen Whisper",
+    "slug": "frozen-whisper",
+    "category": "bows",
+    "sprite": "/items/frozen-whisper.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/frozen-whisper"
+  },
+  {
+    "id": "garland-bow",
+    "name": "Garland Bow",
+    "slug": "garland-bow",
+    "category": "bows",
+    "sprite": "/items/garland-bow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/garland-bow"
   },
   {
     "id": "gaseous-glaive",
@@ -1199,6 +2160,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/groovy-mango"
   },
   {
+    "id": "hailstorm",
+    "name": "Hailstorm",
+    "slug": "hailstorm",
+    "category": "bows",
+    "sprite": "/items/hailstorm.png",
+    "itemType": "Bow",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/hailstorm"
+  },
+  {
     "id": "hardwood-bow",
     "name": "Hardwood Bow",
     "slug": "hardwood-bow",
@@ -1216,6 +2194,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/hardwood-bow"
   },
   {
+    "id": "harmonious-harp",
+    "name": "Harmonious Harp",
+    "slug": "harmonious-harp",
+    "category": "bows",
+    "sprite": "/items/harmonious-harp.png",
+    "itemType": "Bow",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/harmonious-harp"
+  },
+  {
     "id": "heartfind-dagger",
     "name": "Heartfind Dagger",
     "slug": "heartfind-dagger",
@@ -1231,6 +2226,23 @@
       "Trickster"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/heartfind-dagger"
+  },
+  {
+    "id": "heartseeker-katana",
+    "name": "Heartseeker Katana",
+    "slug": "heartseeker-katana",
+    "category": "katanas",
+    "sprite": "/items/heartseeker-katana.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/heartseeker-katana"
   },
   {
     "id": "heartsteel-claymore",
@@ -1267,6 +2279,57 @@
     "sourceUrl": "https://www.realmeye.com/wiki/henchman-s-claymore"
   },
   {
+    "id": "heros-bow",
+    "name": "Hero's Bow",
+    "slug": "heros-bow",
+    "category": "bows",
+    "sprite": "/items/heros-bow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/hero-s-bow"
+  },
+  {
+    "id": "heros-dagger",
+    "name": "Hero's Dagger",
+    "slug": "heros-dagger",
+    "category": "daggers",
+    "sprite": "/items/heros-dagger.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/hero-s-dagger"
+  },
+  {
+    "id": "heros-katana",
+    "name": "Hero's Katana",
+    "slug": "heros-katana",
+    "category": "katanas",
+    "sprite": "/items/heros-katana.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/hero-s-katana"
+  },
+  {
     "id": "heros-spellblade",
     "name": "Hero's Spellblade",
     "slug": "heros-spellblade",
@@ -1297,6 +2360,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/hovering-spellblade"
   },
   {
+    "id": "iceborn-arsenal",
+    "name": "Iceborn Arsenal",
+    "slug": "iceborn-arsenal",
+    "category": "katanas",
+    "sprite": "/items/iceborn-arsenal.png",
+    "itemType": "Katana",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/iceborn-arsenal"
+  },
+  {
     "id": "ichimonji",
     "name": "Ichimonji",
     "slug": "ichimonji",
@@ -1312,6 +2392,40 @@
       "Kensei"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/ichimonji"
+  },
+  {
+    "id": "icicle-launcher",
+    "name": "Icicle Launcher",
+    "slug": "icicle-launcher",
+    "category": "bows",
+    "sprite": "/items/icicle-launcher.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/icicle-launcher"
+  },
+  {
+    "id": "ignis",
+    "name": "Ignis",
+    "slug": "ignis",
+    "category": "bows",
+    "sprite": "/items/ignis.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "Unknown",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/ignis"
   },
   {
     "id": "indomptable",
@@ -1433,6 +2547,40 @@
     "sourceUrl": "https://www.realmeye.com/wiki/k-i-d-d-force-2-0"
   },
   {
+    "id": "katana-of-good-fortune",
+    "name": "Katana of Good Fortune",
+    "slug": "katana-of-good-fortune",
+    "category": "katanas",
+    "sprite": "/items/katana-of-good-fortune.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/katana-of-good-fortune"
+  },
+  {
+    "id": "kazekiri",
+    "name": "Kazekiri",
+    "slug": "kazekiri",
+    "category": "katanas",
+    "sprite": "/items/kazekiri.png",
+    "itemType": "Katana",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/kazekiri"
+  },
+  {
     "id": "kendo-stick",
     "name": "Kendo Stick",
     "slug": "kendo-stick",
@@ -1450,6 +2598,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/kendo-stick"
   },
   {
+    "id": "kiritsukeru",
+    "name": "Kiritsukeru",
+    "slug": "kiritsukeru",
+    "category": "katanas",
+    "sprite": "/items/kiritsukeru.png",
+    "itemType": "Katana",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/kiritsukeru"
+  },
+  {
     "id": "koalapow",
     "name": "KoalaPOW",
     "slug": "koalapow",
@@ -1465,6 +2630,23 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/koalapow"
+  },
+  {
+    "id": "krathana",
+    "name": "Krathana",
+    "slug": "krathana",
+    "category": "katanas",
+    "sprite": "/items/krathana.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/krathana"
   },
   {
     "id": "kusanagi",
@@ -1518,6 +2700,91 @@
     "sourceUrl": "https://www.realmeye.com/wiki/leaf-bow"
   },
   {
+    "id": "legacy-etherite-dagger",
+    "name": "Legacy Etherite Dagger",
+    "slug": "legacy-etherite-dagger",
+    "category": "daggers",
+    "sprite": "/items/legacy-etherite-dagger.png",
+    "itemType": "Dagger",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/legacy-etherite-dagger"
+  },
+  {
+    "id": "legion-elite-bow",
+    "name": "Legion Elite Bow",
+    "slug": "legion-elite-bow",
+    "category": "bows",
+    "sprite": "/items/legion-elite-bow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-bow"
+  },
+  {
+    "id": "legion-elite-dagger",
+    "name": "Legion Elite Dagger",
+    "slug": "legion-elite-dagger",
+    "category": "daggers",
+    "sprite": "/items/legion-elite-dagger.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-dagger"
+  },
+  {
+    "id": "legion-elite-katana",
+    "name": "Legion Elite Katana",
+    "slug": "legion-elite-katana",
+    "category": "katanas",
+    "sprite": "/items/legion-elite-katana.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-katana"
+  },
+  {
+    "id": "legions-odachi",
+    "name": "Legions Odachi",
+    "slug": "legions-odachi",
+    "category": "katanas",
+    "sprite": "/items/legions-odachi.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/legions-odachi"
+  },
+  {
     "id": "line-kutter-katana",
     "name": "Line Kutter Katana",
     "slug": "line-kutter-katana",
@@ -1565,6 +2832,40 @@
       "Sorcerer"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/love-heart-spellblade"
+  },
+  {
+    "id": "maize-machete",
+    "name": "Maize Machete",
+    "slug": "maize-machete",
+    "category": "daggers",
+    "sprite": "/items/maize-machete.png",
+    "itemType": "Dagger",
+    "tier": "ST (Limited)",
+    "bagType": "Unknown",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/maize-machete"
+  },
+  {
+    "id": "makakoyumi",
+    "name": "Makakoyumi",
+    "slug": "makakoyumi",
+    "category": "bows",
+    "sprite": "/items/makakoyumi.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/makakoyumi"
   },
   {
     "id": "marionette-ravager",
@@ -1616,6 +2917,40 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/mechanical-kogbold-limb"
+  },
+  {
+    "id": "metal-tray",
+    "name": "Metal Tray",
+    "slug": "metal-tray",
+    "category": "bows",
+    "sprite": "/items/metal-tray.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/metal-tray"
+  },
+  {
+    "id": "mischief",
+    "name": "Mischief",
+    "slug": "mischief",
+    "category": "daggers",
+    "sprite": "/items/mischief.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/mischief"
   },
   {
     "id": "mister-mango",
@@ -1703,6 +3038,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/muramasa"
   },
   {
+    "id": "nail-gun-bow",
+    "name": "Nail Gun Bow",
+    "slug": "nail-gun-bow",
+    "category": "bows",
+    "sprite": "/items/nail-gun-bow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/nail-gun-bow"
+  },
+  {
     "id": "nebular-rod",
     "name": "Nebular Rod",
     "slug": "nebular-rod",
@@ -1718,6 +3070,23 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/nebular-rod"
+  },
+  {
+    "id": "nectar-crossfire",
+    "name": "Nectar Crossfire",
+    "slug": "nectar-crossfire",
+    "category": "bows",
+    "sprite": "/items/nectar-crossfire.png",
+    "itemType": "Bow",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/nectar-crossfire"
   },
   {
     "id": "night-edge",
@@ -1754,6 +3123,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/obsidian-dagger"
   },
   {
+    "id": "occult-bow",
+    "name": "Occult Bow",
+    "slug": "occult-bow",
+    "category": "bows",
+    "sprite": "/items/occult-bow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/occult-bow"
+  },
+  {
     "id": "oppressors-staff",
     "name": "Oppressor's Staff",
     "slug": "oppressors-staff",
@@ -1786,6 +3172,40 @@
       "Paladin"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/oryx-s-greatsword"
+  },
+  {
+    "id": "phantasm-dirk",
+    "name": "Phantasm Dirk",
+    "slug": "phantasm-dirk",
+    "category": "daggers",
+    "sprite": "/items/phantasm-dirk.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/phantasm-dirk"
+  },
+  {
+    "id": "phantom-sickle",
+    "name": "Phantom Sickle",
+    "slug": "phantom-sickle",
+    "category": "daggers",
+    "sprite": "/items/phantom-sickle.png",
+    "itemType": "Dagger",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/phantom-sickle"
   },
   {
     "id": "pirate-kings-cutlass",
@@ -1873,6 +3293,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/poison-fang-dagger"
   },
   {
+    "id": "precisely-calibrated-stringstick",
+    "name": "Precisely Calibrated Stringstick",
+    "slug": "precisely-calibrated-stringstick",
+    "category": "bows",
+    "sprite": "/items/precisely-calibrated-stringstick.png",
+    "itemType": "Ring",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/precisely-calibrated-stringstick"
+  },
+  {
     "id": "predator-bow",
     "name": "Predator Bow",
     "slug": "predator-bow",
@@ -1888,6 +3325,57 @@
       "Bard"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/predator-bow"
+  },
+  {
+    "id": "prismatic-slasher",
+    "name": "Prismatic Slasher",
+    "slug": "prismatic-slasher",
+    "category": "daggers",
+    "sprite": "/items/prismatic-slasher.png",
+    "itemType": "Prism",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/prismatic-slasher"
+  },
+  {
+    "id": "quartz-cutter",
+    "name": "Quartz Cutter",
+    "slug": "quartz-cutter",
+    "category": "katanas",
+    "sprite": "/items/quartz-cutter.png",
+    "itemType": "Katana",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/quartz-cutter"
+  },
+  {
+    "id": "queens-stinger",
+    "name": "Queen's Stinger",
+    "slug": "queens-stinger",
+    "category": "daggers",
+    "sprite": "/items/queens-stinger.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/queen-s-stinger"
   },
   {
     "id": "ragetalon-dagger",
@@ -1924,6 +3412,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/ravenheart-sword"
   },
   {
+    "id": "ray-katana",
+    "name": "Ray Katana",
+    "slug": "ray-katana",
+    "category": "katanas",
+    "sprite": "/items/ray-katana.png",
+    "itemType": "Katana",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/ray-katana"
+  },
+  {
     "id": "redwood-bow",
     "name": "Redwood Bow",
     "slug": "redwood-bow",
@@ -1939,6 +3444,23 @@
       "Bard"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/redwood-bow"
+  },
+  {
+    "id": "reikoku",
+    "name": "Reikoku",
+    "slug": "reikoku",
+    "category": "katanas",
+    "sprite": "/items/reikoku.png",
+    "itemType": "Katana",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/reikoku"
   },
   {
     "id": "reinforced-bow",
@@ -1958,6 +3480,74 @@
     "sourceUrl": "https://www.realmeye.com/wiki/reinforced-bow"
   },
   {
+    "id": "reliable-pugio",
+    "name": "Reliable Pugio",
+    "slug": "reliable-pugio",
+    "category": "daggers",
+    "sprite": "/items/reliable-pugio.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/reliable-pugio"
+  },
+  {
+    "id": "resplendent-bow",
+    "name": "Resplendent Bow",
+    "slug": "resplendent-bow",
+    "category": "bows",
+    "sprite": "/items/resplendent-bow.png",
+    "itemType": "Bow",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/resplendent-bow"
+  },
+  {
+    "id": "ringmasters-bow",
+    "name": "Ringmaster's Bow",
+    "slug": "ringmasters-bow",
+    "category": "bows",
+    "sprite": "/items/ringmasters-bow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/ringmaster-s-bow"
+  },
+  {
+    "id": "robobow",
+    "name": "Robobow",
+    "slug": "robobow",
+    "category": "bows",
+    "sprite": "/items/robobow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/robobow"
+  },
+  {
     "id": "rocket-launcher",
     "name": "Rocket Launcher",
     "slug": "rocket-launcher",
@@ -1971,6 +3561,23 @@
       "Sorcerer"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/rocket-launcher"
+  },
+  {
+    "id": "rosebite-dagger",
+    "name": "Rosebite Dagger",
+    "slug": "rosebite-dagger",
+    "category": "daggers",
+    "sprite": "/items/rosebite-dagger.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/rosebite-dagger"
   },
   {
     "id": "royal-sekhem",
@@ -2039,6 +3646,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/saber"
   },
   {
+    "id": "sacramental-crossbow",
+    "name": "Sacramental Crossbow",
+    "slug": "sacramental-crossbow",
+    "category": "bows",
+    "sprite": "/items/sacramental-crossbow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sacramental-crossbow"
+  },
+  {
     "id": "sadamune",
     "name": "Sadamune",
     "slug": "sadamune",
@@ -2056,6 +3680,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/sadamune"
   },
   {
+    "id": "saif-of-the-deep",
+    "name": "Saif of the Deep",
+    "slug": "saif-of-the-deep",
+    "category": "katanas",
+    "sprite": "/items/saif-of-the-deep.png",
+    "itemType": "Katana",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/saif-of-the-deep"
+  },
+  {
     "id": "saint-nicolas-blade",
     "name": "Saint Nicolas' Blade",
     "slug": "saint-nicolas-blade",
@@ -2071,6 +3712,74 @@
       "Paladin"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/saint-nicolas-blade"
+  },
+  {
+    "id": "salju",
+    "name": "Salju",
+    "slug": "salju",
+    "category": "katanas",
+    "sprite": "/items/salju.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/salju"
+  },
+  {
+    "id": "sawblade-katana",
+    "name": "Sawblade Katana",
+    "slug": "sawblade-katana",
+    "category": "katanas",
+    "sprite": "/items/sawblade-katana.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sawblade-katana"
+  },
+  {
+    "id": "seekers-chisel",
+    "name": "Seeker's Chisel",
+    "slug": "seekers-chisel",
+    "category": "daggers",
+    "sprite": "/items/seekers-chisel.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/seeker-s-chisel"
+  },
+  {
+    "id": "shakujo",
+    "name": "Shakujo",
+    "slug": "shakujo",
+    "category": "katanas",
+    "sprite": "/items/shakujo.png",
+    "itemType": "Katana",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/shakujo"
   },
   {
     "id": "shamans-staff",
@@ -2107,6 +3816,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/sharpshooter-bow"
   },
   {
+    "id": "shining-blade",
+    "name": "Shining Blade",
+    "slug": "shining-blade",
+    "category": "katanas",
+    "sprite": "/items/shining-blade.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/shining-blade"
+  },
+  {
     "id": "short-sword",
     "name": "Short Sword",
     "slug": "short-sword",
@@ -2141,6 +3867,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/shortbow"
   },
   {
+    "id": "silver-revolvers",
+    "name": "Silver Revolvers",
+    "slug": "silver-revolvers",
+    "category": "bows",
+    "sprite": "/items/silver-revolvers.png",
+    "itemType": "Bow",
+    "tier": "ST (Limited)",
+    "bagType": "Unknown",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/silver-revolvers"
+  },
+  {
     "id": "skull-splitter-sword",
     "name": "Skull-splitter Sword",
     "slug": "skull-splitter-sword",
@@ -2173,6 +3916,23 @@
       "Kensei"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/sky-edge"
+  },
+  {
+    "id": "skybound-blade",
+    "name": "Skybound Blade",
+    "slug": "skybound-blade",
+    "category": "katanas",
+    "sprite": "/items/skybound-blade.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/skybound-blade"
   },
   {
     "id": "skysplitter-sword",
@@ -2239,6 +3999,91 @@
       "Sorcerer"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/snowblind-spellblade"
+  },
+  {
+    "id": "snowflake-blade",
+    "name": "Snowflake Blade",
+    "slug": "snowflake-blade",
+    "category": "katanas",
+    "sprite": "/items/snowflake-blade.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/snowflake-blade"
+  },
+  {
+    "id": "socket-blade",
+    "name": "Socket Blade",
+    "slug": "socket-blade",
+    "category": "katanas",
+    "sprite": "/items/socket-blade.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/socket-blade"
+  },
+  {
+    "id": "soulcursed-scythe",
+    "name": "Soulcursed Scythe",
+    "slug": "soulcursed-scythe",
+    "category": "daggers",
+    "sprite": "/items/soulcursed-scythe.png",
+    "itemType": "Dagger",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/soulcursed-scythe"
+  },
+  {
+    "id": "sovereign-cinder-blade",
+    "name": "Sovereign Cinder-Blade",
+    "slug": "sovereign-cinder-blade",
+    "category": "katanas",
+    "sprite": "/items/sovereign-cinder-blade.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sovereign-cinder-blade"
+  },
+  {
+    "id": "spatula-dagger",
+    "name": "Spatula Dagger",
+    "slug": "spatula-dagger",
+    "category": "daggers",
+    "sprite": "/items/spatula-dagger.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spatula-dagger"
   },
   {
     "id": "spectral-sword",
@@ -2425,6 +4270,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/spirit-staff"
   },
   {
+    "id": "spring-wonder-bow",
+    "name": "Spring Wonder Bow",
+    "slug": "spring-wonder-bow",
+    "category": "bows",
+    "sprite": "/items/spring-wonder-bow.png",
+    "itemType": "Bow",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spring-wonder-bow"
+  },
+  {
     "id": "squaroid-staff",
     "name": "Squaroid Staff",
     "slug": "squaroid-staff",
@@ -2587,6 +4449,57 @@
     "sourceUrl": "https://www.realmeye.com/wiki/stygian-torch"
   },
   {
+    "id": "suns-judgement",
+    "name": "Sun's Judgement",
+    "slug": "suns-judgement",
+    "category": "bows",
+    "sprite": "/items/suns-judgement.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sun-s-judgement"
+  },
+  {
+    "id": "sunny-side-bow",
+    "name": "Sunny Side Bow",
+    "slug": "sunny-side-bow",
+    "category": "bows",
+    "sprite": "/items/sunny-side-bow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sunny-side-bow"
+  },
+  {
+    "id": "sunshine-shiv",
+    "name": "Sunshine Shiv",
+    "slug": "sunshine-shiv",
+    "category": "daggers",
+    "sprite": "/items/sunshine-shiv.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sunshine-shiv"
+  },
+  {
     "id": "swashbucklers-sickle",
     "name": "Swashbuckler's Sickle",
     "slug": "swashbucklers-sickle",
@@ -2704,6 +4617,40 @@
     "sourceUrl": "https://www.realmeye.com/wiki/sword-of-the-rainbow-s-end"
   },
   {
+    "id": "symbiotic-ripper",
+    "name": "Symbiotic Ripper",
+    "slug": "symbiotic-ripper",
+    "category": "daggers",
+    "sprite": "/items/symbiotic-ripper.png",
+    "itemType": "Dagger",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/symbiotic-ripper"
+  },
+  {
+    "id": "tectonus",
+    "name": "Tectonus",
+    "slug": "tectonus",
+    "category": "bows",
+    "sprite": "/items/tectonus.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "Unknown",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/tectonus"
+  },
+  {
     "id": "tezcacoatls-tail",
     "name": "Tezcacoatl's Tail",
     "slug": "tezcacoatls-tail",
@@ -2772,6 +4719,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/thousand-shot"
   },
   {
+    "id": "throwing-knives",
+    "name": "Throwing Knives",
+    "slug": "throwing-knives",
+    "category": "daggers",
+    "sprite": "/items/throwing-knives.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/throwing-knives"
+  },
+  {
     "id": "thunder-katana",
     "name": "Thunder Katana",
     "slug": "thunder-katana",
@@ -2787,6 +4751,23 @@
       "Kensei"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/thunder-katana"
+  },
+  {
+    "id": "thunder-mallet",
+    "name": "Thunder Mallet",
+    "slug": "thunder-mallet",
+    "category": "katanas",
+    "sprite": "/items/thunder-mallet.png",
+    "itemType": "Katana",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/thunder-mallet"
   },
   {
     "id": "tideturner-trident",
@@ -2823,6 +4804,91 @@
     "sourceUrl": "https://www.realmeye.com/wiki/torrential-staff"
   },
   {
+    "id": "toxic-toad",
+    "name": "Toxic Toad",
+    "slug": "toxic-toad",
+    "category": "daggers",
+    "sprite": "/items/toxic-toad.png",
+    "itemType": "Dagger",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/toxic-toad"
+  },
+  {
+    "id": "toxin-tooth",
+    "name": "Toxin Tooth",
+    "slug": "toxin-tooth",
+    "category": "daggers",
+    "sprite": "/items/toxin-tooth.png",
+    "itemType": "Dagger",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/toxin-tooth"
+  },
+  {
+    "id": "toy-knife",
+    "name": "Toy Knife",
+    "slug": "toy-knife",
+    "category": "daggers",
+    "sprite": "/items/toy-knife.png",
+    "itemType": "Dagger",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/toy-knife"
+  },
+  {
+    "id": "transdimensional-bow",
+    "name": "Transdimensional Bow",
+    "slug": "transdimensional-bow",
+    "category": "bows",
+    "sprite": "/items/transdimensional-bow.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/transdimensional-bow"
+  },
+  {
+    "id": "tsunami",
+    "name": "Tsunami",
+    "slug": "tsunami",
+    "category": "katanas",
+    "sprite": "/items/tsunami.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "Unknown",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/tsunami"
+  },
+  {
     "id": "tyrants-wand",
     "name": "Tyrant's Wand",
     "slug": "tyrants-wand",
@@ -2855,6 +4921,57 @@
       "Paladin"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/unstable-anomaly"
+  },
+  {
+    "id": "useless-katana",
+    "name": "Useless Katana",
+    "slug": "useless-katana",
+    "category": "katanas",
+    "sprite": "/items/useless-katana.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/useless-katana"
+  },
+  {
+    "id": "valor",
+    "name": "Valor",
+    "slug": "valor",
+    "category": "katanas",
+    "sprite": "/items/valor.png",
+    "itemType": "Katana",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/valor"
+  },
+  {
+    "id": "valor-rehearsal",
+    "name": "Valor (Rehearsal)",
+    "slug": "valor-rehearsal",
+    "category": "katanas",
+    "sprite": "/items/valor-rehearsal.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/valor-rehearsal"
   },
   {
     "id": "verdant-bow",
@@ -2957,5 +5074,73 @@
       "Summoner"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/wand-of-the-fallen"
+  },
+  {
+    "id": "warmonger",
+    "name": "Warmonger",
+    "slug": "warmonger",
+    "category": "bows",
+    "sprite": "/items/warmonger.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/warmonger"
+  },
+  {
+    "id": "warmonger-rehearsal",
+    "name": "Warmonger (Rehearsal)",
+    "slug": "warmonger-rehearsal",
+    "category": "bows",
+    "sprite": "/items/warmonger-rehearsal.png",
+    "itemType": "Bow",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/warmonger-rehearsal"
+  },
+  {
+    "id": "winters-dire-kiss",
+    "name": "Winter's Dire Kiss",
+    "slug": "winters-dire-kiss",
+    "category": "katanas",
+    "sprite": "/items/winters-dire-kiss.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/winter-s-dire-kiss"
+  },
+  {
+    "id": "yuki",
+    "name": "Yuki",
+    "slug": "yuki",
+    "category": "katanas",
+    "sprite": "/items/yuki.png",
+    "itemType": "Katana",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/yuki"
   }
 ]

@@ -1,0 +1,33 @@
+{
+  "id": "toxin-tooth",
+  "name": "Toxin Tooth",
+  "slug": "toxin-tooth",
+  "sprite": "/items/toxin-tooth.png",
+  "itemType": "Dagger",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 850,
+  "description": "Notes Part of the Acidified Assassin Set.",
+  "stats": {
+    "damage": "265–320 (average: 292.5)",
+    "range": "3.5 tiles",
+    "rateOfFire": "70%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Gulpord the Slime God",
+    "Master Rat",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/toxin-tooth"
+}

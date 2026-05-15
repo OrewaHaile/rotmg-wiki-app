@@ -1,0 +1,35 @@
+{
+  "id": "dueling-daggers",
+  "name": "Dueling Daggers",
+  "slug": "dueling-daggers",
+  "sprite": "/items/dueling-daggers.png",
+  "itemType": "Dagger",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 750,
+  "description": "Notes This is an Alien Gear item.",
+  "stats": {
+    "damage": "85–100 (average: 92.5 / total: 175)",
+    "range": "5.6 tiles (true range: ? tiles)",
+    "rateOfFire": "120%",
+    "shots": "2 (arc gap: 20°)",
+    "projectiles": "2 (arc gap: 20°)"
+  },
+  "effects": [
+    "Wavy shots"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Neo Shred",
+    "Tarul",
+    "Untaris Satellite Core"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dueling-daggers"
+}

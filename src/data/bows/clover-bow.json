@@ -1,0 +1,33 @@
+{
+  "id": "clover-bow",
+  "name": "Clover Bow",
+  "slug": "clover-bow",
+  "sprite": "/items/clover-bow.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 100,
+  "description": "Notes Using an ability while equipped with the Clover Bow alters the firing pattern of the arrows. A similar quirk occurs with the Nectar Crossfire.",
+  "stats": {
+    "damage": "10–30 (average: 20 / total: 160)",
+    "range": "4.5 tiles (true range: 0 tiles)",
+    "rateOfFire": "50%",
+    "shots": "8 (arc gap: 45°)",
+    "projectiles": "8 (arc gap: 45°)"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Pot of Gold"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/clover-bow"
+}

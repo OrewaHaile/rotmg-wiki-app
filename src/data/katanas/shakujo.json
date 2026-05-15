@@ -1,0 +1,31 @@
+{
+  "id": "shakujo",
+  "name": "Shakujo",
+  "slug": "shakujo",
+  "sprite": "/items/shakujo.png",
+  "itemType": "Katana",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 700,
+  "description": "Notes This Katana has the same damage range as T12, but with a larger range of 5.53, and shoots in bursts of 4 shots with a short delay inbetween depending on your character’s dexterity, this Katana will outdamage T12 provided you can hit all the shots. Shines when used with the Invocation Scroll and Omamori due to the latter’s passive.",
+  "stats": {
+    "damage": "145–195 (average: 170)",
+    "range": "5.53 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Burst Count: 4 Maximum Burst Delay: 1.5 seconds Minimum Burst Delay: 0.5 seconds Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/shakujo"
+}

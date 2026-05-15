@@ -1,0 +1,36 @@
+{
+  "id": "sovereign-cinder-blade",
+  "name": "Sovereign Cinder-Blade",
+  "slug": "sovereign-cinder-blade",
+  "sprite": "/items/sovereign-cinder-blade.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes A very powerful slow-shooting katana bearing similarity to the Doom Bow, albeit much more powerful. When Out of Combat, Sovereign Cinder-Blade beats practially every katana except the Enforcer at very low DEF. However, when In Combat, Sovereign Cinder-Blade loses significant damage output, being outdamaged by Enforcer until roughly 41 DEF on all classes, and Celestial Blade at very low DEF.",
+  "stats": {
+    "damage": "480–555 (average: 517.5)",
+    "range": "4.76 tiles",
+    "rateOfFire": "45%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "+5 SPD",
+    "On Shoot: When in combat, ATT Decrease (-10 ATT) for 1 second"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Eternal Phoenix (Easy)",
+    "Eternal Phoenix (Hard)"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sovereign-cinder-blade"
+}

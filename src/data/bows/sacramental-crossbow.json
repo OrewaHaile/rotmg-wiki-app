@@ -1,0 +1,32 @@
+{
+  "id": "sacramental-crossbow",
+  "name": "Sacramental Crossbow",
+  "slug": "sacramental-crossbow",
+  "sprite": "/items/sacramental-crossbow.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "History Added in the Exalt Version 6.2.0.0 (Oct 2025) update.",
+  "stats": {
+    "damage": "65–130 (average: 97.5)",
+    "range": "7.59 tiles",
+    "rateOfFire": "200%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Ignores defense of target",
+    "+30 MP"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sacramental-crossbow"
+}

@@ -1,0 +1,33 @@
+{
+  "id": "bow-of-the-skys-glory",
+  "name": "Bow of the Sky's Glory",
+  "slug": "bow-of-the-skys-glory",
+  "sprite": "/items/bow-of-the-skys-glory.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Notes This is an Antinomy Gear item. It is a reskin of Bow of Covert Havens with an extra 2 attack on equip.",
+  "stats": {
+    "damage": "175–205 (average: 190)",
+    "range": "4.07",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "+2 ATT",
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bow-of-the-sky-s-glory"
+}

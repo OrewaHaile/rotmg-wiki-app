@@ -1,0 +1,29 @@
+{
+  "id": "heros-dagger",
+  "name": "Hero's Dagger",
+  "slug": "heros-dagger",
+  "sprite": "/items/heros-dagger.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 650,
+  "description": "History Before Exalt Version 5.0.0.0 (July 2024), this item had Rate of Fire 100%.",
+  "stats": {
+    "damage": "125–220 (average: 172.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hero-s-dagger"
+}

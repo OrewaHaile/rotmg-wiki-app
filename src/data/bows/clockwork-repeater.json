@@ -1,0 +1,31 @@
+{
+  "id": "clockwork-repeater",
+  "name": "Clockwork Repeater",
+  "slug": "clockwork-repeater",
+  "sprite": "/items/clockwork-repeater.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes A bow with high damage and high true range. This is compensated by the slow rate of fire, which makes it harder to aim. It beats the Bow of the Void starting at ~24 DEF, Warmonger at 27/24/22 DEF, and the T14 Bow of Deep Enchantment at 34/31/28 DEF. Note that the T14 bow will outdamage at any reasonable defense if the target is Exposed, although it requires the user to be much closer to hit all shots.",
+  "stats": {
+    "damage": "625–700 (average: 662.5)",
+    "range": "7.042 tiles",
+    "rateOfFire": "33%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/clockwork-repeater"
+}

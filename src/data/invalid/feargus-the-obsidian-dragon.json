@@ -1,0 +1,35 @@
+{
+  "id": "feargus-the-obsidian-dragon",
+  "name": "Feargus the Obsidian Dragon",
+  "slug": "feargus-the-obsidian-dragon",
+  "sprite": "/items/feargus-the-obsidian-dragon.png",
+  "itemType": "Bow",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "Feargus the Obsidian Dragon is one of the five bosses of the Lair of Draconis. If Feargus is the fourth dragon fought, his name will change to Feargus the Demented.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/feargus-the-obsidian-dragon",
+  "category": "bows",
+  "invalidReasons": [
+    "invalid tier",
+    "invalid stats: damage"
+  ],
+  "importedAt": "2026-05-15T12:40:33.272Z"
+}

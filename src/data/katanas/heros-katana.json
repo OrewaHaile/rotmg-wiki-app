@@ -1,0 +1,31 @@
+{
+  "id": "heros-katana",
+  "name": "Hero's Katana",
+  "slug": "heros-katana",
+  "sprite": "/items/heros-katana.png",
+  "itemType": "Katana",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 650,
+  "description": "History Before Exalt Version 5.0.0.1 (Aug 2024), this item dealt 155-205 damage.",
+  "stats": {
+    "damage": "160–210 (average: 185)",
+    "range": "4.74 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hero-s-katana"
+}

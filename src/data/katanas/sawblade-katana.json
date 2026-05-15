@@ -1,0 +1,32 @@
+{
+  "id": "sawblade-katana",
+  "name": "Sawblade Katana",
+  "slug": "sawblade-katana",
+  "sprite": "/items/sawblade-katana.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Notes This is a Construction Gear item.",
+  "stats": {
+    "damage": "145–195 (average: 170)",
+    "range": "4.75 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "+2 VIT"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sawblade-katana"
+}

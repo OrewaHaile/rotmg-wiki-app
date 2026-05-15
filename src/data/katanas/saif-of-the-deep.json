@@ -1,0 +1,34 @@
+{
+  "id": "saif-of-the-deep",
+  "name": "Saif of the Deep",
+  "slug": "saif-of-the-deep",
+  "sprite": "/items/saif-of-the-deep.png",
+  "itemType": "Katana",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 800,
+  "description": "Notes Part of the Tidal Wave Kensei Set.",
+  "stats": {
+    "damage": "70–85 (average: 77.5 / total: 310)",
+    "range": "5.6 tiles",
+    "rateOfFire": "70%",
+    "shots": "4 (arc gap: 6°)",
+    "projectiles": "4 (arc gap: 6°)"
+  },
+  "effects": [
+    "Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Nikao the Azure Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/saif-of-the-deep"
+}

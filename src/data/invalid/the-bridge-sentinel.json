@@ -1,0 +1,35 @@
+{
+  "id": "the-bridge-sentinel",
+  "name": "The Bridge Sentinel",
+  "slug": "the-bridge-sentinel",
+  "sprite": "/items/the-bridge-sentinel.png",
+  "itemType": "Dagger",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "The Bridge Sentinel is the first boss of The Shatters.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/the-bridge-sentinel",
+  "category": "daggers",
+  "invalidReasons": [
+    "invalid tier",
+    "invalid stats: damage"
+  ],
+  "importedAt": "2026-05-15T12:37:22.357Z"
+}

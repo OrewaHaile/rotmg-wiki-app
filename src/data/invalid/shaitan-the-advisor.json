@@ -1,0 +1,35 @@
+{
+  "id": "shaitan-the-advisor",
+  "name": "Shaitan the Advisor",
+  "slug": "shaitan-the-advisor",
+  "sprite": "/items/shaitan-the-advisor.png",
+  "itemType": "Katana",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "Shaitan the Advisor is the boss of the Lair of Shaitan.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/shaitan-the-advisor",
+  "category": "katanas",
+  "invalidReasons": [
+    "invalid tier",
+    "invalid stats: damage"
+  ],
+  "importedAt": "2026-05-15T12:41:46.981Z"
+}

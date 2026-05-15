@@ -1,0 +1,34 @@
+{
+  "id": "hailstorm",
+  "name": "Hailstorm",
+  "slug": "hailstorm",
+  "sprite": "/items/hailstorm.png",
+  "itemType": "Bow",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Part of the Storm Caller Bard Set.",
+  "stats": {
+    "damage": "50–55 (average: 52.5 / total: 157.5)",
+    "range": "6.4 tiles",
+    "rateOfFire": "120%",
+    "shots": "3 (arc gap: 5°)",
+    "projectiles": "3 (arc gap: 5°)"
+  },
+  "effects": [
+    "Shots hit multiple targets Ignores defense of target Shots face direction"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Feargus the Obsidian Dragon",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/hailstorm"
+}

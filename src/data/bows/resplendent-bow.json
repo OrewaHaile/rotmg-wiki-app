@@ -1,0 +1,35 @@
+{
+  "id": "resplendent-bow",
+  "name": "Resplendent Bow",
+  "slug": "resplendent-bow",
+  "sprite": "/items/resplendent-bow.png",
+  "itemType": "Bow",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 800,
+  "description": "Notes This bow is quite similar to the Doom Bow, except it fires 2 shots, granting it higher average damage plus slightly higher fire rate and range.",
+  "stats": {
+    "damage": "250–325 (average: 287.5)",
+    "range": "7.5 tiles",
+    "rateOfFire": "35%",
+    "shots": "2",
+    "projectiles": "2"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Sandstone Titan",
+    "Genie",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/resplendent-bow"
+}

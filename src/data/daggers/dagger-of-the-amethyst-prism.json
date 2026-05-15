@@ -1,0 +1,29 @@
+{
+  "id": "dagger-of-the-amethyst-prism",
+  "name": "Dagger of the Amethyst Prism",
+  "slug": "dagger-of-the-amethyst-prism",
+  "sprite": "/items/dagger-of-the-amethyst-prism.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 450,
+  "description": "Notes The dagger no longer drops in game and is a reskinned version of the Dagger of Foul Malevolence.",
+  "stats": {
+    "damage": "115–200 (average: 157.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dagger-of-the-amethyst-prism"
+}

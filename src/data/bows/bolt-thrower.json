@@ -1,0 +1,32 @@
+{
+  "id": "bolt-thrower",
+  "name": "Bolt Thrower",
+  "slug": "bolt-thrower",
+  "sprite": "/items/bolt-thrower.png",
+  "itemType": "Bow",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 800,
+  "description": "Notes Part of the Resurrected Huntress set.",
+  "stats": {
+    "damage": "80–90 (average: 85)",
+    "range": "7.04 tiles",
+    "rateOfFire": "80%",
+    "shots": "4 (arc gap: 20°)",
+    "projectiles": "4 (arc gap: 20°)"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bolt-thrower"
+}

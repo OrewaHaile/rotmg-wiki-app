@@ -1,0 +1,51 @@
+{
+  "id": "icicle-launcher",
+  "name": "Icicle Launcher",
+  "slug": "icicle-launcher",
+  "sprite": "/items/icicle-launcher.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 450,
+  "description": "Notes A reskinned version of the T12 Bow of Covert Havens however with a 5% Fame Bonus as opposed to the T12’s 6%.",
+  "stats": {
+    "damage": "175–205 (average: 190)",
+    "range": "4.07",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Avatar of the Forgotten King",
+    "Crystal Prisoner",
+    "Crystal Worm Rudolph",
+    "Eternal Frost Present",
+    "Frostaract",
+    "Frozen Ship",
+    "Hat God",
+    "Ice Cube God",
+    "Jade and Garnet Statues",
+    "Jolly Sphinx",
+    "Killer Bee Nest",
+    "Loot Elf",
+    "Lord of the Lost Lands",
+    "Lost Sentry",
+    "Oryxmas Snowman Tier 3",
+    "Oryxmas Snowman Tier 5",
+    "Rock Dragon (Christmas)",
+    "Skull Shrine"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/icicle-launcher"
+}

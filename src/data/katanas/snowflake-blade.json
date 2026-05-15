@@ -1,0 +1,31 @@
+{
+  "id": "snowflake-blade",
+  "name": "Snowflake Blade",
+  "slug": "snowflake-blade",
+  "sprite": "/items/snowflake-blade.png",
+  "itemType": "Sword",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "History Introduced in Exalt Version 6.3.0.0 (Nov 2025).",
+  "stats": {
+    "damage": "205–225 (average: 215)",
+    "range": "5.2 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Event Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/snowflake-blade"
+}

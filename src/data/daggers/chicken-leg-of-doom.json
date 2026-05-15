@@ -1,0 +1,31 @@
+{
+  "id": "chicken-leg-of-doom",
+  "name": "Chicken Leg of Doom",
+  "slug": "chicken-leg-of-doom",
+  "sprite": "/items/chicken-leg-of-doom.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 650,
+  "description": "Notes The Giant Oryx Chicken is typically only available during the April Fool’s Day event, where it replaces Oryx the Mad God. Outside of April Fool’s Day, the Chicken does not spawn, making its novelty drops rare.",
+  "stats": {
+    "damage": "65–105 (average: 85)",
+    "range": "6 tiles",
+    "rateOfFire": "95%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Giant Oryx Chicken"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/chicken-leg-of-doom"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "socket-blade",
+  "name": "Socket Blade",
+  "slug": "socket-blade",
+  "sprite": "/items/socket-blade.png",
+  "itemType": "Sword",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This weapon has the third highest base damage in game, being beaten by the Blade of Ages and Blade of Blooming.",
+  "stats": {
+    "damage": "720–870 (average: 795)",
+    "range": "6 tiles",
+    "rateOfFire": "30%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "-5 DEX"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/socket-blade"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "dagger-of-eternal-chaos",
+  "name": "Dagger of Eternal Chaos",
+  "slug": "dagger-of-eternal-chaos",
+  "sprite": "/items/dagger-of-eternal-chaos.png",
+  "itemType": "Dagger",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 450,
+  "description": "Notes This is an Antinomy Gear item. It is a reskin of Dagger of Foul Malevolence with an extra 2 attack on equip.",
+  "stats": {
+    "damage": "115–200 (average: 157.5)",
+    "range": "5.6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "+2 ATT"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dagger-of-eternal-chaos"
+}

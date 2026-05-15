@@ -1,0 +1,32 @@
+{
+  "id": "prismatic-slasher",
+  "name": "Prismatic Slasher",
+  "slug": "prismatic-slasher",
+  "sprite": "/items/prismatic-slasher.png",
+  "itemType": "Prism",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 100,
+  "description": "History Added in Patch X.32.7.1 (Mar 2020).",
+  "stats": {
+    "damage": "10 (total: 20)",
+    "range": "4 tiles (true range: 2.01 tiles)",
+    "rateOfFire": "160%",
+    "shots": "2 (arc gap: 28°)",
+    "projectiles": "2 (arc gap: 28°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Pot of Gold",
+    "Yellow Leprechaun"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/prismatic-slasher"
+}

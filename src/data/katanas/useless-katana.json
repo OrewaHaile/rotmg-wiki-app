@@ -1,0 +1,31 @@
+{
+  "id": "useless-katana",
+  "name": "Useless Katana",
+  "slug": "useless-katana",
+  "sprite": "/items/useless-katana.png",
+  "itemType": "Katana",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 300,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "10–30 (average: 20)",
+    "range": "3.5 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "The Glitch"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/useless-katana"
+}

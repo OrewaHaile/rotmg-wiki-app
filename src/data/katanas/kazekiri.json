@@ -1,0 +1,34 @@
+{
+  "id": "kazekiri",
+  "name": "Kazekiri",
+  "slug": "kazekiri",
+  "sprite": "/items/kazekiri.png",
+  "itemType": "Katana",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 800,
+  "description": "Game animation Default and full set projectile animation:",
+  "stats": {
+    "damage": "105–130 (average: 117.5 / total: 235)",
+    "range": "4.50 tiles",
+    "rateOfFire": "85%",
+    "shots": "2 (arc gap: 0°)",
+    "projectiles": "2 (arc gap: 0°)"
+  },
+  "effects": [
+    "Shots hit multiple targets Shots pass through obstacles"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Daichi the Fallen",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/kazekiri"
+}

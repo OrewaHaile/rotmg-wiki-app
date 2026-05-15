@@ -1,0 +1,36 @@
+{
+  "id": "warmonger",
+  "name": "Warmonger",
+  "slug": "warmonger",
+  "sprite": "/items/warmonger.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes At first glance, this bow is incredible. It outdamages every bow at low to mid DEF, being only beaten by a 5-shot Predator Bow and the undisputed best damaging bow Makakoyumi. It has one of the highest ranges of bows at 8 tiles. Unlike tiered bows, the arc gap is small enough to consistently make use of the full normal range. While the Warmonger’s true range isn’t boosted by the Bard’s Inspired, the range still surpasses its endgame competitor, the Bow of the Void. It is also great for crowd control, piercing enemies and passing through obstacles.",
+  "stats": {
+    "damage": "95–110 (average: 102.5 / total: 205)",
+    "range": "8.0028 tiles (true range: 8 tiles)",
+    "rateOfFire": "120%",
+    "shots": "2 (arc gap: 7°)",
+    "projectiles": "2 (arc gap: 7°)"
+  },
+  "effects": [
+    "Shots hit multiple targets Shots pass through obstacles",
+    "+5 VIT",
+    "On Shoot: When in combat, DEX Decrease (-5 DEX) for 1 second"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "The Forgotten King",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/warmonger"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "bow-of-the-void",
+  "name": "Bow of the Void",
+  "slug": "bow-of-the-void",
+  "sprite": "/items/bow-of-the-void.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This bow possesses very high DPS, at the cost of having 1 tile lower range than tiered bows and only slightly more than tiered daggers. But since it only fires 1 shot, its true range (6 tiles) is higher than tiered bows, and gains the full benefit from Inspired buffs. This allows the Void bow to deal more consistent damage from a safer distance.",
+  "stats": {
+    "damage": "180–255 (average: 217.5)",
+    "range": "6 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer"
+  ],
+  "dropsFrom": [
+    "Void Entity",
+    "Voided Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bow-of-the-void"
+}

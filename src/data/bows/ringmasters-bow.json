@@ -1,0 +1,35 @@
+{
+  "id": "ringmasters-bow",
+  "name": "Ringmaster's Bow",
+  "slug": "ringmasters-bow",
+  "sprite": "/items/ringmasters-bow.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "",
+  "stats": {
+    "damage": "220–235 (average: 227.5)",
+    "range": "4.07",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "+3 ATT",
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Carnival Clown"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ringmaster-s-bow"
+}

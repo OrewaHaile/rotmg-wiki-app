@@ -1,0 +1,33 @@
+{
+  "id": "brilliance-bow",
+  "name": "Brilliance Bow",
+  "slug": "brilliance-bow",
+  "sprite": "/items/brilliance-bow.png",
+  "itemType": "Bow",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 0,
+  "description": "Notes Part of the Golden Archer Set.",
+  "stats": {
+    "damage": "1–10 (average: 5.5)",
+    "range": "7 tiles",
+    "rateOfFire": null,
+    "shots": "3 (arc gap: 8°)",
+    "projectiles": "3 (arc gap: 8°)"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Null"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/brilliance-bow"
+}

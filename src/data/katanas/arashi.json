@@ -1,0 +1,29 @@
+{
+  "id": "arashi",
+  "name": "Arashi",
+  "slug": "arashi",
+  "sprite": "/items/arashi.png",
+  "itemType": "Katana",
+  "tier": "UT (Limited)",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 850,
+  "description": "History Before Exalt Version 5.0.0.1 (Aug 2024), this item dealt 200-220 damage.",
+  "stats": {
+    "damage": "205–225 (average: 215)",
+    "range": "5.2 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/arashi"
+}

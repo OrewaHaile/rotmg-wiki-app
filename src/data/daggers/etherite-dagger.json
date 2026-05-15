@@ -1,0 +1,33 @@
+{
+  "id": "etherite-dagger",
+  "name": "Etherite Dagger",
+  "slug": "etherite-dagger",
+  "sprite": "/items/etherite-dagger.png",
+  "itemType": "Dagger",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 900,
+  "description": "Notes Part of the Skuld 2 The ReGhostening Set.",
+  "stats": {
+    "damage": "95–195 (average: 145)",
+    "range": "3.84 tiles",
+    "rateOfFire": "125%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Grave Caretaker",
+    "Ghost of Skuld",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/etherite-dagger"
+}

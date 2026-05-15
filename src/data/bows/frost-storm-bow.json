@@ -1,0 +1,33 @@
+{
+  "id": "frost-storm-bow",
+  "name": "Frost Storm Bow",
+  "slug": "frost-storm-bow",
+  "sprite": "/items/frost-storm-bow.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "History Introduced in Exalt Version 6.3.0.0 (Nov 2025).",
+  "stats": {
+    "damage": "625–700 (average: 662.5)",
+    "range": "7.042 tiles",
+    "rateOfFire": "33%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Event Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/frost-storm-bow"
+}

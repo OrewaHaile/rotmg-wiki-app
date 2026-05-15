@@ -1,0 +1,31 @@
+{
+  "id": "precisely-calibrated-stringstick",
+  "name": "Precisely Calibrated Stringstick",
+  "slug": "precisely-calibrated-stringstick",
+  "sprite": "/items/precisely-calibrated-stringstick.png",
+  "itemType": "Ring",
+  "tier": "UT (Limited)",
+  "bagType": "Cyan",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 0,
+  "description": "Notes The Steam DLC graphic for the item is:",
+  "stats": {
+    "damage": "10–15 (average: 12.5 / total: 62.5)",
+    "range": "5 tiles (true range: 0.87 tiles)",
+    "rateOfFire": "25%",
+    "shots": "5 (arc gap: 15°)",
+    "projectiles": "5 (arc gap: 15°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Mad God Mayhem Bosses"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/precisely-calibrated-stringstick"
+}

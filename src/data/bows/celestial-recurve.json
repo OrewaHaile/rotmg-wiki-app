@@ -1,0 +1,46 @@
+{
+  "id": "celestial-recurve",
+  "name": "Celestial Recurve",
+  "slug": "celestial-recurve",
+  "sprite": "/items/celestial-recurve.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes A bow that is overwhelming against stationary enemies or those with predictable movement, but rather pitiful against those with erratic movement or lategame bosses that often force you away from the 5 tile sweet spot. It can be used as a main bow for clearing enemies, despite feeling somewhat worse than tiered bows at times due to the requirement to always play around 5 tiles. The damage is mediocre when rushing dungeons. Have a swapout for when you are unable to stay at 5 tiles range.",
+  "stats": {
+    "damage": "200–310 (average: 255)",
+    "range": "1.66 tiles (true range: from player ~5 tiles)",
+    "rateOfFire": "110%",
+    "shots": "4",
+    "projectiles": "4"
+  },
+  "effects": [
+    "Shots hit multiple targets Shots pass through obstacles",
+    "Shots hit multiple targets Shots pass through obstacles Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Artificial Sprite God",
+    "Blazing Sprite",
+    "Celestial Sprite",
+    "Corrupt Sprite",
+    "Cosmic Sprite",
+    "Elder Sprite Tree",
+    "Evergreen Sprite",
+    "Hazardous Sprite",
+    "Legion Fey Guardian",
+    "Noxious Sprite",
+    "Sprite Beast",
+    "Sprite Child",
+    "Sprite God"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/celestial-recurve"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "sunny-side-bow",
+  "name": "Sunny Side Bow",
+  "slug": "sunny-side-bow",
+  "sprite": "/items/sunny-side-bow.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 900,
+  "description": "History This item was available during the 2018, 2019, and 2020 Easter Event as a Tinkerer Daily Quest in exchange for 100, 40, and 20 Golden Eggs, respectively. During the 2020 event, it could also drop from Wine Cellar event chest.",
+  "stats": {
+    "damage": "65–130 (average: 97.5)",
+    "range": "7.59 tiles",
+    "rateOfFire": "200%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets Ignores defense of target",
+    "+30 MP"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Biff the Buffed Bunny",
+    "Event Chests"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sunny-side-bow"
+}

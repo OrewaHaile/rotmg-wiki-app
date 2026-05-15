@@ -1,0 +1,37 @@
+{
+  "id": "quartz-cutter",
+  "name": "Quartz Cutter",
+  "slug": "quartz-cutter",
+  "sprite": "/items/quartz-cutter.png",
+  "itemType": "Katana",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 900,
+  "description": "Game animation Default and full set projectile animation:",
+  "stats": {
+    "damage": "80–95 (average: 87.5 / total: 262.5)",
+    "range": "5.25 tiles (true range: 2.84 tiles)",
+    "rateOfFire": "80%",
+    "shots": "3 (arc gap: 8°)",
+    "projectiles": "3 (arc gap: 8°)"
+  },
+  "effects": [
+    "Shots hit multiple targetsFaces Direction Wavy shots"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Crystal Worm Child",
+    "Cavecrawler Glowworm",
+    "Cavecrawler Leech",
+    "Cavecrawler Maggot",
+    "Crystallized Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/quartz-cutter"
+}

@@ -1,0 +1,34 @@
+{
+  "id": "arbiters-wrath",
+  "name": "Arbiter's Wrath",
+  "slug": "arbiters-wrath",
+  "sprite": "/items/arbiters-wrath.png",
+  "itemType": "Katana",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 0,
+  "description": "Notes The Arbiter’s Wrath drops in the Battle for the Nexus dungeon, which was released for a limited time in September 2013 and occasionally reappears during events.",
+  "stats": {
+    "damage": "10–40 (average: 25)",
+    "range": "4.8 tiles",
+    "rateOfFire": "50%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Oryx the Mad God Deux",
+    "Archdemon Malphas Deux"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/arbiter-s-wrath"
+}

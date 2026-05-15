@@ -1,0 +1,34 @@
+{
+  "id": "b-o-w",
+  "name": "B.O.W.",
+  "slug": "b-o-w",
+  "sprite": "/items/b-o-w.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 950,
+  "description": "Notes A unique weapon that was one of two introduced to showcase the new burst-fire function (along with S.T.A.F.F.), which causes the weapon to fire a certain number of shots before needing to pause for a certain amount of time. The time between the bursts can be decreased (up to a cap) through anything that increases fire rate, such as DEX or the Berserk buff.",
+  "stats": {
+    "damage": "70–95 (average: 82.5 / total: 412.5)",
+    "range": "11.2 tiles (true range: 1.54 tiles)",
+    "rateOfFire": "120%",
+    "shots": "5 (arc gap: 9°)",
+    "projectiles": "5 (arc gap: 9°)"
+  },
+  "effects": [
+    "Burst: Fires a burst of shots, with the delay between bursts decreasing with your DEX and status effects Burst Count: 3 Maximum Burst Delay: 1 second Minimum Burst Delay: 0.6 seconds Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "F.E.R.A.L.",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/b-o-w"
+}

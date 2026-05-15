@@ -1,0 +1,33 @@
+{
+  "id": "candy-katana",
+  "name": "Candy Katana",
+  "slug": "candy-katana",
+  "sprite": "/items/candy-katana.png",
+  "itemType": "Katana",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Its alternating curved shot pattern is reminiscent of the Sword of the Colossus, but differs with shots that decelerate and linger slightly near max range. With precise play, it can make a good replacement for the Ray Katana thanks to a higher DPS and a rather negligible range disadvantage of 0.61 tiles.",
+  "stats": {
+    "damage": "130–175 (average: 152.5)",
+    "range": "5.5 tiles",
+    "rateOfFire": "125%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Jack Frost"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/candy-katana"
+}

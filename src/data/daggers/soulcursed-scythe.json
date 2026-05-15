@@ -1,0 +1,35 @@
+{
+  "id": "soulcursed-scythe",
+  "name": "Soulcursed Scythe",
+  "slug": "soulcursed-scythe",
+  "sprite": "/items/soulcursed-scythe.png",
+  "itemType": "Dagger",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 900,
+  "description": "Notes Part of the Vampire Rogue Set.",
+  "stats": {
+    "damage": "345–460 (average: 402.5)",
+    "range": "4 tiles",
+    "rateOfFire": "40%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "While Lethal Strike is active: Shoots a powerful scythe Chain Damage: 50 ( Ignores defense of target) Blade Damage: 100-300 (average: 200) Scythe Range: 5.5 tiles Shots hit multiple targets (scythe/chain) Shots pass through obstacles (scythe/chain)"
+  ],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Lord Ruthven",
+    "Coffin",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/soulcursed-scythe"
+}

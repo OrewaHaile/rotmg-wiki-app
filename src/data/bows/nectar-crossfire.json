@@ -1,0 +1,37 @@
+{
+  "id": "nectar-crossfire",
+  "name": "Nectar Crossfire",
+  "slug": "nectar-crossfire",
+  "sprite": "/items/nectar-crossfire.png",
+  "itemType": "Bow",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 800,
+  "description": "Notes Part of the Swarming Huntress Set.",
+  "stats": {
+    "damage": "205–215 (average: 210)",
+    "range": "7.04 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Blue Soldier Bee",
+    "Red Soldier Bee",
+    "Yellow Soldier Bee",
+    "Honeyed Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/nectar-crossfire"
+}

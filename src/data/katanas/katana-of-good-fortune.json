@@ -1,0 +1,31 @@
+{
+  "id": "katana-of-good-fortune",
+  "name": "Katana of Good Fortune",
+  "slug": "katana-of-good-fortune",
+  "sprite": "/items/katana-of-good-fortune.png",
+  "itemType": "Katana",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "5%",
+  "feedPower": 100,
+  "description": "Notes This katana is a vanity item and does not have much practical use in combat.",
+  "stats": {
+    "damage": "10–30 (average: 20)",
+    "range": "6 tiles",
+    "rateOfFire": "140%",
+    "shots": "3 (arc gap: 5°)",
+    "projectiles": "3 (arc gap: 5°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Pot of Gold"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/katana-of-good-fortune"
+}

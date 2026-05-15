@@ -1,0 +1,34 @@
+{
+  "id": "deathless-crossbow",
+  "name": "Deathless Crossbow",
+  "slug": "deathless-crossbow",
+  "sprite": "/items/deathless-crossbow.png",
+  "itemType": "Bow",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 900,
+  "description": "Notes This item is a part of the Phantom Archer Set.",
+  "stats": {
+    "damage": "180–235 (average: 207.5)",
+    "range": "4.8 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Corruption Phantom",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/deathless-crossbow"
+}

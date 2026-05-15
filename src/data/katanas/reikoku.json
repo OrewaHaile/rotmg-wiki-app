@@ -1,0 +1,34 @@
+{
+  "id": "reikoku",
+  "name": "Reikoku",
+  "slug": "reikoku",
+  "sprite": "/items/reikoku.png",
+  "itemType": "Katana",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 700,
+  "description": "Notes Part of the Raijin Disciple Set.",
+  "stats": {
+    "damage": "80–90 (average: 85 / total: 170)",
+    "range": "4.76 tiles",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 0°)",
+    "projectiles": "2 (arc gap: 0°)"
+  },
+  "effects": [
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Tezcacoatl the Great Basilisk",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/reikoku"
+}

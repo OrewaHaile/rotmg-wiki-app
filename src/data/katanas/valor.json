@@ -1,0 +1,36 @@
+{
+  "id": "valor",
+  "name": "Valor",
+  "slug": "valor",
+  "sprite": "/items/valor.png",
+  "itemType": "Katana",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes A very powerful slow-shooting katana bearing similarity to the Doom Bow, albeit much more powerful. When Out of Combat, Valor beats practially every katana except the Enforcer at very low DEF. However, when In Combat, Valor loses significant damage output, being outdamaged by Enforcer until roughly 41 DEF on all classes, and Celestial Blade at very low DEF.",
+  "stats": {
+    "damage": "480–555 (average: 517.5)",
+    "range": "4.76 tiles",
+    "rateOfFire": "45%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "+5 SPD",
+    "On Shoot: When in combat, ATT Decrease (-10 ATT) for 1 second"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "The Bridge Sentinel",
+    "Royal Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/valor"
+}

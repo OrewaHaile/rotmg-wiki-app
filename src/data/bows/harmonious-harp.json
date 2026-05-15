@@ -1,0 +1,36 @@
+{
+  "id": "harmonious-harp",
+  "name": "Harmonious Harp",
+  "slug": "harmonious-harp",
+  "sprite": "/items/harmonious-harp.png",
+  "itemType": "Bow",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": null,
+  "description": "Notes Part of the Angelic Bard Set.",
+  "stats": {
+    "damage": "120–145 (average: 132.5 / total: 265)",
+    "range": "6.5 tiles",
+    "rateOfFire": "85%",
+    "shots": "2 (arc gap: 0°)",
+    "projectiles": "2 (arc gap: 0°)"
+  },
+  "effects": [
+    "Shots hit multiple targets Increases the power of the Angel’s Fanfare if worn in conjunction"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Oryx Ambassador",
+    "Oryx Minister",
+    "Oryx Judge",
+    "Legion Principal"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/harmonious-harp"
+}

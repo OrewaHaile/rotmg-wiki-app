@@ -1,0 +1,34 @@
+{
+  "id": "bergenia-bow",
+  "name": "Bergenia Bow",
+  "slug": "bergenia-bow",
+  "sprite": "/items/bergenia-bow.png",
+  "itemType": "Bow",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 850,
+  "description": "Notes Part of the Horticultural Huntress Set.",
+  "stats": {
+    "damage": "160–195 (average: 177.5)",
+    "range": "8 tiles",
+    "rateOfFire": null,
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Fountain Spirit",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/bergenia-bow"
+}

@@ -1,0 +1,32 @@
+{
+  "id": "metal-tray",
+  "name": "Metal Tray",
+  "slug": "metal-tray",
+  "sprite": "/items/metal-tray.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 650,
+  "description": "History Introduced in Exalt Version 5.14.0.0 (July 2025) update.",
+  "stats": {
+    "damage": "205–235 (average: 220)",
+    "range": "4.07",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 14°)",
+    "projectiles": "2 (arc gap: 14°)"
+  },
+  "effects": [
+    "Shots hit multiple targets",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/metal-tray"
+}

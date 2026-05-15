@@ -1,0 +1,35 @@
+{
+  "id": "ray-katana",
+  "name": "Ray Katana",
+  "slug": "ray-katana",
+  "sprite": "/items/ray-katana.png",
+  "itemType": "Katana",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 700,
+  "description": "Notes A rare Katana, this weapon sacrifices some damage in exchange for slightly higher fire rate and a lot of extra range. This allows users to strike enemies from a safer distance. In addition, its faster projectile speed allows it to hit moving targets more easily. This katana is mostly useful when the enemies are very dangerous to get close to (for example, Oryx 2) and the extra damage on the Tiered ones would not be worth the risk.",
+  "stats": {
+    "damage": "160",
+    "range": "6.2 tiles",
+    "rateOfFire": "111%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Shots hit multiple targets"
+  ],
+  "usableClasses": [
+    "Samurai",
+    "Ninja",
+    "Kensei"
+  ],
+  "dropsFrom": [
+    "Daughter of Limon",
+    "Rock Dragon",
+    "The Keyper"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/ray-katana"
+}

@@ -1,0 +1,36 @@
+{
+  "id": "frozen-whisper",
+  "name": "Frozen Whisper",
+  "slug": "frozen-whisper",
+  "sprite": "/items/frozen-whisper.png",
+  "itemType": "Bow",
+  "tier": "UT (Limited)",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "History This item was added to the game in Exalt Version 6.5.0.0 (Jan 2026).",
+  "stats": {
+    "damage": "450–550 (average: 500)",
+    "range": "11.3 tiles",
+    "rateOfFire": "130%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Burst Count: 2 Burst Delay: 2 seconds Minimum Burst Delay 0.6 seconds Shots hit multiple targets",
+    "+6 DEX"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Jotunn",
+    "Soulwarden Murcian",
+    "Malus"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/frozen-whisper"
+}

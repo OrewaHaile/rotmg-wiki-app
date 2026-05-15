@@ -1,0 +1,32 @@
+{
+  "id": "carved-golem-remains",
+  "name": "Carved Golem Remains",
+  "slug": "carved-golem-remains",
+  "sprite": "/items/carved-golem-remains.png",
+  "itemType": "Dagger",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "5%",
+  "feedPower": 900,
+  "description": "Notes Part of the Lost Golem set.",
+  "stats": {
+    "damage": "155–170 (average: 162.5)",
+    "range": "6.3 tiles",
+    "rateOfFire": "105%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Rogue",
+    "Assassin",
+    "Trickster"
+  ],
+  "dropsFrom": [
+    "Agonized Titan",
+    "Marble Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/carved-golem-remains"
+}

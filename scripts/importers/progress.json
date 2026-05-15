@@ -1,123 +1,246 @@
 {
-  "categoryUrl": "https://www.realmeye.com/wiki/spellblades",
+  "categoryUrl": "https://www.realmeye.com/wiki/katanas",
   "urls": [
-    "https://www.realmeye.com/wiki/spellblade-of-decimation",
-    "https://www.realmeye.com/wiki/spellblade-of-nightmares",
-    "https://www.realmeye.com/wiki/spellblade-of-arcane-magic",
-    "https://www.realmeye.com/wiki/spellblade-of-corrupt-premonitions",
-    "https://www.realmeye.com/wiki/spellblade-of-starry-insight",
-    "https://www.realmeye.com/wiki/spellblade-of-the-sun",
-    "https://www.realmeye.com/wiki/spellblade-of-the-heavens-light",
-    "https://www.realmeye.com/wiki/spellblade-of-the-everlasting-death",
-    "https://www.realmeye.com/wiki/love-heart-spellblade",
-    "https://www.realmeye.com/wiki/steam-pipe",
-    "https://www.realmeye.com/wiki/crystallized-worm-spellblade",
-    "https://www.realmeye.com/wiki/rocket-launcher",
-    "https://www.realmeye.com/wiki/snowblind-spellblade",
-    "https://www.realmeye.com/wiki/hovering-spellblade",
-    "https://www.realmeye.com/wiki/caramel-spellblade",
-    "https://www.realmeye.com/wiki/spellblade-of-the-void",
-    "https://www.realmeye.com/wiki/beach-shovel",
-    "https://www.realmeye.com/wiki/royal-sekhem",
-    "https://www.realmeye.com/wiki/hero-s-spellblade"
+    "https://www.realmeye.com/wiki/rusty-katana",
+    "https://www.realmeye.com/wiki/kendo-stick",
+    "https://www.realmeye.com/wiki/plain-katana",
+    "https://www.realmeye.com/wiki/thunder-katana",
+    "https://www.realmeye.com/wiki/line-kutter-katana",
+    "https://www.realmeye.com/wiki/night-edge",
+    "https://www.realmeye.com/wiki/sky-edge",
+    "https://www.realmeye.com/wiki/buster-katana",
+    "https://www.realmeye.com/wiki/demon-edge",
+    "https://www.realmeye.com/wiki/jewel-eye-katana",
+    "https://www.realmeye.com/wiki/ichimonji",
+    "https://www.realmeye.com/wiki/muramasa",
+    "https://www.realmeye.com/wiki/masamune",
+    "https://www.realmeye.com/wiki/sadamune",
+    "https://www.realmeye.com/wiki/kusanagi",
+    "https://www.realmeye.com/wiki/blade-of-ages",
+    "https://www.realmeye.com/wiki/blade-of-blooming",
+    "https://www.realmeye.com/wiki/diamond-bladed-katana",
+    "https://www.realmeye.com/wiki/blade-of-the-assailant",
+    "https://www.realmeye.com/wiki/kyuuketsuki-hitogoroshi",
+    "https://www.realmeye.com/wiki/void-blade",
+    "https://www.realmeye.com/wiki/doku-no-ken",
+    "https://www.realmeye.com/wiki/celestial-blade",
+    "https://www.realmeye.com/wiki/moonbeam-blade",
+    "https://www.realmeye.com/wiki/fire-blade",
+    "https://www.realmeye.com/wiki/bloodbath-blade",
+    "https://www.realmeye.com/wiki/ray-katana",
+    "https://www.realmeye.com/wiki/valor",
+    "https://www.realmeye.com/wiki/enforcer",
+    "https://www.realmeye.com/wiki/socket-blade",
+    "https://www.realmeye.com/wiki/shakujo",
+    "https://www.realmeye.com/wiki/reikoku",
+    "https://www.realmeye.com/wiki/iceborn-arsenal",
+    "https://www.realmeye.com/wiki/fiery-katana",
+    "https://www.realmeye.com/wiki/shaitan-the-advisor",
+    "https://www.realmeye.com/wiki/saif-of-the-deep",
+    "https://www.realmeye.com/wiki/kazekiri",
+    "https://www.realmeye.com/wiki/kiritsukeru",
+    "https://www.realmeye.com/wiki/quartz-cutter",
+    "https://www.realmeye.com/wiki/arbiter-s-wrath",
+    "https://www.realmeye.com/wiki/useless-katana",
+    "https://www.realmeye.com/wiki/corrupted-cleaver",
+    "https://www.realmeye.com/wiki/salju",
+    "https://www.realmeye.com/wiki/katana-of-good-fortune",
+    "https://www.realmeye.com/wiki/yuki",
+    "https://www.realmeye.com/wiki/krathana",
+    "https://www.realmeye.com/wiki/aspirant-s-blade",
+    "https://www.realmeye.com/wiki/sawblade-katana",
+    "https://www.realmeye.com/wiki/skybound-blade",
+    "https://www.realmeye.com/wiki/blood-siphoning-katana",
+    "https://www.realmeye.com/wiki/candy-katana",
+    "https://www.realmeye.com/wiki/winter-s-dire-kiss",
+    "https://www.realmeye.com/wiki/arashi",
+    "https://www.realmeye.com/wiki/snowflake-blade",
+    "https://www.realmeye.com/wiki/tsunami",
+    "https://www.realmeye.com/wiki/legions-odachi",
+    "https://www.realmeye.com/wiki/floral-edge-katana",
+    "https://www.realmeye.com/wiki/dynamite",
+    "https://www.realmeye.com/wiki/legion-elite-katana",
+    "https://www.realmeye.com/wiki/acrobat-s-edge",
+    "https://www.realmeye.com/wiki/valor-rehearsal",
+    "https://www.realmeye.com/wiki/hero-s-katana",
+    "https://www.realmeye.com/wiki/shining-blade",
+    "https://www.realmeye.com/wiki/heartseeker-katana",
+    "https://www.realmeye.com/wiki/sovereign-cinder-blade",
+    "https://www.realmeye.com/wiki/thunder-mallet"
   ],
-  "nextIndex": 19,
-  "imported": [],
+  "nextIndex": 66,
+  "imported": [
+    "bloodbath-blade",
+    "ray-katana",
+    "valor",
+    "enforcer",
+    "socket-blade",
+    "shakujo",
+    "reikoku",
+    "iceborn-arsenal",
+    "fiery-katana",
+    "saif-of-the-deep",
+    "kazekiri",
+    "kiritsukeru",
+    "quartz-cutter",
+    "arbiters-wrath",
+    "useless-katana",
+    "corrupted-cleaver",
+    "salju",
+    "katana-of-good-fortune",
+    "yuki",
+    "krathana",
+    "aspirants-blade",
+    "sawblade-katana",
+    "skybound-blade",
+    "blood-siphoning-katana",
+    "candy-katana",
+    "winters-dire-kiss",
+    "arashi",
+    "snowflake-blade",
+    "tsunami",
+    "legions-odachi",
+    "floral-edge-katana",
+    "dynamite",
+    "legion-elite-katana",
+    "acrobats-edge",
+    "valor-rehearsal",
+    "heros-katana",
+    "shining-blade",
+    "heartseeker-katana",
+    "sovereign-cinder-blade",
+    "thunder-mallet"
+  ],
   "skipped": [
     {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-decimation",
-      "slug": "spellblade-of-decimation",
+      "url": "https://www.realmeye.com/wiki/rusty-katana",
+      "slug": "rusty-katana",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-nightmares",
-      "slug": "spellblade-of-nightmares",
+      "url": "https://www.realmeye.com/wiki/kendo-stick",
+      "slug": "kendo-stick",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-arcane-magic",
-      "slug": "spellblade-of-arcane-magic",
+      "url": "https://www.realmeye.com/wiki/plain-katana",
+      "slug": "plain-katana",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-corrupt-premonitions",
-      "slug": "spellblade-of-corrupt-premonitions",
+      "url": "https://www.realmeye.com/wiki/thunder-katana",
+      "slug": "thunder-katana",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-starry-insight",
-      "slug": "spellblade-of-starry-insight",
+      "url": "https://www.realmeye.com/wiki/line-kutter-katana",
+      "slug": "line-kutter-katana",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-the-sun",
-      "slug": "spellblade-of-the-sun",
+      "url": "https://www.realmeye.com/wiki/night-edge",
+      "slug": "night-edge",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-the-heavens-light",
-      "slug": "spellblade-of-the-heavens-light",
+      "url": "https://www.realmeye.com/wiki/sky-edge",
+      "slug": "sky-edge",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-the-everlasting-death",
-      "slug": "spellblade-of-the-everlasting-death",
+      "url": "https://www.realmeye.com/wiki/buster-katana",
+      "slug": "buster-katana",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/love-heart-spellblade",
-      "slug": "love-heart-spellblade",
+      "url": "https://www.realmeye.com/wiki/demon-edge",
+      "slug": "demon-edge",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/steam-pipe",
-      "slug": "steam-pipe",
+      "url": "https://www.realmeye.com/wiki/jewel-eye-katana",
+      "slug": "jewel-eye-katana",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/crystallized-worm-spellblade",
-      "slug": "crystallized-worm-spellblade",
+      "url": "https://www.realmeye.com/wiki/ichimonji",
+      "slug": "ichimonji",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/rocket-launcher",
-      "slug": "rocket-launcher",
+      "url": "https://www.realmeye.com/wiki/muramasa",
+      "slug": "muramasa",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/snowblind-spellblade",
-      "slug": "snowblind-spellblade",
+      "url": "https://www.realmeye.com/wiki/masamune",
+      "slug": "masamune",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/hovering-spellblade",
-      "slug": "hovering-spellblade",
+      "url": "https://www.realmeye.com/wiki/sadamune",
+      "slug": "sadamune",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/caramel-spellblade",
-      "slug": "caramel-spellblade",
+      "url": "https://www.realmeye.com/wiki/kusanagi",
+      "slug": "kusanagi",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-the-void",
-      "slug": "spellblade-of-the-void",
+      "url": "https://www.realmeye.com/wiki/blade-of-ages",
+      "slug": "blade-of-ages",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/beach-shovel",
-      "slug": "beach-shovel",
+      "url": "https://www.realmeye.com/wiki/blade-of-blooming",
+      "slug": "blade-of-blooming",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/royal-sekhem",
-      "slug": "royal-sekhem",
+      "url": "https://www.realmeye.com/wiki/diamond-bladed-katana",
+      "slug": "diamond-bladed-katana",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/hero-s-spellblade",
-      "slug": "heros-spellblade",
+      "url": "https://www.realmeye.com/wiki/blade-of-the-assailant",
+      "slug": "blade-of-the-assailant",
       "reason": "duplicate"
+    },
+    {
+      "url": "https://www.realmeye.com/wiki/kyuuketsuki-hitogoroshi",
+      "slug": "kyuuketsuki-hitogoroshi",
+      "reason": "duplicate"
+    },
+    {
+      "url": "https://www.realmeye.com/wiki/void-blade",
+      "slug": "void-blade",
+      "reason": "duplicate"
+    },
+    {
+      "url": "https://www.realmeye.com/wiki/doku-no-ken",
+      "slug": "doku-no-ken",
+      "reason": "duplicate"
+    },
+    {
+      "url": "https://www.realmeye.com/wiki/celestial-blade",
+      "slug": "celestial-blade",
+      "reason": "duplicate"
+    },
+    {
+      "url": "https://www.realmeye.com/wiki/moonbeam-blade",
+      "slug": "moonbeam-blade",
+      "reason": "duplicate"
+    },
+    {
+      "url": "https://www.realmeye.com/wiki/fire-blade",
+      "slug": "fire-blade",
+      "reason": "duplicate"
+    },
+    {
+      "url": "https://www.realmeye.com/wiki/shaitan-the-advisor",
+      "slug": "shaitan-the-advisor",
+      "reason": "invalid tier; invalid stats: damage"
     }
   ]
 }

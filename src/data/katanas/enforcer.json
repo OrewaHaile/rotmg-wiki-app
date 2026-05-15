@@ -1,0 +1,29 @@
+{
+  "id": "enforcer",
+  "name": "Enforcer",
+  "slug": "enforcer",
+  "sprite": "/items/enforcer.png",
+  "itemType": "Katana",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes A very strong katana that fires two powerful shots in a V formation, both with extended range and no piercing. It has higher overall range than tiered katanas, but a similar true range.",
+  "stats": {
+    "damage": "105–145 (average: 125 / total: 250)",
+    "range": "5.33 tiles (true range: 4.76 tiles)",
+    "rateOfFire": null,
+    "shots": "2 (arc gap: 12°)",
+    "projectiles": "2 (arc gap: 12°)"
+  },
+  "effects": [],
+  "usableClasses": [
+    "Ninja"
+  ],
+  "dropsFrom": [
+    "Chief Beisa"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/enforcer"
+}

@@ -1,0 +1,35 @@
+{
+  "id": "makakoyumi",
+  "name": "Makakoyumi",
+  "slug": "makakoyumi",
+  "sprite": "/items/makakoyumi.png",
+  "itemType": "Bow",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes For absolute damage, this is easily the best bow in the game. Its main shot is essentially a Clockwork Repeater with +20% damage, more range, and much faster shot velocity, without even counting the extra side shot. Even if you never hit the side shot, it beats all bows except the 5-shot Predator Bow and 5-shot Bolt Thrower.",
+  "stats": {
+    "damage": "20–800 (average: 830)",
+    "range": "2.8",
+    "rateOfFire": "200%",
+    "shots": "1",
+    "projectiles": "1"
+  },
+  "effects": [
+    "Divine Disfavor: Forced Slowed whilst shooting.",
+    "Shots hit multiple targets Shots pass through obstacles",
+    "Shots hit multiple targets Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Archer",
+    "Huntress",
+    "Bard"
+  ],
+  "dropsFrom": [
+    "Kitsune Umi"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/makakoyumi"
+}
