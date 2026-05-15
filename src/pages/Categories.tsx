@@ -1,5 +1,6 @@
 import { Link } from "wouter";
 import { getAllItems } from "../utils/itemData";
+import stSetsData from "../data/st-sets.json";
 
 const weaponCategories = [
   "daggers",
@@ -48,6 +49,13 @@ const categories = [
     icon: "🐾",
   },
   {
+    title: "ST Sets",
+    description: "Special themed sets with items, bonuses and complete class outfits.",
+    href: "/sets",
+    countKey: "sets",
+    icon: "👕",
+  },
+  {
     title: "Dungeons",
     description: "Dungeon pages, bosses and loot tables are coming soon.",
     href: "/dungeons",
@@ -65,6 +73,7 @@ export default function Categories() {
     armors: allItems.filter((item) => item.category === "armors").length,
     rings: allItems.filter((item) => item.category === "rings").length,
     pets: allItems.filter((item) => item.category === "pets").length,
+    sets: Array.isArray(stSetsData) ? stSetsData.filter((set: any) => set.id !== "example-st-set").length : 0,
   };
 
   return (

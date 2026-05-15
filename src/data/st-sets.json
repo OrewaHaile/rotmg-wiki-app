@@ -1,0 +1,18 @@
+[
+  {
+    "id": "example-st-set",
+    "name": "Example ST Set",
+    "slug": "example-st-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Unknown",
+    "outfitSprite": "",
+    "sourceUrl": "",
+    "description": "ST set example. Replace this with imported RealmEye data later.",
+    "items": [],
+    "bonuses": [],
+    "notes": [
+      "This is a placeholder set used to prepare the ST Sets page."
+    ]
+  }
+]

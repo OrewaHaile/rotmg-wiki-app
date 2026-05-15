@@ -11,6 +11,7 @@ export default function Navigation() {
   const navItems = [
     { label: "Home", path: "/" },
     { label: "Categories", path: "/categories" },
+    { label: "Sets", path: "/sets" },
     { label: "Dungeons", path: "/dungeons", badge: "Coming soon" },
     { label: "Stats", path: "/stats" },
   ];

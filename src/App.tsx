@@ -7,6 +7,7 @@ import ImportStats from "./pages/ImportStats";
 import ItemPage from "./pages/ItemPage";
 import ItemEditPage from "./pages/ItemEditPage";
 import Dungeons from "./pages/Dungeons";
+import Sets from "./pages/Sets";
 
 function Router() {
   return (
@@ -17,6 +18,7 @@ function Router() {
         <Route path="/items" component={Home} />
         <Route path="/categories" component={Categories} />
         <Route path="/dungeons" component={Dungeons} />
+        <Route path="/sets" component={Sets} />
         <Route path="/stats" component={ImportStats} />
         <Route path="/item/:slug/edit" component={ItemEditPage} />
         <Route path="/item/:slug" component={ItemPage} />
