@@ -10,6 +10,16 @@
     "reasons": []
   },
   {
+    "file": "src/data/invalid/earth-elemental.json",
+    "name": "Earth Elemental",
+    "slug": "earth-elemental",
+    "category": "wands",
+    "itemType": "Wand",
+    "tier": "Unknown",
+    "sprite": "/items/earth-elemental.png",
+    "reasons": []
+  },
+  {
     "file": "src/data/invalid/esben-the-neurotic.json",
     "name": "Esben the Neurotic",
     "slug": "esben-the-neurotic",
