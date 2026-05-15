@@ -1,0 +1,21 @@
+{
+  "id": "blue-thing",
+  "name": "Blue Thing",
+  "slug": "blue-thing",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/blue-thing.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

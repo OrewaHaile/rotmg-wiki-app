@@ -11,6 +11,7 @@ export function formatCategoryLabel(category: string = ""): string {
     armors: "Armors",
     rings: "Rings",
     abilities: "Abilities",
+    pets: "Pets",
   };
 
   return labels[category.toLowerCase()] || category;

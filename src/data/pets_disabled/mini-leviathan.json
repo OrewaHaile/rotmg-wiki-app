@@ -1,0 +1,21 @@
+{
+  "id": "mini-leviathan",
+  "name": "Mini Leviathan",
+  "slug": "mini-leviathan",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/mini-leviathan.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

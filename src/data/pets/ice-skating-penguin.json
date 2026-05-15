@@ -1,0 +1,21 @@
+{
+  "id": "ice-skating-penguin",
+  "name": "Ice Skating Penguin",
+  "slug": "ice-skating-penguin",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/ice-skating-penguin.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

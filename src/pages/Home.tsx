@@ -19,6 +19,7 @@ const tabGroups = {
   abilities: { label: "Abilities", categories: ["abilities"] },
   armors: { label: "Armors", categories: ["armors"] },
   rings: { label: "Rings", categories: ["rings"] },
+  pets: { label: "Pets", categories: ["pets"] },
 };
 
 const emptyFilters: FilterState = {
@@ -86,6 +87,7 @@ export default function Home() {
     abilities: allItems.filter((item) => item.category === "abilities").length,
     armors: allItems.filter((item) => item.category === "armors").length,
     rings: allItems.filter((item) => item.category === "rings").length,
+    pets: allItems.filter((item) => item.category === "pets").length,
   };
 
   const clearAll = () => {

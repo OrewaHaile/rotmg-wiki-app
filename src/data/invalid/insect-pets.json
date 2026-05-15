@@ -1,0 +1,31 @@
+{
+  "id": "insect-pets",
+  "name": "Insect Pets",
+  "slug": "insect-pets",
+  "category": "pet-skins",
+  "subCategory": "pet-skins",
+  "sprite": "/items/insect-pets.png",
+  "itemType": "Pet Skin",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "This page contains a list of Pet Skins of the Insect family.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/insect-pets",
+  "invalidReasons": [
+    "invalid tier"
+  ],
+  "importedAt": "2026-05-15T16:40:50.749Z"
+}

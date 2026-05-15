@@ -1,0 +1,21 @@
+{
+  "id": "aquatic-pets",
+  "name": "Aquatic Pets",
+  "slug": "aquatic-pets",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/aquatic-pets.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

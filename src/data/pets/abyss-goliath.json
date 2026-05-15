@@ -1,0 +1,21 @@
+{
+  "id": "abyss-goliath",
+  "name": "Abyss Goliath",
+  "slug": "abyss-goliath",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/abyss-goliath.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "golden-crab",
+  "name": "Golden Crab",
+  "slug": "golden-crab",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/golden-crab.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

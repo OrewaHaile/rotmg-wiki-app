@@ -1,0 +1,31 @@
+{
+  "id": "exotic-pets",
+  "name": "Exotic Pets",
+  "slug": "exotic-pets",
+  "category": "pet-skins",
+  "subCategory": "pet-skins",
+  "sprite": "/items/exotic-pets.png",
+  "itemType": "Pet Skin",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "This page contains a list of Pet Skins of the Exotic family.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/exotic-pets",
+  "invalidReasons": [
+    "invalid tier"
+  ],
+  "importedAt": "2026-05-15T16:40:48.031Z"
+}

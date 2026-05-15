@@ -1,0 +1,21 @@
+{
+  "id": "demon-cat",
+  "name": "Demon Cat",
+  "slug": "demon-cat",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/demon-cat.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

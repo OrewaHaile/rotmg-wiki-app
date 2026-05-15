@@ -1,0 +1,21 @@
+{
+  "id": "calamity-crab",
+  "name": "Calamity Crab",
+  "slug": "calamity-crab",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/calamity-crab.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

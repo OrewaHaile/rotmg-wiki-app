@@ -1,0 +1,31 @@
+{
+  "id": "dreadstump-the-pirate-king",
+  "name": "Dreadstump the Pirate King",
+  "slug": "dreadstump-the-pirate-king",
+  "category": "pet-skins",
+  "subCategory": "pet-skins",
+  "sprite": "/items/dreadstump-the-pirate-king.png",
+  "itemType": "Pet Skin",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "Dreadstump the Pirate King is the boss of the Pirate Cave. He is found on a large, wooden pirate ship and will be surrounded by minions.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/dreadstump-the-pirate-king",
+  "invalidReasons": [
+    "invalid tier"
+  ],
+  "importedAt": "2026-05-15T16:40:54.450Z"
+}

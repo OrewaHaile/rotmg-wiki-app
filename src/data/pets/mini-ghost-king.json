@@ -1,0 +1,21 @@
+{
+  "id": "mini-ghost-king",
+  "name": "Mini Ghost King",
+  "slug": "mini-ghost-king",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/mini-ghost-king.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

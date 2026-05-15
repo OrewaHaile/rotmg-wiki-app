@@ -173,13 +173,13 @@ function extractItemType($, url) {
   return "Unknown";
 }
 
-export function parseItemPage(html, url) {
+export function parseItemPage(html, url, allowMissingStats = false) {
   const $ = cheerio.load(html);
   const hasStats = $("table th, table td").toArray().some((el) => {
     const text = cleanText($(el).text()).toLowerCase();
     return text === "shots" || text === "damage" || text === "feed power" || text === "tier";
   });
-  if (!hasStats) throw new Error("Not an individual item page (no stats table found)");
+  if (!hasStats && !allowMissingStats) throw new Error("Not an individual item page (no stats table found)");
 
   const name = cleanText($("h1").first().text()) || "Unknown";
   const statMap = buildStatMap($);

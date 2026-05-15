@@ -1,0 +1,21 @@
+{
+  "id": "shadow-stormbird",
+  "name": "Shadow Stormbird",
+  "slug": "shadow-stormbird",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/shadow-stormbird.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

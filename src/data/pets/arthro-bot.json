@@ -1,0 +1,21 @@
+{
+  "id": "arthro-bot",
+  "name": "Arthro-bot",
+  "slug": "arthro-bot",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/arthro-bot.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

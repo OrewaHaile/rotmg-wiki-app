@@ -1,0 +1,21 @@
+{
+  "id": "mini-void-entity",
+  "name": "Mini Void Entity",
+  "slug": "mini-void-entity",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/mini-void-entity.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

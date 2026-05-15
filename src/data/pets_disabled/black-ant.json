@@ -1,0 +1,21 @@
+{
+  "id": "black-ant",
+  "name": "Black Ant",
+  "slug": "black-ant",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/black-ant.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

@@ -1,0 +1,31 @@
+{
+  "id": "humanoid-pets",
+  "name": "Humanoid Pets",
+  "slug": "humanoid-pets",
+  "category": "pet-skins",
+  "subCategory": "pet-skins",
+  "sprite": "/items/humanoid-pets.png",
+  "itemType": "Pet Skin",
+  "tier": "Unknown",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": null,
+  "description": "This page contains a list of Pet Skins of the Humanoid family.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/humanoid-pets",
+  "invalidReasons": [
+    "invalid tier"
+  ],
+  "importedAt": "2026-05-15T16:40:49.921Z"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "karate-purple",
+  "name": "Karate Purple",
+  "slug": "karate-purple",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/karate-purple.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

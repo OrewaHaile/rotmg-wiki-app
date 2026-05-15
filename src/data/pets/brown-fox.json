@@ -1,0 +1,21 @@
+{
+  "id": "brown-fox",
+  "name": "Brown Fox",
+  "slug": "brown-fox",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/brown-fox.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

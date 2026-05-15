@@ -1,0 +1,21 @@
+{
+  "id": "tan-cat",
+  "name": "Tan Cat",
+  "slug": "tan-cat",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/tan-cat.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

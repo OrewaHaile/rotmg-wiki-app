@@ -1,0 +1,21 @@
+{
+  "id": "monkey-head",
+  "name": "Monkey Head",
+  "slug": "monkey-head",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/monkey-head.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

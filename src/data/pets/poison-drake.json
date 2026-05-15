@@ -1,0 +1,21 @@
+{
+  "id": "poison-drake",
+  "name": "Poison Drake",
+  "slug": "poison-drake",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/poison-drake.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

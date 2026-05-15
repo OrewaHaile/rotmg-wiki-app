@@ -31,7 +31,8 @@ const itemModules = import.meta.glob<Partial<Item>>(
     "../data/spellblades/*.json",
     "../data/armors/*.json",
     "../data/rings/*.json",
-    "../data/abilities/*.json"
+    "../data/abilities/*.json",
+    "../data/pets/*.json"
   ],
   {
     eager: true,

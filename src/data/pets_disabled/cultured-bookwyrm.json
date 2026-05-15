@@ -1,0 +1,21 @@
+{
+  "id": "cultured-bookwyrm",
+  "name": "Cultured Bookwyrm",
+  "slug": "cultured-bookwyrm",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/cultured-bookwyrm.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

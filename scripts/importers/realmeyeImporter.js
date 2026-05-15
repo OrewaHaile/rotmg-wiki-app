@@ -70,6 +70,8 @@ const RING_EXCLUDED_PATHS = new Set([
   "/wiki/realmeye",
 ]);
 
+const PET_SKIN_CATEGORY_PATH = "/wiki/pet-skins";
+
 function normalizeCategoryName(categoryPath) {
   return categoryPath.replace(/^\/wiki\//, "").replace(/\/$/, "");
 }
@@ -301,7 +303,7 @@ function loadExistingSlugs() {
 }
 
 function buildGlobalIndex() {
-  const knownCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades", "armors", "rings", "abilities"];
+  const knownCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades", "armors", "rings", "abilities", "pets"];
   const index = { total: 0, categories: {}, items: [] };
 
   if (!fs.existsSync(DATA_DIR)) {
@@ -358,7 +360,7 @@ function saveGlobalIndex() {
 function buildImportReport(duplicateCount, invalidCount) {
   const categories = {};
   let totalImported = 0;
-  const reportCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades", "armors", "rings", "abilities"];
+  const reportCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades", "armors", "rings", "abilities", "pets"];
 
   for (const category of reportCategories) {
     const folder = path.join(DATA_DIR, category);
@@ -375,7 +377,9 @@ function buildImportReport(duplicateCount, invalidCount) {
 function normalizeItem(item, categoryPath) {
   const defaults = CATEGORY_DEFAULTS[categoryPath] ?? {};
   const dataCategory = getDataCategory(categoryPath);
-  const dataSubCategory = isAbilityCategory(categoryPath) ? getDataSubCategory(categoryPath) : "";
+  const dataSubCategory = isAbilityCategory(categoryPath) || categoryPath === PET_SKIN_CATEGORY_PATH
+    ? getDataSubCategory(categoryPath)
+    : "";
 
   const feedPower = item.feedPower == null ? null : isNaN(Number(item.feedPower)) ? null : Number(item.feedPower);
   const fameBonus = item.fameBonus == null || item.fameBonus === "Unknown" ? null : item.fameBonus;
@@ -437,14 +441,18 @@ const CATEGORY_DEFAULTS = {
   "/wiki/leather-armors": { itemType: "Leather Armor", usableClasses: ["Rogue", "Archer", "Assassin", "Huntress", "Trickster", "Ninja", "Bard"] },
   "/wiki/heavy-armors": { itemType: "Heavy Armor", usableClasses: ["Warrior", "Knight", "Paladin", "Samurai", "Kensei"] },
   "/wiki/rings": { itemType: "Ring", usableClasses: [] },
+  "/wiki/pet-skins": { itemType: "Pet Skin", usableClasses: [] },
 };
 
-function validateItem(item) {
+function validateItem(item, category = "") {
   const issues = [];
   if (!item.name || item.name === "Unknown") issues.push("missing name");
   if (!item.sprite || item.sprite === "Unknown" || !item.sprite.startsWith("/items/")) issues.push("missing sprite");
   if (!item.itemType || item.itemType === "Unknown") issues.push("invalid item type");
-  if (!item.tier || item.tier === "Unknown") issues.push("invalid tier");
+
+  if (category !== "pets") {
+    if (!item.tier || item.tier === "Unknown") issues.push("invalid tier");
+  }
 
   const weaponCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades"];
   if (weaponCategories.includes(item.category)) {
@@ -551,7 +559,7 @@ async function main() {
 
     let parsed;
     try {
-      parsed = parseItemPage(html, url);
+      parsed = parseItemPage(html, url, CATEGORY_PATH === PET_SKIN_CATEGORY_PATH);
     } catch (err) {
       log(`  ↩ [${position}] Skipped (not an item page): ${url.split("/wiki/")[1]}`);
       state.skipped.push({ url, reason: err.message });
@@ -577,7 +585,7 @@ async function main() {
     }
 
     const normalized = normalizeItem(parsed, CATEGORY_PATH);
-    const validationErrors = validateItem(normalized);
+    const validationErrors = validateItem(normalized, DATA_CATEGORY);
 
     if (validationErrors.length > 0) {
       log(`  ✗ [${position}] Invalid item: ${normalized.name} (${validationErrors.join(", ")})`);

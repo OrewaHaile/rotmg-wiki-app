@@ -1,0 +1,21 @@
+{
+  "id": "tank-penguin",
+  "name": "Tank Penguin",
+  "slug": "tank-penguin",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/tank-penguin.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "woodland-pets",
+  "name": "Woodland Pets",
+  "slug": "woodland-pets",
+  "category": "pets",
+  "subCategory": "pet-skins",
+  "sprite": "/items/woodland-pets.png",
+  "itemType": "Pet Skin",
+  "tier": "",
+  "bagType": "",
+  "soulbound": false,
+  "feedPower": null,
+  "fameBonus": null,
+  "description": "",
+  "stats": {},
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/pet-skins"
+}
