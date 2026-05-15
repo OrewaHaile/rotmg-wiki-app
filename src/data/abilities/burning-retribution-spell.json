@@ -1,0 +1,31 @@
+{
+  "id": "burning-retribution-spell",
+  "name": "Burning Retribution Spell",
+  "slug": "burning-retribution-spell",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/burning-retribution-spell.png",
+  "itemType": "Spell",
+  "tier": "T7",
+  "bagType": "Red",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": 570,
+  "description": "Notes The strongest tiered spell, this spell has a damage per MP of 31.11, slightly behind the Tablet and higher than the Recurring Terror Spell. However like all tiered spells, it suffers against high DEF, and is difficult to land all of the shots, so players tend to prefer one of the aforementioned UT spells. Nevertheless, this remains a strong spell for general use, and the +40 HP on equip (tied with the Penetrating Blast Spell) does allow the user more safety than other spells.",
+  "stats": {
+    "damage": "115–220 (+2.25 per WIS over 42) (average: 167.5)",
+    "range": "16 tiles",
+    "rateOfFire": null,
+    "shots": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)",
+    "projectiles": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)"
+  },
+  "effects": [
+    "+7 WIS, +40 HP, +40 MP"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Oryx the Mad God 3"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/burning-retribution-spell"
+}

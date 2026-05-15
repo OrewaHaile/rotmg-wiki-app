@@ -1,0 +1,32 @@
+{
+  "id": "sporous-spray-spell",
+  "name": "Sporous Spray Spell",
+  "slug": "sporous-spray-spell",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/sporous-spray-spell.png",
+  "itemType": "Spell",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This spell is highly unique in the sense that instead of causing an explosion of shots, it spawns a Deadly Mushroom that continuously explodes for a time period.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "Creates a Deadly Mushroom that lasts 4.8 seconds. Damage Nova: explodes 4 times every 1.2 seconds for 5 (+1 per 10 WIS over 42) seconds. Deadly Mushroom: 800 (+9 per WIS over 42) damage within 3 (+1 per 28.5 WIS over 42) sqrs every 1.2 seconds"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Crystal Worm Mother",
+    "Crystallized Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/sporous-spray-spell"
+}

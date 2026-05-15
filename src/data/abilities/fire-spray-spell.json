@@ -1,0 +1,27 @@
+{
+  "id": "fire-spray-spell",
+  "name": "Fire Spray Spell",
+  "slug": "fire-spray-spell",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/fire-spray-spell.png",
+  "itemType": "Spell",
+  "tier": "T0",
+  "bagType": "Unknown",
+  "soulbound": false,
+  "fameBonus": null,
+  "feedPower": 4,
+  "description": "Notes This is a starter ability for the Wizard class. It does not drop from enemies.",
+  "stats": {
+    "damage": "20–25 (+0.5 per WIS over 42) (average: 22.5)",
+    "range": "16 tiles",
+    "rateOfFire": null,
+    "shots": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)",
+    "projectiles": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)"
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/fire-spray-spell"
+}

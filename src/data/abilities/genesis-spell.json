@@ -1,0 +1,33 @@
+{
+  "id": "genesis-spell",
+  "name": "Genesis Spell",
+  "slug": "genesis-spell",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/genesis-spell.png",
+  "itemType": "Spell",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes This spell is similar to the Sporous Spray Spell in the sense that it summons stationary entities in order to do damage, in this case four portals. Each portal will zap the nearest enemy for heavy damage. Portals will always hit their intended target, even when conventional spellbombs are difficult or outright impossible to perfectly hit.",
+  "stats": {
+    "damage": null,
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "On Ability Use: Summons 4 portals which zap enemies and deal 350 damage in a radius of 6 squares every 0.4 seconds"
+  ],
+  "usableClasses": [
+    "Wizard"
+  ],
+  "dropsFrom": [
+    "Chancellor Dammah"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/genesis-spell"
+}

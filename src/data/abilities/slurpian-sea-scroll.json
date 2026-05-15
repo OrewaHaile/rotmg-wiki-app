@@ -1,0 +1,33 @@
+{
+  "id": "slurpian-sea-scroll",
+  "name": "Slurpian Sea Scroll",
+  "slug": "slurpian-sea-scroll",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/slurpian-sea-scroll.png",
+  "itemType": "Spell",
+  "tier": "ST",
+  "bagType": "Orange",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": 850,
+  "description": "Notes Part of the Slurp Scion Wizard Set.",
+  "stats": {
+    "damage": "650–950 (+6 per SPD over 42) (average: 800)",
+    "range": null,
+    "rateOfFire": null,
+    "shots": null,
+    "projectiles": null
+  },
+  "effects": [
+    "SPD Boost (+25 SPD) for 3 secondsDamage Nova: explodes 2 (+1 per 25 SPD over 42) times, once every 0.4 seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Thessal the Mermaid Goddess",
+    "Coral Gift",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/slurpian-sea-scroll"
+}

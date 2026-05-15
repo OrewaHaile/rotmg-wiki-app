@@ -1,0 +1,33 @@
+{
+  "id": "penetrating-blast-spell",
+  "name": "Penetrating Blast Spell",
+  "slug": "penetrating-blast-spell",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/penetrating-blast-spell.png",
+  "itemType": "Spell",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": null,
+  "description": "Notes This spell is quite different from tiered, shooting 8 shots that fire out only for a short distance before circling for a few seconds around the cast location. This makes it very easy to aim as it is highly likely that enemies will walk through the circling shots at one point or another.",
+  "stats": {
+    "damage": "300–400 (+3 per VIT over 35) (average: 350)",
+    "range": "2 tiles",
+    "rateOfFire": null,
+    "shots": "8 (+1 per 20 VIT over 35) (arc gap: 45°)",
+    "projectiles": "8 (+1 per 20 VIT over 35) (arc gap: 45°)"
+  },
+  "effects": [
+    "+40 HP, +2 ATT",
+    "Shots hit multiple targets Shots pass through obstacles Circular Motion after 0.125s; turns 90 degrees before circling"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Xolotl the Lightning God",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/penetrating-blast-spell"
+}

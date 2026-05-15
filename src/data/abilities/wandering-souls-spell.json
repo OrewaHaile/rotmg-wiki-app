@@ -1,0 +1,34 @@
+{
+  "id": "wandering-souls-spell",
+  "name": "Wandering Souls Spell",
+  "slug": "wandering-souls-spell",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/wandering-souls-spell.png",
+  "itemType": "Wand",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "6%",
+  "feedPower": 800,
+  "description": "Notes Although this spell only fires 6 shots (compared to 20 for tiered spells), it more than makes up for this with its other attributes. Most obviously, the damage for each individual shot is significantly higher, so much so that it does slightly more total damage on average than even the T6 Elemental Detonation Spell for only marginally more MP, without even considering that concentrating the damage into fewer projectiles means that enemy defense is not as effective. On top of this, the ability of the projectiles to pierce and ignore terrain, and especially their relatively large size and u",
+  "stats": {
+    "damage": "345–500 (+6 per SPD over 36) (average: 422.5)",
+    "range": "2.7 tiles",
+    "rateOfFire": null,
+    "shots": "6",
+    "projectiles": "6"
+  },
+  "effects": [
+    "+3 DEF, +3 SPD",
+    "Shots hit multiple targets Shots pass through obstacles Hitbox Size: 1.33 On ability use, 20% chance with a 2 second cooldown to release a Wandering Soul for 6 seconds.Soul Damage: 250"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Septavius the Ghost God",
+    "Septavius, Master of the Undead",
+    "Standard Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/wandering-souls-spell"
+}

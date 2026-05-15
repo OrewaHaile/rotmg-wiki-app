@@ -1,0 +1,53 @@
+{
+  "id": "destruction-sphere-spell",
+  "name": "Destruction Sphere Spell",
+  "slug": "destruction-sphere-spell",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/destruction-sphere-spell.png",
+  "itemType": "Spell",
+  "tier": "T4",
+  "bagType": "Purple",
+  "soulbound": false,
+  "fameBonus": "2%",
+  "feedPower": 68,
+  "description": "History Before Patch X.32.7.0 (Feb 2020), this item had a damage of 80-130 (105), an MP cost of 70, and no stat bonus.",
+  "stats": {
+    "damage": "70–140 (+1.5 per WIS over 42) (average: 105)",
+    "range": "16 tiles",
+    "rateOfFire": null,
+    "shots": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)",
+    "projectiles": "16 (+1 per 15 WIS over 42) (arc gap: 22.5°)"
+  },
+  "effects": [
+    "+4 WIS"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Archdemon Malphas",
+    "Avalon the Archivist",
+    "Beginner Quest Chest",
+    "Standard Quest Chest",
+    "Brute of Oryx",
+    "Cube God",
+    "Cyclops God Chest",
+    "Genie",
+    "Ghost King",
+    "Kage Kami",
+    "Kogbold Expedition Engine",
+    "Lair Blue Spectre",
+    "Lair Grey Spectre",
+    "Lair White Spectre",
+    "Limon the Sprite Goddess",
+    "Native Sprite God",
+    "Oryx the Mad God",
+    "Pentaract",
+    "Realm Gods",
+    "Red Demon Chest",
+    "Septavius the Ghost God",
+    "Skull Shrine",
+    "Stone Guardians"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/destruction-sphere-spell"
+}

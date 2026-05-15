@@ -1,123 +1,62 @@
 {
-  "categoryUrl": "https://www.realmeye.com/wiki/spellblades",
+  "categoryUrl": "https://www.realmeye.com/wiki/spells",
   "urls": [
-    "https://www.realmeye.com/wiki/spellblade-of-decimation",
-    "https://www.realmeye.com/wiki/spellblade-of-nightmares",
-    "https://www.realmeye.com/wiki/spellblade-of-arcane-magic",
-    "https://www.realmeye.com/wiki/spellblade-of-corrupt-premonitions",
-    "https://www.realmeye.com/wiki/spellblade-of-starry-insight",
-    "https://www.realmeye.com/wiki/spellblade-of-the-sun",
-    "https://www.realmeye.com/wiki/spellblade-of-the-heavens-light",
-    "https://www.realmeye.com/wiki/spellblade-of-the-everlasting-death",
-    "https://www.realmeye.com/wiki/love-heart-spellblade",
-    "https://www.realmeye.com/wiki/steam-pipe",
-    "https://www.realmeye.com/wiki/crystallized-worm-spellblade",
-    "https://www.realmeye.com/wiki/rocket-launcher",
-    "https://www.realmeye.com/wiki/snowblind-spellblade",
-    "https://www.realmeye.com/wiki/hovering-spellblade",
-    "https://www.realmeye.com/wiki/caramel-spellblade",
-    "https://www.realmeye.com/wiki/spellblade-of-the-void",
-    "https://www.realmeye.com/wiki/beach-shovel",
-    "https://www.realmeye.com/wiki/royal-sekhem",
-    "https://www.realmeye.com/wiki/hero-s-spellblade"
+    "https://www.realmeye.com/wiki/fire-spray-spell",
+    "https://www.realmeye.com/wiki/flame-burst-spell",
+    "https://www.realmeye.com/wiki/fire-nova-spell",
+    "https://www.realmeye.com/wiki/scorching-blast-spell",
+    "https://www.realmeye.com/wiki/destruction-sphere-spell",
+    "https://www.realmeye.com/wiki/magic-nova-spell",
+    "https://www.realmeye.com/wiki/elemental-detonation-spell",
+    "https://www.realmeye.com/wiki/burning-retribution-spell",
+    "https://www.realmeye.com/wiki/spelling-spell",
+    "https://www.realmeye.com/wiki/wandering-souls-spell",
+    "https://www.realmeye.com/wiki/penetrating-blast-spell",
+    "https://www.realmeye.com/wiki/cursed-spire-spell",
+    "https://www.realmeye.com/wiki/jade-storm",
+    "https://www.realmeye.com/wiki/sporous-spray-spell",
+    "https://www.realmeye.com/wiki/recurring-terror-spell",
+    "https://www.realmeye.com/wiki/runes-of-knowledge",
+    "https://www.realmeye.com/wiki/esben-s-vows",
+    "https://www.realmeye.com/wiki/tablet-of-the-king-s-avatar",
+    "https://www.realmeye.com/wiki/genesis-spell",
+    "https://www.realmeye.com/wiki/slurpian-sea-scroll",
+    "https://www.realmeye.com/wiki/unstable-firework",
+    "https://www.realmeye.com/wiki/ancient-eminence",
+    "https://www.realmeye.com/wiki/random-spell-extraction-device",
+    "https://www.realmeye.com/wiki/thousand-suns-spell",
+    "https://www.realmeye.com/wiki/legion-elite-spell",
+    "https://www.realmeye.com/wiki/hydroflow-spell",
+    "https://www.realmeye.com/wiki/vitamine-buster",
+    "https://www.realmeye.com/wiki/vigil-spell",
+    "https://www.realmeye.com/wiki/x-marks-the-spot-spell",
+    "https://www.realmeye.com/wiki/cobra-serpentis-scroll",
+    "https://www.realmeye.com/wiki/legacy-ancient-spell-pierce",
+    "https://www.realmeye.com/wiki/depth-charge",
+    "https://www.realmeye.com/wiki/spectral-spell"
   ],
-  "nextIndex": 19,
-  "imported": [],
-  "skipped": [
-    {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-decimation",
-      "slug": "spellblade-of-decimation",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-nightmares",
-      "slug": "spellblade-of-nightmares",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-arcane-magic",
-      "slug": "spellblade-of-arcane-magic",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-corrupt-premonitions",
-      "slug": "spellblade-of-corrupt-premonitions",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-starry-insight",
-      "slug": "spellblade-of-starry-insight",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-the-sun",
-      "slug": "spellblade-of-the-sun",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-the-heavens-light",
-      "slug": "spellblade-of-the-heavens-light",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-the-everlasting-death",
-      "slug": "spellblade-of-the-everlasting-death",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/love-heart-spellblade",
-      "slug": "love-heart-spellblade",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/steam-pipe",
-      "slug": "steam-pipe",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/crystallized-worm-spellblade",
-      "slug": "crystallized-worm-spellblade",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/rocket-launcher",
-      "slug": "rocket-launcher",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/snowblind-spellblade",
-      "slug": "snowblind-spellblade",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/hovering-spellblade",
-      "slug": "hovering-spellblade",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/caramel-spellblade",
-      "slug": "caramel-spellblade",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/spellblade-of-the-void",
-      "slug": "spellblade-of-the-void",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/beach-shovel",
-      "slug": "beach-shovel",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/royal-sekhem",
-      "slug": "royal-sekhem",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/hero-s-spellblade",
-      "slug": "heros-spellblade",
-      "reason": "duplicate"
-    }
-  ]
+  "nextIndex": 20,
+  "imported": [
+    "fire-spray-spell",
+    "flame-burst-spell",
+    "fire-nova-spell",
+    "scorching-blast-spell",
+    "destruction-sphere-spell",
+    "magic-nova-spell",
+    "elemental-detonation-spell",
+    "burning-retribution-spell",
+    "spelling-spell",
+    "wandering-souls-spell",
+    "penetrating-blast-spell",
+    "cursed-spire-spell",
+    "jade-storm",
+    "sporous-spray-spell",
+    "recurring-terror-spell",
+    "runes-of-knowledge",
+    "esbens-vows",
+    "tablet-of-the-kings-avatar",
+    "genesis-spell",
+    "slurpian-sea-scroll"
+  ],
+  "skipped": []
 }

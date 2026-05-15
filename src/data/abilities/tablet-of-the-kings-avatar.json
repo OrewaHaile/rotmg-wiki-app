@@ -1,0 +1,36 @@
+{
+  "id": "tablet-of-the-kings-avatar",
+  "name": "Tablet of the King's Avatar",
+  "slug": "tablet-of-the-kings-avatar",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/tablet-of-the-kings-avatar.png",
+  "itemType": "Spell",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "8%",
+  "feedPower": null,
+  "description": "Notes The Tablet is a highly valuable spell which deals massive damage. The Tablet’s shots travel a single tile before converging back to the point of origin. This makes it easier to land the ‘perfect spellbomb’ on most enemies.",
+  "stats": {
+    "damage": "260–280 (+2.5 per DEX over 70) (average: 270)",
+    "range": "2 tiles (true range: 1 tile(s))",
+    "rateOfFire": null,
+    "shots": "15 (arc gap: 24°)",
+    "projectiles": "15 (arc gap: 24°)"
+  },
+  "effects": [
+    "+40 MP, +4 WIS",
+    "Shots boomerang"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Avatar of the Forgotten King",
+    "Flying Behemoth",
+    "Behemoth’s Egg",
+    "Maze Minotaur",
+    "The Keyper"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/tablet-of-the-king-s-avatar"
+}

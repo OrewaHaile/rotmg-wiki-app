@@ -1,0 +1,43 @@
+{
+  "id": "runes-of-knowledge",
+  "name": "Runes of Knowledge",
+  "slug": "runes-of-knowledge",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/runes-of-knowledge.png",
+  "itemType": "Spell",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes Damage from the Rune Carvings ignores enemy defense. Provided an enemy remains in the radius of the runes, the single-target damage is greater than T7 Burning Retribution Spell while also being less affected by enemy DEF. Additionally, due to the initial explosion of shots and faster attack speed of the Runes compared to Sporous Spray Spell, less damage will be lost on enemies which do leave the radius.",
+  "stats": {
+    "damage": "150–170 (+3.8 per WIS over 42) (average: 160)",
+    "range": "16 tiles",
+    "rateOfFire": null,
+    "shots": "10",
+    "projectiles": "10"
+  },
+  "effects": [
+    "+5 DEF, +5 VIT",
+    "Weak for 3 seconds Shots pass through obstacles Rune Carvings: Conjure mysterious runes that deal 110-160 (135) damage every 0.6 seconds to enemies within 5 sqrs, lasting 6 seconds."
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Assembled Giant",
+    "Frost Dragon",
+    "Ice Giant",
+    "Legion Principal",
+    "Monstrous Grizzly",
+    "Runic Golem",
+    "Snow Troll",
+    "Snow Wolf",
+    "Snow Yeti",
+    "Tundra Tribe Leader",
+    "Tundra Tribe Fighter",
+    "Tundra Tribe Shaman"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/runes-of-knowledge"
+}

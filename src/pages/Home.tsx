@@ -13,6 +13,7 @@ const filterOptions = getFilterOptions();
 
 const emptyFilters: FilterState = {
   category: "",
+  subCategory: "",
   itemType: "",
   tier: "",
   bagType: "",
@@ -35,6 +36,9 @@ export default function Home() {
     if (params.has("category")) {
       newFilters.category = params.get("category") || "";
     }
+    if (params.has("subCategory")) {
+      newFilters.subCategory = params.get("subCategory") || "";
+    }
     if (params.has("tier")) {
       newFilters.tier = params.get("tier") || "";
     }
@@ -55,6 +59,7 @@ export default function Home() {
     return allItems.filter((item) => {
       if (search && !item.name.toLowerCase().includes(search.toLowerCase())) return false;
       if (filters.category && item.category !== filters.category) return false;
+      if (filters.subCategory && item.subCategory !== filters.subCategory) return false;
       if (filters.itemType && item.itemType !== filters.itemType) return false;
       if (filters.tier && item.tier !== filters.tier) return false;
       if (filters.bagType && item.bagType !== filters.bagType) return false;

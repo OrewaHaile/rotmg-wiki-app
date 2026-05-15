@@ -1,0 +1,34 @@
+{
+  "id": "recurring-terror-spell",
+  "name": "Recurring Terror Spell",
+  "slug": "recurring-terror-spell",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/recurring-terror-spell.png",
+  "itemType": "Ring",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "Notes This is the first and only spell to have a parametric shot pattern. When fired, the shots revolve erratically around the point of casting for a few seconds, dealing damage to the first enemy that they touch. Their lingering and ultimately converging nature gives it higher accuracy, especially against stationary bosses or ones with predictable patterns (like Son of Arachna or Archdemon Malphas). By spamming the spell in the path of the boss, you can lure them into “minefields” of shots to incur large amounts of damage.",
+  "stats": {
+    "damage": "300–350 (+5 per ATT over 55) (average: 325)",
+    "range": "2.4 tiles",
+    "rateOfFire": null,
+    "shots": "8",
+    "projectiles": "8"
+  },
+  "effects": [
+    "-20 HP, +2 ATT, +2 DEF, +4 DEX, -5 VIT",
+    "Shots pass through obstacles Shots are parametric"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Nightmare Colony",
+    "Infested Chest",
+    "Mighty Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/recurring-terror-spell"
+}

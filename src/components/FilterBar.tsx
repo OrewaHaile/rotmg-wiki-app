@@ -1,8 +1,8 @@
 import { ChevronDown } from "lucide-react";
-import { formatCategoryLabel } from "../utils/labels";
 
 export interface FilterState {
   category: string;
+  subCategory: string;
   itemType: string;
   tier: string;
   bagType: string;
@@ -14,6 +14,7 @@ interface FilterBarProps {
   onChange: (filters: FilterState) => void;
   options: {
     categories: string[];
+    subCategories: string[];
     itemTypes: string[];
     tiers: string[];
     bagTypes: string[];
@@ -64,6 +65,12 @@ export default function FilterBar({ filters, onChange, options }: FilterBarProps
           onChange={update("category")}
         />
         <FilterSelect
+          label="Subcategory"
+          value={filters.subCategory}
+          options={options.subCategories}
+          onChange={update("subCategory")}
+        />
+        <FilterSelect
           label="Type"
           value={filters.itemType}
           options={options.itemTypes}
@@ -91,7 +98,7 @@ export default function FilterBar({ filters, onChange, options }: FilterBarProps
       {hasFilters && (
         <button
           onClick={() =>
-            onChange({ category: "", itemType: "", tier: "", bagType: "", usableClass: "" })
+            onChange({ category: "", subCategory: "", itemType: "", tier: "", bagType: "", usableClass: "" })
           }
           className="text-xs text-amber-600 hover:text-amber-400 transition-colors underline underline-offset-2"
         >

@@ -28,6 +28,42 @@ const DELAY_MS = 1200;
 const MAX_RETRIES = 3;
 const FIRST_RUN_LIMIT = 5;
 
+const ABILITY_CATEGORY_PATHS = new Set([
+  "/wiki/cloaks",
+  "/wiki/poisons",
+  "/wiki/prisms",
+  "/wiki/traps",
+  "/wiki/quivers",
+  "/wiki/tomes",
+  "/wiki/spells",
+  "/wiki/skulls",
+  "/wiki/orbs",
+  "/wiki/scepters",
+  "/wiki/stars",
+  "/wiki/shields",
+  "/wiki/seals",
+  "/wiki/helms",
+  "/wiki/lutes",
+  "/wiki/maces",
+  "/wiki/sheaths",
+]);
+
+function normalizeCategoryName(categoryPath) {
+  return categoryPath.replace(/^\/wiki\//, "").replace(/\/$/, "");
+}
+
+function isAbilityCategory(categoryPath) {
+  return ABILITY_CATEGORY_PATHS.has(categoryPath.replace(/\/$/, ""));
+}
+
+function getDataCategory(categoryPath) {
+  return isAbilityCategory(categoryPath) ? "abilities" : normalizeCategoryName(categoryPath);
+}
+
+function getDataSubCategory(categoryPath) {
+  return normalizeCategoryName(categoryPath);
+}
+
 const args = process.argv.slice(2);
 const argVal = (flag) => {
   const i = args.indexOf(flag);
@@ -127,10 +163,6 @@ const INVALID_DIR = path.join(DATA_DIR, "invalid");
 const INDEX_FILE = path.join(DATA_DIR, "index.json");
 const REPORT_FILE = path.join(DATA_DIR, "import-report.json");
 
-function normalizeCategoryName(categoryPath) {
-  return categoryPath.replace(/^\/wiki\//, "").replace(/\/$/, "");
-}
-
 function ensureDirectory(dirPath) {
   fs.mkdirSync(dirPath, { recursive: true });
 }
@@ -173,7 +205,7 @@ function loadExistingSlugs() {
 }
 
 function buildGlobalIndex() {
-  const knownCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades"];
+  const knownCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades", "abilities"];
   const index = { total: 0, categories: {}, items: [] };
 
   if (!fs.existsSync(DATA_DIR)) {
@@ -230,7 +262,7 @@ function saveGlobalIndex() {
 function buildImportReport(duplicateCount, invalidCount) {
   const categories = {};
   let totalImported = 0;
-  const reportCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades"];
+  const reportCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades", "abilities"];
 
   for (const category of reportCategories) {
     const folder = path.join(DATA_DIR, category);
@@ -246,6 +278,8 @@ function buildImportReport(duplicateCount, invalidCount) {
 
 function normalizeItem(item, categoryPath) {
   const defaults = CATEGORY_DEFAULTS[categoryPath] ?? {};
+  const dataCategory = getDataCategory(categoryPath);
+  const dataSubCategory = isAbilityCategory(categoryPath) ? getDataSubCategory(categoryPath) : "";
 
   const feedPower = item.feedPower == null ? null : isNaN(Number(item.feedPower)) ? null : Number(item.feedPower);
   const fameBonus = item.fameBonus == null || item.fameBonus === "Unknown" ? null : item.fameBonus;
@@ -259,6 +293,8 @@ function normalizeItem(item, categoryPath) {
     id: item.slug,
     name: item.name,
     slug: item.slug,
+    category: dataCategory,
+    subCategory: dataSubCategory,
     sprite: item.sprite,
     itemType,
     tier: item.tier,
@@ -284,6 +320,23 @@ const CATEGORY_DEFAULTS = {
   "/wiki/staves": { itemType: "Staff", usableClasses: ["Wizard", "Mystic", "Necromancer"] },
   "/wiki/katanas": { itemType: "Katana", usableClasses: ["Samurai", "Ninja", "Kensei"] },
   "/wiki/spellblades": { itemType: "Spellblade", usableClasses: ["Sorcerer"] },
+  "/wiki/cloaks": { itemType: "Cloak", usableClasses: [] },
+  "/wiki/poisons": { itemType: "Poison", usableClasses: [] },
+  "/wiki/prisms": { itemType: "Prism", usableClasses: [] },
+  "/wiki/traps": { itemType: "Trap", usableClasses: [] },
+  "/wiki/quivers": { itemType: "Quiver", usableClasses: [] },
+  "/wiki/tomes": { itemType: "Tome", usableClasses: [] },
+  "/wiki/spells": { itemType: "Spell", usableClasses: [] },
+  "/wiki/skulls": { itemType: "Skull", usableClasses: [] },
+  "/wiki/orbs": { itemType: "Orb", usableClasses: [] },
+  "/wiki/scepters": { itemType: "Scepter", usableClasses: [] },
+  "/wiki/stars": { itemType: "Star", usableClasses: [] },
+  "/wiki/shields": { itemType: "Shield", usableClasses: [] },
+  "/wiki/seals": { itemType: "Seal", usableClasses: [] },
+  "/wiki/helms": { itemType: "Helm", usableClasses: [] },
+  "/wiki/lutes": { itemType: "Lute", usableClasses: [] },
+  "/wiki/maces": { itemType: "Mace", usableClasses: [] },
+  "/wiki/sheaths": { itemType: "Sheath", usableClasses: [] },
   "/wiki/robes": { itemType: "Robe", usableClasses: ["Wizard", "Priest", "Necromancer", "Mystic", "Sorcerer", "Summoner"] },
   "/wiki/leather-armors": { itemType: "Leather Armor", usableClasses: ["Rogue", "Archer", "Assassin", "Huntress", "Trickster", "Ninja", "Bard"] },
   "/wiki/heavy-armors": { itemType: "Heavy Armor", usableClasses: ["Warrior", "Knight", "Paladin", "Samurai", "Kensei"] },
@@ -296,12 +349,17 @@ function validateItem(item) {
   if (!item.sprite || item.sprite === "Unknown" || !item.sprite.startsWith("/items/")) issues.push("missing sprite");
   if (!item.itemType || item.itemType === "Unknown") issues.push("invalid item type");
   if (!item.tier || item.tier === "Unknown") issues.push("invalid tier");
-  if (!item.stats || item.stats.damage == null) issues.push("invalid stats: damage");
-  if (["Wand", "Staff"].includes(item.itemType)) {
-    if (item.stats.shots == null) issues.push("invalid stats: shots");
-    if (item.stats.rateOfFire == null) issues.push("invalid stats: rate of fire");
-    if (item.stats.range == null) issues.push("invalid stats: range");
+
+  const weaponCategories = ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades"];
+  if (weaponCategories.includes(item.category)) {
+    if (!item.stats || item.stats.damage == null) issues.push("invalid stats: damage");
+    if (["Wand", "Staff"].includes(item.itemType)) {
+      if (item.stats.shots == null) issues.push("invalid stats: shots");
+      if (item.stats.rateOfFire == null) issues.push("invalid stats: rate of fire");
+      if (item.stats.range == null) issues.push("invalid stats: range");
+    }
   }
+
   return [...new Set(issues)];
 }
 
@@ -325,6 +383,8 @@ function saveInvalidItem(item, categoryName, issues) {
 }
 
 const CATEGORY_NAME = normalizeCategoryName(CATEGORY_PATH);
+const DATA_CATEGORY = getDataCategory(CATEGORY_PATH);
+const DATA_SUBCATEGORY = getDataSubCategory(CATEGORY_PATH);
 
 async function main() {
   ensureDirectory(DATA_DIR);
@@ -430,7 +490,7 @@ async function main() {
       continue;
     }
 
-    saveItem(normalized, CATEGORY_NAME);
+    saveItem(normalized, DATA_CATEGORY);
     existingSlugs.add(parsed.slug);
     log(`Imported ${position}: ${normalized.name} (${normalized.itemType}, ${normalized.tier})`);
 

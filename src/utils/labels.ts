@@ -8,6 +8,7 @@ export function formatCategoryLabel(category: string = ""): string {
     staffs: "Staffs",
     katanas: "Katanas",
     spellblades: "Spellblades",
+    abilities: "Abilities",
   };
 
   return labels[category.toLowerCase()] || category;

@@ -3,6 +3,7 @@ export interface Item {
   name: string;
   slug: string;
   category: string;
+  subCategory?: string;
   sprite?: string;
   spriteUrl?: string;
   icon?: string;
@@ -27,7 +28,8 @@ const itemModules = import.meta.glob<Partial<Item>>(
     "../data/wands/*.json",
     "../data/staves/*.json",
     "../data/katanas/*.json",
-    "../data/spellblades/*.json"
+    "../data/spellblades/*.json",
+    "../data/abilities/*.json"
   ],
   {
     eager: true,
@@ -47,12 +49,14 @@ function getSlugFromPath(path: string): string {
 function normalizeItem(item: Partial<Item>, path: string): Item {
   const slug = item.slug || getSlugFromPath(path);
   const category = item.category || getCategoryFromPath(path);
+  const subCategory = item.subCategory || "";
 
   return {
     id: item.id || slug,
     name: item.name || slug,
     slug,
     category,
+    subCategory,
     sprite: item.sprite || item.spriteUrl || item.icon || `/items/${slug}.png`,
     spriteUrl: item.spriteUrl,
     icon: item.icon,
@@ -93,6 +97,7 @@ export function getCategories(): string[] {
 
 export function getFilterOptions() {
   const categories = [...new Set(allItems.map((item) => item.category).filter(Boolean))].sort();
+  const subCategories = [...new Set(allItems.map((item) => item.subCategory || "").filter(Boolean))].sort();
   const itemTypes = [...new Set(allItems.map((item) => item.itemType).filter(Boolean))].sort();
   const tiers = [...new Set(allItems.map((item) => item.tier).filter(Boolean))].sort();
   const bagTypes = [...new Set(allItems.map((item) => item.bagType).filter(Boolean))].sort();
@@ -102,6 +107,7 @@ export function getFilterOptions() {
 
   return {
     categories,
+    subCategories,
     itemTypes,
     tiers,
     bagTypes,

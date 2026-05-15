@@ -1,0 +1,29 @@
+{
+  "id": "spelling-spell",
+  "name": "Spelling Spell",
+  "slug": "spelling-spell",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/spelling-spell.png",
+  "itemType": "Spell",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "4%",
+  "feedPower": 500,
+  "description": "Notes This is a Mistake Gear item.",
+  "stats": {
+    "damage": "10–100 (average: 55)",
+    "range": "8.5 tiles",
+    "rateOfFire": null,
+    "shots": "26 (arc gap: ~13.85°)",
+    "projectiles": "26 (arc gap: ~13.85°)"
+  },
+  "effects": [],
+  "usableClasses": [],
+  "dropsFrom": [
+    "The Servers"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/spelling-spell"
+}

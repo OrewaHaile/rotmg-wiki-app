@@ -1,0 +1,37 @@
+{
+  "id": "esbens-vows",
+  "name": "Esben's Vows",
+  "slug": "esbens-vows",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/esbens-vows.png",
+  "itemType": "Spell",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": true,
+  "fameBonus": "7%",
+  "feedPower": null,
+  "description": "This page is currently a work in progress.",
+  "stats": {
+    "damage": "100",
+    "range": "14.4 tiles",
+    "rateOfFire": null,
+    "shots": "12",
+    "projectiles": "12"
+  },
+  "effects": [
+    "+5 DEF, +10% ATT equal to DEF",
+    "Summon a giant icicle that bursts into several projectiles after 1 second. Big Shards: 6 Shots: 600-650 DMG. Small Shards: 12 Shots: 100 AP DMG. Inflicts 5% DMG Vuln for 5 seconds.",
+    "Shots hit multiple targetsHitbox Size: 2",
+    "Vulnerable: Targets receive 105% damage for 5 seconds after being hit.Hitbox Size: 1.25 Ignores defense of target"
+  ],
+  "usableClasses": [
+    "Wizard"
+  ],
+  "dropsFrom": [
+    "Esben the Neurotic",
+    "Citadel Epic Quest Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/esben-s-vows"
+}

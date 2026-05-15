@@ -1,0 +1,33 @@
+{
+  "id": "jade-storm",
+  "name": "Jade Storm",
+  "slug": "jade-storm",
+  "category": "abilities",
+  "subCategory": "spells",
+  "sprite": "/items/jade-storm.png",
+  "itemType": "Spell",
+  "tier": "UT",
+  "bagType": "White",
+  "soulbound": false,
+  "fameBonus": "7%",
+  "feedPower": 950,
+  "description": "Notes This spell’s shots fire inwards, as opposed to the outwards nova of shots that most spells fire. The projectiles converge on a single point before continuing outwards for some distance.",
+  "stats": {
+    "damage": "475–900 (+7.75 per DEF over 9) (average: 687.5)",
+    "range": "5.97 tiles",
+    "rateOfFire": null,
+    "shots": "5 (arc gap: 70°)",
+    "projectiles": "5 (arc gap: 70°)"
+  },
+  "effects": [
+    "Shots hit multiple targets Shots pass through obstacles Shots fire inwards Hitbox Size: 1.33"
+  ],
+  "usableClasses": [],
+  "dropsFrom": [
+    "Decaract",
+    "Daichi the Fallen",
+    "Old Chest"
+  ],
+  "notes": [],
+  "sourceUrl": "https://www.realmeye.com/wiki/jade-storm"
+}
