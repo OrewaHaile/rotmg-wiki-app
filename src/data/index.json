@@ -1,1662 +1,2961 @@
-{
-  "total": 183,
-  "categories": {
-    "bows": 25,
-    "daggers": 20,
-    "items": 6,
-    "katanas": 25,
-    "spellblades": 18,
-    "staves": 36,
-    "swords": 47,
-    "wands": 6
+[
+  {
+    "id": "acidic-slasher",
+    "name": "Acidic Slasher",
+    "slug": "acidic-slasher",
+    "category": "swords",
+    "sprite": "/items/acidic-slasher.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/acidic-slasher"
   },
-  "items": [
-    {
-      "id": "baked-bow",
-      "name": "Baked Bow",
-      "slug": "baked-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "UT",
-      "path": "bows/baked-bow.json"
-    },
-    {
-      "id": "bow-of-covert-havens",
-      "name": "Bow of Covert Havens",
-      "slug": "bow-of-covert-havens",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T12",
-      "path": "bows/bow-of-covert-havens.json"
-    },
-    {
-      "id": "bow-of-deep-enchantment",
-      "name": "Bow of Deep Enchantment",
-      "slug": "bow-of-deep-enchantment",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T14",
-      "path": "bows/bow-of-deep-enchantment.json"
-    },
-    {
-      "id": "bow-of-fey-magic",
-      "name": "Bow of Fey Magic",
-      "slug": "bow-of-fey-magic",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T10",
-      "path": "bows/bow-of-fey-magic.json"
-    },
-    {
-      "id": "bow-of-innocent-blood",
-      "name": "Bow of Innocent Blood",
-      "slug": "bow-of-innocent-blood",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T11",
-      "path": "bows/bow-of-innocent-blood.json"
-    },
-    {
-      "id": "bow-of-mystical-energy",
-      "name": "Bow of Mystical Energy",
-      "slug": "bow-of-mystical-energy",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T13",
-      "path": "bows/bow-of-mystical-energy.json"
-    },
-    {
-      "id": "bow-of-the-morning-star",
-      "name": "Bow of the Morning Star",
-      "slug": "bow-of-the-morning-star",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "UT",
-      "path": "bows/bow-of-the-morning-star.json"
-    },
-    {
-      "id": "bramble-bow",
-      "name": "Bramble Bow",
-      "slug": "bramble-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "UT",
-      "path": "bows/bramble-bow.json"
-    },
-    {
-      "id": "butter-bow",
-      "name": "Butter Bow",
-      "slug": "butter-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "UT",
-      "path": "bows/butter-bow.json"
-    },
-    {
-      "id": "cupids-bow",
-      "name": "Cupid's Bow",
-      "slug": "cupids-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "UT",
-      "path": "bows/cupids-bow.json"
-    },
-    {
-      "id": "doom-bow",
-      "name": "Doom Bow",
-      "slug": "doom-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "UT",
-      "path": "bows/doom-bow.json"
-    },
-    {
-      "id": "fire-bow",
-      "name": "Fire Bow",
-      "slug": "fire-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T5",
-      "path": "bows/fire-bow.json"
-    },
-    {
-      "id": "golden-bow",
-      "name": "Golden Bow",
-      "slug": "golden-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T8",
-      "path": "bows/golden-bow.json"
-    },
-    {
-      "id": "greywood-bow",
-      "name": "Greywood Bow",
-      "slug": "greywood-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T3",
-      "path": "bows/greywood-bow.json"
-    },
-    {
-      "id": "hardwood-bow",
-      "name": "Hardwood Bow",
-      "slug": "hardwood-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T2",
-      "path": "bows/hardwood-bow.json"
-    },
-    {
-      "id": "ironwood-bow",
-      "name": "Ironwood Bow",
-      "slug": "ironwood-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T4",
-      "path": "bows/ironwood-bow.json"
-    },
-    {
-      "id": "leaf-bow",
-      "name": "Leaf Bow",
-      "slug": "leaf-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "UT",
-      "path": "bows/leaf-bow.json"
-    },
-    {
-      "id": "predator-bow",
-      "name": "Predator Bow",
-      "slug": "predator-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "UT",
-      "path": "bows/predator-bow.json"
-    },
-    {
-      "id": "redwood-bow",
-      "name": "Redwood Bow",
-      "slug": "redwood-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T7",
-      "path": "bows/redwood-bow.json"
-    },
-    {
-      "id": "reinforced-bow",
-      "name": "Reinforced Bow",
-      "slug": "reinforced-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T1",
-      "path": "bows/reinforced-bow.json"
-    },
-    {
-      "id": "sharpshooter-bow",
-      "name": "Sharpshooter Bow",
-      "slug": "sharpshooter-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T6",
-      "path": "bows/sharpshooter-bow.json"
-    },
-    {
-      "id": "shortbow",
-      "name": "Shortbow",
-      "slug": "shortbow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T0",
-      "path": "bows/shortbow.json"
-    },
-    {
-      "id": "spider-silk-bow",
-      "name": "Spider Silk Bow",
-      "slug": "spider-silk-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "UT",
-      "path": "bows/spider-silk-bow.json"
-    },
-    {
-      "id": "thousand-shot",
-      "name": "Thousand Shot",
-      "slug": "thousand-shot",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "UT",
-      "path": "bows/thousand-shot.json"
-    },
-    {
-      "id": "verdant-bow",
-      "name": "Verdant Bow",
-      "slug": "verdant-bow",
-      "category": "bows",
-      "itemType": "Bow",
-      "tier": "T9",
-      "path": "bows/verdant-bow.json"
-    },
-    {
-      "id": "agateclaw-dagger",
-      "name": "Agateclaw Dagger",
-      "slug": "agateclaw-dagger",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "T11",
-      "path": "daggers/agateclaw-dagger.json"
-    },
-    {
-      "id": "bone-dagger",
-      "name": "Bone Dagger",
-      "slug": "bone-dagger",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "UT",
-      "path": "daggers/bone-dagger.json"
-    },
-    {
-      "id": "bounty-hunters-dagger",
-      "name": "Bounty Hunter's Dagger",
-      "slug": "bounty-hunters-dagger",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "UT",
-      "path": "daggers/bounty-hunters-dagger.json"
-    },
-    {
-      "id": "corruption-cutter",
-      "name": "Corruption Cutter",
-      "slug": "corruption-cutter",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "UT",
-      "path": "daggers/corruption-cutter.json"
-    },
-    {
-      "id": "dagger-of-dire-hatred",
-      "name": "Dagger of Dire Hatred",
-      "slug": "dagger-of-dire-hatred",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "T14",
-      "path": "daggers/dagger-of-dire-hatred.json"
-    },
-    {
-      "id": "dagger-of-foul-malevolence",
-      "name": "Dagger of Foul Malevolence",
-      "slug": "dagger-of-foul-malevolence",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "T12",
-      "path": "daggers/dagger-of-foul-malevolence.json"
-    },
-    {
-      "id": "dagger-of-sinister-deeds",
-      "name": "Dagger of Sinister Deeds",
-      "slug": "dagger-of-sinister-deeds",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "T13",
-      "path": "daggers/dagger-of-sinister-deeds.json"
-    },
-    {
-      "id": "emeraldshard-dagger",
-      "name": "Emeraldshard Dagger",
-      "slug": "emeraldshard-dagger",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "T10",
-      "path": "daggers/emeraldshard-dagger.json"
-    },
-    {
-      "id": "fire-dagger",
-      "name": "Fire Dagger",
-      "slug": "fire-dagger",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "T8",
-      "path": "daggers/fire-dagger.json"
-    },
-    {
-      "id": "golden-dagger",
-      "name": "Golden Dagger",
-      "slug": "golden-dagger",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "T5",
-      "path": "daggers/golden-dagger.json"
-    },
-    {
-      "id": "groovy-mango",
-      "name": "Groovy Mango",
-      "slug": "groovy-mango",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "UT",
-      "path": "daggers/groovy-mango.json"
-    },
-    {
-      "id": "heartfind-dagger",
-      "name": "Heartfind Dagger",
-      "slug": "heartfind-dagger",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "UT",
-      "path": "daggers/heartfind-dagger.json"
-    },
-    {
-      "id": "marionette-ravager",
-      "name": "Marionette Ravager",
-      "slug": "marionette-ravager",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "UT",
-      "path": "daggers/marionette-ravager.json"
-    },
-    {
-      "id": "mister-mango",
-      "name": "Mister Mango",
-      "slug": "mister-mango",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "UT",
-      "path": "daggers/mister-mango.json"
-    },
-    {
-      "id": "mithril-dagger",
-      "name": "Mithril Dagger",
-      "slug": "mithril-dagger",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "T7",
-      "path": "daggers/mithril-dagger.json"
-    },
-    {
-      "id": "obsidian-dagger",
-      "name": "Obsidian Dagger",
-      "slug": "obsidian-dagger",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "T6",
-      "path": "daggers/obsidian-dagger.json"
-    },
-    {
-      "id": "poison-fang-dagger",
-      "name": "Poison Fang Dagger",
-      "slug": "poison-fang-dagger",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "UT",
-      "path": "daggers/poison-fang-dagger.json"
-    },
-    {
-      "id": "ragetalon-dagger",
-      "name": "Ragetalon Dagger",
-      "slug": "ragetalon-dagger",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "T9",
-      "path": "daggers/ragetalon-dagger.json"
-    },
-    {
-      "id": "spirit-dagger",
-      "name": "Spirit Dagger",
-      "slug": "spirit-dagger",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "UT",
-      "path": "daggers/spirit-dagger.json"
-    },
-    {
-      "id": "the-right-hook",
-      "name": "The Right Hook",
-      "slug": "the-right-hook",
-      "category": "daggers",
-      "itemType": "Dagger",
-      "tier": "UT",
-      "path": "daggers/the-right-hook.json"
-    },
-    {
-      "id": "blue-steel-dagger",
-      "name": "Blue Steel Dagger",
-      "slug": "blue-steel-dagger",
-      "category": "items",
-      "itemType": "Dagger",
-      "tier": "T2",
-      "path": "items/blue-steel-dagger.json"
-    },
-    {
-      "id": "dirk",
-      "name": "Dirk",
-      "slug": "dirk",
-      "category": "items",
-      "itemType": "Dagger",
-      "tier": "T1",
-      "path": "items/dirk.json"
-    },
-    {
-      "id": "dusky-rose-dagger",
-      "name": "Dusky Rose Dagger",
-      "slug": "dusky-rose-dagger",
-      "category": "items",
-      "itemType": "Dagger",
-      "tier": "T3",
-      "path": "items/dusky-rose-dagger.json"
-    },
-    {
-      "id": "silver-dagger",
-      "name": "Silver Dagger",
-      "slug": "silver-dagger",
-      "category": "items",
-      "itemType": "Dagger",
-      "tier": "T4",
-      "path": "items/silver-dagger.json"
-    },
-    {
-      "id": "spellblade-of-the-sun",
-      "name": "Spellblade of the Sun",
-      "slug": "spellblade-of-the-sun",
-      "category": "items",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "items/spellblade-of-the-sun.json"
-    },
-    {
-      "id": "steel-dagger",
-      "name": "Steel Dagger",
-      "slug": "steel-dagger",
-      "category": "items",
-      "itemType": "Dagger",
-      "tier": "T0",
-      "path": "items/steel-dagger.json"
-    },
-    {
-      "id": "blade-of-ages",
-      "name": "Blade of Ages",
-      "slug": "blade-of-ages",
-      "category": "katanas",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "katanas/blade-of-ages.json"
-    },
-    {
-      "id": "blade-of-blooming",
-      "name": "Blade of Blooming",
-      "slug": "blade-of-blooming",
-      "category": "katanas",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "katanas/blade-of-blooming.json"
-    },
-    {
-      "id": "blade-of-the-assailant",
-      "name": "Blade of the Assailant",
-      "slug": "blade-of-the-assailant",
-      "category": "katanas",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "katanas/blade-of-the-assailant.json"
-    },
-    {
-      "id": "buster-katana",
-      "name": "Buster Katana",
-      "slug": "buster-katana",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T7",
-      "path": "katanas/buster-katana.json"
-    },
-    {
-      "id": "celestial-blade",
-      "name": "Celestial Blade",
-      "slug": "celestial-blade",
-      "category": "katanas",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "katanas/celestial-blade.json"
-    },
-    {
-      "id": "demon-edge",
-      "name": "Demon Edge",
-      "slug": "demon-edge",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T8",
-      "path": "katanas/demon-edge.json"
-    },
-    {
-      "id": "diamond-bladed-katana",
-      "name": "Diamond-Bladed Katana",
-      "slug": "diamond-bladed-katana",
-      "category": "katanas",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "katanas/diamond-bladed-katana.json"
-    },
-    {
-      "id": "doku-no-ken",
-      "name": "Doku No Ken",
-      "slug": "doku-no-ken",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "UT",
-      "path": "katanas/doku-no-ken.json"
-    },
-    {
-      "id": "fire-blade",
-      "name": "Fire Blade",
-      "slug": "fire-blade",
-      "category": "katanas",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "katanas/fire-blade.json"
-    },
-    {
-      "id": "ichimonji",
-      "name": "Ichimonji",
-      "slug": "ichimonji",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T10",
-      "path": "katanas/ichimonji.json"
-    },
-    {
-      "id": "jewel-eye-katana",
-      "name": "Jewel Eye Katana",
-      "slug": "jewel-eye-katana",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T9",
-      "path": "katanas/jewel-eye-katana.json"
-    },
-    {
-      "id": "kendo-stick",
-      "name": "Kendo Stick",
-      "slug": "kendo-stick",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T1",
-      "path": "katanas/kendo-stick.json"
-    },
-    {
-      "id": "kusanagi",
-      "name": "Kusanagi",
-      "slug": "kusanagi",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T14",
-      "path": "katanas/kusanagi.json"
-    },
-    {
-      "id": "kyuuketsuki-hitogoroshi",
-      "name": "Kyuuketsuki Hitogoroshi",
-      "slug": "kyuuketsuki-hitogoroshi",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "UT",
-      "path": "katanas/kyuuketsuki-hitogoroshi.json"
-    },
-    {
-      "id": "line-kutter-katana",
-      "name": "Line Kutter Katana",
-      "slug": "line-kutter-katana",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T4",
-      "path": "katanas/line-kutter-katana.json"
-    },
-    {
-      "id": "masamune",
-      "name": "Masamune",
-      "slug": "masamune",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T12",
-      "path": "katanas/masamune.json"
-    },
-    {
-      "id": "moonbeam-blade",
-      "name": "Moonbeam Blade",
-      "slug": "moonbeam-blade",
-      "category": "katanas",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "katanas/moonbeam-blade.json"
-    },
-    {
-      "id": "muramasa",
-      "name": "Muramasa",
-      "slug": "muramasa",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T11",
-      "path": "katanas/muramasa.json"
-    },
-    {
-      "id": "night-edge",
-      "name": "Night Edge",
-      "slug": "night-edge",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T5",
-      "path": "katanas/night-edge.json"
-    },
-    {
-      "id": "plain-katana",
-      "name": "Plain Katana",
-      "slug": "plain-katana",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T2",
-      "path": "katanas/plain-katana.json"
-    },
-    {
-      "id": "rusty-katana",
-      "name": "Rusty Katana",
-      "slug": "rusty-katana",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T0",
-      "path": "katanas/rusty-katana.json"
-    },
-    {
-      "id": "sadamune",
-      "name": "Sadamune",
-      "slug": "sadamune",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T13",
-      "path": "katanas/sadamune.json"
-    },
-    {
-      "id": "sky-edge",
-      "name": "Sky Edge",
-      "slug": "sky-edge",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T6",
-      "path": "katanas/sky-edge.json"
-    },
-    {
-      "id": "thunder-katana",
-      "name": "Thunder Katana",
-      "slug": "thunder-katana",
-      "category": "katanas",
-      "itemType": "Katana",
-      "tier": "T3",
-      "path": "katanas/thunder-katana.json"
-    },
-    {
-      "id": "void-blade",
-      "name": "Void Blade",
-      "slug": "void-blade",
-      "category": "katanas",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "katanas/void-blade.json"
-    },
-    {
-      "id": "beach-shovel",
-      "name": "Beach Shovel",
-      "slug": "beach-shovel",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "UT (Limited)",
-      "path": "spellblades/beach-shovel.json"
-    },
-    {
-      "id": "caramel-spellblade",
-      "name": "Caramel Spellblade",
-      "slug": "caramel-spellblade",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "UT (Limited)",
-      "path": "spellblades/caramel-spellblade.json"
-    },
-    {
-      "id": "crystallized-worm-spellblade",
-      "name": "Crystallized Worm Spellblade",
-      "slug": "crystallized-worm-spellblade",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "UT",
-      "path": "spellblades/crystallized-worm-spellblade.json"
-    },
-    {
-      "id": "heros-spellblade",
-      "name": "Hero's Spellblade",
-      "slug": "heros-spellblade",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "UT (Limited)",
-      "path": "spellblades/heros-spellblade.json"
-    },
-    {
-      "id": "hovering-spellblade",
-      "name": "Hovering Spellblade",
-      "slug": "hovering-spellblade",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "UT (Limited)",
-      "path": "spellblades/hovering-spellblade.json"
-    },
-    {
-      "id": "love-heart-spellblade",
-      "name": "Love Heart Spellblade",
-      "slug": "love-heart-spellblade",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "UT",
-      "path": "spellblades/love-heart-spellblade.json"
-    },
-    {
-      "id": "rocket-launcher",
-      "name": "Rocket Launcher",
-      "slug": "rocket-launcher",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "ST",
-      "path": "spellblades/rocket-launcher.json"
-    },
-    {
-      "id": "royal-sekhem",
-      "name": "Royal Sekhem",
-      "slug": "royal-sekhem",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "UT (Limited)",
-      "path": "spellblades/royal-sekhem.json"
-    },
-    {
-      "id": "snowblind-spellblade",
-      "name": "Snowblind Spellblade",
-      "slug": "snowblind-spellblade",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "UT (Limited)",
-      "path": "spellblades/snowblind-spellblade.json"
-    },
-    {
-      "id": "spellblade-of-arcane-magic",
-      "name": "Spellblade of Arcane Magic",
-      "slug": "spellblade-of-arcane-magic",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "T9",
-      "path": "spellblades/spellblade-of-arcane-magic.json"
-    },
-    {
-      "id": "spellblade-of-corrupt-premonitions",
-      "name": "Spellblade of Corrupt Premonitions",
-      "slug": "spellblade-of-corrupt-premonitions",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "T10",
-      "path": "spellblades/spellblade-of-corrupt-premonitions.json"
-    },
-    {
-      "id": "spellblade-of-decimation",
-      "name": "Spellblade of Decimation",
-      "slug": "spellblade-of-decimation",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "T7",
-      "path": "spellblades/spellblade-of-decimation.json"
-    },
-    {
-      "id": "spellblade-of-nightmares",
-      "name": "Spellblade of Nightmares",
-      "slug": "spellblade-of-nightmares",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "T8",
-      "path": "spellblades/spellblade-of-nightmares.json"
-    },
-    {
-      "id": "spellblade-of-starry-insight",
-      "name": "Spellblade of Starry Insight",
-      "slug": "spellblade-of-starry-insight",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "T11",
-      "path": "spellblades/spellblade-of-starry-insight.json"
-    },
-    {
-      "id": "spellblade-of-the-everlasting-death",
-      "name": "Spellblade of the Everlasting Death",
-      "slug": "spellblade-of-the-everlasting-death",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "T14",
-      "path": "spellblades/spellblade-of-the-everlasting-death.json"
-    },
-    {
-      "id": "spellblade-of-the-heavens-light",
-      "name": "Spellblade of the Heavens Light",
-      "slug": "spellblade-of-the-heavens-light",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "T13",
-      "path": "spellblades/spellblade-of-the-heavens-light.json"
-    },
-    {
-      "id": "spellblade-of-the-void",
-      "name": "Spellblade of the Void",
-      "slug": "spellblade-of-the-void",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "UT (Limited)",
-      "path": "spellblades/spellblade-of-the-void.json"
-    },
-    {
-      "id": "steam-pipe",
-      "name": "Steam Pipe",
-      "slug": "steam-pipe",
-      "category": "spellblades",
-      "itemType": "Spellblade",
-      "tier": "UT",
-      "path": "spellblades/steam-pipe.json"
-    },
-    {
-      "id": "anatis-staff",
-      "name": "Anatis Staff",
-      "slug": "anatis-staff",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT (Limited)",
-      "path": "staves/anatis-staff.json"
-    },
-    {
-      "id": "barely-attuned-magic-thingy",
-      "name": "Barely Attuned Magic Thingy",
-      "slug": "barely-attuned-magic-thingy",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT (Limited)",
-      "path": "staves/barely-attuned-magic-thingy.json"
-    },
-    {
-      "id": "bloody-pitch-fork-staff",
-      "name": "Bloody Pitch Fork Staff",
-      "slug": "bloody-pitch-fork-staff",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "ST (Limited)",
-      "path": "staves/bloody-pitch-fork-staff.json"
-    },
-    {
-      "id": "bloom-fire-scepter",
-      "name": "Bloom-Fire Scepter",
-      "slug": "bloom-fire-scepter",
-      "category": "staves",
-      "itemType": "Scepter",
-      "tier": "UT (Limited)",
-      "path": "staves/bloom-fire-scepter.json"
-    },
-    {
-      "id": "comet-of-calamity",
-      "name": "Comet of Calamity",
-      "slug": "comet-of-calamity",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/comet-of-calamity.json"
-    },
-    {
-      "id": "cursed-harpoon",
-      "name": "Cursed Harpoon",
-      "slug": "cursed-harpoon",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "ST (Limited)",
-      "path": "staves/cursed-harpoon.json"
-    },
-    {
-      "id": "edictum-praetoris",
-      "name": "Edictum Praetoris",
-      "slug": "edictum-praetoris",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "ST",
-      "path": "staves/edictum-praetoris.json"
-    },
-    {
-      "id": "elder-heartwood-staff",
-      "name": "Elder Heartwood Staff",
-      "slug": "elder-heartwood-staff",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/elder-heartwood-staff.json"
-    },
-    {
-      "id": "foramite-staff",
-      "name": "Foramite Staff",
-      "slug": "foramite-staff",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/foramite-staff.json"
-    },
-    {
-      "id": "frostfall-rod",
-      "name": "Frostfall Rod",
-      "slug": "frostfall-rod",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT (Limited)",
-      "path": "staves/frostfall-rod.json"
-    },
-    {
-      "id": "gravekeepers-scythe",
-      "name": "Gravekeeper's Scythe",
-      "slug": "gravekeepers-scythe",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "ST (Limited)",
-      "path": "staves/gravekeepers-scythe.json"
-    },
-    {
-      "id": "jailers-scythe",
-      "name": "Jailer's Scythe",
-      "slug": "jailers-scythe",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/jailers-scythe.json"
-    },
-    {
-      "id": "k-i-d-d-force-2-0",
-      "name": "K.I.D.D. Force 2.0",
-      "slug": "k-i-d-d-force-2-0",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/k-i-d-d-force-2-0.json"
-    },
-    {
-      "id": "k-i-d-d-force",
-      "name": "K.I.D.D. Force",
-      "slug": "k-i-d-d-force",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/k-i-d-d-force.json"
-    },
-    {
-      "id": "koalapow",
-      "name": "KoalaPOW",
-      "slug": "koalapow",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT (Limited)",
-      "path": "staves/koalapow.json"
-    },
-    {
-      "id": "mechanical-kogbold-limb",
-      "name": "Mechanical Kogbold Limb",
-      "slug": "mechanical-kogbold-limb",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/mechanical-kogbold-limb.json"
-    },
-    {
-      "id": "nebular-rod",
-      "name": "Nebular Rod",
-      "slug": "nebular-rod",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "ST",
-      "path": "staves/nebular-rod.json"
-    },
-    {
-      "id": "oppressors-staff",
-      "name": "Oppressor's Staff",
-      "slug": "oppressors-staff",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/oppressors-staff.json"
-    },
-    {
-      "id": "s-t-a-f-f",
-      "name": "S.T.A.F.F.",
-      "slug": "s-t-a-f-f",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/s-t-a-f-f.json"
-    },
-    {
-      "id": "shamans-staff",
-      "name": "Shaman's Staff",
-      "slug": "shamans-staff",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "ST",
-      "path": "staves/shamans-staff.json"
-    },
-    {
-      "id": "sleigh-bell-staff",
-      "name": "Sleigh Bell Staff",
-      "slug": "sleigh-bell-staff",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT (Limited)",
-      "path": "staves/sleigh-bell-staff.json"
-    },
-    {
-      "id": "snow-branch",
-      "name": "Snow Branch",
-      "slug": "snow-branch",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT (Limited)",
-      "path": "staves/snow-branch.json"
-    },
-    {
-      "id": "spirit-staff",
-      "name": "Spirit Staff",
-      "slug": "spirit-staff",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/spirit-staff.json"
-    },
-    {
-      "id": "squaroid-staff",
-      "name": "Squaroid Staff",
-      "slug": "squaroid-staff",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "ST",
-      "path": "staves/squaroid-staff.json"
-    },
-    {
-      "id": "staff-of-eruption",
-      "name": "Staff of Eruption",
-      "slug": "staff-of-eruption",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "ST",
-      "path": "staves/staff-of-eruption.json"
-    },
-    {
-      "id": "staff-of-extreme-prejudice",
-      "name": "Staff of Extreme Prejudice",
-      "slug": "staff-of-extreme-prejudice",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/staff-of-extreme-prejudice.json"
-    },
-    {
-      "id": "staff-of-iceblast",
-      "name": "Staff of Iceblast",
-      "slug": "staff-of-iceblast",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT (Limited)",
-      "path": "staves/staff-of-iceblast.json"
-    },
-    {
-      "id": "staff-of-the-crystal-serpent",
-      "name": "Staff of the Crystal Serpent",
-      "slug": "staff-of-the-crystal-serpent",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/staff-of-the-crystal-serpent.json"
-    },
-    {
-      "id": "staff-of-the-saint",
-      "name": "Staff of the Saint",
-      "slug": "staff-of-the-saint",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT (Limited)",
-      "path": "staves/staff-of-the-saint.json"
-    },
-    {
-      "id": "staff-of-unholy-sacrifice",
-      "name": "Staff of Unholy Sacrifice",
-      "slug": "staff-of-unholy-sacrifice",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/staff-of-unholy-sacrifice.json"
-    },
-    {
-      "id": "stygian-torch",
-      "name": "Stygian Torch",
-      "slug": "stygian-torch",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "ST (Limited)",
-      "path": "staves/stygian-torch.json"
-    },
-    {
-      "id": "tezcacoatls-tail",
-      "name": "Tezcacoatl's Tail",
-      "slug": "tezcacoatls-tail",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/tezcacoatls-tail.json"
-    },
-    {
-      "id": "the-phylactery",
-      "name": "The Phylactery",
-      "slug": "the-phylactery",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "ST",
-      "path": "staves/the-phylactery.json"
-    },
-    {
-      "id": "tideturner-trident",
-      "name": "Tideturner Trident",
-      "slug": "tideturner-trident",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "ST",
-      "path": "staves/tideturner-trident.json"
-    },
-    {
-      "id": "torrential-staff",
-      "name": "Torrential Staff",
-      "slug": "torrential-staff",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/torrential-staff.json"
-    },
-    {
-      "id": "vigor",
-      "name": "Vigor",
-      "slug": "vigor",
-      "category": "staves",
-      "itemType": "Staff",
-      "tier": "UT",
-      "path": "staves/vigor.json"
-    },
-    {
-      "id": "acidic-slasher",
-      "name": "Acidic Slasher",
-      "slug": "acidic-slasher",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/acidic-slasher.json"
-    },
-    {
-      "id": "ancient-stone-sword",
-      "name": "Ancient Stone Sword",
-      "slug": "ancient-stone-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/ancient-stone-sword.json"
-    },
-    {
-      "id": "arcane-rapier",
-      "name": "Arcane Rapier",
-      "slug": "arcane-rapier",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/arcane-rapier.json"
-    },
-    {
-      "id": "archon-sword",
-      "name": "Archon Sword",
-      "slug": "archon-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T10",
-      "path": "swords/archon-sword.json"
-    },
-    {
-      "id": "atavistic-soul-sabre",
-      "name": "Atavistic Soul Sabre",
-      "slug": "atavistic-soul-sabre",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/atavistic-soul-sabre.json"
-    },
-    {
-      "id": "broad-sword",
-      "name": "Broad Sword",
-      "slug": "broad-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T1",
-      "path": "swords/broad-sword.json"
-    },
-    {
-      "id": "crystal-sword",
-      "name": "Crystal Sword",
-      "slug": "crystal-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/crystal-sword.json"
-    },
-    {
-      "id": "dalvars-battle-axe",
-      "name": "Dalvar's Battle Axe",
-      "slug": "dalvars-battle-axe",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "ST",
-      "path": "swords/dalvars-battle-axe.json"
-    },
-    {
-      "id": "demon-blade",
-      "name": "Demon Blade",
-      "slug": "demon-blade",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/demon-blade.json"
-    },
-    {
-      "id": "divinity",
-      "name": "Divinity",
-      "slug": "divinity",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/divinity.json"
-    },
-    {
-      "id": "doctor-swordsworth",
-      "name": "Doctor Swordsworth",
-      "slug": "doctor-swordsworth",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT (Limited)",
-      "path": "swords/doctor-swordsworth.json"
-    },
-    {
-      "id": "dragonsoul-sword",
-      "name": "Dragonsoul Sword",
-      "slug": "dragonsoul-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T9",
-      "path": "swords/dragonsoul-sword.json"
-    },
-    {
-      "id": "enchanted-ice-blade",
-      "name": "Enchanted Ice Blade",
-      "slug": "enchanted-ice-blade",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT (Limited)",
-      "path": "swords/enchanted-ice-blade.json"
-    },
-    {
-      "id": "falchion",
-      "name": "Falchion",
-      "slug": "falchion",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T4",
-      "path": "swords/falchion.json"
-    },
-    {
-      "id": "fallen-ones-blade",
-      "name": "Fallen One's Blade",
-      "slug": "fallen-ones-blade",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "ST",
-      "path": "swords/fallen-ones-blade.json"
-    },
-    {
-      "id": "ffabulous-fflail",
-      "name": "FFabulous FFlail",
-      "slug": "ffabulous-fflail",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/ffabulous-fflail.json"
-    },
-    {
-      "id": "fire-sword",
-      "name": "Fire Sword",
-      "slug": "fire-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T5",
-      "path": "swords/fire-sword.json"
-    },
-    {
-      "id": "frostbite",
-      "name": "Frostbite",
-      "slug": "frostbite",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT (Limited)",
-      "path": "swords/frostbite.json"
-    },
-    {
-      "id": "gaseous-glaive",
-      "name": "Gaseous Glaive",
-      "slug": "gaseous-glaive",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/gaseous-glaive.json"
-    },
-    {
-      "id": "glass-sword",
-      "name": "Glass Sword",
-      "slug": "glass-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T6",
-      "path": "swords/glass-sword.json"
-    },
-    {
-      "id": "golden-sword",
-      "name": "Golden Sword",
-      "slug": "golden-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T7",
-      "path": "swords/golden-sword.json"
-    },
-    {
-      "id": "heartsteel-claymore",
-      "name": "Heartsteel Claymore",
-      "slug": "heartsteel-claymore",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "ST",
-      "path": "swords/heartsteel-claymore.json"
-    },
-    {
-      "id": "henchmans-claymore",
-      "name": "Henchman's Claymore",
-      "slug": "henchmans-claymore",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/henchmans-claymore.json"
-    },
-    {
-      "id": "indomptable",
-      "name": "Indomptable",
-      "slug": "indomptable",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "ST",
-      "path": "swords/indomptable.json"
-    },
-    {
-      "id": "jagged-hatchet",
-      "name": "Jagged Hatchet",
-      "slug": "jagged-hatchet",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "ST",
-      "path": "swords/jagged-hatchet.json"
-    },
-    {
-      "id": "long-sword",
-      "name": "Long Sword",
-      "slug": "long-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T3",
-      "path": "swords/long-sword.json"
-    },
-    {
-      "id": "mmace-mmurderer",
-      "name": "MMace MMurderer",
-      "slug": "mmace-mmurderer",
-      "category": "swords",
-      "itemType": "Mace",
-      "tier": "UT",
-      "path": "swords/mmace-mmurderer.json"
-    },
-    {
-      "id": "oryxs-greatsword",
-      "name": "Oryx's Greatsword",
-      "slug": "oryxs-greatsword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "ST",
-      "path": "swords/oryxs-greatsword.json"
-    },
-    {
-      "id": "pirate-kings-cutlass",
-      "name": "Pirate King's Cutlass",
-      "slug": "pirate-kings-cutlass",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/pirate-kings-cutlass.json"
-    },
-    {
-      "id": "pirates-artillery",
-      "name": "Pirate's Artillery",
-      "slug": "pirates-artillery",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/pirates-artillery.json"
-    },
-    {
-      "id": "pixie-enchanted-sword",
-      "name": "Pixie-Enchanted Sword",
-      "slug": "pixie-enchanted-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "ST",
-      "path": "swords/pixie-enchanted-sword.json"
-    },
-    {
-      "id": "ravenheart-sword",
-      "name": "Ravenheart Sword",
-      "slug": "ravenheart-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T8",
-      "path": "swords/ravenheart-sword.json"
-    },
-    {
-      "id": "saber",
-      "name": "Saber",
-      "slug": "saber",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T2",
-      "path": "swords/saber.json"
-    },
-    {
-      "id": "saint-nicolas-blade",
-      "name": "Saint Nicolas' Blade",
-      "slug": "saint-nicolas-blade",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT (Limited)",
-      "path": "swords/saint-nicolas-blade.json"
-    },
-    {
-      "id": "short-sword",
-      "name": "Short Sword",
-      "slug": "short-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T0",
-      "path": "swords/short-sword.json"
-    },
-    {
-      "id": "skull-splitter-sword",
-      "name": "Skull-splitter Sword",
-      "slug": "skull-splitter-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT (Limited)",
-      "path": "swords/skull-splitter-sword.json"
-    },
-    {
-      "id": "skysplitter-sword",
-      "name": "Skysplitter Sword",
-      "slug": "skysplitter-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T11",
-      "path": "swords/skysplitter-sword.json"
-    },
-    {
-      "id": "spectral-sword",
-      "name": "Spectral Sword",
-      "slug": "spectral-sword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/spectral-sword.json"
-    },
-    {
-      "id": "swashbucklers-sickle",
-      "name": "Swashbuckler's Sickle",
-      "slug": "swashbucklers-sickle",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "ST",
-      "path": "swords/swashbucklers-sickle.json"
-    },
-    {
-      "id": "sword-of-acclaim",
-      "name": "Sword of Acclaim",
-      "slug": "sword-of-acclaim",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T12",
-      "path": "swords/sword-of-acclaim.json"
-    },
-    {
-      "id": "sword-of-illumination",
-      "name": "Sword of Illumination",
-      "slug": "sword-of-illumination",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/sword-of-illumination.json"
-    },
-    {
-      "id": "sword-of-majesty",
-      "name": "Sword of Majesty",
-      "slug": "sword-of-majesty",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T14",
-      "path": "swords/sword-of-majesty.json"
-    },
-    {
-      "id": "sword-of-splendor",
-      "name": "Sword of Splendor",
-      "slug": "sword-of-splendor",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "T13",
-      "path": "swords/sword-of-splendor.json"
-    },
-    {
-      "id": "sword-of-the-colossus",
-      "name": "Sword of the Colossus",
-      "slug": "sword-of-the-colossus",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/sword-of-the-colossus.json"
-    },
-    {
-      "id": "sword-of-the-rainbows-end",
-      "name": "Sword of the Rainbow's End",
-      "slug": "sword-of-the-rainbows-end",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT (Limited)",
-      "path": "swords/sword-of-the-rainbows-end.json"
-    },
-    {
-      "id": "unstable-anomaly",
-      "name": "Unstable Anomaly",
-      "slug": "unstable-anomaly",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT (Limited)",
-      "path": "swords/unstable-anomaly.json"
-    },
-    {
-      "id": "vinesword",
-      "name": "Vinesword",
-      "slug": "vinesword",
-      "category": "swords",
-      "itemType": "Sword",
-      "tier": "UT",
-      "path": "swords/vinesword.json"
-    },
-    {
-      "id": "caduceus-of-enlightened-chaos",
-      "name": "Caduceus Of Enlightened Chaos",
-      "slug": "caduceus-of-enlightened-chaos",
-      "category": "wands",
-      "itemType": "Wand",
-      "tier": "UT",
-      "path": "wands/caduceus-of-enlightened-chaos.json"
-    },
-    {
-      "id": "crystal-wand",
-      "name": "Crystal Wand",
-      "slug": "crystal-wand",
-      "category": "wands",
-      "itemType": "Wand",
-      "tier": "UT",
-      "path": "wands/crystal-wand.json"
-    },
-    {
-      "id": "st-abrahams-wand",
-      "name": "St. Abraham's Wand",
-      "slug": "st-abrahams-wand",
-      "category": "wands",
-      "itemType": "Wand",
-      "tier": "UT",
-      "path": "wands/st-abrahams-wand.json"
-    },
-    {
-      "id": "tyrants-wand",
-      "name": "Tyrant's Wand",
-      "slug": "tyrants-wand",
-      "category": "wands",
-      "itemType": "Wand",
-      "tier": "UT",
-      "path": "wands/tyrants-wand.json"
-    },
-    {
-      "id": "wand-of-the-bulwark",
-      "name": "Wand of the Bulwark",
-      "slug": "wand-of-the-bulwark",
-      "category": "wands",
-      "itemType": "Wand",
-      "tier": "UT",
-      "path": "wands/wand-of-the-bulwark.json"
-    },
-    {
-      "id": "wand-of-the-fallen",
-      "name": "Wand of the Fallen",
-      "slug": "wand-of-the-fallen",
-      "category": "wands",
-      "itemType": "Wand",
-      "tier": "UT",
-      "path": "wands/wand-of-the-fallen.json"
-    }
-  ]
-}
+  {
+    "id": "agateclaw-dagger",
+    "name": "Agateclaw Dagger",
+    "slug": "agateclaw-dagger",
+    "category": "daggers",
+    "sprite": "/items/agateclaw-dagger.png",
+    "itemType": "Dagger",
+    "tier": "T11",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/agateclaw-dagger"
+  },
+  {
+    "id": "anatis-staff",
+    "name": "Anatis Staff",
+    "slug": "anatis-staff",
+    "category": "staves",
+    "sprite": "/items/anatis-staff.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/anatis-staff"
+  },
+  {
+    "id": "ancient-stone-sword",
+    "name": "Ancient Stone Sword",
+    "slug": "ancient-stone-sword",
+    "category": "swords",
+    "sprite": "/items/ancient-stone-sword.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/ancient-stone-sword"
+  },
+  {
+    "id": "arcane-rapier",
+    "name": "Arcane Rapier",
+    "slug": "arcane-rapier",
+    "category": "swords",
+    "sprite": "/items/arcane-rapier.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/arcane-rapier"
+  },
+  {
+    "id": "archon-sword",
+    "name": "Archon Sword",
+    "slug": "archon-sword",
+    "category": "swords",
+    "sprite": "/items/archon-sword.png",
+    "itemType": "Sword",
+    "tier": "T10",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/archon-sword"
+  },
+  {
+    "id": "atavistic-soul-sabre",
+    "name": "Atavistic Soul Sabre",
+    "slug": "atavistic-soul-sabre",
+    "category": "swords",
+    "sprite": "/items/atavistic-soul-sabre.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/atavistic-soul-sabre"
+  },
+  {
+    "id": "baked-bow",
+    "name": "Baked Bow",
+    "slug": "baked-bow",
+    "category": "bows",
+    "sprite": "/items/baked-bow.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/baked-bow"
+  },
+  {
+    "id": "barely-attuned-magic-thingy",
+    "name": "Barely Attuned Magic Thingy",
+    "slug": "barely-attuned-magic-thingy",
+    "category": "staves",
+    "sprite": "/items/barely-attuned-magic-thingy.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/barely-attuned-magic-thingy"
+  },
+  {
+    "id": "beach-shovel",
+    "name": "Beach Shovel",
+    "slug": "beach-shovel",
+    "category": "spellblades",
+    "sprite": "/items/beach-shovel.png",
+    "itemType": "Spellblade",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/beach-shovel"
+  },
+  {
+    "id": "blade-of-ages",
+    "name": "Blade of Ages",
+    "slug": "blade-of-ages",
+    "category": "katanas",
+    "sprite": "/items/blade-of-ages.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/blade-of-ages"
+  },
+  {
+    "id": "blade-of-blooming",
+    "name": "Blade of Blooming",
+    "slug": "blade-of-blooming",
+    "category": "katanas",
+    "sprite": "/items/blade-of-blooming.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/blade-of-blooming"
+  },
+  {
+    "id": "blade-of-the-assailant",
+    "name": "Blade of the Assailant",
+    "slug": "blade-of-the-assailant",
+    "category": "katanas",
+    "sprite": "/items/blade-of-the-assailant.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "Orange",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/blade-of-the-assailant"
+  },
+  {
+    "id": "bloody-pitch-fork-staff",
+    "name": "Bloody Pitch Fork Staff",
+    "slug": "bloody-pitch-fork-staff",
+    "category": "staves",
+    "sprite": "/items/bloody-pitch-fork-staff.png",
+    "itemType": "Staff",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bloody-pitch-fork-staff"
+  },
+  {
+    "id": "bloom-fire-scepter",
+    "name": "Bloom-Fire Scepter",
+    "slug": "bloom-fire-scepter",
+    "category": "staves",
+    "sprite": "/items/bloom-fire-scepter.png",
+    "itemType": "Scepter",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bloom-fire-scepter"
+  },
+  {
+    "id": "bone-dagger",
+    "name": "Bone Dagger",
+    "slug": "bone-dagger",
+    "category": "daggers",
+    "sprite": "/items/bone-dagger.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bone-dagger"
+  },
+  {
+    "id": "bounty-hunters-dagger",
+    "name": "Bounty Hunter's Dagger",
+    "slug": "bounty-hunters-dagger",
+    "category": "daggers",
+    "sprite": "/items/bounty-hunters-dagger.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "Orange",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bounty-hunter-s-dagger"
+  },
+  {
+    "id": "bow-of-covert-havens",
+    "name": "Bow of Covert Havens",
+    "slug": "bow-of-covert-havens",
+    "category": "bows",
+    "sprite": "/items/bow-of-covert-havens.png",
+    "itemType": "Bow",
+    "tier": "T12",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bow-of-covert-havens"
+  },
+  {
+    "id": "bow-of-deep-enchantment",
+    "name": "Bow of Deep Enchantment",
+    "slug": "bow-of-deep-enchantment",
+    "category": "bows",
+    "sprite": "/items/bow-of-deep-enchantment.png",
+    "itemType": "Bow",
+    "tier": "T14",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bow-of-deep-enchantment"
+  },
+  {
+    "id": "bow-of-fey-magic",
+    "name": "Bow of Fey Magic",
+    "slug": "bow-of-fey-magic",
+    "category": "bows",
+    "sprite": "/items/bow-of-fey-magic.png",
+    "itemType": "Bow",
+    "tier": "T10",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bow-of-fey-magic"
+  },
+  {
+    "id": "bow-of-innocent-blood",
+    "name": "Bow of Innocent Blood",
+    "slug": "bow-of-innocent-blood",
+    "category": "bows",
+    "sprite": "/items/bow-of-innocent-blood.png",
+    "itemType": "Bow",
+    "tier": "T11",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bow-of-innocent-blood"
+  },
+  {
+    "id": "bow-of-mystical-energy",
+    "name": "Bow of Mystical Energy",
+    "slug": "bow-of-mystical-energy",
+    "category": "bows",
+    "sprite": "/items/bow-of-mystical-energy.png",
+    "itemType": "Bow",
+    "tier": "T13",
+    "bagType": "Red",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bow-of-mystical-energy"
+  },
+  {
+    "id": "bow-of-the-morning-star",
+    "name": "Bow of the Morning Star",
+    "slug": "bow-of-the-morning-star",
+    "category": "bows",
+    "sprite": "/items/bow-of-the-morning-star.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bow-of-the-morning-star"
+  },
+  {
+    "id": "bramble-bow",
+    "name": "Bramble Bow",
+    "slug": "bramble-bow",
+    "category": "bows",
+    "sprite": "/items/bramble-bow.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bramble-bow"
+  },
+  {
+    "id": "broad-sword",
+    "name": "Broad Sword",
+    "slug": "broad-sword",
+    "category": "swords",
+    "sprite": "/items/broad-sword.png",
+    "itemType": "Sword",
+    "tier": "T1",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/broad-sword"
+  },
+  {
+    "id": "buster-katana",
+    "name": "Buster Katana",
+    "slug": "buster-katana",
+    "category": "katanas",
+    "sprite": "/items/buster-katana.png",
+    "itemType": "Katana",
+    "tier": "T7",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/buster-katana"
+  },
+  {
+    "id": "butter-bow",
+    "name": "Butter Bow",
+    "slug": "butter-bow",
+    "category": "bows",
+    "sprite": "/items/butter-bow.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/butter-bow"
+  },
+  {
+    "id": "caduceus-of-enlightened-chaos",
+    "name": "Caduceus Of Enlightened Chaos",
+    "slug": "caduceus-of-enlightened-chaos",
+    "category": "wands",
+    "sprite": "/items/caduceus-of-enlightened-chaos.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/caduceus-of-enlightened-chaos"
+  },
+  {
+    "id": "caramel-spellblade",
+    "name": "Caramel Spellblade",
+    "slug": "caramel-spellblade",
+    "category": "spellblades",
+    "sprite": "/items/caramel-spellblade.png",
+    "itemType": "Spellblade",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/caramel-spellblade"
+  },
+  {
+    "id": "celestial-blade",
+    "name": "Celestial Blade",
+    "slug": "celestial-blade",
+    "category": "katanas",
+    "sprite": "/items/celestial-blade.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/celestial-blade"
+  },
+  {
+    "id": "comet-of-calamity",
+    "name": "Comet of Calamity",
+    "slug": "comet-of-calamity",
+    "category": "staves",
+    "sprite": "/items/comet-of-calamity.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/comet-of-calamity"
+  },
+  {
+    "id": "corruption-cutter",
+    "name": "Corruption Cutter",
+    "slug": "corruption-cutter",
+    "category": "daggers",
+    "sprite": "/items/corruption-cutter.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/corruption-cutter"
+  },
+  {
+    "id": "crystal-sword",
+    "name": "Crystal Sword",
+    "slug": "crystal-sword",
+    "category": "swords",
+    "sprite": "/items/crystal-sword.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/crystal-sword"
+  },
+  {
+    "id": "crystal-wand",
+    "name": "Crystal Wand",
+    "slug": "crystal-wand",
+    "category": "wands",
+    "sprite": "/items/crystal-wand.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/crystal-wand"
+  },
+  {
+    "id": "crystallized-worm-spellblade",
+    "name": "Crystallized Worm Spellblade",
+    "slug": "crystallized-worm-spellblade",
+    "category": "spellblades",
+    "sprite": "/items/crystallized-worm-spellblade.png",
+    "itemType": "Spellblade",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/crystallized-worm-spellblade"
+  },
+  {
+    "id": "cupids-bow",
+    "name": "Cupid's Bow",
+    "slug": "cupids-bow",
+    "category": "bows",
+    "sprite": "/items/cupids-bow.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/cupid-s-bow"
+  },
+  {
+    "id": "cursed-harpoon",
+    "name": "Cursed Harpoon",
+    "slug": "cursed-harpoon",
+    "category": "staves",
+    "sprite": "/items/cursed-harpoon.png",
+    "itemType": "Staff",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/cursed-harpoon"
+  },
+  {
+    "id": "dagger-of-dire-hatred",
+    "name": "Dagger of Dire Hatred",
+    "slug": "dagger-of-dire-hatred",
+    "category": "daggers",
+    "sprite": "/items/dagger-of-dire-hatred.png",
+    "itemType": "Dagger",
+    "tier": "T14",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dagger-of-dire-hatred"
+  },
+  {
+    "id": "dagger-of-foul-malevolence",
+    "name": "Dagger of Foul Malevolence",
+    "slug": "dagger-of-foul-malevolence",
+    "category": "daggers",
+    "sprite": "/items/dagger-of-foul-malevolence.png",
+    "itemType": "Dagger",
+    "tier": "T12",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dagger-of-foul-malevolence"
+  },
+  {
+    "id": "dagger-of-sinister-deeds",
+    "name": "Dagger of Sinister Deeds",
+    "slug": "dagger-of-sinister-deeds",
+    "category": "daggers",
+    "sprite": "/items/dagger-of-sinister-deeds.png",
+    "itemType": "Dagger",
+    "tier": "T13",
+    "bagType": "Red",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dagger-of-sinister-deeds"
+  },
+  {
+    "id": "dalvars-battle-axe",
+    "name": "Dalvar's Battle Axe",
+    "slug": "dalvars-battle-axe",
+    "category": "swords",
+    "sprite": "/items/dalvars-battle-axe.png",
+    "itemType": "Sword",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dalvar-s-battle-axe"
+  },
+  {
+    "id": "demon-blade",
+    "name": "Demon Blade",
+    "slug": "demon-blade",
+    "category": "swords",
+    "sprite": "/items/demon-blade.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/demon-blade"
+  },
+  {
+    "id": "demon-edge",
+    "name": "Demon Edge",
+    "slug": "demon-edge",
+    "category": "katanas",
+    "sprite": "/items/demon-edge.png",
+    "itemType": "Katana",
+    "tier": "T8",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/demon-edge"
+  },
+  {
+    "id": "diamond-bladed-katana",
+    "name": "Diamond-Bladed Katana",
+    "slug": "diamond-bladed-katana",
+    "category": "katanas",
+    "sprite": "/items/diamond-bladed-katana.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/diamond-bladed-katana"
+  },
+  {
+    "id": "divinity",
+    "name": "Divinity",
+    "slug": "divinity",
+    "category": "swords",
+    "sprite": "/items/divinity.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Knight"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/divinity"
+  },
+  {
+    "id": "doctor-swordsworth",
+    "name": "Doctor Swordsworth",
+    "slug": "doctor-swordsworth",
+    "category": "swords",
+    "sprite": "/items/doctor-swordsworth.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/doctor-swordsworth"
+  },
+  {
+    "id": "doku-no-ken",
+    "name": "Doku No Ken",
+    "slug": "doku-no-ken",
+    "category": "katanas",
+    "sprite": "/items/doku-no-ken.png",
+    "itemType": "Katana",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/doku-no-ken"
+  },
+  {
+    "id": "doom-bow",
+    "name": "Doom Bow",
+    "slug": "doom-bow",
+    "category": "bows",
+    "sprite": "/items/doom-bow.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/doom-bow"
+  },
+  {
+    "id": "dragonsoul-sword",
+    "name": "Dragonsoul Sword",
+    "slug": "dragonsoul-sword",
+    "category": "swords",
+    "sprite": "/items/dragonsoul-sword.png",
+    "itemType": "Sword",
+    "tier": "T9",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dragonsoul-sword"
+  },
+  {
+    "id": "edictum-praetoris",
+    "name": "Edictum Praetoris",
+    "slug": "edictum-praetoris",
+    "category": "staves",
+    "sprite": "/items/edictum-praetoris.png",
+    "itemType": "Staff",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/edictum-praetoris"
+  },
+  {
+    "id": "elder-heartwood-staff",
+    "name": "Elder Heartwood Staff",
+    "slug": "elder-heartwood-staff",
+    "category": "staves",
+    "sprite": "/items/elder-heartwood-staff.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/elder-heartwood-staff"
+  },
+  {
+    "id": "emeraldshard-dagger",
+    "name": "Emeraldshard Dagger",
+    "slug": "emeraldshard-dagger",
+    "category": "daggers",
+    "sprite": "/items/emeraldshard-dagger.png",
+    "itemType": "Dagger",
+    "tier": "T10",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/emeraldshard-dagger"
+  },
+  {
+    "id": "enchanted-ice-blade",
+    "name": "Enchanted Ice Blade",
+    "slug": "enchanted-ice-blade",
+    "category": "swords",
+    "sprite": "/items/enchanted-ice-blade.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/enchanted-ice-blade"
+  },
+  {
+    "id": "falchion",
+    "name": "Falchion",
+    "slug": "falchion",
+    "category": "swords",
+    "sprite": "/items/falchion.png",
+    "itemType": "Sword",
+    "tier": "T4",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/falchion"
+  },
+  {
+    "id": "fallen-ones-blade",
+    "name": "Fallen One's Blade",
+    "slug": "fallen-ones-blade",
+    "category": "swords",
+    "sprite": "/items/fallen-ones-blade.png",
+    "itemType": "Sword",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/fallen-one-s-blade"
+  },
+  {
+    "id": "ffabulous-fflail",
+    "name": "FFabulous FFlail",
+    "slug": "ffabulous-fflail",
+    "category": "swords",
+    "sprite": "/items/ffabulous-fflail.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/ffabulous-fflail"
+  },
+  {
+    "id": "fire-blade",
+    "name": "Fire Blade",
+    "slug": "fire-blade",
+    "category": "katanas",
+    "sprite": "/items/fire-blade.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/fire-blade"
+  },
+  {
+    "id": "fire-bow",
+    "name": "Fire Bow",
+    "slug": "fire-bow",
+    "category": "bows",
+    "sprite": "/items/fire-bow.png",
+    "itemType": "Bow",
+    "tier": "T5",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/fire-bow"
+  },
+  {
+    "id": "fire-dagger",
+    "name": "Fire Dagger",
+    "slug": "fire-dagger",
+    "category": "daggers",
+    "sprite": "/items/fire-dagger.png",
+    "itemType": "Dagger",
+    "tier": "T8",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/fire-dagger"
+  },
+  {
+    "id": "fire-sword",
+    "name": "Fire Sword",
+    "slug": "fire-sword",
+    "category": "swords",
+    "sprite": "/items/fire-sword.png",
+    "itemType": "Sword",
+    "tier": "T5",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/fire-sword"
+  },
+  {
+    "id": "foramite-staff",
+    "name": "Foramite Staff",
+    "slug": "foramite-staff",
+    "category": "staves",
+    "sprite": "/items/foramite-staff.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/foramite-staff"
+  },
+  {
+    "id": "frostbite",
+    "name": "Frostbite",
+    "slug": "frostbite",
+    "category": "swords",
+    "sprite": "/items/frostbite.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/frostbite"
+  },
+  {
+    "id": "frostfall-rod",
+    "name": "Frostfall Rod",
+    "slug": "frostfall-rod",
+    "category": "staves",
+    "sprite": "/items/frostfall-rod.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/frostfall-rod"
+  },
+  {
+    "id": "gaseous-glaive",
+    "name": "Gaseous Glaive",
+    "slug": "gaseous-glaive",
+    "category": "swords",
+    "sprite": "/items/gaseous-glaive.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/gaseous-glaive"
+  },
+  {
+    "id": "glass-sword",
+    "name": "Glass Sword",
+    "slug": "glass-sword",
+    "category": "swords",
+    "sprite": "/items/glass-sword.png",
+    "itemType": "Sword",
+    "tier": "T6",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/glass-sword"
+  },
+  {
+    "id": "golden-bow",
+    "name": "Golden Bow",
+    "slug": "golden-bow",
+    "category": "bows",
+    "sprite": "/items/golden-bow.png",
+    "itemType": "Bow",
+    "tier": "T8",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/golden-bow"
+  },
+  {
+    "id": "golden-dagger",
+    "name": "Golden Dagger",
+    "slug": "golden-dagger",
+    "category": "daggers",
+    "sprite": "/items/golden-dagger.png",
+    "itemType": "Dagger",
+    "tier": "T5",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/golden-dagger"
+  },
+  {
+    "id": "golden-sword",
+    "name": "Golden Sword",
+    "slug": "golden-sword",
+    "category": "swords",
+    "sprite": "/items/golden-sword.png",
+    "itemType": "Sword",
+    "tier": "T7",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/golden-sword"
+  },
+  {
+    "id": "gravekeepers-scythe",
+    "name": "Gravekeeper's Scythe",
+    "slug": "gravekeepers-scythe",
+    "category": "staves",
+    "sprite": "/items/gravekeepers-scythe.png",
+    "itemType": "Staff",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/gravekeeper-s-scythe"
+  },
+  {
+    "id": "greywood-bow",
+    "name": "Greywood Bow",
+    "slug": "greywood-bow",
+    "category": "bows",
+    "sprite": "/items/greywood-bow.png",
+    "itemType": "Bow",
+    "tier": "T3",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/greywood-bow"
+  },
+  {
+    "id": "groovy-mango",
+    "name": "Groovy Mango",
+    "slug": "groovy-mango",
+    "category": "daggers",
+    "sprite": "/items/groovy-mango.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/groovy-mango"
+  },
+  {
+    "id": "hardwood-bow",
+    "name": "Hardwood Bow",
+    "slug": "hardwood-bow",
+    "category": "bows",
+    "sprite": "/items/hardwood-bow.png",
+    "itemType": "Bow",
+    "tier": "T2",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/hardwood-bow"
+  },
+  {
+    "id": "heartfind-dagger",
+    "name": "Heartfind Dagger",
+    "slug": "heartfind-dagger",
+    "category": "daggers",
+    "sprite": "/items/heartfind-dagger.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/heartfind-dagger"
+  },
+  {
+    "id": "heartsteel-claymore",
+    "name": "Heartsteel Claymore",
+    "slug": "heartsteel-claymore",
+    "category": "swords",
+    "sprite": "/items/heartsteel-claymore.png",
+    "itemType": "Sword",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/heartsteel-claymore"
+  },
+  {
+    "id": "henchmans-claymore",
+    "name": "Henchman's Claymore",
+    "slug": "henchmans-claymore",
+    "category": "swords",
+    "sprite": "/items/henchmans-claymore.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "Orange",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/henchman-s-claymore"
+  },
+  {
+    "id": "heros-spellblade",
+    "name": "Hero's Spellblade",
+    "slug": "heros-spellblade",
+    "category": "spellblades",
+    "sprite": "/items/heros-spellblade.png",
+    "itemType": "Spellblade",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/hero-s-spellblade"
+  },
+  {
+    "id": "hovering-spellblade",
+    "name": "Hovering Spellblade",
+    "slug": "hovering-spellblade",
+    "category": "spellblades",
+    "sprite": "/items/hovering-spellblade.png",
+    "itemType": "Spellblade",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/hovering-spellblade"
+  },
+  {
+    "id": "ichimonji",
+    "name": "Ichimonji",
+    "slug": "ichimonji",
+    "category": "katanas",
+    "sprite": "/items/ichimonji.png",
+    "itemType": "Katana",
+    "tier": "T10",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/ichimonji"
+  },
+  {
+    "id": "indomptable",
+    "name": "Indomptable",
+    "slug": "indomptable",
+    "category": "swords",
+    "sprite": "/items/indomptable.png",
+    "itemType": "Sword",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/indomptable"
+  },
+  {
+    "id": "ironwood-bow",
+    "name": "Ironwood Bow",
+    "slug": "ironwood-bow",
+    "category": "bows",
+    "sprite": "/items/ironwood-bow.png",
+    "itemType": "Bow",
+    "tier": "T4",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/ironwood-bow"
+  },
+  {
+    "id": "jagged-hatchet",
+    "name": "Jagged Hatchet",
+    "slug": "jagged-hatchet",
+    "category": "swords",
+    "sprite": "/items/jagged-hatchet.png",
+    "itemType": "Sword",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/jagged-hatchet"
+  },
+  {
+    "id": "jailers-scythe",
+    "name": "Jailer's Scythe",
+    "slug": "jailers-scythe",
+    "category": "staves",
+    "sprite": "/items/jailers-scythe.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/jailer-s-scythe"
+  },
+  {
+    "id": "jewel-eye-katana",
+    "name": "Jewel Eye Katana",
+    "slug": "jewel-eye-katana",
+    "category": "katanas",
+    "sprite": "/items/jewel-eye-katana.png",
+    "itemType": "Katana",
+    "tier": "T9",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/jewel-eye-katana"
+  },
+  {
+    "id": "k-i-d-d-force",
+    "name": "K.I.D.D. Force",
+    "slug": "k-i-d-d-force",
+    "category": "staves",
+    "sprite": "/items/k-i-d-d-force.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/k-i-d-d-force"
+  },
+  {
+    "id": "k-i-d-d-force-2-0",
+    "name": "K.I.D.D. Force 2.0",
+    "slug": "k-i-d-d-force-2-0",
+    "category": "staves",
+    "sprite": "/items/k-i-d-d-force-2-0.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/k-i-d-d-force-2-0"
+  },
+  {
+    "id": "kendo-stick",
+    "name": "Kendo Stick",
+    "slug": "kendo-stick",
+    "category": "katanas",
+    "sprite": "/items/kendo-stick.png",
+    "itemType": "Katana",
+    "tier": "T1",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/kendo-stick"
+  },
+  {
+    "id": "koalapow",
+    "name": "KoalaPOW",
+    "slug": "koalapow",
+    "category": "staves",
+    "sprite": "/items/koalapow.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/koalapow"
+  },
+  {
+    "id": "kusanagi",
+    "name": "Kusanagi",
+    "slug": "kusanagi",
+    "category": "katanas",
+    "sprite": "/items/kusanagi.png",
+    "itemType": "Katana",
+    "tier": "T14",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/kusanagi"
+  },
+  {
+    "id": "kyuuketsuki-hitogoroshi",
+    "name": "Kyuuketsuki Hitogoroshi",
+    "slug": "kyuuketsuki-hitogoroshi",
+    "category": "katanas",
+    "sprite": "/items/kyuuketsuki-hitogoroshi.png",
+    "itemType": "Katana",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/kyuuketsuki-hitogoroshi"
+  },
+  {
+    "id": "leaf-bow",
+    "name": "Leaf Bow",
+    "slug": "leaf-bow",
+    "category": "bows",
+    "sprite": "/items/leaf-bow.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/leaf-bow"
+  },
+  {
+    "id": "line-kutter-katana",
+    "name": "Line Kutter Katana",
+    "slug": "line-kutter-katana",
+    "category": "katanas",
+    "sprite": "/items/line-kutter-katana.png",
+    "itemType": "Katana",
+    "tier": "T4",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/line-kutter-katana"
+  },
+  {
+    "id": "long-sword",
+    "name": "Long Sword",
+    "slug": "long-sword",
+    "category": "swords",
+    "sprite": "/items/long-sword.png",
+    "itemType": "Sword",
+    "tier": "T3",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/long-sword"
+  },
+  {
+    "id": "love-heart-spellblade",
+    "name": "Love Heart Spellblade",
+    "slug": "love-heart-spellblade",
+    "category": "spellblades",
+    "sprite": "/items/love-heart-spellblade.png",
+    "itemType": "Spellblade",
+    "tier": "UT",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/love-heart-spellblade"
+  },
+  {
+    "id": "marionette-ravager",
+    "name": "Marionette Ravager",
+    "slug": "marionette-ravager",
+    "category": "daggers",
+    "sprite": "/items/marionette-ravager.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/marionette-ravager"
+  },
+  {
+    "id": "masamune",
+    "name": "Masamune",
+    "slug": "masamune",
+    "category": "katanas",
+    "sprite": "/items/masamune.png",
+    "itemType": "Katana",
+    "tier": "T12",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/masamune"
+  },
+  {
+    "id": "mechanical-kogbold-limb",
+    "name": "Mechanical Kogbold Limb",
+    "slug": "mechanical-kogbold-limb",
+    "category": "staves",
+    "sprite": "/items/mechanical-kogbold-limb.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/mechanical-kogbold-limb"
+  },
+  {
+    "id": "mister-mango",
+    "name": "Mister Mango",
+    "slug": "mister-mango",
+    "category": "daggers",
+    "sprite": "/items/mister-mango.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/mister-mango"
+  },
+  {
+    "id": "mithril-dagger",
+    "name": "Mithril Dagger",
+    "slug": "mithril-dagger",
+    "category": "daggers",
+    "sprite": "/items/mithril-dagger.png",
+    "itemType": "Dagger",
+    "tier": "T7",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/mithril-dagger"
+  },
+  {
+    "id": "mmace-mmurderer",
+    "name": "MMace MMurderer",
+    "slug": "mmace-mmurderer",
+    "category": "swords",
+    "sprite": "/items/mmace-mmurderer.png",
+    "itemType": "Mace",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/mmace-mmurderer"
+  },
+  {
+    "id": "moonbeam-blade",
+    "name": "Moonbeam Blade",
+    "slug": "moonbeam-blade",
+    "category": "katanas",
+    "sprite": "/items/moonbeam-blade.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/moonbeam-blade"
+  },
+  {
+    "id": "muramasa",
+    "name": "Muramasa",
+    "slug": "muramasa",
+    "category": "katanas",
+    "sprite": "/items/muramasa.png",
+    "itemType": "Katana",
+    "tier": "T11",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/muramasa"
+  },
+  {
+    "id": "nebular-rod",
+    "name": "Nebular Rod",
+    "slug": "nebular-rod",
+    "category": "staves",
+    "sprite": "/items/nebular-rod.png",
+    "itemType": "Staff",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/nebular-rod"
+  },
+  {
+    "id": "night-edge",
+    "name": "Night Edge",
+    "slug": "night-edge",
+    "category": "katanas",
+    "sprite": "/items/night-edge.png",
+    "itemType": "Katana",
+    "tier": "T5",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/night-edge"
+  },
+  {
+    "id": "obsidian-dagger",
+    "name": "Obsidian Dagger",
+    "slug": "obsidian-dagger",
+    "category": "daggers",
+    "sprite": "/items/obsidian-dagger.png",
+    "itemType": "Dagger",
+    "tier": "T6",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/obsidian-dagger"
+  },
+  {
+    "id": "oppressors-staff",
+    "name": "Oppressor's Staff",
+    "slug": "oppressors-staff",
+    "category": "staves",
+    "sprite": "/items/oppressors-staff.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "Orange",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/oppressor-s-staff"
+  },
+  {
+    "id": "oryxs-greatsword",
+    "name": "Oryx's Greatsword",
+    "slug": "oryxs-greatsword",
+    "category": "swords",
+    "sprite": "/items/oryxs-greatsword.png",
+    "itemType": "Sword",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/oryx-s-greatsword"
+  },
+  {
+    "id": "pirate-kings-cutlass",
+    "name": "Pirate King's Cutlass",
+    "slug": "pirate-kings-cutlass",
+    "category": "swords",
+    "sprite": "/items/pirate-kings-cutlass.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/pirate-king-s-cutlass"
+  },
+  {
+    "id": "pirates-artillery",
+    "name": "Pirate's Artillery",
+    "slug": "pirates-artillery",
+    "category": "swords",
+    "sprite": "/items/pirates-artillery.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/pirate-s-artillery"
+  },
+  {
+    "id": "pixie-enchanted-sword",
+    "name": "Pixie-Enchanted Sword",
+    "slug": "pixie-enchanted-sword",
+    "category": "swords",
+    "sprite": "/items/pixie-enchanted-sword.png",
+    "itemType": "Sword",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/pixie-enchanted-sword"
+  },
+  {
+    "id": "plain-katana",
+    "name": "Plain Katana",
+    "slug": "plain-katana",
+    "category": "katanas",
+    "sprite": "/items/plain-katana.png",
+    "itemType": "Katana",
+    "tier": "T2",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/plain-katana"
+  },
+  {
+    "id": "poison-fang-dagger",
+    "name": "Poison Fang Dagger",
+    "slug": "poison-fang-dagger",
+    "category": "daggers",
+    "sprite": "/items/poison-fang-dagger.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/poison-fang-dagger"
+  },
+  {
+    "id": "predator-bow",
+    "name": "Predator Bow",
+    "slug": "predator-bow",
+    "category": "bows",
+    "sprite": "/items/predator-bow.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "Orange",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/predator-bow"
+  },
+  {
+    "id": "ragetalon-dagger",
+    "name": "Ragetalon Dagger",
+    "slug": "ragetalon-dagger",
+    "category": "daggers",
+    "sprite": "/items/ragetalon-dagger.png",
+    "itemType": "Dagger",
+    "tier": "T9",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/ragetalon-dagger"
+  },
+  {
+    "id": "ravenheart-sword",
+    "name": "Ravenheart Sword",
+    "slug": "ravenheart-sword",
+    "category": "swords",
+    "sprite": "/items/ravenheart-sword.png",
+    "itemType": "Sword",
+    "tier": "T8",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/ravenheart-sword"
+  },
+  {
+    "id": "redwood-bow",
+    "name": "Redwood Bow",
+    "slug": "redwood-bow",
+    "category": "bows",
+    "sprite": "/items/redwood-bow.png",
+    "itemType": "Bow",
+    "tier": "T7",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/redwood-bow"
+  },
+  {
+    "id": "reinforced-bow",
+    "name": "Reinforced Bow",
+    "slug": "reinforced-bow",
+    "category": "bows",
+    "sprite": "/items/reinforced-bow.png",
+    "itemType": "Bow",
+    "tier": "T1",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/reinforced-bow"
+  },
+  {
+    "id": "rocket-launcher",
+    "name": "Rocket Launcher",
+    "slug": "rocket-launcher",
+    "category": "spellblades",
+    "sprite": "/items/rocket-launcher.png",
+    "itemType": "Spellblade",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/rocket-launcher"
+  },
+  {
+    "id": "royal-sekhem",
+    "name": "Royal Sekhem",
+    "slug": "royal-sekhem",
+    "category": "spellblades",
+    "sprite": "/items/royal-sekhem.png",
+    "itemType": "Spellblade",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/royal-sekhem"
+  },
+  {
+    "id": "rusty-katana",
+    "name": "Rusty Katana",
+    "slug": "rusty-katana",
+    "category": "katanas",
+    "sprite": "/items/rusty-katana.png",
+    "itemType": "Katana",
+    "tier": "T0",
+    "bagType": "Unknown",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/rusty-katana"
+  },
+  {
+    "id": "s-t-a-f-f",
+    "name": "S.T.A.F.F.",
+    "slug": "s-t-a-f-f",
+    "category": "staves",
+    "sprite": "/items/s-t-a-f-f.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/s-t-a-f-f"
+  },
+  {
+    "id": "saber",
+    "name": "Saber",
+    "slug": "saber",
+    "category": "swords",
+    "sprite": "/items/saber.png",
+    "itemType": "Sword",
+    "tier": "T2",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/saber"
+  },
+  {
+    "id": "sadamune",
+    "name": "Sadamune",
+    "slug": "sadamune",
+    "category": "katanas",
+    "sprite": "/items/sadamune.png",
+    "itemType": "Katana",
+    "tier": "T13",
+    "bagType": "Red",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sadamune"
+  },
+  {
+    "id": "saint-nicolas-blade",
+    "name": "Saint Nicolas' Blade",
+    "slug": "saint-nicolas-blade",
+    "category": "swords",
+    "sprite": "/items/saint-nicolas-blade.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/saint-nicolas-blade"
+  },
+  {
+    "id": "shamans-staff",
+    "name": "Shaman's Staff",
+    "slug": "shamans-staff",
+    "category": "staves",
+    "sprite": "/items/shamans-staff.png",
+    "itemType": "Staff",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/shaman-s-staff"
+  },
+  {
+    "id": "sharpshooter-bow",
+    "name": "Sharpshooter Bow",
+    "slug": "sharpshooter-bow",
+    "category": "bows",
+    "sprite": "/items/sharpshooter-bow.png",
+    "itemType": "Bow",
+    "tier": "T6",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sharpshooter-bow"
+  },
+  {
+    "id": "short-sword",
+    "name": "Short Sword",
+    "slug": "short-sword",
+    "category": "swords",
+    "sprite": "/items/short-sword.png",
+    "itemType": "Sword",
+    "tier": "T0",
+    "bagType": "Unknown",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/short-sword"
+  },
+  {
+    "id": "shortbow",
+    "name": "Shortbow",
+    "slug": "shortbow",
+    "category": "bows",
+    "sprite": "/items/shortbow.png",
+    "itemType": "Bow",
+    "tier": "T0",
+    "bagType": "Unknown",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/shortbow"
+  },
+  {
+    "id": "skull-splitter-sword",
+    "name": "Skull-splitter Sword",
+    "slug": "skull-splitter-sword",
+    "category": "swords",
+    "sprite": "/items/skull-splitter-sword.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/skull-splitter-sword"
+  },
+  {
+    "id": "sky-edge",
+    "name": "Sky Edge",
+    "slug": "sky-edge",
+    "category": "katanas",
+    "sprite": "/items/sky-edge.png",
+    "itemType": "Katana",
+    "tier": "T6",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sky-edge"
+  },
+  {
+    "id": "skysplitter-sword",
+    "name": "Skysplitter Sword",
+    "slug": "skysplitter-sword",
+    "category": "swords",
+    "sprite": "/items/skysplitter-sword.png",
+    "itemType": "Sword",
+    "tier": "T11",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/skysplitter-sword"
+  },
+  {
+    "id": "sleigh-bell-staff",
+    "name": "Sleigh Bell Staff",
+    "slug": "sleigh-bell-staff",
+    "category": "staves",
+    "sprite": "/items/sleigh-bell-staff.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sleigh-bell-staff"
+  },
+  {
+    "id": "snow-branch",
+    "name": "Snow Branch",
+    "slug": "snow-branch",
+    "category": "staves",
+    "sprite": "/items/snow-branch.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/snow-branch"
+  },
+  {
+    "id": "snowblind-spellblade",
+    "name": "Snowblind Spellblade",
+    "slug": "snowblind-spellblade",
+    "category": "spellblades",
+    "sprite": "/items/snowblind-spellblade.png",
+    "itemType": "Spellblade",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/snowblind-spellblade"
+  },
+  {
+    "id": "spectral-sword",
+    "name": "Spectral Sword",
+    "slug": "spectral-sword",
+    "category": "swords",
+    "sprite": "/items/spectral-sword.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spectral-sword"
+  },
+  {
+    "id": "spellblade-of-arcane-magic",
+    "name": "Spellblade of Arcane Magic",
+    "slug": "spellblade-of-arcane-magic",
+    "category": "spellblades",
+    "sprite": "/items/spellblade-of-arcane-magic.png",
+    "itemType": "Spellblade",
+    "tier": "T9",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spellblade-of-arcane-magic"
+  },
+  {
+    "id": "spellblade-of-corrupt-premonitions",
+    "name": "Spellblade of Corrupt Premonitions",
+    "slug": "spellblade-of-corrupt-premonitions",
+    "category": "spellblades",
+    "sprite": "/items/spellblade-of-corrupt-premonitions.png",
+    "itemType": "Spellblade",
+    "tier": "T10",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spellblade-of-corrupt-premonitions"
+  },
+  {
+    "id": "spellblade-of-decimation",
+    "name": "Spellblade of Decimation",
+    "slug": "spellblade-of-decimation",
+    "category": "spellblades",
+    "sprite": "/items/spellblade-of-decimation.png",
+    "itemType": "Spellblade",
+    "tier": "T7",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spellblade-of-decimation"
+  },
+  {
+    "id": "spellblade-of-nightmares",
+    "name": "Spellblade of Nightmares",
+    "slug": "spellblade-of-nightmares",
+    "category": "spellblades",
+    "sprite": "/items/spellblade-of-nightmares.png",
+    "itemType": "Spellblade",
+    "tier": "T8",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spellblade-of-nightmares"
+  },
+  {
+    "id": "spellblade-of-starry-insight",
+    "name": "Spellblade of Starry Insight",
+    "slug": "spellblade-of-starry-insight",
+    "category": "spellblades",
+    "sprite": "/items/spellblade-of-starry-insight.png",
+    "itemType": "Spellblade",
+    "tier": "T11",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spellblade-of-starry-insight"
+  },
+  {
+    "id": "spellblade-of-the-everlasting-death",
+    "name": "Spellblade of the Everlasting Death",
+    "slug": "spellblade-of-the-everlasting-death",
+    "category": "spellblades",
+    "sprite": "/items/spellblade-of-the-everlasting-death.png",
+    "itemType": "Spellblade",
+    "tier": "T14",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spellblade-of-the-everlasting-death"
+  },
+  {
+    "id": "spellblade-of-the-heavens-light",
+    "name": "Spellblade of the Heavens Light",
+    "slug": "spellblade-of-the-heavens-light",
+    "category": "spellblades",
+    "sprite": "/items/spellblade-of-the-heavens-light.png",
+    "itemType": "Spellblade",
+    "tier": "T13",
+    "bagType": "Red",
+    "soulbound": false,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spellblade-of-the-heavens-light"
+  },
+  {
+    "id": "spellblade-of-the-void",
+    "name": "Spellblade of the Void",
+    "slug": "spellblade-of-the-void",
+    "category": "spellblades",
+    "sprite": "/items/spellblade-of-the-void.png",
+    "itemType": "Spellblade",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": false,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spellblade-of-the-void"
+  },
+  {
+    "id": "spider-silk-bow",
+    "name": "Spider Silk Bow",
+    "slug": "spider-silk-bow",
+    "category": "bows",
+    "sprite": "/items/spider-silk-bow.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spider-silk-bow"
+  },
+  {
+    "id": "spirit-dagger",
+    "name": "Spirit Dagger",
+    "slug": "spirit-dagger",
+    "category": "daggers",
+    "sprite": "/items/spirit-dagger.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spirit-dagger"
+  },
+  {
+    "id": "spirit-staff",
+    "name": "Spirit Staff",
+    "slug": "spirit-staff",
+    "category": "staves",
+    "sprite": "/items/spirit-staff.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/spirit-staff"
+  },
+  {
+    "id": "squaroid-staff",
+    "name": "Squaroid Staff",
+    "slug": "squaroid-staff",
+    "category": "staves",
+    "sprite": "/items/squaroid-staff.png",
+    "itemType": "Staff",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/squaroid-staff"
+  },
+  {
+    "id": "st-abrahams-wand",
+    "name": "St. Abraham's Wand",
+    "slug": "st-abrahams-wand",
+    "category": "wands",
+    "sprite": "/items/st-abrahams-wand.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/st-abraham-s-wand"
+  },
+  {
+    "id": "staff-of-eruption",
+    "name": "Staff of Eruption",
+    "slug": "staff-of-eruption",
+    "category": "staves",
+    "sprite": "/items/staff-of-eruption.png",
+    "itemType": "Staff",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-eruption"
+  },
+  {
+    "id": "staff-of-extreme-prejudice",
+    "name": "Staff of Extreme Prejudice",
+    "slug": "staff-of-extreme-prejudice",
+    "category": "staves",
+    "sprite": "/items/staff-of-extreme-prejudice.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-extreme-prejudice"
+  },
+  {
+    "id": "staff-of-iceblast",
+    "name": "Staff of Iceblast",
+    "slug": "staff-of-iceblast",
+    "category": "staves",
+    "sprite": "/items/staff-of-iceblast.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-iceblast"
+  },
+  {
+    "id": "staff-of-the-crystal-serpent",
+    "name": "Staff of the Crystal Serpent",
+    "slug": "staff-of-the-crystal-serpent",
+    "category": "staves",
+    "sprite": "/items/staff-of-the-crystal-serpent.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Necromancer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-the-crystal-serpent"
+  },
+  {
+    "id": "staff-of-the-saint",
+    "name": "Staff of the Saint",
+    "slug": "staff-of-the-saint",
+    "category": "staves",
+    "sprite": "/items/staff-of-the-saint.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-the-saint"
+  },
+  {
+    "id": "staff-of-unholy-sacrifice",
+    "name": "Staff of Unholy Sacrifice",
+    "slug": "staff-of-unholy-sacrifice",
+    "category": "staves",
+    "sprite": "/items/staff-of-unholy-sacrifice.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Necromancer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-unholy-sacrifice"
+  },
+  {
+    "id": "steam-pipe",
+    "name": "Steam Pipe",
+    "slug": "steam-pipe",
+    "category": "spellblades",
+    "sprite": "/items/steam-pipe.png",
+    "itemType": "Spellblade",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Sorcerer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/steam-pipe"
+  },
+  {
+    "id": "stygian-torch",
+    "name": "Stygian Torch",
+    "slug": "stygian-torch",
+    "category": "staves",
+    "sprite": "/items/stygian-torch.png",
+    "itemType": "Staff",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/stygian-torch"
+  },
+  {
+    "id": "swashbucklers-sickle",
+    "name": "Swashbuckler's Sickle",
+    "slug": "swashbucklers-sickle",
+    "category": "swords",
+    "sprite": "/items/swashbucklers-sickle.png",
+    "itemType": "Sword",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/swashbuckler-s-sickle"
+  },
+  {
+    "id": "sword-of-acclaim",
+    "name": "Sword of Acclaim",
+    "slug": "sword-of-acclaim",
+    "category": "swords",
+    "sprite": "/items/sword-of-acclaim.png",
+    "itemType": "Sword",
+    "tier": "T12",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sword-of-acclaim"
+  },
+  {
+    "id": "sword-of-illumination",
+    "name": "Sword of Illumination",
+    "slug": "sword-of-illumination",
+    "category": "swords",
+    "sprite": "/items/sword-of-illumination.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sword-of-illumination"
+  },
+  {
+    "id": "sword-of-majesty",
+    "name": "Sword of Majesty",
+    "slug": "sword-of-majesty",
+    "category": "swords",
+    "sprite": "/items/sword-of-majesty.png",
+    "itemType": "Sword",
+    "tier": "T14",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sword-of-majesty"
+  },
+  {
+    "id": "sword-of-splendor",
+    "name": "Sword of Splendor",
+    "slug": "sword-of-splendor",
+    "category": "swords",
+    "sprite": "/items/sword-of-splendor.png",
+    "itemType": "Sword",
+    "tier": "T13",
+    "bagType": "Red",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sword-of-splendor"
+  },
+  {
+    "id": "sword-of-the-colossus",
+    "name": "Sword of the Colossus",
+    "slug": "sword-of-the-colossus",
+    "category": "swords",
+    "sprite": "/items/sword-of-the-colossus.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sword-of-the-colossus"
+  },
+  {
+    "id": "sword-of-the-rainbows-end",
+    "name": "Sword of the Rainbow's End",
+    "slug": "sword-of-the-rainbows-end",
+    "category": "swords",
+    "sprite": "/items/sword-of-the-rainbows-end.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sword-of-the-rainbow-s-end"
+  },
+  {
+    "id": "tezcacoatls-tail",
+    "name": "Tezcacoatl's Tail",
+    "slug": "tezcacoatls-tail",
+    "category": "staves",
+    "sprite": "/items/tezcacoatls-tail.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/tezcacoatl-s-tail"
+  },
+  {
+    "id": "the-phylactery",
+    "name": "The Phylactery",
+    "slug": "the-phylactery",
+    "category": "staves",
+    "sprite": "/items/the-phylactery.png",
+    "itemType": "Staff",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/the-phylactery"
+  },
+  {
+    "id": "the-right-hook",
+    "name": "The Right Hook",
+    "slug": "the-right-hook",
+    "category": "daggers",
+    "sprite": "/items/the-right-hook.png",
+    "itemType": "Dagger",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Rogue",
+      "Assassin",
+      "Trickster"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/the-right-hook"
+  },
+  {
+    "id": "thousand-shot",
+    "name": "Thousand Shot",
+    "slug": "thousand-shot",
+    "category": "bows",
+    "sprite": "/items/thousand-shot.png",
+    "itemType": "Bow",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/thousand-shot"
+  },
+  {
+    "id": "thunder-katana",
+    "name": "Thunder Katana",
+    "slug": "thunder-katana",
+    "category": "katanas",
+    "sprite": "/items/thunder-katana.png",
+    "itemType": "Katana",
+    "tier": "T3",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/thunder-katana"
+  },
+  {
+    "id": "tideturner-trident",
+    "name": "Tideturner Trident",
+    "slug": "tideturner-trident",
+    "category": "staves",
+    "sprite": "/items/tideturner-trident.png",
+    "itemType": "Staff",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/tideturner-trident"
+  },
+  {
+    "id": "torrential-staff",
+    "name": "Torrential Staff",
+    "slug": "torrential-staff",
+    "category": "staves",
+    "sprite": "/items/torrential-staff.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/torrential-staff"
+  },
+  {
+    "id": "tyrants-wand",
+    "name": "Tyrant's Wand",
+    "slug": "tyrants-wand",
+    "category": "wands",
+    "sprite": "/items/tyrants-wand.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "Orange",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/tyrant-s-wand"
+  },
+  {
+    "id": "unstable-anomaly",
+    "name": "Unstable Anomaly",
+    "slug": "unstable-anomaly",
+    "category": "swords",
+    "sprite": "/items/unstable-anomaly.png",
+    "itemType": "Sword",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/unstable-anomaly"
+  },
+  {
+    "id": "verdant-bow",
+    "name": "Verdant Bow",
+    "slug": "verdant-bow",
+    "category": "bows",
+    "sprite": "/items/verdant-bow.png",
+    "itemType": "Bow",
+    "tier": "T9",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Archer",
+      "Huntress",
+      "Bard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/verdant-bow"
+  },
+  {
+    "id": "vigor",
+    "name": "Vigor",
+    "slug": "vigor",
+    "category": "staves",
+    "sprite": "/items/vigor.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/vigor"
+  },
+  {
+    "id": "vinesword",
+    "name": "Vinesword",
+    "slug": "vinesword",
+    "category": "swords",
+    "sprite": "/items/vinesword.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Warrior",
+      "Knight",
+      "Paladin"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/vinesword"
+  },
+  {
+    "id": "void-blade",
+    "name": "Void Blade",
+    "slug": "void-blade",
+    "category": "katanas",
+    "sprite": "/items/void-blade.png",
+    "itemType": "Sword",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Samurai",
+      "Ninja",
+      "Kensei"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/void-blade"
+  },
+  {
+    "id": "wand-of-the-bulwark",
+    "name": "Wand of the Bulwark",
+    "slug": "wand-of-the-bulwark",
+    "category": "wands",
+    "sprite": "/items/wand-of-the-bulwark.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-the-bulwark"
+  },
+  {
+    "id": "wand-of-the-fallen",
+    "name": "Wand of the Fallen",
+    "slug": "wand-of-the-fallen",
+    "category": "wands",
+    "sprite": "/items/wand-of-the-fallen.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-the-fallen"
+  }
+]

@@ -1,208 +1,122 @@
 {
-  "categoryUrl": "https://www.realmeye.com/wiki/swords",
+  "categoryUrl": "https://www.realmeye.com/wiki/spellblades",
   "urls": [
-    "https://www.realmeye.com/wiki/short-sword",
-    "https://www.realmeye.com/wiki/broad-sword",
-    "https://www.realmeye.com/wiki/saber",
-    "https://www.realmeye.com/wiki/long-sword",
-    "https://www.realmeye.com/wiki/falchion",
-    "https://www.realmeye.com/wiki/fire-sword",
-    "https://www.realmeye.com/wiki/glass-sword",
-    "https://www.realmeye.com/wiki/golden-sword",
-    "https://www.realmeye.com/wiki/ravenheart-sword",
-    "https://www.realmeye.com/wiki/dragonsoul-sword",
-    "https://www.realmeye.com/wiki/archon-sword",
-    "https://www.realmeye.com/wiki/skysplitter-sword",
-    "https://www.realmeye.com/wiki/sword-of-acclaim",
-    "https://www.realmeye.com/wiki/sword-of-splendor",
-    "https://www.realmeye.com/wiki/sword-of-majesty",
-    "https://www.realmeye.com/wiki/mmace-mmurderer",
-    "https://www.realmeye.com/wiki/ffabulous-fflail",
-    "https://www.realmeye.com/wiki/vinesword",
-    "https://www.realmeye.com/wiki/crystal-sword",
-    "https://www.realmeye.com/wiki/arcane-rapier",
-    "https://www.realmeye.com/wiki/henchman-s-claymore",
-    "https://www.realmeye.com/wiki/demon-blade",
-    "https://www.realmeye.com/wiki/sword-of-illumination",
-    "https://www.realmeye.com/wiki/spectral-sword",
-    "https://www.realmeye.com/wiki/ancient-stone-sword",
-    "https://www.realmeye.com/wiki/pirate-king-s-cutlass",
-    "https://www.realmeye.com/wiki/acidic-slasher",
-    "https://www.realmeye.com/wiki/gaseous-glaive",
-    "https://www.realmeye.com/wiki/pirate-s-artillery",
-    "https://www.realmeye.com/wiki/sword-of-the-colossus",
-    "https://www.realmeye.com/wiki/divinity",
-    "https://www.realmeye.com/wiki/atavistic-soul-sabre",
-    "https://www.realmeye.com/wiki/pixie-enchanted-sword",
-    "https://www.realmeye.com/wiki/heartsteel-claymore",
-    "https://www.realmeye.com/wiki/fallen-one-s-blade",
-    "https://www.realmeye.com/wiki/killer-bee-queen",
-    "https://www.realmeye.com/wiki/oryx-s-greatsword",
-    "https://www.realmeye.com/wiki/indomptable",
-    "https://www.realmeye.com/wiki/swashbuckler-s-sickle",
-    "https://www.realmeye.com/wiki/jagged-hatchet",
-    "https://www.realmeye.com/wiki/forge",
-    "https://www.realmeye.com/wiki/dalvar-s-battle-axe",
-    "https://www.realmeye.com/wiki/esben-the-neurotic",
-    "https://www.realmeye.com/wiki/doctor-swordsworth",
-    "https://www.realmeye.com/wiki/unstable-anomaly",
-    "https://www.realmeye.com/wiki/skull-splitter-sword",
-    "https://www.realmeye.com/wiki/frostbite",
-    "https://www.realmeye.com/wiki/sword-of-the-rainbow-s-end",
-    "https://www.realmeye.com/wiki/enchanted-ice-blade",
-    "https://www.realmeye.com/wiki/saint-nicolas-blade",
-    "https://www.realmeye.com/wiki/silex-s-hammer",
-    "https://www.realmeye.com/wiki/aspirant-s-sword",
-    "https://www.realmeye.com/wiki/hammer-sword",
-    "https://www.realmeye.com/wiki/sword-of-the-unending-chaos",
-    "https://www.realmeye.com/wiki/the-crimson-blade",
-    "https://www.realmeye.com/wiki/cheerful-chipper",
-    "https://www.realmeye.com/wiki/chocsicle",
-    "https://www.realmeye.com/wiki/icebreaker-maul",
-    "https://www.realmeye.com/wiki/apocalypse-feather",
-    "https://www.realmeye.com/wiki/faithful-spatha",
-    "https://www.realmeye.com/wiki/petal-strike-sword",
-    "https://www.realmeye.com/wiki/blacksmith-hammer",
-    "https://www.realmeye.com/wiki/legion-elite-sword",
-    "https://www.realmeye.com/wiki/blade-of-eternal-rebirth",
-    "https://www.realmeye.com/wiki/hero-s-sword",
-    "https://www.realmeye.com/wiki/khopesh",
-    "https://www.realmeye.com/wiki/keychain-cutlass",
-    "https://www.realmeye.com/wiki/eternal-echo",
-    "https://www.realmeye.com/wiki/sword-of-the-mad-god",
-    "https://www.realmeye.com/wiki/legacy-pixie-enchanted-sword",
-    "https://www.realmeye.com/wiki/hellfire-broadsword",
-    "https://www.realmeye.com/wiki/nutrient-rich-carrot-blade",
-    "https://www.realmeye.com/wiki/savage-claws",
-    "https://www.realmeye.com/wiki/eternal-graved-great-sword",
-    "https://www.realmeye.com/wiki/blood-axe"
+    "https://www.realmeye.com/wiki/spellblade-of-decimation",
+    "https://www.realmeye.com/wiki/spellblade-of-nightmares",
+    "https://www.realmeye.com/wiki/spellblade-of-arcane-magic",
+    "https://www.realmeye.com/wiki/spellblade-of-corrupt-premonitions",
+    "https://www.realmeye.com/wiki/spellblade-of-starry-insight",
+    "https://www.realmeye.com/wiki/spellblade-of-the-sun",
+    "https://www.realmeye.com/wiki/spellblade-of-the-heavens-light",
+    "https://www.realmeye.com/wiki/spellblade-of-the-everlasting-death",
+    "https://www.realmeye.com/wiki/love-heart-spellblade",
+    "https://www.realmeye.com/wiki/steam-pipe",
+    "https://www.realmeye.com/wiki/crystallized-worm-spellblade",
+    "https://www.realmeye.com/wiki/rocket-launcher",
+    "https://www.realmeye.com/wiki/snowblind-spellblade",
+    "https://www.realmeye.com/wiki/hovering-spellblade",
+    "https://www.realmeye.com/wiki/caramel-spellblade",
+    "https://www.realmeye.com/wiki/spellblade-of-the-void",
+    "https://www.realmeye.com/wiki/beach-shovel",
+    "https://www.realmeye.com/wiki/royal-sekhem",
+    "https://www.realmeye.com/wiki/hero-s-spellblade"
   ],
-  "nextIndex": 25,
+  "nextIndex": 19,
   "imported": [],
   "skipped": [
     {
-      "url": "https://www.realmeye.com/wiki/short-sword",
-      "slug": "short-sword",
+      "url": "https://www.realmeye.com/wiki/spellblade-of-decimation",
+      "slug": "spellblade-of-decimation",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/broad-sword",
-      "slug": "broad-sword",
+      "url": "https://www.realmeye.com/wiki/spellblade-of-nightmares",
+      "slug": "spellblade-of-nightmares",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/saber",
-      "slug": "saber",
+      "url": "https://www.realmeye.com/wiki/spellblade-of-arcane-magic",
+      "slug": "spellblade-of-arcane-magic",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/long-sword",
-      "slug": "long-sword",
+      "url": "https://www.realmeye.com/wiki/spellblade-of-corrupt-premonitions",
+      "slug": "spellblade-of-corrupt-premonitions",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/falchion",
-      "slug": "falchion",
+      "url": "https://www.realmeye.com/wiki/spellblade-of-starry-insight",
+      "slug": "spellblade-of-starry-insight",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/fire-sword",
-      "slug": "fire-sword",
+      "url": "https://www.realmeye.com/wiki/spellblade-of-the-sun",
+      "slug": "spellblade-of-the-sun",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/glass-sword",
-      "slug": "glass-sword",
+      "url": "https://www.realmeye.com/wiki/spellblade-of-the-heavens-light",
+      "slug": "spellblade-of-the-heavens-light",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/golden-sword",
-      "slug": "golden-sword",
+      "url": "https://www.realmeye.com/wiki/spellblade-of-the-everlasting-death",
+      "slug": "spellblade-of-the-everlasting-death",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/ravenheart-sword",
-      "slug": "ravenheart-sword",
+      "url": "https://www.realmeye.com/wiki/love-heart-spellblade",
+      "slug": "love-heart-spellblade",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/dragonsoul-sword",
-      "slug": "dragonsoul-sword",
+      "url": "https://www.realmeye.com/wiki/steam-pipe",
+      "slug": "steam-pipe",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/archon-sword",
-      "slug": "archon-sword",
+      "url": "https://www.realmeye.com/wiki/crystallized-worm-spellblade",
+      "slug": "crystallized-worm-spellblade",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/skysplitter-sword",
-      "slug": "skysplitter-sword",
+      "url": "https://www.realmeye.com/wiki/rocket-launcher",
+      "slug": "rocket-launcher",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/sword-of-acclaim",
-      "slug": "sword-of-acclaim",
+      "url": "https://www.realmeye.com/wiki/snowblind-spellblade",
+      "slug": "snowblind-spellblade",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/sword-of-splendor",
-      "slug": "sword-of-splendor",
+      "url": "https://www.realmeye.com/wiki/hovering-spellblade",
+      "slug": "hovering-spellblade",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/sword-of-majesty",
-      "slug": "sword-of-majesty",
+      "url": "https://www.realmeye.com/wiki/caramel-spellblade",
+      "slug": "caramel-spellblade",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/mmace-mmurderer",
-      "slug": "mmace-mmurderer",
+      "url": "https://www.realmeye.com/wiki/spellblade-of-the-void",
+      "slug": "spellblade-of-the-void",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/ffabulous-fflail",
-      "slug": "ffabulous-fflail",
+      "url": "https://www.realmeye.com/wiki/beach-shovel",
+      "slug": "beach-shovel",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/vinesword",
-      "slug": "vinesword",
+      "url": "https://www.realmeye.com/wiki/royal-sekhem",
+      "slug": "royal-sekhem",
       "reason": "duplicate"
     },
     {
-      "url": "https://www.realmeye.com/wiki/crystal-sword",
-      "slug": "crystal-sword",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/arcane-rapier",
-      "slug": "arcane-rapier",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/henchman-s-claymore",
-      "slug": "henchmans-claymore",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/demon-blade",
-      "slug": "demon-blade",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/sword-of-illumination",
-      "slug": "sword-of-illumination",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/spectral-sword",
-      "slug": "spectral-sword",
-      "reason": "duplicate"
-    },
-    {
-      "url": "https://www.realmeye.com/wiki/ancient-stone-sword",
-      "slug": "ancient-stone-sword",
+      "url": "https://www.realmeye.com/wiki/hero-s-spellblade",
+      "slug": "heros-spellblade",
       "reason": "duplicate"
     }
   ]
