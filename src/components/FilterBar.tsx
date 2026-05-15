@@ -1,4 +1,4 @@
-import { ChevronDown } from "lucide-react";
+import { ChevronDown, SlidersHorizontal } from "lucide-react";
 
 export interface FilterState {
   category: string;
@@ -29,35 +29,82 @@ interface SelectProps {
   onChange: (val: string) => void;
 }
 
+function formatLabel(value: string) {
+  const labels: Record<string, string> = {
+    daggers: "Daggers",
+    swords: "Swords",
+    bows: "Bows",
+    wands: "Wands",
+    staves: "Staffs",
+    katanas: "Katanas",
+    spellblades: "Spellblades",
+    abilities: "Abilities",
+    armors: "Armors",
+    rings: "Rings",
+    pets: "Pets",
+  };
+
+  return labels[value] || value;
+}
+
 function FilterSelect({ label, value, options, onChange }: SelectProps) {
   return (
-    <div className="relative flex-1 min-w-[120px]">
+    <div className="relative">
       <select
         value={value}
-        onChange={(e) => onChange(e.target.value)}
-        className="w-full appearance-none bg-stone-900 border border-amber-900/60 text-amber-100 rounded-md px-3 py-2 text-sm pr-7 focus:outline-none focus:border-amber-600 focus:ring-1 focus:ring-amber-600/40 transition-colors cursor-pointer"
+        onChange={(event) => onChange(event.target.value)}
+        className="h-10 w-full appearance-none rounded-xl border border-stone-800/80 bg-stone-950/80 px-3 pr-8 text-sm text-stone-200 outline-none transition hover:border-amber-800 focus:border-amber-500 focus:ring-2 focus:ring-amber-500/20"
       >
         <option value="">{label}</option>
-        {options.map((opt) => (
-          <option key={opt} value={opt}>
-            {opt}
+        {options.map((option) => (
+          <option key={option} value={option}>
+            {formatLabel(option)}
           </option>
         ))}
       </select>
-      <ChevronDown className="absolute right-2 top-1/2 -translate-y-1/2 w-3.5 h-3.5 text-amber-600 pointer-events-none" />
+
+      <ChevronDown className="pointer-events-none absolute right-3 top-1/2 h-3.5 w-3.5 -translate-y-1/2 text-amber-500" />
     </div>
   );
 }
 
 export default function FilterBar({ filters, onChange, options }: FilterBarProps) {
-  const update = (key: keyof FilterState) => (val: string) =>
-    onChange({ ...filters, [key]: val });
+  const update = (key: keyof FilterState) => (value: string) =>
+    onChange({ ...filters, [key]: value });
 
   const hasFilters = Object.values(filters).some(Boolean);
 
   return (
-    <div className="space-y-3">
-      <div className="grid grid-cols-2 gap-2 sm:grid-cols-3">
+    <section className="rounded-2xl border border-stone-800/80 bg-stone-900/35 p-4">
+      <div className="mb-3 flex items-center justify-between gap-3">
+        <div className="flex items-center gap-2">
+          <SlidersHorizontal className="h-4 w-4 text-amber-400" />
+          <h2 className="text-xs font-bold uppercase tracking-[0.25em] text-stone-400">
+            Advanced filters
+          </h2>
+        </div>
+
+        {hasFilters && (
+          <button
+            type="button"
+            onClick={() =>
+              onChange({
+                category: "",
+                subCategory: "",
+                itemType: "",
+                tier: "",
+                bagType: "",
+                usableClass: "",
+              })
+            }
+            className="text-xs font-semibold uppercase tracking-[0.18em] text-amber-400 transition hover:text-amber-200"
+          >
+            Clear
+          </button>
+        )}
+      </div>
+
+      <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-6">
         <FilterSelect
           label="Category"
           value={filters.category}
@@ -95,16 +142,6 @@ export default function FilterBar({ filters, onChange, options }: FilterBarProps
           onChange={update("usableClass")}
         />
       </div>
-      {hasFilters && (
-        <button
-          onClick={() =>
-            onChange({ category: "", subCategory: "", itemType: "", tier: "", bagType: "", usableClass: "" })
-          }
-          className="text-xs text-amber-600 hover:text-amber-400 transition-colors underline underline-offset-2"
-        >
-          Clear filters
-        </button>
-      )}
-    </div>
+    </section>
   );
 }

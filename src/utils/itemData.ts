@@ -1,3 +1,5 @@
+import allItemsData from "../data/all-items.json";
+
 export interface Item {
   id: string;
   name: string;
@@ -11,6 +13,8 @@ export interface Item {
   tier: string;
   bagType: string;
   soulbound?: boolean;
+  feedPower?: number | string | null;
+  fameBonus?: number | string | null;
   description?: string;
   stats?: Record<string, unknown>;
   effects?: string[];
@@ -20,53 +24,24 @@ export interface Item {
   sourceUrl?: string;
 }
 
-const itemModules = import.meta.glob<Partial<Item>>(
-  [
-    "../data/daggers/*.json",
-    "../data/swords/*.json",
-    "../data/bows/*.json",
-    "../data/wands/*.json",
-    "../data/staves/*.json",
-    "../data/katanas/*.json",
-    "../data/spellblades/*.json",
-    "../data/armors/*.json",
-    "../data/rings/*.json",
-    "../data/abilities/*.json",
-    "../data/pets/*.json"
-  ],
-  {
-    eager: true,
-    import: "default"
-  }
-);
-
-function getCategoryFromPath(path: string): string {
-  const match = path.match(/data\/([^/]+)\//);
-  return match?.[1] ?? "items";
-}
-
-function getSlugFromPath(path: string): string {
-  return path.split("/").pop()?.replace(".json", "") ?? "";
-}
-
-function normalizeItem(item: Partial<Item>, path: string): Item {
-  const slug = item.slug || getSlugFromPath(path);
-  const category = item.category || getCategoryFromPath(path);
-  const subCategory = item.subCategory || "";
+function normalizeItem(item: Partial<Item>): Item {
+  const slug = item.slug || item.id || "unknown";
 
   return {
     id: item.id || slug,
     name: item.name || slug,
     slug,
-    category,
-    subCategory,
+    category: item.category || "items",
+    subCategory: item.subCategory || "",
     sprite: item.sprite || item.spriteUrl || item.icon || `/items/${slug}.png`,
-    spriteUrl: item.spriteUrl,
-    icon: item.icon,
-    itemType: item.itemType || "Unknown",
+    spriteUrl: item.spriteUrl || "",
+    icon: item.icon || "",
+    itemType: item.itemType || "",
     tier: item.tier || "",
     bagType: item.bagType || "",
     soulbound: item.soulbound ?? false,
+    feedPower: item.feedPower ?? null,
+    fameBonus: item.fameBonus ?? null,
     description: item.description || "",
     stats: item.stats || {},
     effects: item.effects || [],
@@ -77,8 +52,8 @@ function normalizeItem(item: Partial<Item>, path: string): Item {
   };
 }
 
-const allItems: Item[] = Object.entries(itemModules)
-  .map(([path, item]) => normalizeItem(item, path))
+const allItems: Item[] = (allItemsData as Partial<Item>[])
+  .map(normalizeItem)
   .filter((item) => item.name && item.slug)
   .sort((a, b) => a.name.localeCompare(b.name));
 
@@ -95,7 +70,7 @@ export function getItemsByCategory(category: string): Item[] {
 }
 
 export function getCategories(): string[] {
-  return [...new Set(allItems.map((item) => item.category))].sort();
+  return [...new Set(allItems.map((item) => item.category).filter(Boolean))].sort();
 }
 
 export function getFilterOptions() {
