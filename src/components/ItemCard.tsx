@@ -50,15 +50,14 @@ export default function ItemCard({ item }: { item: Item }) {
 
   return (
     <Link href={`/item/${item.slug}`}>
-      <div
-        className={`group relative bg-stone-950 border rounded-xl p-3 cursor-pointer hover:bg-stone-900 transition-all duration-200 shadow-lg hover:shadow-xl ${borderClass}`}
-      >
-        <div className="flex items-center gap-3">
-          <div className="relative shrink-0 w-14 h-14 bg-stone-900 border border-amber-900/40 rounded-xl flex items-center justify-center overflow-hidden">
+      <div className={`group relative overflow-hidden rounded-3xl border bg-stone-950/90 p-4 cursor-pointer transition hover:-translate-y-0.5 hover:bg-stone-900/95 ${borderClass}`}>
+        <div className="absolute inset-x-0 top-0 h-14 bg-gradient-to-b from-amber-500/10 to-transparent pointer-events-none" />
+        <div className="relative flex items-start gap-4">
+          <div className="relative flex h-16 w-16 items-center justify-center rounded-3xl border border-amber-900/40 bg-gradient-to-br from-amber-950/25 via-stone-900 to-stone-950">
             <img
               src={spritePath}
               alt={item.name}
-              className="w-12 h-12 object-contain"
+              className="w-14 h-14 object-contain pixel-art"
               style={{ imageRendering: "pixelated" }}
               onError={(event) => {
                 const img = event.currentTarget;
@@ -67,79 +66,46 @@ export default function ItemCard({ item }: { item: Item }) {
             />
           </div>
 
-          <div className="flex-1 min-w-0">
-            <p className="text-amber-200 font-semibold text-sm leading-tight truncate group-hover:text-amber-100 transition-colors">
-              {item.name}
-            </p>
-
-            <div className="flex items-center gap-2 flex-wrap mt-1">
-              <span className="text-xs uppercase tracking-[0.18em] text-stone-500">
-                {formatCategoryLabel(item.category)}
-              </span>
-              <span className="text-xs text-stone-400">•</span>
-              <span className="text-xs text-stone-400">{item.itemType}</span>
+          <div className="min-w-0 flex-1">
+            <p className="text-base font-semibold text-amber-100 truncate">{item.name}</p>
+            <div className="mt-2 flex flex-wrap gap-2 text-[11px] uppercase tracking-[0.25em] text-stone-400">
+              <span className="rounded-full bg-stone-900/70 px-2 py-1">{formatCategoryLabel(item.category)}</span>
+              <span className="rounded-full bg-stone-900/70 px-2 py-1">{item.itemType}</span>
             </div>
-
-            <div className="flex items-center gap-1.5 mt-2 flex-wrap">
+            <div className="mt-3 flex flex-wrap items-center gap-2">
               {item.tier && (
-                <span className="text-xs font-bold text-amber-500 bg-amber-950/60 border border-amber-800/40 px-1.5 py-0.5 rounded">
+                <span className="rounded-full border border-amber-700/40 bg-amber-500/10 px-2 py-1 text-[11px] font-semibold text-amber-200">
                   {item.tier}
                 </span>
               )}
-
               {item.bagType && (
-                <span
-                  className={`text-xs border px-1.5 py-0.5 rounded ${badgeClass}`}
-                >
-                  {item.bagType} bag
-                </span>
+                <span className={`rounded-full border px-2 py-1 text-[11px] ${badgeClass}`}>{item.bagType} bag</span>
               )}
-
               {item.soulbound && (
-                <span className="text-xs text-red-400 bg-red-950/40 border border-red-800/30 px-1.5 py-0.5 rounded">
-                  SB
-                </span>
+                <span className="rounded-full border border-red-800/40 bg-red-950/60 px-2 py-1 text-[11px] text-red-300">Soulbound</span>
               )}
             </div>
           </div>
 
-          <div className="shrink-0 text-stone-600 group-hover:text-amber-600 transition-colors">
-            <svg
-              className="w-4 h-4"
-              fill="none"
-              viewBox="0 0 24 24"
-              stroke="currentColor"
-            >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                strokeWidth={2}
-                d="M9 5l7 7-7 7"
-              />
+          <div className="shrink-0 text-stone-500 group-hover:text-amber-300 transition-colors">
+            <svg className="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
             </svg>
           </div>
         </div>
 
-        {item.usableClasses &&
-          item.usableClasses.length > 0 &&
-          item.usableClasses[0] !== "Unknown" && (
-            <div className="mt-3 flex flex-wrap gap-1">
-              {item.usableClasses.slice(0, 3).map((cls) => (
-                <span
-                  key={cls}
-                  className="text-[10px] text-stone-400 bg-stone-800/60 px-1.5 py-0.5 rounded"
-                >
-                  {cls}
-                </span>
-              ))}
-
-              {item.usableClasses.length > 3 && (
-                <span className="text-[10px] text-stone-500">
-                  +{item.usableClasses.length - 3}
-                </span>
-              )}
-            </div>
-          )}
+        {item.usableClasses && item.usableClasses.length > 0 && item.usableClasses[0] !== "Unknown" && (
+          <div className="mt-4 flex flex-wrap gap-2">
+            {item.usableClasses.slice(0, 3).map((cls) => (
+              <span key={cls} className="text-[10px] text-stone-300 bg-stone-900/70 px-2 py-1 rounded-full">
+                {cls}
+              </span>
+            ))}
+            {item.usableClasses.length > 3 && (
+              <span className="text-[10px] text-stone-400">+{item.usableClasses.length - 3}</span>
+            )}
+          </div>
+        )}
       </div>
     </Link>
   );

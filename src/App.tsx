@@ -1,5 +1,6 @@
 import { Switch, Route, Router as WouterRouter } from "wouter";
 import Navigation from "./components/Navigation";
+import Footer from "./components/Footer";
 import Home from "./pages/Home";
 import Categories from "./pages/Categories";
 import ImportStats from "./pages/ImportStats";
@@ -25,6 +26,7 @@ function Router() {
           </div>
         </Route>
       </Switch>
+      <Footer />
     </>
   );
 }
@@ -32,7 +34,9 @@ function Router() {
 export default function App() {
   return (
     <WouterRouter base={import.meta.env.BASE_URL.replace(/\/$/, "")}>
-      <Router />
+      <div className="min-h-screen bg-stone-950 text-stone-100">
+        <Router />
+      </div>
     </WouterRouter>
   );
 }

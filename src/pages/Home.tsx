@@ -1,11 +1,9 @@
 import { useState, useMemo, useEffect } from "react";
-import { Shield, Database, ShieldCheck, AlertTriangle } from "lucide-react";
 import { useSearch } from "wouter";
 import SearchBar from "../components/SearchBar";
 import FilterBar, { FilterState } from "../components/FilterBar";
 import ItemCard from "../components/ItemCard";
 import { getAllItems, getFilterOptions } from "../utils/itemData";
-import reportData from "../data/import-report.json";
 
 const allItems = getAllItems();
 const filterOptions = getFilterOptions();
@@ -103,60 +101,69 @@ export default function Home() {
 
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
-      <header className="sticky top-0 z-20 border-b border-amber-900/30 bg-stone-950/95 backdrop-blur-xl px-4 py-4 shadow-sm">
-        <div className="max-w-6xl mx-auto space-y-4">
-          <div className="flex flex-col gap-4 xl:flex-row xl:items-end xl:justify-between">
-            <div>
-              <p className="text-xs uppercase tracking-[0.3em] text-amber-400/70">RotMG Wiki</p>
-              <h1 className="text-3xl font-semibold text-amber-100">Item Explorer</h1>
+      <header className=" border-b border-amber-900/30 bg-stone-950/95 -xl px-4 py-5 shadow-sm">
+        <div className="max-w-6xl mx-auto space-y-6">
+          <div className="grid gap-6 lg:grid-cols-[1.7fr_auto] lg:items-end">
+            <div className="space-y-4">
+              <p className="text-xs uppercase tracking-[0.35em] text-amber-400/70">RotMG Wiki Beta</p>
+              <h1 className="text-4xl sm:text-5xl font-semibold text-amber-100">RotMG Wiki Beta</h1>
+              <p className="max-w-2xl text-stone-300 text-sm sm:text-base">
+                Search weapons, abilities, armors, rings and pet skins. Data is still being reviewed as part of the beta.
+              </p>
+              <div className="flex flex-wrap gap-2">
+                <span className="rounded-full border border-amber-800/50 bg-amber-500/10 px-3 py-1 text-xs uppercase tracking-[0.25em] text-amber-200">
+                  Beta version
+                </span>
+                <span className="rounded-full border border-stone-800/50 bg-stone-900/70 px-3 py-1 text-xs uppercase tracking-[0.25em] text-stone-300">
+                  Fan project
+                </span>
+              </div>
             </div>
 
-            <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 xl:grid-cols-4">
-              <div className="rounded-2xl border border-stone-800/70 bg-stone-900/80 px-4 py-3">
-                <p className="text-[10px] uppercase tracking-[0.3em] text-stone-500">Loaded</p>
-                <p className="mt-1 text-lg font-semibold text-amber-200">{totalCount}</p>
+            <div className="grid gap-3 sm:grid-cols-2">
+              <div className="rounded-3xl border border-stone-800/70 bg-stone-900/70 p-5">
+                <p className="text-xs uppercase tracking-[0.35em] text-stone-500">Total entries</p>
+                <p className="mt-3 text-4xl font-semibold text-amber-200">{totalCount}</p>
+                <p className="mt-2 text-sm text-stone-400">Weapons, abilities, armors, rings and pets.</p>
               </div>
-              <div className="rounded-2xl border border-stone-800/70 bg-stone-900/80 px-4 py-3">
-                <p className="text-[10px] uppercase tracking-[0.3em] text-stone-500">Duplicates</p>
-                <p className="mt-1 text-lg font-semibold text-amber-200">{reportData.duplicates ?? 0}</p>
-              </div>
-              <div className="rounded-2xl border border-stone-800/70 bg-stone-900/80 px-4 py-3">
-                <p className="text-[10px] uppercase tracking-[0.3em] text-stone-500">Invalid</p>
-                <p className="mt-1 text-lg font-semibold text-amber-200">{reportData.invalid ?? 0}</p>
-              </div>
-              <div className="hidden xl:block rounded-2xl border border-stone-800/70 bg-stone-900/80 px-4 py-3">
-                <p className="text-[10px] uppercase tracking-[0.3em] text-stone-500">Imported</p>
-                <p className="mt-1 text-lg font-semibold text-amber-200">{reportData.totalImported ?? 0}</p>
+              <div className="rounded-3xl border border-amber-900/60 bg-amber-500/10 p-5">
+                <p className="text-xs uppercase tracking-[0.35em] text-amber-100">Current view</p>
+                <p className="mt-3 text-4xl font-semibold text-amber-100">{filtered.length}</p>
+                <p className="mt-2 text-sm text-amber-100/80">
+                  {tabGroups[activeTab].label} {activeTab !== "all" ? "selected" : "items"}
+                </p>
               </div>
             </div>
           </div>
 
-          <div className="grid gap-3 lg:grid-cols-[1.6fr_auto]">
-            <SearchBar value={search} onChange={setSearch} />
-            <div className="flex flex-wrap items-center gap-2">
-              {Object.entries(tabGroups).map(([key, tab]) => (
-                <button
-                  key={key}
-                  onClick={() => setActiveTab(key as keyof typeof tabGroups)}
-                  className={`rounded-full border px-3 py-2 text-sm font-semibold transition ${
-                    activeTab === key
-                      ? "border-amber-500 bg-amber-500/10 text-amber-200"
-                      : "border-stone-800 bg-stone-900/70 text-stone-300 hover:border-amber-500 hover:text-amber-100"
-                  }`}
-                >
-                  {tab.label}
-                </button>
+          <div className="rounded-3xl border border-amber-900/30 bg-stone-900/75 px-4 py-4">
+            <div className="flex flex-col gap-4 xl:flex-row xl:items-center xl:justify-between">
+              <SearchBar value={search} onChange={setSearch} placeholder="Search weapons, armors, rings, abilities or pets..." />
+              <div className="flex flex-wrap gap-2">
+                {Object.entries(tabGroups).map(([key, tab]) => (
+                  <button
+                    key={key}
+                    onClick={() => setActiveTab(key as keyof typeof tabGroups)}
+                    className={`rounded-full border px-4 py-2 text-sm font-semibold transition ${
+                      activeTab === key
+                        ? "border-amber-500 bg-amber-500/15 text-amber-200"
+                        : "border-stone-800 bg-stone-950/70 text-stone-300 hover:border-amber-500 hover:text-amber-100"
+                    }`}
+                  >
+                    {tab.label}
+                  </button>
+                ))}
+              </div>
+            </div>
+
+            <div className="mt-4 grid gap-3 sm:grid-cols-3 xl:grid-cols-6">
+              {Object.entries(groupCounts).map(([key, count]) => (
+                <div key={key} className="rounded-3xl border border-stone-800/70 bg-stone-950/80 px-4 py-3 text-center">
+                  <p className="text-[10px] uppercase tracking-[0.3em] text-stone-500">{tabGroups[key as keyof typeof tabGroups].label}</p>
+                  <p className="mt-2 text-lg font-semibold text-amber-200">{count}</p>
+                </div>
               ))}
             </div>
-          </div>
-
-          <div className="grid grid-cols-2 gap-3 sm:grid-cols-5">
-            {Object.entries(groupCounts).map(([key, count]) => (
-              <div key={key} className="rounded-3xl border border-stone-800/70 bg-stone-900/80 px-4 py-3 text-center">
-                <p className="text-[10px] uppercase tracking-[0.3em] text-stone-500">{tabGroups[key as keyof typeof tabGroups].label}</p>
-                <p className="mt-2 text-lg font-semibold text-amber-200">{count}</p>
-              </div>
-            ))}
           </div>
 
           <div className="flex flex-col gap-2 text-sm text-stone-400 sm:flex-row sm:items-center sm:justify-between">
@@ -175,8 +182,8 @@ export default function Home() {
         </div>
       </header>
 
-      <main className="max-w-6xl mx-auto px-4 pb-10 pt-6">
-        <div className="mb-4">
+      <main className="max-w-6xl mx-auto px-4 pb-10 pt-8">
+        <div className="mb-6 rounded-3xl border border-stone-800/70 bg-stone-900/60 p-5">
           <FilterBar filters={filters} onChange={setFilters} options={filterOptions} />
         </div>
 
