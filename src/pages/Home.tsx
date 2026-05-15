@@ -6,10 +6,20 @@ import FilterBar, { FilterState } from "../components/FilterBar";
 import ItemCard from "../components/ItemCard";
 import { getAllItems, getFilterOptions } from "../utils/itemData";
 import reportData from "../data/import-report.json";
-import { formatCategoryLabel } from "../utils/labels";
 
 const allItems = getAllItems();
 const filterOptions = getFilterOptions();
+
+const tabGroups = {
+  all: { label: "All", categories: [] as string[] },
+  weapons: {
+    label: "Weapons",
+    categories: ["daggers", "swords", "bows", "wands", "staves", "katanas", "spellblades"],
+  },
+  abilities: { label: "Abilities", categories: ["abilities"] },
+  armors: { label: "Armors", categories: ["armors"] },
+  rings: { label: "Rings", categories: ["rings"] },
+};
 
 const emptyFilters: FilterState = {
   category: "",
@@ -24,8 +34,8 @@ export default function Home() {
   const searchParams = useSearch();
   const [search, setSearch] = useState("");
   const [filters, setFilters] = useState<FilterState>(emptyFilters);
+  const [activeTab, setActiveTab] = useState<keyof typeof tabGroups>("all");
 
-  // Parse query parameters on mount
   useEffect(() => {
     const params = new URLSearchParams(searchParams);
     const newFilters = { ...emptyFilters };
@@ -58,6 +68,7 @@ export default function Home() {
   const filtered = useMemo(() => {
     return allItems.filter((item) => {
       if (search && !item.name.toLowerCase().includes(search.toLowerCase())) return false;
+      if (activeTab !== "all" && !tabGroups[activeTab].categories.includes(item.category)) return false;
       if (filters.category && item.category !== filters.category) return false;
       if (filters.subCategory && item.subCategory !== filters.subCategory) return false;
       if (filters.itemType && item.itemType !== filters.itemType) return false;
@@ -66,74 +77,105 @@ export default function Home() {
       if (filters.usableClass && !item.usableClasses?.includes(filters.usableClass)) return false;
       return true;
     });
-  }, [search, filters]);
+  }, [search, filters, activeTab]);
+
+  const totalCount = allItems.length;
+  const groupCounts = {
+    all: totalCount,
+    weapons: allItems.filter((item) => tabGroups.weapons.categories.includes(item.category)).length,
+    abilities: allItems.filter((item) => item.category === "abilities").length,
+    armors: allItems.filter((item) => item.category === "armors").length,
+    rings: allItems.filter((item) => item.category === "rings").length,
+  };
+
+  const clearAll = () => {
+    setSearch("");
+    setFilters(emptyFilters);
+    setActiveTab("all");
+  };
+
+  const hasActiveFilters =
+    search ||
+    activeTab !== "all" ||
+    Object.values(filters).some((value) => Boolean(value));
 
   return (
     <div className="min-h-screen bg-stone-950 text-stone-100">
-      <header className="bg-gradient-to-b from-stone-900 to-stone-950 border-b border-amber-900/40 px-4 pt-6 pb-5 sticky top-0 z-20 shadow-lg backdrop-blur-lg">
-        <div className="max-w-lg mx-auto space-y-4">
-          <div className="flex flex-col sm:flex-row sm:items-center gap-3">
-            <div className="flex items-center gap-2">
-              <Shield className="w-5 h-5 text-amber-500 shrink-0" />
-              <div>
-                <p className="text-sm uppercase tracking-[0.24em] text-amber-400/80">RotMG Wiki</p>
-                <h1 className="text-2xl font-semibold text-amber-100">Item Explorer</h1>
-              </div>
+      <header className="sticky top-0 z-20 border-b border-amber-900/30 bg-stone-950/95 backdrop-blur-xl px-4 py-4 shadow-sm">
+        <div className="max-w-6xl mx-auto space-y-4">
+          <div className="flex flex-col gap-4 xl:flex-row xl:items-end xl:justify-between">
+            <div>
+              <p className="text-xs uppercase tracking-[0.3em] text-amber-400/70">RotMG Wiki</p>
+              <h1 className="text-3xl font-semibold text-amber-100">Item Explorer</h1>
             </div>
-            <div className="rounded-3xl border border-stone-800/80 bg-stone-950/80 px-4 py-3 shadow-inner flex flex-wrap gap-3 justify-between">
-              <div className="flex items-center gap-2 text-xs text-stone-400">
-                <Database className="w-4 h-4 text-amber-400" />
-                <span>{allItems.length} loaded</span>
+
+            <div className="grid grid-cols-2 gap-3 sm:grid-cols-3 xl:grid-cols-4">
+              <div className="rounded-2xl border border-stone-800/70 bg-stone-900/80 px-4 py-3">
+                <p className="text-[10px] uppercase tracking-[0.3em] text-stone-500">Loaded</p>
+                <p className="mt-1 text-lg font-semibold text-amber-200">{totalCount}</p>
               </div>
-              <div className="flex items-center gap-2 text-xs text-stone-400">
-                <ShieldCheck className="w-4 h-4 text-cyan-400" />
-                <span>{reportData.duplicates ?? 0} duplicates</span>
+              <div className="rounded-2xl border border-stone-800/70 bg-stone-900/80 px-4 py-3">
+                <p className="text-[10px] uppercase tracking-[0.3em] text-stone-500">Duplicates</p>
+                <p className="mt-1 text-lg font-semibold text-amber-200">{reportData.duplicates ?? 0}</p>
               </div>
-              <div className="flex items-center gap-2 text-xs text-stone-400">
-                <AlertTriangle className="w-4 h-4 text-orange-400" />
-                <span>{reportData.invalid ?? 0} invalid</span>
+              <div className="rounded-2xl border border-stone-800/70 bg-stone-900/80 px-4 py-3">
+                <p className="text-[10px] uppercase tracking-[0.3em] text-stone-500">Invalid</p>
+                <p className="mt-1 text-lg font-semibold text-amber-200">{reportData.invalid ?? 0}</p>
+              </div>
+              <div className="hidden xl:block rounded-2xl border border-stone-800/70 bg-stone-900/80 px-4 py-3">
+                <p className="text-[10px] uppercase tracking-[0.3em] text-stone-500">Imported</p>
+                <p className="mt-1 text-lg font-semibold text-amber-200">{reportData.totalImported ?? 0}</p>
               </div>
             </div>
           </div>
 
-          <div className="grid gap-3 sm:grid-cols-[1fr_auto]">
+          <div className="grid gap-3 lg:grid-cols-[1.6fr_auto]">
             <SearchBar value={search} onChange={setSearch} />
-            <div className="rounded-2xl bg-stone-900/80 border border-stone-800/80 px-4 py-3">
-              <p className="text-xs uppercase tracking-[0.24em] text-stone-500 mb-2">Category counts</p>
-              <div className="grid grid-cols-2 gap-2 text-xs text-stone-400">
-                {Object.entries(reportData.categories || {}).map(([category, _count]) => {
-                  const loadedCount = allItems.filter((i) => i.category === category).length;
-                  return (
-                    <div key={category} className="rounded-xl bg-stone-950/80 border border-stone-800/70 px-2 py-2">
-                      <p className="text-stone-300 font-semibold">{formatCategoryLabel(category)}</p>
-                      <p className="text-amber-300">{loadedCount}</p>
-                    </div>
-                  );
-                })}
-              </div>
+            <div className="flex flex-wrap items-center gap-2">
+              {Object.entries(tabGroups).map(([key, tab]) => (
+                <button
+                  key={key}
+                  onClick={() => setActiveTab(key as keyof typeof tabGroups)}
+                  className={`rounded-full border px-3 py-2 text-sm font-semibold transition ${
+                    activeTab === key
+                      ? "border-amber-500 bg-amber-500/10 text-amber-200"
+                      : "border-stone-800 bg-stone-900/70 text-stone-300 hover:border-amber-500 hover:text-amber-100"
+                  }`}
+                >
+                  {tab.label}
+                </button>
+              ))}
             </div>
           </div>
 
-          <FilterBar filters={filters} onChange={setFilters} options={filterOptions} />
+          <div className="grid grid-cols-2 gap-3 sm:grid-cols-5">
+            {Object.entries(groupCounts).map(([key, count]) => (
+              <div key={key} className="rounded-3xl border border-stone-800/70 bg-stone-900/80 px-4 py-3 text-center">
+                <p className="text-[10px] uppercase tracking-[0.3em] text-stone-500">{tabGroups[key as keyof typeof tabGroups].label}</p>
+                <p className="mt-2 text-lg font-semibold text-amber-200">{count}</p>
+              </div>
+            ))}
+          </div>
+
+          <div className="flex flex-col gap-2 text-sm text-stone-400 sm:flex-row sm:items-center sm:justify-between">
+            <p>
+              Showing <span className="font-semibold text-amber-200">{filtered.length}</span> of <span className="font-semibold text-amber-200">{totalCount}</span> items
+            </p>
+            {hasActiveFilters && (
+              <button
+                onClick={clearAll}
+                className="self-start text-xs uppercase tracking-[0.3em] text-amber-400 hover:text-amber-200"
+              >
+                Clear filters
+              </button>
+            )}
+          </div>
         </div>
       </header>
 
-      <main className="max-w-lg mx-auto px-4 py-4">
-        <div className="flex flex-col sm:flex-row sm:items-center justify-between gap-3 mb-4">
-          <p className="text-xs text-stone-500">
-            {filtered.length} {filtered.length === 1 ? "item" : "items"} found
-          </p>
-          {(search || Object.values(filters).some(Boolean)) && (
-            <button
-              onClick={() => {
-                setSearch("");
-                setFilters(emptyFilters);
-              }}
-              className="text-xs text-stone-400 hover:text-amber-300 transition-colors"
-            >
-              Clear filters
-            </button>
-          )}
+      <main className="max-w-6xl mx-auto px-4 pb-10 pt-6">
+        <div className="mb-4">
+          <FilterBar filters={filters} onChange={setFilters} options={filterOptions} />
         </div>
 
         {filtered.length === 0 ? (
@@ -143,7 +185,7 @@ export default function Home() {
             <p className="text-xs text-stone-500">Try adjusting search or filters</p>
           </div>
         ) : (
-          <div className="space-y-3">
+          <div className="grid gap-4 sm:grid-cols-2 xl:grid-cols-3">
             {filtered.map((item) => (
               <ItemCard key={item.slug} item={item} />
             ))}
