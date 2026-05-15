@@ -1,6 +1,7 @@
 import { BarChart3, TrendingUp, AlertCircle, CheckCircle } from "lucide-react";
 import reportData from "../data/import-report.json";
 import { getAllItems, getItemStats } from "../utils/itemData";
+import { formatCategoryLabel } from "../utils/labels";
 
 export default function ImportStats() {
   const itemStats = getItemStats();
@@ -69,7 +70,7 @@ export default function ImportStats() {
             {Object.entries(itemStats.categories).map(([category, count]) => (
               <div key={category}>
                 <div className="flex items-center justify-between mb-1">
-                  <span className="text-sm capitalize font-medium text-stone-300">{category}</span>
+                  <span className="text-sm capitalize font-medium text-stone-300">{formatCategoryLabel(category)}</span>
                   <span className="text-sm font-bold text-amber-300">{count}</span>
                 </div>
                 <div className="w-full bg-stone-800/60 rounded-full h-2 overflow-hidden">

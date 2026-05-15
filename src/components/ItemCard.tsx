@@ -1,4 +1,5 @@
 import { Link } from "wouter";
+import { formatCategoryLabel } from "../utils/labels";
 
 interface Item {
   id: string;
@@ -73,7 +74,7 @@ export default function ItemCard({ item }: { item: Item }) {
 
             <div className="flex items-center gap-2 flex-wrap mt-1">
               <span className="text-xs uppercase tracking-[0.18em] text-stone-500">
-                {item.category}
+                {formatCategoryLabel(item.category)}
               </span>
               <span className="text-xs text-stone-400">•</span>
               <span className="text-xs text-stone-400">{item.itemType}</span>

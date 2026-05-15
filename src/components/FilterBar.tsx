@@ -1,4 +1,5 @@
 import { ChevronDown } from "lucide-react";
+import { formatCategoryLabel } from "../utils/labels";
 
 export interface FilterState {
   category: string;

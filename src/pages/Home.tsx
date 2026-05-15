@@ -6,6 +6,7 @@ import FilterBar, { FilterState } from "../components/FilterBar";
 import ItemCard from "../components/ItemCard";
 import { getAllItems, getFilterOptions } from "../utils/itemData";
 import reportData from "../data/import-report.json";
+import { formatCategoryLabel } from "../utils/labels";
 
 const allItems = getAllItems();
 const filterOptions = getFilterOptions();
@@ -99,7 +100,7 @@ export default function Home() {
                   const loadedCount = allItems.filter((i) => i.category === category).length;
                   return (
                     <div key={category} className="rounded-xl bg-stone-950/80 border border-stone-800/70 px-2 py-2">
-                      <p className="text-stone-300 font-semibold">{category}</p>
+                      <p className="text-stone-300 font-semibold">{formatCategoryLabel(category)}</p>
                       <p className="text-amber-300">{loadedCount}</p>
                     </div>
                   );
