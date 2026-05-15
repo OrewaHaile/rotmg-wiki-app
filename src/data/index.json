@@ -272,6 +272,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/aspirant-s-dagger"
   },
   {
+    "id": "aspirants-staff",
+    "name": "Aspirant's Staff",
+    "slug": "aspirants-staff",
+    "category": "staves",
+    "sprite": "/items/aspirants-staff.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/aspirant-s-staff"
+  },
+  {
     "id": "atavistic-soul-sabre",
     "name": "Atavistic Soul Sabre",
     "slug": "atavistic-soul-sabre",
@@ -302,6 +319,23 @@
       "Trickster"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/avarice"
+  },
+  {
+    "id": "avenger-staff",
+    "name": "Avenger Staff",
+    "slug": "avenger-staff",
+    "category": "staves",
+    "sprite": "/items/avenger-staff.png",
+    "itemType": "Staff",
+    "tier": "T6",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/avenger-staff"
   },
   {
     "id": "b-o-w",
@@ -557,6 +591,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/bloom-fire-scepter"
   },
   {
+    "id": "blooming-bouquet",
+    "name": "Blooming Bouquet",
+    "slug": "blooming-bouquet",
+    "category": "staves",
+    "sprite": "/items/blooming-bouquet.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/blooming-bouquet"
+  },
+  {
     "id": "blossom-bow",
     "name": "Blossom Bow",
     "slug": "blossom-bow",
@@ -589,6 +640,23 @@
       "Bard"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/blue-falcon"
+  },
+  {
+    "id": "bogwood-crook",
+    "name": "Bogwood Crook",
+    "slug": "bogwood-crook",
+    "category": "staves",
+    "sprite": "/items/bogwood-crook.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/bogwood-crook"
   },
   {
     "id": "bolt-thrower",
@@ -895,6 +963,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/butter-bow"
   },
   {
+    "id": "caduceus-of-current-craziness",
+    "name": "Caduceus of Current Craziness",
+    "slug": "caduceus-of-current-craziness",
+    "category": "wands",
+    "sprite": "/items/caduceus-of-current-craziness.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/caduceus-of-current-craziness"
+  },
+  {
     "id": "caduceus-of-enlightened-chaos",
     "name": "Caduceus Of Enlightened Chaos",
     "slug": "caduceus-of-enlightened-chaos",
@@ -1080,6 +1165,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/comet-of-calamity"
   },
   {
+    "id": "comet-staff",
+    "name": "Comet Staff",
+    "slug": "comet-staff",
+    "category": "staves",
+    "sprite": "/items/comet-staff.png",
+    "itemType": "Staff",
+    "tier": "T2",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/comet-staff"
+  },
+  {
     "id": "coral-bow",
     "name": "Coral Bow",
     "slug": "coral-bow",
@@ -1161,6 +1263,23 @@
       "Trickster"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/corruption-cutter"
+  },
+  {
+    "id": "corruption-tether",
+    "name": "Corruption Tether",
+    "slug": "corruption-tether",
+    "category": "staves",
+    "sprite": "/items/corruption-tether.png",
+    "itemType": "Staff",
+    "tier": "ST",
+    "bagType": "Orange",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/corruption-tether"
   },
   {
     "id": "crescent-dagger",
@@ -1433,6 +1552,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/deathless-crossbow"
   },
   {
+    "id": "deathmask-staff",
+    "name": "Deathmask Staff",
+    "slug": "deathmask-staff",
+    "category": "staves",
+    "sprite": "/items/deathmask-staff.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/deathmask-staff"
+  },
+  {
     "id": "demon-blade",
     "name": "Demon Blade",
     "slug": "demon-blade",
@@ -1584,6 +1720,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/dragonsoul-sword"
   },
   {
+    "id": "dreamcaster",
+    "name": "Dreamcaster",
+    "slug": "dreamcaster",
+    "category": "staves",
+    "sprite": "/items/dreamcaster.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/dreamcaster"
+  },
+  {
     "id": "dueling-daggers",
     "name": "Dueling Daggers",
     "slug": "dueling-daggers",
@@ -1652,6 +1805,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/elder-heartwood-staff"
   },
   {
+    "id": "eldritch-wand",
+    "name": "Eldritch Wand",
+    "slug": "eldritch-wand",
+    "category": "wands",
+    "sprite": "/items/eldritch-wand.png",
+    "itemType": "Wand",
+    "tier": "T4",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/eldritch-wand"
+  },
+  {
     "id": "emeraldshard-dagger",
     "name": "Emeraldshard Dagger",
     "slug": "emeraldshard-dagger",
@@ -1684,6 +1854,23 @@
       "Paladin"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/enchanted-ice-blade"
+  },
+  {
+    "id": "energy-staff",
+    "name": "Energy Staff",
+    "slug": "energy-staff",
+    "category": "staves",
+    "sprite": "/items/energy-staff.png",
+    "itemType": "Staff",
+    "tier": "T0",
+    "bagType": "Unknown",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/energy-staff"
   },
   {
     "id": "enforcer",
@@ -1733,6 +1920,23 @@
       "Trickster"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/evergreen-dagger"
+  },
+  {
+    "id": "explorers-shovel",
+    "name": "Explorer's Shovel",
+    "slug": "explorers-shovel",
+    "category": "staves",
+    "sprite": "/items/explorers-shovel.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/explorer-s-shovel"
   },
   {
     "id": "falchion",
@@ -1871,6 +2075,40 @@
     "sourceUrl": "https://www.realmeye.com/wiki/fire-sword"
   },
   {
+    "id": "fire-wand",
+    "name": "Fire Wand",
+    "slug": "fire-wand",
+    "category": "wands",
+    "sprite": "/items/fire-wand.png",
+    "itemType": "Wand",
+    "tier": "T0",
+    "bagType": "Unknown",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/fire-wand"
+  },
+  {
+    "id": "firebrand-staff",
+    "name": "Firebrand Staff",
+    "slug": "firebrand-staff",
+    "category": "staves",
+    "sprite": "/items/firebrand-staff.png",
+    "itemType": "Staff",
+    "tier": "T1",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/firebrand-staff"
+  },
+  {
     "id": "firestarter",
     "name": "Firestarter",
     "slug": "firestarter",
@@ -1920,6 +2158,23 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/foramite-staff"
+  },
+  {
+    "id": "force-wand",
+    "name": "Force Wand",
+    "slug": "force-wand",
+    "category": "wands",
+    "sprite": "/items/force-wand.png",
+    "itemType": "Wand",
+    "tier": "T1",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/force-wand"
   },
   {
     "id": "frost-lichs-finger",
@@ -1988,6 +2243,23 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/frostfall-rod"
+  },
+  {
+    "id": "frostys-walking-stick",
+    "name": "Frosty's Walking Stick",
+    "slug": "frostys-walking-stick",
+    "category": "staves",
+    "sprite": "/items/frostys-walking-stick.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/frosty-s-walking-stick"
   },
   {
     "id": "frozen-whisper",
@@ -2262,6 +2534,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/heartsteel-claymore"
   },
   {
+    "id": "hells-fire-wand",
+    "name": "Hell's Fire Wand",
+    "slug": "hells-fire-wand",
+    "category": "wands",
+    "sprite": "/items/hells-fire-wand.png",
+    "itemType": "Wand",
+    "tier": "T5",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/hell-s-fire-wand"
+  },
+  {
     "id": "henchmans-claymore",
     "name": "Henchman's Claymore",
     "slug": "henchmans-claymore",
@@ -2343,6 +2632,23 @@
       "Sorcerer"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/hero-s-spellblade"
+  },
+  {
+    "id": "heros-staff",
+    "name": "Hero's Staff",
+    "slug": "heros-staff",
+    "category": "staves",
+    "sprite": "/items/heros-staff.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/hero-s-staff"
   },
   {
     "id": "hovering-spellblade",
@@ -2717,6 +3023,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/legacy-etherite-dagger"
   },
   {
+    "id": "legacy-sentient-staff",
+    "name": "Legacy Sentient Staff",
+    "slug": "legacy-sentient-staff",
+    "category": "staves",
+    "sprite": "/items/legacy-sentient-staff.png",
+    "itemType": "Staff",
+    "tier": "ST (Limited)",
+    "bagType": "Orange",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/legacy-sentient-staff"
+  },
+  {
     "id": "legion-elite-bow",
     "name": "Legion Elite Bow",
     "slug": "legion-elite-bow",
@@ -2766,6 +3089,23 @@
       "Kensei"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-katana"
+  },
+  {
+    "id": "legion-elite-staff",
+    "name": "Legion Elite Staff",
+    "slug": "legion-elite-staff",
+    "category": "staves",
+    "sprite": "/items/legion-elite-staff.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/legion-elite-staff"
   },
   {
     "id": "legions-odachi",
@@ -2936,6 +3276,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/metal-tray"
   },
   {
+    "id": "meteor-staff",
+    "name": "Meteor Staff",
+    "slug": "meteor-staff",
+    "category": "staves",
+    "sprite": "/items/meteor-staff.png",
+    "itemType": "Staff",
+    "tier": "T4",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/meteor-staff"
+  },
+  {
     "id": "mischief",
     "name": "Mischief",
     "slug": "mischief",
@@ -2951,6 +3308,23 @@
       "Trickster"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/mischief"
+  },
+  {
+    "id": "missile-wand",
+    "name": "Missile Wand",
+    "slug": "missile-wand",
+    "category": "wands",
+    "sprite": "/items/missile-wand.png",
+    "itemType": "Wand",
+    "tier": "T3",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/missile-wand"
   },
   {
     "id": "mister-mango",
@@ -3291,6 +3665,23 @@
       "Trickster"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/poison-fang-dagger"
+  },
+  {
+    "id": "power-wand",
+    "name": "Power Wand",
+    "slug": "power-wand",
+    "category": "wands",
+    "sprite": "/items/power-wand.png",
+    "itemType": "Wand",
+    "tier": "T2",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/power-wand"
   },
   {
     "id": "precisely-calibrated-stringstick",
@@ -3748,6 +4139,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/sawblade-katana"
   },
   {
+    "id": "screwdriver-staff",
+    "name": "Screwdriver Staff",
+    "slug": "screwdriver-staff",
+    "category": "staves",
+    "sprite": "/items/screwdriver-staff.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/screwdriver-staff"
+  },
+  {
     "id": "seekers-chisel",
     "name": "Seeker's Chisel",
     "slug": "seekers-chisel",
@@ -3763,6 +4171,23 @@
       "Trickster"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/seeker-s-chisel"
+  },
+  {
+    "id": "serpentine-staff",
+    "name": "Serpentine Staff",
+    "slug": "serpentine-staff",
+    "category": "staves",
+    "sprite": "/items/serpentine-staff.png",
+    "itemType": "Staff",
+    "tier": "T3",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/serpentine-staff"
   },
   {
     "id": "shakujo",
@@ -3950,6 +4375,23 @@
       "Paladin"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/skysplitter-sword"
+  },
+  {
+    "id": "slayer-staff",
+    "name": "Slayer Staff",
+    "slug": "slayer-staff",
+    "category": "staves",
+    "sprite": "/items/slayer-staff.png",
+    "itemType": "Staff",
+    "tier": "T5",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/slayer-staff"
   },
   {
     "id": "sleigh-bell-staff",
@@ -4287,6 +4729,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/spring-wonder-bow"
   },
   {
+    "id": "sprite-wand",
+    "name": "Sprite Wand",
+    "slug": "sprite-wand",
+    "category": "wands",
+    "sprite": "/items/sprite-wand.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/sprite-wand"
+  },
+  {
     "id": "squaroid-staff",
     "name": "Squaroid Staff",
     "slug": "squaroid-staff",
@@ -4319,6 +4778,74 @@
     "sourceUrl": "https://www.realmeye.com/wiki/st-abraham-s-wand"
   },
   {
+    "id": "staff-of-adoration",
+    "name": "Staff of Adoration",
+    "slug": "staff-of-adoration",
+    "category": "staves",
+    "sprite": "/items/staff-of-adoration.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-adoration"
+  },
+  {
+    "id": "staff-of-astral-knowledge",
+    "name": "Staff of Astral Knowledge",
+    "slug": "staff-of-astral-knowledge",
+    "category": "staves",
+    "sprite": "/items/staff-of-astral-knowledge.png",
+    "itemType": "Staff",
+    "tier": "T11",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-astral-knowledge"
+  },
+  {
+    "id": "staff-of-destruction",
+    "name": "Staff of Destruction",
+    "slug": "staff-of-destruction",
+    "category": "staves",
+    "sprite": "/items/staff-of-destruction.png",
+    "itemType": "Staff",
+    "tier": "T7",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-destruction"
+  },
+  {
+    "id": "staff-of-diabolic-secrets",
+    "name": "Staff of Diabolic Secrets",
+    "slug": "staff-of-diabolic-secrets",
+    "category": "staves",
+    "sprite": "/items/staff-of-diabolic-secrets.png",
+    "itemType": "Staff",
+    "tier": "T10",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-diabolic-secrets"
+  },
+  {
     "id": "staff-of-eruption",
     "name": "Staff of Eruption",
     "slug": "staff-of-eruption",
@@ -4334,6 +4861,39 @@
       "Mystic"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/staff-of-eruption"
+  },
+  {
+    "id": "staff-of-esben",
+    "name": "Staff of Esben",
+    "slug": "staff-of-esben",
+    "category": "staves",
+    "sprite": "/items/staff-of-esben.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-esben"
+  },
+  {
+    "id": "staff-of-esben-legacy",
+    "name": "Staff of Esben Legacy",
+    "slug": "staff-of-esben-legacy",
+    "category": "staves",
+    "sprite": "/items/staff-of-esben-legacy.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-esben-legacy"
   },
   {
     "id": "staff-of-extreme-prejudice",
@@ -4353,6 +4913,40 @@
     "sourceUrl": "https://www.realmeye.com/wiki/staff-of-extreme-prejudice"
   },
   {
+    "id": "staff-of-horrific-knowledge",
+    "name": "Staff of Horrific Knowledge",
+    "slug": "staff-of-horrific-knowledge",
+    "category": "staves",
+    "sprite": "/items/staff-of-horrific-knowledge.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-horrific-knowledge"
+  },
+  {
+    "id": "staff-of-horror",
+    "name": "Staff of Horror",
+    "slug": "staff-of-horror",
+    "category": "staves",
+    "sprite": "/items/staff-of-horror.png",
+    "itemType": "Staff",
+    "tier": "T8",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-horror"
+  },
+  {
     "id": "staff-of-iceblast",
     "name": "Staff of Iceblast",
     "slug": "staff-of-iceblast",
@@ -4370,6 +4964,57 @@
     "sourceUrl": "https://www.realmeye.com/wiki/staff-of-iceblast"
   },
   {
+    "id": "staff-of-necrotic-arcana",
+    "name": "Staff of Necrotic Arcana",
+    "slug": "staff-of-necrotic-arcana",
+    "category": "staves",
+    "sprite": "/items/staff-of-necrotic-arcana.png",
+    "itemType": "Staff",
+    "tier": "T9",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-necrotic-arcana"
+  },
+  {
+    "id": "staff-of-silver-wings",
+    "name": "Staff of Silver Wings",
+    "slug": "staff-of-silver-wings",
+    "category": "staves",
+    "sprite": "/items/staff-of-silver-wings.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-silver-wings"
+  },
+  {
+    "id": "staff-of-the-cosmic-whole",
+    "name": "Staff of the Cosmic Whole",
+    "slug": "staff-of-the-cosmic-whole",
+    "category": "staves",
+    "sprite": "/items/staff-of-the-cosmic-whole.png",
+    "itemType": "Staff",
+    "tier": "T12",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-the-cosmic-whole"
+  },
+  {
     "id": "staff-of-the-crystal-serpent",
     "name": "Staff of the Crystal Serpent",
     "slug": "staff-of-the-crystal-serpent",
@@ -4383,6 +5028,55 @@
       "Necromancer"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/staff-of-the-crystal-serpent"
+  },
+  {
+    "id": "staff-of-the-eclipse",
+    "name": "Staff of the Eclipse",
+    "slug": "staff-of-the-eclipse",
+    "category": "staves",
+    "sprite": "/items/staff-of-the-eclipse.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-the-eclipse"
+  },
+  {
+    "id": "staff-of-the-fundamental-core",
+    "name": "Staff of the Fundamental Core",
+    "slug": "staff-of-the-fundamental-core",
+    "category": "staves",
+    "sprite": "/items/staff-of-the-fundamental-core.png",
+    "itemType": "Staff",
+    "tier": "T14",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-the-fundamental-core"
+  },
+  {
+    "id": "staff-of-the-rising-sun",
+    "name": "Staff of the Rising Sun",
+    "slug": "staff-of-the-rising-sun",
+    "category": "staves",
+    "sprite": "/items/staff-of-the-rising-sun.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-the-rising-sun"
   },
   {
     "id": "staff-of-the-saint",
@@ -4402,6 +5096,23 @@
     "sourceUrl": "https://www.realmeye.com/wiki/staff-of-the-saint"
   },
   {
+    "id": "staff-of-the-vital-unity",
+    "name": "Staff of the Vital Unity",
+    "slug": "staff-of-the-vital-unity",
+    "category": "staves",
+    "sprite": "/items/staff-of-the-vital-unity.png",
+    "itemType": "Staff",
+    "tier": "T13",
+    "bagType": "Red",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-the-vital-unity"
+  },
+  {
     "id": "staff-of-unholy-sacrifice",
     "name": "Staff of Unholy Sacrifice",
     "slug": "staff-of-unholy-sacrifice",
@@ -4415,6 +5126,23 @@
       "Necromancer"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/staff-of-unholy-sacrifice"
+  },
+  {
+    "id": "staff-of-yuletide-carols",
+    "name": "Staff of Yuletide Carols",
+    "slug": "staff-of-yuletide-carols",
+    "category": "staves",
+    "sprite": "/items/staff-of-yuletide-carols.png",
+    "itemType": "Staff",
+    "tier": "UT (Limited)",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Wizard",
+      "Necromancer",
+      "Mystic"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/staff-of-yuletide-carols"
   },
   {
     "id": "steam-pipe",
@@ -4498,6 +5226,21 @@
       "Trickster"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/sunshine-shiv"
+  },
+  {
+    "id": "superior",
+    "name": "Superior",
+    "slug": "superior",
+    "category": "staves",
+    "sprite": "/items/superior.png",
+    "itemType": "Staff",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": true,
+    "usableClasses": [
+      "Wizard"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/superior"
   },
   {
     "id": "swashbucklers-sickle",
@@ -5040,6 +5783,193 @@
       "Kensei"
     ],
     "sourceUrl": "https://www.realmeye.com/wiki/void-blade"
+  },
+  {
+    "id": "wand-of-ancient-warning",
+    "name": "Wand of Ancient Warning",
+    "slug": "wand-of-ancient-warning",
+    "category": "wands",
+    "sprite": "/items/wand-of-ancient-warning.png",
+    "itemType": "Wand",
+    "tier": "T11",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-ancient-warning"
+  },
+  {
+    "id": "wand-of-arcane-flame",
+    "name": "Wand of Arcane Flame",
+    "slug": "wand-of-arcane-flame",
+    "category": "wands",
+    "sprite": "/items/wand-of-arcane-flame.png",
+    "itemType": "Wand",
+    "tier": "T7",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-arcane-flame"
+  },
+  {
+    "id": "wand-of-budding-romance",
+    "name": "Wand of Budding Romance",
+    "slug": "wand-of-budding-romance",
+    "category": "wands",
+    "sprite": "/items/wand-of-budding-romance.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-budding-romance"
+  },
+  {
+    "id": "wand-of-dark-magic",
+    "name": "Wand of Dark Magic",
+    "slug": "wand-of-dark-magic",
+    "category": "wands",
+    "sprite": "/items/wand-of-dark-magic.png",
+    "itemType": "Wand",
+    "tier": "T6",
+    "bagType": "Pink",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-dark-magic"
+  },
+  {
+    "id": "wand-of-death",
+    "name": "Wand of Death",
+    "slug": "wand-of-death",
+    "category": "wands",
+    "sprite": "/items/wand-of-death.png",
+    "itemType": "Wand",
+    "tier": "T8",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-death"
+  },
+  {
+    "id": "wand-of-deep-sorcery",
+    "name": "Wand of Deep Sorcery",
+    "slug": "wand-of-deep-sorcery",
+    "category": "wands",
+    "sprite": "/items/wand-of-deep-sorcery.png",
+    "itemType": "Wand",
+    "tier": "T9",
+    "bagType": "Purple",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-deep-sorcery"
+  },
+  {
+    "id": "wand-of-evocation",
+    "name": "Wand of Evocation",
+    "slug": "wand-of-evocation",
+    "category": "wands",
+    "sprite": "/items/wand-of-evocation.png",
+    "itemType": "Wand",
+    "tier": "T13",
+    "bagType": "Red",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-evocation"
+  },
+  {
+    "id": "wand-of-hidden-knowledge",
+    "name": "Wand of Hidden Knowledge",
+    "slug": "wand-of-hidden-knowledge",
+    "category": "wands",
+    "sprite": "/items/wand-of-hidden-knowledge.png",
+    "itemType": "Wand",
+    "tier": "UT",
+    "bagType": "White",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-hidden-knowledge"
+  },
+  {
+    "id": "wand-of-recompense",
+    "name": "Wand of Recompense",
+    "slug": "wand-of-recompense",
+    "category": "wands",
+    "sprite": "/items/wand-of-recompense.png",
+    "itemType": "Wand",
+    "tier": "T12",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-recompense"
+  },
+  {
+    "id": "wand-of-retribution",
+    "name": "Wand of Retribution",
+    "slug": "wand-of-retribution",
+    "category": "wands",
+    "sprite": "/items/wand-of-retribution.png",
+    "itemType": "Wand",
+    "tier": "T14",
+    "bagType": "Red",
+    "soulbound": true,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-retribution"
+  },
+  {
+    "id": "wand-of-shadow",
+    "name": "Wand of Shadow",
+    "slug": "wand-of-shadow",
+    "category": "wands",
+    "sprite": "/items/wand-of-shadow.png",
+    "itemType": "Wand",
+    "tier": "T10",
+    "bagType": "Cyan",
+    "soulbound": false,
+    "usableClasses": [
+      "Priest",
+      "Sorcerer",
+      "Summoner"
+    ],
+    "sourceUrl": "https://www.realmeye.com/wiki/wand-of-shadow"
   },
   {
     "id": "wand-of-the-bulwark",

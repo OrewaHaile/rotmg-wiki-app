@@ -1,0 +1,92 @@
+[
+  {
+    "file": "src/data/invalid/chancellor-dammah.json",
+    "name": "Chancellor Dammah",
+    "slug": "chancellor-dammah",
+    "category": "staves",
+    "itemType": "Staff",
+    "tier": "Unknown",
+    "sprite": "/items/chancellor-dammah.png",
+    "reasons": []
+  },
+  {
+    "file": "src/data/invalid/esben-the-neurotic.json",
+    "name": "Esben the Neurotic",
+    "slug": "esben-the-neurotic",
+    "category": "swords",
+    "itemType": "Sword",
+    "tier": "Unknown",
+    "sprite": "/items/esben-the-neurotic.png",
+    "reasons": []
+  },
+  {
+    "file": "src/data/invalid/factory-control-core.json",
+    "name": "Factory Control Core",
+    "slug": "factory-control-core",
+    "category": "daggers",
+    "itemType": "Dagger",
+    "tier": "Unknown",
+    "sprite": "/items/factory-control-core.png",
+    "reasons": []
+  },
+  {
+    "file": "src/data/invalid/feargus-the-obsidian-dragon.json",
+    "name": "Feargus the Obsidian Dragon",
+    "slug": "feargus-the-obsidian-dragon",
+    "category": "bows",
+    "itemType": "Bow",
+    "tier": "Unknown",
+    "sprite": "/items/feargus-the-obsidian-dragon.png",
+    "reasons": []
+  },
+  {
+    "file": "src/data/invalid/forge.json",
+    "name": "Forge",
+    "slug": "forge",
+    "category": "staves",
+    "itemType": "Staff",
+    "tier": "Items",
+    "sprite": "/items/forge.png",
+    "reasons": []
+  },
+  {
+    "file": "src/data/invalid/killer-bee-queen.json",
+    "name": "Killer Bee Queen",
+    "slug": "killer-bee-queen",
+    "category": "swords",
+    "itemType": "Sword",
+    "tier": "Unknown",
+    "sprite": "/items/killer-bee-queen.png",
+    "reasons": []
+  },
+  {
+    "file": "src/data/invalid/shaitan-the-advisor.json",
+    "name": "Shaitan the Advisor",
+    "slug": "shaitan-the-advisor",
+    "category": "katanas",
+    "itemType": "Katana",
+    "tier": "Unknown",
+    "sprite": "/items/shaitan-the-advisor.png",
+    "reasons": []
+  },
+  {
+    "file": "src/data/invalid/spectral-jailer.json",
+    "name": "Spectral Jailer",
+    "slug": "spectral-jailer",
+    "category": "staves",
+    "itemType": "Staff",
+    "tier": "Unknown",
+    "sprite": "/items/spectral-jailer.png",
+    "reasons": []
+  },
+  {
+    "file": "src/data/invalid/the-bridge-sentinel.json",
+    "name": "The Bridge Sentinel",
+    "slug": "the-bridge-sentinel",
+    "category": "daggers",
+    "itemType": "Dagger",
+    "tier": "Unknown",
+    "sprite": "/items/the-bridge-sentinel.png",
+    "reasons": []
+  }
+]
