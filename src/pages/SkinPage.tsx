@@ -1,5 +1,6 @@
+import type { ReactNode } from "react";
 import { Link, useRoute } from "wouter";
-import { ArrowLeft, ExternalLink, Shirt } from "lucide-react";
+import { ArrowLeft, ArrowRight, ExternalLink, Shirt } from "lucide-react";
 import classSkinsData from "../data/class-skins.json";
 
 interface ClassSkin {
@@ -18,13 +19,18 @@ interface ClassSkin {
 
 const rawSkins = Array.isArray(classSkinsData) ? classSkinsData : [];
 
-const skins = rawSkins.filter(
-  (skin): skin is ClassSkin =>
-    typeof skin === "object" &&
-    skin !== null &&
-    "name" in skin &&
-    "slug" in skin
-);
+const skins = rawSkins
+  .filter(
+    (skin): skin is ClassSkin =>
+      typeof skin === "object" &&
+      skin !== null &&
+      "name" in skin &&
+      "slug" in skin
+  )
+  .sort((a, b) => {
+    if (a.class !== b.class) return a.class.localeCompare(b.class);
+    return a.name.localeCompare(b.name);
+  });
 
 function isEmpty(value: unknown) {
   if (value == null) return true;
@@ -38,7 +44,18 @@ export default function SkinPage() {
   const [, params] = useRoute("/skin/:slug");
   const slug = params?.slug || "";
 
-  const skin = skins.find((entry) => entry.slug === slug);
+  const currentIndex = skins.findIndex((entry) => entry.slug === slug);
+  const skin = currentIndex >= 0 ? skins[currentIndex] : undefined;
+
+  const previousSkin =
+    skins.length > 0 && currentIndex >= 0
+      ? skins[(currentIndex - 1 + skins.length) % skins.length]
+      : undefined;
+
+  const nextSkin =
+    skins.length > 0 && currentIndex >= 0
+      ? skins[(currentIndex + 1) % skins.length]
+      : undefined;
 
   if (!skin) {
     return (
@@ -67,12 +84,34 @@ export default function SkinPage() {
   return (
     <main className="min-h-screen bg-stone-950 text-stone-100 px-4 py-8">
       <div className="mx-auto max-w-5xl space-y-6">
-        <Link href="/skins">
-          <button className="inline-flex items-center gap-2 text-sm text-stone-400 transition hover:text-amber-300">
-            <ArrowLeft className="h-4 w-4" />
-            Back to Skins
-          </button>
-        </Link>
+        <div className="flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+          <Link href="/skins">
+            <button className="inline-flex items-center gap-2 text-sm text-stone-400 transition hover:text-amber-300">
+              <ArrowLeft className="h-4 w-4" />
+              Back to Skins
+            </button>
+          </Link>
+
+          <div className="flex gap-2">
+            {previousSkin && (
+              <Link href={`/skin/${previousSkin.slug}`}>
+                <button className="inline-flex items-center gap-2 rounded-xl border border-stone-800 bg-stone-900/70 px-3 py-2 text-sm font-semibold text-stone-300 transition hover:border-amber-700 hover:text-amber-200">
+                  <ArrowLeft className="h-4 w-4" />
+                  Previous
+                </button>
+              </Link>
+            )}
+
+            {nextSkin && (
+              <Link href={`/skin/${nextSkin.slug}`}>
+                <button className="inline-flex items-center gap-2 rounded-xl border border-amber-800 bg-amber-500/10 px-3 py-2 text-sm font-semibold text-amber-200 transition hover:bg-amber-500/20">
+                  Next
+                  <ArrowRight className="h-4 w-4" />
+                </button>
+              </Link>
+            )}
+          </div>
+        </div>
 
         <section className="rounded-3xl border border-amber-900/40 bg-[radial-gradient(circle_at_top_left,_rgba(245,158,11,0.12),_transparent_32%),linear-gradient(180deg,_#1c1712_0%,_#0c0a09_100%)] p-6">
           <div className="flex flex-col gap-6 sm:flex-row sm:items-center">
@@ -164,6 +203,33 @@ export default function SkinPage() {
             </ul>
           </Section>
         )}
+
+        <section className="flex flex-col gap-3 rounded-3xl border border-stone-800 bg-stone-900/60 p-4 sm:flex-row sm:items-center sm:justify-between">
+          <div className="text-sm text-stone-400">
+            <span className="text-amber-200 font-bold">{currentIndex + 1}</span> of{" "}
+            <span className="text-amber-200 font-bold">{skins.length}</span> skins
+          </div>
+
+          <div className="flex gap-2">
+            {previousSkin && (
+              <Link href={`/skin/${previousSkin.slug}`}>
+                <button className="inline-flex items-center gap-2 rounded-xl border border-stone-800 bg-stone-950 px-3 py-2 text-sm font-semibold text-stone-300 transition hover:border-amber-700 hover:text-amber-200">
+                  <ArrowLeft className="h-4 w-4" />
+                  Previous
+                </button>
+              </Link>
+            )}
+
+            {nextSkin && (
+              <Link href={`/skin/${nextSkin.slug}`}>
+                <button className="inline-flex items-center gap-2 rounded-xl border border-amber-800 bg-amber-500/10 px-3 py-2 text-sm font-semibold text-amber-200 transition hover:bg-amber-500/20">
+                  Next
+                  <ArrowRight className="h-4 w-4" />
+                </button>
+              </Link>
+            )}
+          </div>
+        </section>
       </div>
     </main>
   );
@@ -182,7 +248,7 @@ function InfoCard({ label, value }: { label: string; value: unknown }) {
   );
 }
 
-function Section({ title, children }: { title: string; children: React.ReactNode }) {
+function Section({ title, children }: { title: string; children: ReactNode }) {
   return (
     <section className="rounded-3xl border border-stone-800 bg-stone-900/60 p-5">
       <h2 className="mb-4 text-sm font-black uppercase tracking-[0.28em] text-amber-400">
