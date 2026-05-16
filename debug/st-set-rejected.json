@@ -2,51 +2,391 @@
   {
     "name": "Vampire Rogue Set",
     "slug": "vampire-rogue-set",
-    "sourceUrl": "https://www.realmeye.com/wiki/vampire-rogue-set",
     "class": "Rogue",
-    "itemCount": 0,
-    "itemNames": [],
-    "accepted": false,
-    "reason": "Expected 4 ST items, found 0."
+    "sourceUrl": "https://www.realmeye.com/wiki/vampire-rogue-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Soulcursed Scythe",
+      "Vampiric Cape",
+      "Hallowed Hide"
+    ],
+    "reason": "expected 4 ST items, found 3"
   },
   {
     "name": "Spectral Sentry Rogue Set",
     "slug": "spectral-sentry-rogue-set",
-    "sourceUrl": "https://www.realmeye.com/wiki/spectral-sentry-rogue-set",
     "class": "Rogue",
-    "itemCount": 0,
-    "itemNames": [],
-    "accepted": false,
-    "reason": "Expected 4 ST items, found 0."
+    "sourceUrl": "https://www.realmeye.com/wiki/spectral-sentry-rogue-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Phantom Sickle",
+      "Spectre Cloak",
+      "Soul Necklace"
+    ],
+    "reason": "expected 4 ST items, found 3"
   },
   {
     "name": "Phantom Archer Set",
     "slug": "phantom-archer-set",
-    "sourceUrl": "https://www.realmeye.com/wiki/phantom-archer-set",
     "class": "Archer",
-    "itemCount": 0,
-    "itemNames": [],
-    "accepted": false,
-    "reason": "Expected 4 ST items, found 0."
+    "sourceUrl": "https://www.realmeye.com/wiki/phantom-archer-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Deathless Crossbow",
+      "Revenant Ring",
+      "Quiver of Shrieking Specters"
+    ],
+    "reason": "expected 4 ST items, found 3"
   },
   {
     "name": "Kogbold Turretsmith Archer Set",
     "slug": "kogbold-turretsmith-archer-set",
-    "sourceUrl": "https://www.realmeye.com/wiki/kogbold-turretsmith-archer-set",
     "class": "Archer",
-    "itemCount": 0,
-    "itemNames": [],
-    "accepted": false,
-    "reason": "Expected 4 ST items, found 0."
+    "sourceUrl": "https://www.realmeye.com/wiki/kogbold-turretsmith-archer-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Sentry Turret",
+      "Tinkerers Apron",
+      "Targeting Monocular"
+    ],
+    "reason": "expected 4 ST items, found 3"
   },
   {
-    "name": "Valentine's Day Archer Set",
-    "slug": "valentines-day-archer-set",
-    "sourceUrl": "https://www.realmeye.com/wiki/valentine-s-day-archer-set",
-    "class": "Archer",
+    "name": "Priest of Geb Set",
+    "slug": "priest-of-geb-set",
+    "class": "Priest",
+    "sourceUrl": "https://www.realmeye.com/wiki/priest-of-geb-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Wand of Geb",
+      "Shendyt of Geb",
+      "Book of Geb"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Plague Doctor Priest Set",
+    "slug": "plague-doctor-priest-set",
+    "class": "Priest",
+    "sourceUrl": "https://www.realmeye.com/wiki/plague-doctor-priest-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Cane of Caduceus",
+      "Bloodletting Leeches",
+      "Plague Mask"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Dragon Tamer Set",
+    "slug": "dragon-tamer-set",
+    "class": "Warrior",
+    "sourceUrl": "https://www.realmeye.com/wiki/dragon-tamer-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Indomptable",
+      "Helm of Draconic Dominance",
+      "Amulet of Drakefyre"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Pirate King Warrior Set",
+    "slug": "pirate-king-warrior-set",
+    "class": "Warrior",
+    "sourceUrl": "https://www.realmeye.com/wiki/pirate-king-warrior-set",
+    "outfitSprite": "",
+    "itemCount": 2,
+    "itemNames": [
+      "Tricorne of the High Seas",
+      "Naval Uniform"
+    ],
+    "reason": "expected 4 ST items, found 2"
+  },
+  {
+    "name": "Oryx's Battle Attires Set",
+    "slug": "oryx-s-battle-attires-set",
+    "class": "Knight",
+    "sourceUrl": "https://www.realmeye.com/wiki/oryx-s-battle-attires-set",
+    "outfitSprite": "",
+    "itemCount": 1,
+    "itemNames": [
+      "Bloodstone Ring"
+    ],
+    "reason": "expected 4 ST items, found 1"
+  },
+  {
+    "name": "Nordic Knight Set",
+    "slug": "nordic-knight-set",
+    "class": "Knight",
+    "sourceUrl": "https://www.realmeye.com/wiki/nordic-knight-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Sunken Buckler",
+      "Chainmail Body Armor",
+      "Gjallarhorn"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Mad Minotaur Set",
+    "slug": "mad-minotaur-set",
+    "class": "Knight",
+    "sourceUrl": "https://www.realmeye.com/wiki/mad-minotaur-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Shockwave Shield",
+      "Cyclone Chestplate",
+      "Brass Knuckles"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Corrupted Paladin Set",
+    "slug": "corrupted-paladin-set",
+    "class": "Paladin",
+    "sourceUrl": "https://www.realmeye.com/wiki/corrupted-paladin-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Abyssal Insignia",
+      "Vortex Plating",
+      "Eye of the Void"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Unholy Paladin Set",
+    "slug": "unholy-paladin-set",
+    "class": "Paladin",
+    "sourceUrl": "https://www.realmeye.com/wiki/unholy-paladin-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Hellfire Broadsword",
+      "Sacrilege Seal",
+      "Horned Ring"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Alchemist Assassin Set",
+    "slug": "alchemist-assassin-set",
+    "class": "Assassin",
+    "sourceUrl": "https://www.realmeye.com/wiki/alchemist-assassin-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Toxic Toad",
+      "Makeshift Blowpipe",
+      "Protective Gloves"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Reaper Necromancer Set",
+    "slug": "reaper-necromancer-set",
+    "class": "Necromancer",
+    "sourceUrl": "https://www.realmeye.com/wiki/reaper-necromancer-set",
+    "outfitSprite": "",
+    "itemCount": 2,
+    "itemNames": [
+      "Hooded Skull",
+      "Grim Goblet"
+    ],
+    "reason": "expected 4 ST items, found 2"
+  },
+  {
+    "name": "Astral Arcanist Set",
+    "slug": "astral-arcanist-set",
+    "class": "Mystic",
+    "sourceUrl": "https://www.realmeye.com/wiki/astral-arcanist-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Nebular Rod",
+      "Cosmic Astrolabe",
+      "Eye of Divination"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Totalia Mystic Set",
+    "slug": "totalia-mystic-set",
+    "class": "Mystic",
+    "sourceUrl": "https://www.realmeye.com/wiki/totalia-mystic-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Stygian Torch",
+      "Orb of the Sabbath",
+      "Robe of the Enchantress"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Daeva Trickster Set",
+    "slug": "daeva-trickster-set",
+    "class": "Trickster",
+    "sourceUrl": "https://www.realmeye.com/wiki/daeva-trickster-set",
+    "outfitSprite": "",
+    "itemCount": 2,
+    "itemNames": [
+      "Daevite Progenitor",
+      "Flames of Genesis"
+    ],
+    "reason": "expected 4 ST items, found 2"
+  },
+  {
+    "name": "Spellbound Soulthief Set",
+    "slug": "spellbound-soulthief-set",
+    "class": "Trickster",
+    "sourceUrl": "https://www.realmeye.com/wiki/spellbound-soulthief-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Blade of Fates",
+      "Accursed Memory",
+      "Jewel of Vengeance"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Horrific Sorcerer Set",
+    "slug": "horrific-sorcerer-set",
+    "class": "Sorcerer",
+    "sourceUrl": "https://www.realmeye.com/wiki/horrific-sorcerer-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Grotesque Scepter",
+      "Garment of the Beast",
+      "Horrific Claws"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Court Magician Sorcerer Set",
+    "slug": "court-magician-sorcerer-set",
+    "class": "Sorcerer",
+    "sourceUrl": "https://www.realmeye.com/wiki/court-magician-sorcerer-set",
+    "outfitSprite": "",
+    "itemCount": 2,
+    "itemNames": [
+      "Magic Wand",
+      "Lightshow Scepter"
+    ],
+    "reason": "expected 4 ST items, found 2"
+  },
+  {
+    "name": "Akuma Slayer Set",
+    "slug": "akuma-slayer-set",
+    "class": "Samurai",
+    "sourceUrl": "https://www.realmeye.com/wiki/akuma-slayer-set",
+    "outfitSprite": "",
+    "itemCount": 2,
+    "itemNames": [
+      "Kazekiri",
+      "Kamishimo"
+    ],
+    "reason": "expected 4 ST items, found 2"
+  },
+  {
+    "name": "Daring Discoverer Samurai Set",
+    "slug": "daring-discoverer-samurai-set",
+    "class": "Samurai",
+    "sourceUrl": "https://www.realmeye.com/wiki/daring-discoverer-samurai-set",
+    "outfitSprite": "",
+    "itemCount": 2,
+    "itemNames": [
+      "Kiritsukeru",
+      "Reinforced Root Armor"
+    ],
+    "reason": "expected 4 ST items, found 2"
+  },
+  {
+    "name": "Frost Advisor Set",
+    "slug": "frost-advisor-set",
+    "class": "Samurai",
+    "sourceUrl": "https://www.realmeye.com/wiki/frost-advisor-set",
+    "outfitSprite": "",
+    "itemCount": 1,
+    "itemNames": [
+      "Iceborn Arsenal"
+    ],
+    "reason": "expected 4 ST items, found 1"
+  },
+  {
+    "name": "Valentine's Day Samurai Set",
+    "slug": "valentine-s-day-samurai-set",
+    "class": "Samurai",
+    "sourceUrl": "https://www.realmeye.com/wiki/valentine-s-day-samurai-set",
+    "outfitSprite": "",
     "itemCount": 0,
     "itemNames": [],
-    "accepted": false,
-    "reason": "Expected 4 ST items, found 0."
+    "reason": "expected 4 ST items, found 0"
+  },
+  {
+    "name": "Angelic Bard Set",
+    "slug": "angelic-bard-set",
+    "class": "Bard",
+    "sourceUrl": "https://www.realmeye.com/wiki/angelic-bard-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Harmonious Harp",
+      "Wings of Sanctity",
+      "Heavenly Halo"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Ancestral Shaman Set",
+    "slug": "ancestral-shaman-set",
+    "class": "Bard",
+    "sourceUrl": "https://www.realmeye.com/wiki/ancestral-shaman-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Firestarter",
+      "Sacred Lute",
+      "Tiki Pendant"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Tidal Wave Kensei Set",
+    "slug": "tidal-wave-kensei-set",
+    "class": "Kensei",
+    "sourceUrl": "https://www.realmeye.com/wiki/tidal-wave-kensei-set",
+    "outfitSprite": "",
+    "itemCount": 3,
+    "itemNames": [
+      "Saif of the Deep",
+      "Loch Sheath",
+      "Barrier Reef"
+    ],
+    "reason": "expected 4 ST items, found 3"
+  },
+  {
+    "name": "Mechanical Raptor Druid Set",
+    "slug": "mechanical-raptor-druid-set",
+    "class": "Druid",
+    "sourceUrl": "https://www.realmeye.com/wiki/mechanical-raptor-druid-set",
+    "outfitSprite": "",
+    "itemCount": 1,
+    "itemNames": [
+      "Pressure Gauge Band"
+    ],
+    "reason": "expected 4 ST items, found 1"
   }
 ]

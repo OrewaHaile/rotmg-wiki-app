@@ -21,7 +21,7 @@ const categoryDirs = [
 function readJson(filePath) {
   try {
     return JSON.parse(fs.readFileSync(filePath, "utf8"));
-  } catch (error) {
+  } catch {
     console.log(`Skipped invalid JSON: ${filePath}`);
     return null;
   }
@@ -57,6 +57,8 @@ function normalizeItem(item, filePath, category) {
     tier: item.tier || "",
     bagType: item.bagType || "",
     soulbound: item.soulbound ?? false,
+    feedPower: item.feedPower ?? null,
+    fameBonus: item.fameBonus ?? null,
     usableClasses: item.usableClasses || [],
     dropsFrom: item.dropsFrom || [],
     effects: item.effects || [],

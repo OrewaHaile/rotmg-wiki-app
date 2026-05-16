@@ -1,0 +1,659 @@
+[
+  {
+    "name": "Skuld 2 The ReGhostening",
+    "slug": "skuld-2-the-reghostening-set",
+    "class": "Rogue",
+    "sourceUrl": "https://www.realmeye.com/wiki/skuld-2-the-reghostening-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/d/Skins/Skuld%20Set%20Skin.png",
+    "rowIndex": 1,
+    "cellIndex": 1
+  },
+  {
+    "name": "Vampire Rogue",
+    "slug": "vampire-rogue-set",
+    "class": "Rogue",
+    "sourceUrl": "https://www.realmeye.com/wiki/vampire-rogue-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/eEaTAYt.png",
+    "rowIndex": 1,
+    "cellIndex": 2
+  },
+  {
+    "name": "Spectral Sentry Rogue",
+    "slug": "spectral-sentry-rogue-set",
+    "class": "Rogue",
+    "sourceUrl": "https://www.realmeye.com/wiki/spectral-sentry-rogue-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/JwW6z20.png",
+    "rowIndex": 1,
+    "cellIndex": 3
+  },
+  {
+    "name": "Legacy Skuld 2 The ReGhostening",
+    "slug": "legacy-skuld-2-the-reghostening-set",
+    "class": "Rogue",
+    "sourceUrl": "https://www.realmeye.com/wiki/legacy-skuld-2-the-reghostening-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/d/Skins/Skuld%20Set%20Skin.png",
+    "rowIndex": 1,
+    "cellIndex": 5
+  },
+  {
+    "name": "Phantom Archer",
+    "slug": "phantom-archer-set",
+    "class": "Archer",
+    "sourceUrl": "https://www.realmeye.com/wiki/phantom-archer-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/zKq8vEm.png",
+    "rowIndex": 2,
+    "cellIndex": 1
+  },
+  {
+    "name": "Treasure Hunter Archer",
+    "slug": "treasure-hunter-archer-set",
+    "class": "Archer",
+    "sourceUrl": "https://www.realmeye.com/wiki/treasure-hunter-archer-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/UP96of7.png",
+    "rowIndex": 2,
+    "cellIndex": 2
+  },
+  {
+    "name": "Kogbold Turretsmith Archer",
+    "slug": "kogbold-turretsmith-archer-set",
+    "class": "Archer",
+    "sourceUrl": "https://www.realmeye.com/wiki/kogbold-turretsmith-archer-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/9U5ajDJ.png",
+    "rowIndex": 2,
+    "cellIndex": 3
+  },
+  {
+    "name": "Reanimated Archer",
+    "slug": "reanimated-archer-set",
+    "class": "Archer",
+    "sourceUrl": "https://www.realmeye.com/wiki/reanimated-archer-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/pc8MBQZ.png",
+    "rowIndex": 2,
+    "cellIndex": 4
+  },
+  {
+    "name": "Golden Archer",
+    "slug": "golden-archer-set",
+    "class": "Archer",
+    "sourceUrl": "https://www.realmeye.com/wiki/golden-archer-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/57KAkf3.png",
+    "rowIndex": 2,
+    "cellIndex": 6
+  },
+  {
+    "name": "Twilight Archmage",
+    "slug": "twilight-archmage-set",
+    "class": "Wizard",
+    "sourceUrl": "https://www.realmeye.com/wiki/twilight-archmage-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/lCfEMti.png",
+    "rowIndex": 3,
+    "cellIndex": 1
+  },
+  {
+    "name": "Slurp Scion Wizard",
+    "slug": "slurp-scion-wizard-set",
+    "class": "Wizard",
+    "sourceUrl": "https://www.realmeye.com/wiki/slurp-scion-wizard-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/7FByyNW.png",
+    "rowIndex": 3,
+    "cellIndex": 2
+  },
+  {
+    "name": "Kogbold Pyrotechnician Wizard",
+    "slug": "kogbold-pyrotechnician-wizard-set",
+    "class": "Wizard",
+    "sourceUrl": "https://www.realmeye.com/wiki/kogbold-pyrotechnician-wizard-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/iZnvWgb.png",
+    "rowIndex": 3,
+    "cellIndex": 3
+  },
+  {
+    "name": "Paranormal Wizard",
+    "slug": "paranormal-wizard-set",
+    "class": "Wizard",
+    "sourceUrl": "https://www.realmeye.com/wiki/paranormal-wizard-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/nXIAvS9.png",
+    "rowIndex": 3,
+    "cellIndex": 4
+  },
+  {
+    "name": "Legacy Twilight Archmage",
+    "slug": "legacy-twilight-archmage-set",
+    "class": "Wizard",
+    "sourceUrl": "https://www.realmeye.com/wiki/legacy-twilight-archmage-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/d/Skins/Twilight%20Archmage%20Set%20Skin.png",
+    "rowIndex": 3,
+    "cellIndex": 5
+  },
+  {
+    "name": "Priest of Geb",
+    "slug": "priest-of-geb-set",
+    "class": "Priest",
+    "sourceUrl": "https://www.realmeye.com/wiki/priest-of-geb-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/d/Skins/Geb%20Set%20Skin.png",
+    "rowIndex": 4,
+    "cellIndex": 1
+  },
+  {
+    "name": "Mad God's Messenger",
+    "slug": "mad-god-s-messenger-set",
+    "class": "Priest",
+    "sourceUrl": "https://www.realmeye.com/wiki/mad-god-s-messenger-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/GocIgRz.png",
+    "rowIndex": 4,
+    "cellIndex": 2
+  },
+  {
+    "name": "Plague Doctor Priest",
+    "slug": "plague-doctor-priest-set",
+    "class": "Priest",
+    "sourceUrl": "https://www.realmeye.com/wiki/plague-doctor-priest-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/hKWuUEF.png",
+    "rowIndex": 4,
+    "cellIndex": 3
+  },
+  {
+    "name": "Archexorcist Priest",
+    "slug": "archexorcist-priest-set",
+    "class": "Priest",
+    "sourceUrl": "https://www.realmeye.com/wiki/archexorcist-priest-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/JOklWyz.png",
+    "rowIndex": 4,
+    "cellIndex": 4
+  },
+  {
+    "name": "Dragon Tamer",
+    "slug": "dragon-tamer-set",
+    "class": "Warrior",
+    "sourceUrl": "https://www.realmeye.com/wiki/dragon-tamer-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/d/Skins/Dragon%20Tamer%20Set%20Skin.png",
+    "rowIndex": 5,
+    "cellIndex": 1
+  },
+  {
+    "name": "Pirate King Warrior",
+    "slug": "pirate-king-warrior-set",
+    "class": "Warrior",
+    "sourceUrl": "https://www.realmeye.com/wiki/pirate-king-warrior-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/ezuDMca.png",
+    "rowIndex": 5,
+    "cellIndex": 2
+  },
+  {
+    "name": "Killbilly Warrior",
+    "slug": "killbilly-warrior-set",
+    "class": "Warrior",
+    "sourceUrl": "https://www.realmeye.com/wiki/killbilly-warrior-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/oUsfaW4.png",
+    "rowIndex": 5,
+    "cellIndex": 3
+  },
+  {
+    "name": "Lycan Warrior",
+    "slug": "lycan-warrior-set",
+    "class": "Warrior",
+    "sourceUrl": "https://www.realmeye.com/wiki/lycan-warrior-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/neXRsk6.png",
+    "rowIndex": 5,
+    "cellIndex": 4
+  },
+  {
+    "name": "Oryx's Battle Attires",
+    "slug": "oryx-s-battle-attires-set",
+    "class": "Knight",
+    "sourceUrl": "https://www.realmeye.com/wiki/oryx-s-battle-attires-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/d/Skins/Oryx%20Set%20Skin.png",
+    "rowIndex": 6,
+    "cellIndex": 1
+  },
+  {
+    "name": "Nordic Knight",
+    "slug": "nordic-knight-set",
+    "class": "Knight",
+    "sourceUrl": "https://www.realmeye.com/wiki/nordic-knight-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/w6rZH1r.png",
+    "rowIndex": 6,
+    "cellIndex": 2
+  },
+  {
+    "name": "Mad Minotaur",
+    "slug": "mad-minotaur-set",
+    "class": "Knight",
+    "sourceUrl": "https://www.realmeye.com/wiki/mad-minotaur-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/sQ5tHqt.png",
+    "rowIndex": 6,
+    "cellIndex": 3
+  },
+  {
+    "name": "Easter Knight",
+    "slug": "easter-knight-set",
+    "class": "Knight",
+    "sourceUrl": "https://www.realmeye.com/wiki/easter-knight-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/U9fGdOr.png",
+    "rowIndex": 6,
+    "cellIndex": 4
+  },
+  {
+    "name": "Oryx Awesome",
+    "slug": "oryx-awesome-set",
+    "class": "Knight",
+    "sourceUrl": "https://www.realmeye.com/wiki/oryx-awesome-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/d/Skins/Oryx%20Set%20Skin.png",
+    "rowIndex": 6,
+    "cellIndex": 5
+  },
+  {
+    "name": "Swoll Paladin",
+    "slug": "swoll-paladin-set",
+    "class": "Paladin",
+    "sourceUrl": "https://www.realmeye.com/wiki/swoll-paladin-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/d/Skins/Swoll%20Paladin%20Set%20Skin.png",
+    "rowIndex": 7,
+    "cellIndex": 1
+  },
+  {
+    "name": "Corrupted Paladin",
+    "slug": "corrupted-paladin-set",
+    "class": "Paladin",
+    "sourceUrl": "https://www.realmeye.com/wiki/corrupted-paladin-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/8bz8dZo.png",
+    "rowIndex": 7,
+    "cellIndex": 2
+  },
+  {
+    "name": "Frost Harbinger",
+    "slug": "frost-harbinger-set",
+    "class": "Paladin",
+    "sourceUrl": "https://www.realmeye.com/wiki/frost-harbinger-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/VvHjCfx.png",
+    "rowIndex": 7,
+    "cellIndex": 3
+  },
+  {
+    "name": "Unholy Paladin",
+    "slug": "unholy-paladin-set",
+    "class": "Paladin",
+    "sourceUrl": "https://www.realmeye.com/wiki/unholy-paladin-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/TqViVLP.png",
+    "rowIndex": 7,
+    "cellIndex": 4
+  },
+  {
+    "name": "Legacy Swoll Paladin",
+    "slug": "legacy-swoll-paladin-set",
+    "class": "Paladin",
+    "sourceUrl": "https://www.realmeye.com/wiki/legacy-swoll-paladin-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/d/Skins/Swoll%20Paladin%20Set%20Skin.png",
+    "rowIndex": 7,
+    "cellIndex": 5
+  },
+  {
+    "name": "Flesh Collector",
+    "slug": "flesh-collector-set",
+    "class": "Assassin",
+    "sourceUrl": "https://www.realmeye.com/wiki/flesh-collector-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/Rl87FHN.png",
+    "rowIndex": 8,
+    "cellIndex": 1
+  },
+  {
+    "name": "Acidified Assassin",
+    "slug": "acidified-assassin-set",
+    "class": "Assassin",
+    "sourceUrl": "https://www.realmeye.com/wiki/acidified-assassin-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/xUC9uCi.png",
+    "rowIndex": 8,
+    "cellIndex": 2
+  },
+  {
+    "name": "Alchemist Assassin",
+    "slug": "alchemist-assassin-set",
+    "class": "Assassin",
+    "sourceUrl": "https://www.realmeye.com/wiki/alchemist-assassin-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/iHkJWOb.png",
+    "rowIndex": 8,
+    "cellIndex": 3
+  },
+  {
+    "name": "Hollow King Necromancer",
+    "slug": "hollow-king-necromancer-set",
+    "class": "Necromancer",
+    "sourceUrl": "https://www.realmeye.com/wiki/hollow-king-necromancer-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/7OrDHy2.png",
+    "rowIndex": 9,
+    "cellIndex": 1
+  },
+  {
+    "name": "Cuboid Necromancer",
+    "slug": "cuboid-necromancer-set",
+    "class": "Necromancer",
+    "sourceUrl": "https://www.realmeye.com/wiki/cuboid-necromancer-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/SpuE7Cg.png",
+    "rowIndex": 9,
+    "cellIndex": 2
+  },
+  {
+    "name": "Shaman Necromancer",
+    "slug": "shaman-necromancer-set",
+    "class": "Necromancer",
+    "sourceUrl": "https://www.realmeye.com/wiki/shaman-necromancer-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/EmgIFUH.png",
+    "rowIndex": 9,
+    "cellIndex": 3
+  },
+  {
+    "name": "Reaper Necromancer",
+    "slug": "reaper-necromancer-set",
+    "class": "Necromancer",
+    "sourceUrl": "https://www.realmeye.com/wiki/reaper-necromancer-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/IdcLPT5.png",
+    "rowIndex": 9,
+    "cellIndex": 4
+  },
+  {
+    "name": "Swarming Huntress",
+    "slug": "swarming-huntress-set",
+    "class": "Huntress",
+    "sourceUrl": "https://www.realmeye.com/wiki/swarming-huntress-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/C5kgbLS.png",
+    "rowIndex": 10,
+    "cellIndex": 1
+  },
+  {
+    "name": "Horticultural Huntress",
+    "slug": "horticultural-huntress-set",
+    "class": "Huntress",
+    "sourceUrl": "https://www.realmeye.com/wiki/horticultural-huntress-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/kunlVwa.png",
+    "rowIndex": 10,
+    "cellIndex": 2
+  },
+  {
+    "name": "Resurrected Huntress",
+    "slug": "resurrected-huntress-set",
+    "class": "Huntress",
+    "sourceUrl": "https://www.realmeye.com/wiki/resurrected-huntress-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/LP6cunB.png",
+    "rowIndex": 10,
+    "cellIndex": 3
+  },
+  {
+    "name": "Cursed Cursebreaker Huntress",
+    "slug": "cursed-cursebreaker-huntress-set",
+    "class": "Huntress",
+    "sourceUrl": "https://www.realmeye.com/wiki/cursed-cursebreaker-huntress-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/bLRVD86.png",
+    "rowIndex": 10,
+    "cellIndex": 4
+  },
+  {
+    "name": "Phylactery Mystic",
+    "slug": "phylactery-mystic-set",
+    "class": "Mystic",
+    "sourceUrl": "https://www.realmeye.com/wiki/phylactery-mystic-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/d/Skins/Phylactery%20Set%20Skin.png",
+    "rowIndex": 11,
+    "cellIndex": 1
+  },
+  {
+    "name": "Magmatic Mystic",
+    "slug": "magmatic-mystic-set",
+    "class": "Mystic",
+    "sourceUrl": "https://www.realmeye.com/wiki/magmatic-mystic-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/GLbLUd1.png",
+    "rowIndex": 11,
+    "cellIndex": 2
+  },
+  {
+    "name": "Astral Arcanist",
+    "slug": "astral-arcanist-set",
+    "class": "Mystic",
+    "sourceUrl": "https://www.realmeye.com/wiki/astral-arcanist-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/d23iI9A.png",
+    "rowIndex": 11,
+    "cellIndex": 3
+  },
+  {
+    "name": "Totalia Mystic",
+    "slug": "totalia-mystic-set",
+    "class": "Mystic",
+    "sourceUrl": "https://www.realmeye.com/wiki/totalia-mystic-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/opKPD1f.png",
+    "rowIndex": 11,
+    "cellIndex": 4
+  },
+  {
+    "name": "Lost Golem",
+    "slug": "lost-golem-set",
+    "class": "Trickster",
+    "sourceUrl": "https://www.realmeye.com/wiki/lost-golem-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/oZj4CCb.png",
+    "rowIndex": 12,
+    "cellIndex": 1
+  },
+  {
+    "name": "Daeva Trickster",
+    "slug": "daeva-trickster-set",
+    "class": "Trickster",
+    "sourceUrl": "https://www.realmeye.com/wiki/daeva-trickster-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/b7OEde2.png",
+    "rowIndex": 12,
+    "cellIndex": 2
+  },
+  {
+    "name": "Spellbound Soulthief",
+    "slug": "spellbound-soulthief-set",
+    "class": "Trickster",
+    "sourceUrl": "https://www.realmeye.com/wiki/spellbound-soulthief-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/PYKuO4f.png",
+    "rowIndex": 12,
+    "cellIndex": 3
+  },
+  {
+    "name": "Scarecrow Trickster",
+    "slug": "scarecrow-trickster-set",
+    "class": "Trickster",
+    "sourceUrl": "https://www.realmeye.com/wiki/scarecrow-trickster-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/hV9jbrh.png",
+    "rowIndex": 12,
+    "cellIndex": 4
+  },
+  {
+    "name": "Horrific Sorcerer",
+    "slug": "horrific-sorcerer-set",
+    "class": "Sorcerer",
+    "sourceUrl": "https://www.realmeye.com/wiki/horrific-sorcerer-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/Nwd8CH9.png",
+    "rowIndex": 13,
+    "cellIndex": 1
+  },
+  {
+    "name": "Court Magician Sorcerer",
+    "slug": "court-magician-sorcerer-set",
+    "class": "Sorcerer",
+    "sourceUrl": "https://www.realmeye.com/wiki/court-magician-sorcerer-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/8UeISo2.png",
+    "rowIndex": 13,
+    "cellIndex": 2
+  },
+  {
+    "name": "Storm Shaman",
+    "slug": "storm-shaman-set",
+    "class": "Sorcerer",
+    "sourceUrl": "https://www.realmeye.com/wiki/storm-shaman-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/f8EtChp.png",
+    "rowIndex": 13,
+    "cellIndex": 3
+  },
+  {
+    "name": "Incubus Sorcerer",
+    "slug": "incubus-sorcerer-set",
+    "class": "Sorcerer",
+    "sourceUrl": "https://www.realmeye.com/wiki/incubus-sorcerer-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/ZVU4z2t.png",
+    "rowIndex": 13,
+    "cellIndex": 4
+  },
+  {
+    "name": "Raijin Disciple",
+    "slug": "raijin-disciple-set",
+    "class": "Ninja",
+    "sourceUrl": "https://www.realmeye.com/wiki/raijin-disciple-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/mxmbhw7.png",
+    "rowIndex": 14,
+    "cellIndex": 1
+  },
+  {
+    "name": "Crystal Kunoichi",
+    "slug": "crystal-kunoichi-set",
+    "class": "Ninja",
+    "sourceUrl": "https://www.realmeye.com/wiki/crystal-kunoichi-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/5U2zL9e.png",
+    "rowIndex": 14,
+    "cellIndex": 2
+  },
+  {
+    "name": "Onmyoji Ninja",
+    "slug": "onmyoji-ninja-set",
+    "class": "Ninja",
+    "sourceUrl": "https://www.realmeye.com/wiki/onmyoji-ninja-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/K05ypLU.png",
+    "rowIndex": 14,
+    "cellIndex": 3
+  },
+  {
+    "name": "Lei Gong",
+    "slug": "lei-gong-set",
+    "class": "Ninja",
+    "sourceUrl": "https://www.realmeye.com/wiki/lei-gong-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/h1Gyq4v.png",
+    "rowIndex": 14,
+    "cellIndex": 4
+  },
+  {
+    "name": "Akuma Slayer",
+    "slug": "akuma-slayer-set",
+    "class": "Samurai",
+    "sourceUrl": "https://www.realmeye.com/wiki/akuma-slayer-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/WUWEpuq.png",
+    "rowIndex": 15,
+    "cellIndex": 1
+  },
+  {
+    "name": "Daring Discoverer Samurai",
+    "slug": "daring-discoverer-samurai-set",
+    "class": "Samurai",
+    "sourceUrl": "https://www.realmeye.com/wiki/daring-discoverer-samurai-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/TazCGTz.png",
+    "rowIndex": 15,
+    "cellIndex": 2
+  },
+  {
+    "name": "Frost Advisor",
+    "slug": "frost-advisor-set",
+    "class": "Samurai",
+    "sourceUrl": "https://www.realmeye.com/wiki/frost-advisor-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/Sfhsz4M.png",
+    "rowIndex": 15,
+    "cellIndex": 3
+  },
+  {
+    "name": "Valentine's Day Samurai",
+    "slug": "valentine-s-day-samurai-set",
+    "class": "Samurai",
+    "sourceUrl": "https://www.realmeye.com/wiki/valentine-s-day-samurai-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/w8PPFoZ.png",
+    "rowIndex": 15,
+    "cellIndex": 4
+  },
+  {
+    "name": "Angelic Bard",
+    "slug": "angelic-bard-set",
+    "class": "Bard",
+    "sourceUrl": "https://www.realmeye.com/wiki/angelic-bard-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/mnXuPKM.png",
+    "rowIndex": 16,
+    "cellIndex": 1
+  },
+  {
+    "name": "Storm Caller Bard",
+    "slug": "storm-caller-bard-set",
+    "class": "Bard",
+    "sourceUrl": "https://www.realmeye.com/wiki/storm-caller-bard-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/e9TIdaI.png",
+    "rowIndex": 16,
+    "cellIndex": 2
+  },
+  {
+    "name": "Ancestral Shaman",
+    "slug": "ancestral-shaman-set",
+    "class": "Bard",
+    "sourceUrl": "https://www.realmeye.com/wiki/ancestral-shaman-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/qbMqfWf.png",
+    "rowIndex": 16,
+    "cellIndex": 3
+  },
+  {
+    "name": "Demon Guitarist",
+    "slug": "demon-guitarist-set",
+    "class": "Bard",
+    "sourceUrl": "https://www.realmeye.com/wiki/demon-guitarist-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/v06W7LO.png",
+    "rowIndex": 16,
+    "cellIndex": 4
+  },
+  {
+    "name": "Scientific Summoner",
+    "slug": "scientific-summoner-set",
+    "class": "Summoner",
+    "sourceUrl": "https://www.realmeye.com/wiki/scientific-summoner-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/Yd0Zc41.png",
+    "rowIndex": 17,
+    "cellIndex": 1
+  },
+  {
+    "name": "Earthen Bulwark Summoner",
+    "slug": "earthen-bulwark-summoner-set",
+    "class": "Summoner",
+    "sourceUrl": "https://www.realmeye.com/wiki/earthen-bulwark-summoner-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/LLce4Lc.png",
+    "rowIndex": 17,
+    "cellIndex": 2
+  },
+  {
+    "name": "Ghostly Banshee Summoner",
+    "slug": "ghostly-banshee-summoner-set",
+    "class": "Summoner",
+    "sourceUrl": "https://www.realmeye.com/wiki/ghostly-banshee-summoner-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/fAghjuI.png",
+    "rowIndex": 17,
+    "cellIndex": 4
+  },
+  {
+    "name": "Tidal Wave Kensei",
+    "slug": "tidal-wave-kensei-set",
+    "class": "Kensei",
+    "sourceUrl": "https://www.realmeye.com/wiki/tidal-wave-kensei-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/GBlP9HE.png",
+    "rowIndex": 18,
+    "cellIndex": 1
+  },
+  {
+    "name": "Fiery Kensei",
+    "slug": "fiery-kensei-set",
+    "class": "Kensei",
+    "sourceUrl": "https://www.realmeye.com/wiki/fiery-kensei-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/yptNoYz.png",
+    "rowIndex": 18,
+    "cellIndex": 2
+  },
+  {
+    "name": "Mechanical Raptor Druid",
+    "slug": "mechanical-raptor-druid-set",
+    "class": "Druid",
+    "sourceUrl": "https://www.realmeye.com/wiki/mechanical-raptor-druid-set",
+    "outfitImageUrl": "https://www.realmeye.com/s/a/img/wiki/i/VKmGIAw.png",
+    "rowIndex": 19,
+    "cellIndex": 1
+  }
+]

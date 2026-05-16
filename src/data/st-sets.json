@@ -1,18 +1,2405 @@
 [
   {
-    "id": "example-st-set",
-    "name": "Example ST Set",
-    "slug": "example-st-set",
+    "id": "acidified-assassin-set",
+    "name": "Acidified Assassin Set",
+    "slug": "acidified-assassin-set",
     "category": "sets",
     "setType": "ST",
-    "class": "Unknown",
-    "outfitSprite": "",
-    "sourceUrl": "",
-    "description": "ST set example. Replace this with imported RealmEye data later.",
-    "items": [],
-    "bonuses": [],
-    "notes": [
-      "This is a placeholder set used to prepare the ST Sets page."
-    ]
+    "class": "Assassin",
+    "outfitSprite": "/sets/acidified-assassin-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/acidified-assassin-set",
+    "description": "Notes The Acidified Assassin Set is the 23rd ST set to be released, alongside the Crystal Kunoichi Set and Magmatic Mystic Set. It is the second ST set for the assassin after the Flesh Collector Set.",
+    "items": [
+      {
+        "name": "Toxin Tooth",
+        "slug": "toxin-tooth",
+        "sprite": "/items/toxin-tooth.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Virulent Venom",
+        "slug": "virulent-venom",
+        "sprite": "/items/virulent-venom.png",
+        "itemType": "Poison",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Acidic Armor",
+        "slug": "acidic-armor",
+        "sprite": "/items/acidic-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Pernicious Peridot",
+        "slug": "pernicious-peridot",
+        "sprite": "/items/pernicious-peridot.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +2 ATT, +5 DEF, -5 SPD, +5 VIT",
+      "3rd Piece Bonus +50 MP, +3 ATT, +5 DEF, +10 VIT",
+      "4th Piece Bonus +100 HP, +10 ATT, +10 DEF, +15 VIT",
+      "Subtotal of Bonuses +100 HP, +15 ATT, +20 DEF, -5 SPD, +30 VIT",
+      "Overall Stat Bonus TBA",
+      "Total XP Bonus 22%",
+      "Before Exalt Version 6.2.0.0 (Oct 2025), this set had bonuses: 2 Piece Bonus: +5 DEF, -5 SPD, +5 VIT 3 Piece Bonus: +50 MP, +5 DEF, +10 VIT 4 Piece Bonus: +10 ATT, +10 DEF, +15 VIT"
+    ],
+    "notes": []
+  },
+  {
+    "id": "archexorcist-priest-set",
+    "name": "Archexorcist Priest Set",
+    "slug": "archexorcist-priest-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Priest",
+    "outfitSprite": "/sets/archexorcist-priest-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/archexorcist-priest-set",
+    "description": "Notes This is a reskinned version of the Mad God’s Messenger Set, released in Halloween 2021.",
+    "items": [
+      {
+        "name": "Holy Artifact",
+        "slug": "holy-artifact",
+        "sprite": "/items/holy-artifact.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Tome of Exorcism",
+        "slug": "tome-of-exorcism",
+        "sprite": "/items/tome-of-exorcism.png",
+        "itemType": "Tome",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Garb of the Ordained",
+        "slug": "garb-of-the-ordained",
+        "sprite": "/items/garb-of-the-ordained.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Pontifex Ring",
+        "slug": "pontifex-ring",
+        "sprite": "/items/pontifex-ring.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +4 DEX, +4 ATT",
+      "3rd Piece Bonus +5 DEX, +5 ATT",
+      "4th Piece Bonus +100 HP, +6 DEX, +6 ATT",
+      "Subtotal of Bonuses +100 HP, +15 ATT, +15 DEX",
+      "Overall Stat Bonus +160 HP, +20 MP, +19 ATT, +18 DEF, +18 DEX, -8 VIT, +7 WIS",
+      "Total XP Bonus 22%",
+      "History Before Exalt Version 6.1.0.0 (Sep 2025), the set’s bonuses were as follows:",
+      "2nd Piece Bonus: +2 DEX, +2 ATT",
+      "3rd Piece Bonus: +3 DEX, +3 ATT",
+      "4th Piece Bonus: 100 HP, +5 DEX, +5 ATT"
+    ],
+    "notes": []
+  },
+  {
+    "id": "crystal-kunoichi-set",
+    "name": "Crystal Kunoichi Set",
+    "slug": "crystal-kunoichi-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Ninja",
+    "outfitSprite": "/sets/crystal-kunoichi-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/crystal-kunoichi-set",
+    "description": "Notes The Crystal Kunoichi Set is the 21st ST set to be released, alongside the Magmatic Mystic Set and Acidified Assassin Set. It is the second ST for the Ninja after the Raijin Disciple Set.",
+    "items": [
+      {
+        "name": "Quartz Cutter",
+        "slug": "quartz-cutter",
+        "sprite": "/items/quartz-cutter.png",
+        "itemType": "Katana",
+        "tier": "ST",
+        "category": "katanas"
+      },
+      {
+        "name": "Crystalline Kunai",
+        "slug": "crystalline-kunai",
+        "sprite": "/items/crystalline-kunai.png",
+        "itemType": "Star",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Luminous Armor",
+        "slug": "luminous-armor",
+        "sprite": "/items/luminous-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Radiant Heart",
+        "slug": "radiant-heart",
+        "sprite": "/items/radiant-heart.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +30 HP, +4 ATT, +5 VIT",
+      "3rd Piece Bonus +30 HP, +5 ATT, +5 VIT",
+      "4th Piece Bonus +120 HP, +6 ATT, +5 DEF, +10 VIT",
+      "Subtotal of Bonuses +180 HP, +15 ATT, +5 DEF, +20 VIT",
+      "Overall Stat Bonus +480 HP, +20 ATT, +5 DEF, +10 SPD, +25 VIT",
+      "Total XP Bonus 22%",
+      "The +25 VIT can also be a godsend if: one doesn’t have a good pet, is dealing with pet-stasis, intentionally going petless and especially reduce the In Combat timer by 1.25 seconds."
+    ],
+    "notes": []
+  },
+  {
+    "id": "cuboid-necromancer-set",
+    "name": "Cuboid Necromancer Set",
+    "slug": "cuboid-necromancer-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Necromancer",
+    "outfitSprite": "/sets/cuboid-necromancer-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/cuboid-necromancer-set",
+    "description": "Notes The Cuboid Necromancer Set is the 32nd ST set to be released.",
+    "items": [
+      {
+        "name": "Squaroid Staff",
+        "slug": "squaroid-staff",
+        "sprite": "/items/squaroid-staff.png",
+        "itemType": "Staff",
+        "tier": "ST",
+        "category": "staves"
+      },
+      {
+        "name": "Cubic Frame",
+        "slug": "cubic-frame",
+        "sprite": "/items/cubic-frame.png",
+        "itemType": "Skull",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Polygonal Garbs",
+        "slug": "polygonal-garbs",
+        "sprite": "/items/polygonal-garbs.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Cuband",
+        "slug": "cuband",
+        "sprite": "/items/cuband.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +5 DEF",
+      "3rd Piece Bonus +50 HP, +5 VIT",
+      "4th Piece Bonus +50 HP, +5 DEX, +10 VIT",
+      "Subtotal of Bonuses +100 HP, +5 DEF, +5 DEX, +15 VIT",
+      "Overall Stat Bonus +210 HP, +20 DEF, +15 DEX, +15 VIT",
+      "Total XP Bonus 22%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "cursed-cursebreaker-huntress-set",
+    "name": "Cursed Cursebreaker Huntress Set",
+    "slug": "cursed-cursebreaker-huntress-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Huntress",
+    "outfitSprite": "/sets/cursed-cursebreaker-huntress-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/cursed-cursebreaker-huntress-set",
+    "description": "Notes This is a reskinned version of the Horticultural Huntress Set, released in Halloween 2021.",
+    "items": [
+      {
+        "name": "Silver Revolvers",
+        "slug": "silver-revolvers",
+        "sprite": "/items/silver-revolvers.png",
+        "itemType": "Bow",
+        "tier": "ST (Limited)",
+        "category": "bows"
+      },
+      {
+        "name": "Consecrated Trap",
+        "slug": "consecrated-trap",
+        "sprite": "/items/consecrated-trap.png",
+        "itemType": "Trap",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Metal-plated Corset",
+        "slug": "metal-plated-corset",
+        "sprite": "/items/metal-plated-corset.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Vial of Sustenance",
+        "slug": "vial-of-sustenance",
+        "sprite": "/items/vial-of-sustenance.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +20 MP, +3 SPD, +3 DEX",
+      "3rd Piece Bonus +30 HP, +40 MP, +5 SPD, +5 DEX",
+      "4th Piece Bonus +70 HP, +3 DEF, +5 SPD, +5 DEX",
+      "Subtotal of Bonuses +100 HP, +60 MP, +3 DEF, +13 SPD, +13 DEX",
+      "Overall Stat Bonus +100 HP, +170 MP, +14 DEF, +21 SPD, +33 DEX, +5 VIT",
+      "Total XP Bonus 22%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "demon-guitarist-set",
+    "name": "Demon Guitarist Set",
+    "slug": "demon-guitarist-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Bard",
+    "outfitSprite": "/sets/demon-guitarist-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/demon-guitarist-set",
+    "description": "Notes This is a reskinned version of the Angelic Bard Set, released in Halloween 2024.",
+    "items": [
+      {
+        "name": "Electric Guitar",
+        "slug": "electric-guitar",
+        "sprite": "/items/electric-guitar.png",
+        "itemType": "Bow",
+        "tier": "ST (Limited)",
+        "category": "bows"
+      },
+      {
+        "name": "Inferno Pick",
+        "slug": "inferno-pick",
+        "sprite": "/items/inferno-pick.png",
+        "itemType": "Lute",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Wings of the Fallen",
+        "slug": "wings-of-the-fallen",
+        "sprite": "/items/wings-of-the-fallen.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Pointy Tail",
+        "slug": "pointy-tail",
+        "sprite": "/items/pointy-tail.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +20 HP, +3 DEF, +3 DEX",
+      "3rd Piece Bonus +20 HP, +40 MP, +3 DEX",
+      "4th Piece Bonus +40 HP, +20 MP, +5 DEF, +4 DEX",
+      "Subtotal of Bonuses +80 HP, +60 MP, +8 DEF, +10 DEX",
+      "Overall Stat Bonus +150 HP, +160 MP, +18 DEF, +15 DEX, +5 VIT, +11 WIS",
+      "Total XP Bonus 22%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "earthen-bulwark-summoner-set",
+    "name": "Earthen Bulwark Summoner Set",
+    "slug": "earthen-bulwark-summoner-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Summoner",
+    "outfitSprite": "/sets/earthen-bulwark-summoner-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/earthen-bulwark-summoner-set",
+    "description": "Notes The Earthen Bulwark Summoner Set was the 36th ST set to be released.",
+    "items": [
+      {
+        "name": "Earthen Ward",
+        "slug": "earthen-ward",
+        "sprite": "/items/earthen-ward.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Stonemould Mace",
+        "slug": "stonemould-mace",
+        "sprite": "/items/stonemould-mace.png",
+        "itemType": "Mace",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Rocky Robe",
+        "slug": "rocky-robe",
+        "sprite": "/items/rocky-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Steadfast Glyph",
+        "slug": "steadfast-glyph",
+        "sprite": "/items/steadfast-glyph.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +30 HP, +6 VIT, +2 ATT",
+      "3rd Piece Bonus +40 HP, +20 MP, +4 DEF, +3 ATT",
+      "4th Piece Bonus +60 HP, +40 MP, +10 ATT",
+      "Subtotal of Bonuses +130 HP, +60 MP, +15 ATT, +4 DEF, +6 VIT",
+      "Overall Stat Bonus +210 HP, +100 MP, +15 ATT, +33 DEF, -5 DEX, +10 VIT",
+      "Total XP Bonus 23%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "easter-knight-set",
+    "name": "Easter Knight Set",
+    "slug": "easter-knight-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Knight",
+    "outfitSprite": "/sets/easter-knight-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/easter-knight-set",
+    "description": "Notes The Easter Knight Set was released by Deca in Patch X.24.0.0 (Mar 2018), the items are only available via quests at The Tinkerer during Easter events.",
+    "items": [
+      {
+        "name": "Eternal Graved Great Sword",
+        "slug": "eternal-graved-great-sword",
+        "sprite": "/items/eternal-graved-great-sword.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Spriteful Shield",
+        "slug": "spriteful-shield",
+        "sprite": "/items/spriteful-shield.png",
+        "itemType": "Shield",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Eggre Battle Armor",
+        "slug": "eggre-battle-armor",
+        "sprite": "/items/eggre-battle-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Tiara of Eggscellent Sturdiness",
+        "slug": "tiara-of-eggscellent-sturdiness",
+        "sprite": "/items/tiara-of-eggscellent-sturdiness.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +20 MP, +3 SPD, +4 VIT",
+      "3rd Piece Bonus +30 MP, +4 SPD, +4 WIS",
+      "4th Piece Bonus +40 MP, +6 SPD, +4 DEX",
+      "Subtotal of Bonuses +90 MP, +4 DEX, +13 SPD, +4 VIT, +4 WIS",
+      "Overall Stat Bonus +90 MP, +6 ATT, +37 DEF, +18 SPD, +4 DEX, +7 VIT, +4 WIS",
+      "Total XP Bonus 27%",
+      "History In Patch X.33.0.0 (Apr 2020), additional stat bonuses were given to the set, and all of its component items were reclassified as ST (previously UT)."
+    ],
+    "notes": []
+  },
+  {
+    "id": "fiery-kensei-set",
+    "name": "Fiery Kensei Set",
+    "slug": "fiery-kensei-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Kensei",
+    "outfitSprite": "/sets/fiery-kensei-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/fiery-kensei-set",
+    "description": "Notes The Fiery Kensei Set was the 39th ST set to be released.",
+    "items": [
+      {
+        "name": "Fiery Katana",
+        "slug": "fiery-katana",
+        "sprite": "/items/fiery-katana.png",
+        "itemType": "Katana",
+        "tier": "ST",
+        "category": "katanas"
+      },
+      {
+        "name": "Pyro Sheath",
+        "slug": "pyro-sheath",
+        "sprite": "/items/pyro-sheath.png",
+        "itemType": "Sheath",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Flame Guard",
+        "slug": "flame-guard",
+        "sprite": "/items/flame-guard.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Firelight Necklace",
+        "slug": "firelight-necklace",
+        "sprite": "/items/firelight-necklace.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +20 HP, 5 ATT, 5 VIT",
+      "3rd Piece Bonus +40 HP, 5 ATT, 5 VIT",
+      "4th Piece Bonus +60 HP, 10 ATT, 10 VIT",
+      "Subtotal of Bonuses +120 HP, 20 ATT, 20 VIT",
+      "Overall Stat Bonus +220 HP, 40 MP, 26 ATT, 20 DEF, 20 VIT",
+      "Total XP Bonus 22%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "flesh-collector-set",
+    "name": "Flesh Collector Set",
+    "slug": "flesh-collector-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Assassin",
+    "outfitSprite": "/sets/flesh-collector-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/flesh-collector-set",
+    "description": "Notes The Flesh Collector Set is the twelfth ST set to be released, and has been available since Patch X.28.0 (July 2018).",
+    "items": [
+      {
+        "name": "Symbiotic Ripper",
+        "slug": "symbiotic-ripper",
+        "sprite": "/items/symbiotic-ripper.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Rags of the Host",
+        "slug": "rags-of-the-host",
+        "sprite": "/items/rags-of-the-host.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Parasitic Concoction",
+        "slug": "parasitic-concoction",
+        "sprite": "/items/parasitic-concoction.png",
+        "itemType": "Poison",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Hivemind Circlet",
+        "slug": "hivemind-circlet",
+        "sprite": "/items/hivemind-circlet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +2 ATT, +2 VIT, +6 WIS",
+      "3rd Piece Bonus +50 HP, +5 ATT, +2 VIT",
+      "4th Piece Bonus +30 HP, +5 ATT, +6 VIT, +6 WIS",
+      "Subtotal of Bonuses +80 HP,+12 ATT, +10 VIT, +6 WIS",
+      "Overall Stat Bonus TBA",
+      "Total XP Bonus 22%",
+      "Wearing the full set transforms the assassin player into a 16x16 Flesh Collector sprite and changes the weapon’s shot. The set confers additional stat bonuses when at least two of the items are worn together.",
+      "History Before Exalt Version 6.2.0.0 (Oct 2025), this set had bonuses: 2 Piece Bonus: +6 VIT, +7 WIS 3 Piece Bonus: +50 HP, +7 ATT 4 Piece Bonus: +100 MP"
+    ],
+    "notes": []
+  },
+  {
+    "id": "frost-harbinger-set",
+    "name": "Frost Harbinger Set",
+    "slug": "frost-harbinger-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Paladin",
+    "outfitSprite": "/sets/frost-harbinger-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/frost-harbinger-set",
+    "description": "Notes The Frost Harbinger Set is the 52nd ST set to be released, alongside the Frost Advisor Samurai Set. It is the fifth ST set for the Paladin.",
+    "items": [
+      {
+        "name": "Heartsteel Claymore",
+        "slug": "heartsteel-claymore",
+        "sprite": "/items/heartsteel-claymore.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Symbol of the Lost",
+        "slug": "symbol-of-the-lost",
+        "sprite": "/items/symbol-of-the-lost.png",
+        "itemType": "Seal",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Hull of the Tundra",
+        "slug": "hull-of-the-tundra",
+        "sprite": "/items/hull-of-the-tundra.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Frozen Heart",
+        "slug": "frozen-heart",
+        "sprite": "/items/frozen-heart.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +30 HP, +30 MP, +2 ATT, +2 DEF",
+      "3rd Piece Bonus +35 HP, +35 MP, +3 ATT, +3 DEF",
+      "4th Piece Bonus +40 HP, +40 MP, +4 ATT, +4 DEF",
+      "Subtotal of Bonuses +105 HP, +105 MP, +9 ATT, +9 DEF",
+      "Overall Stat Bonus +150 HP, 150 MP, 9 ATT, 34 DEF, -10 SPD",
+      "Total XP Bonus 23%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "ghostly-banshee-summoner-set",
+    "name": "Ghostly Banshee Summoner Set",
+    "slug": "ghostly-banshee-summoner-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Summoner",
+    "outfitSprite": "/sets/ghostly-banshee-summoner-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/ghostly-banshee-summoner-set",
+    "description": "Notes This is a reskinned version of the Scientific Summoner Set, released in Halloween 2021.",
+    "items": [
+      {
+        "name": "Tormented Shriek",
+        "slug": "tormented-shriek",
+        "sprite": "/items/tormented-shriek.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Ghastly Mace",
+        "slug": "ghastly-mace",
+        "sprite": "/items/ghastly-mace.png",
+        "itemType": "Mace",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Lacerated Gown",
+        "slug": "lacerated-gown",
+        "sprite": "/items/lacerated-gown.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Unresolved Grudge",
+        "slug": "unresolved-grudge",
+        "sprite": "/items/unresolved-grudge.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +20 HP, +2 ATT, +2 VIT",
+      "3rd Piece Bonus +30 HP, +5 ATT, +3 DEF",
+      "4th Piece Bonus +60 HP, +60 MP, +8 ATT, +2 DEF, +3 VIT",
+      "Subtotal of Bonuses +110 HP, +60 MP, +15 ATT, +5 DEF, +5 VIT",
+      "Overall Stat Bonus TBA",
+      "Total XP Bonus 22%",
+      "History Before Exalt Version 6.2.0.0 (Oct 2025), this set had bonuses: 2 Piece Bonus: +20 HP 3 Piece Bonus: +30 HP, +5 ATT 4 Piece Bonus: +30 HP, +35 MP, +6 ATT"
+    ],
+    "notes": []
+  },
+  {
+    "id": "golden-archer-set",
+    "name": "Golden Archer Set",
+    "slug": "golden-archer-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Archer",
+    "outfitSprite": "/sets/golden-archer-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/golden-archer-set",
+    "description": "Notes This Archer set is soulbound. The low stat bonuses and poor utility of the items mean this set is, for all intents and purposes, a vanity set.",
+    "items": [
+      {
+        "name": "Brilliance Bow",
+        "slug": "brilliance-bow",
+        "sprite": "/items/brilliance-bow.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Quintessential Quiver",
+        "slug": "quintessential-quiver",
+        "sprite": "/items/quintessential-quiver.png",
+        "itemType": "Quiver",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Luxurious Leather",
+        "slug": "luxurious-leather",
+        "sprite": "/items/luxurious-leather.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Regal Ring",
+        "slug": "regal-ring",
+        "sprite": "/items/regal-ring.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "4th Piece Bonus +1 HP",
+      "Subtotal of Bonuses +1 HP",
+      "Overall Stat Bonus +1 HP, +1 DEF, +1 DEX",
+      "Total XP Bonus 20%",
+      "Notes This Archer set is soulbound. The low stat bonuses and poor utility of the items mean this set is, for all intents and purposes, a vanity set."
+    ],
+    "notes": []
+  },
+  {
+    "id": "hollow-king-necromancer-set",
+    "name": "Hollow King Necromancer Set",
+    "slug": "hollow-king-necromancer-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Necromancer",
+    "outfitSprite": "/sets/hollow-king-necromancer-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/hollow-king-necromancer-set",
+    "description": "Notes The Hollow King Set is the tenth ST set to be released.",
+    "items": [
+      {
+        "name": "Edictum Praetoris",
+        "slug": "edictum-praetoris",
+        "sprite": "/items/edictum-praetoris.png",
+        "itemType": "Staff",
+        "tier": "ST",
+        "category": "staves"
+      },
+      {
+        "name": "Toga Picta",
+        "slug": "toga-picta",
+        "sprite": "/items/toga-picta.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Memento Mori",
+        "slug": "memento-mori",
+        "sprite": "/items/memento-mori.png",
+        "itemType": "Skull",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Interregnum",
+        "slug": "interregnum",
+        "sprite": "/items/interregnum.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +30 MP, +3 DEF, 6 VIT",
+      "3rd Piece Bonus +45 HP, +7 ATT, +5 DEX, +4 VIT",
+      "4th Piece Bonus +40 HP, +3 ATT, +4 DEF",
+      "Subtotal of Bonuses +85 HP, +30 MP, +10 ATT, +7 DEF, +5 DEX, +10 VIT",
+      "Overall Stat Bonus TBA",
+      "Total XP Bonus 22%",
+      "The set confers additional stat bonuses when at least two of the items are worn together. Wearing the full set transforms the Necromancer player into a 16x16 sprite and changes the weapon’s shot.",
+      "History Before Exalt Version 6.4.0.0 (Dec 2025), this set’s bonuses were as follows:",
+      "2nd piece bonus: +30 MP, +6 VIT 3rd piece bonus: +25 HP, +4 DEF 4th piece bonus: +5 DEX, +7 ATT"
+    ],
+    "notes": []
+  },
+  {
+    "id": "horticultural-huntress-set",
+    "name": "Horticultural Huntress Set",
+    "slug": "horticultural-huntress-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Huntress",
+    "outfitSprite": "/sets/horticultural-huntress-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/horticultural-huntress-set",
+    "description": "Notes The Horticultural Huntress Set was the 20th ST set to be released. It is the 2nd ST set for Huntress after the Swarming Huntress Set.",
+    "items": [
+      {
+        "name": "Bergenia Bow",
+        "slug": "bergenia-bow",
+        "sprite": "/items/bergenia-bow.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Lifebringing Lotus",
+        "slug": "lifebringing-lotus",
+        "sprite": "/items/lifebringing-lotus.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Hollyhock Hide",
+        "slug": "hollyhock-hide",
+        "sprite": "/items/hollyhock-hide.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Chrysanthemum Corsage",
+        "slug": "chrysanthemum-corsage",
+        "sprite": "/items/chrysanthemum-corsage.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +20 MP, +3 SPD, +3 DEX",
+      "3rd Piece Bonus +30 HP, +40 MP, +5 SPD, +5 DEX",
+      "4th Piece Bonus +70 HP, +3 DEF, +5 SPD, +5 DEX",
+      "Subtotal of Bonuses +100 HP, +60 MP, +3 DEF, +13 SPD, +13 DEX",
+      "Overall Stat Bonus +100 HP, +170 MP, +14 DEF, +21 SPD, +33 DEX, +5 VIT",
+      "Total XP Bonus 22%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "incubus-sorcerer-set",
+    "name": "Incubus Sorcerer Set",
+    "slug": "incubus-sorcerer-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Sorcerer",
+    "outfitSprite": "/sets/incubus-sorcerer-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/incubus-sorcerer-set",
+    "description": "Notes This is a reskinned version of the Court Magician Sorcerer Set, released in Halloween 2023.",
+    "items": [
+      {
+        "name": "Heartbreaker Wand",
+        "slug": "heartbreaker-wand",
+        "sprite": "/items/heartbreaker-wand.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Lovesick Scepter",
+        "slug": "lovesick-scepter",
+        "sprite": "/items/lovesick-scepter.png",
+        "itemType": "Scepter",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Devilish Robes",
+        "slug": "devilish-robes",
+        "sprite": "/items/devilish-robes.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Devil Horn Headband",
+        "slug": "devil-horn-headband",
+        "sprite": "/items/devil-horn-headband.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +3 DEF, +2 DEX",
+      "3rd Piece Bonus +4 DEF, +3 DEX, +5 WIS",
+      "4th Piece Bonus -185 MP, +60 WIS",
+      "Subtotal of Bonuses -185 MP, +7 DEF, +5 DEX, +65 WIS",
+      "Overall Stat Bonus +107 HP, -235 MP, +19 DEF, +15 DEX, +75 WIS",
+      "Total XP Bonus 22%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "killbilly-warrior-set",
+    "name": "Killbilly Warrior Set",
+    "slug": "killbilly-warrior-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Warrior",
+    "outfitSprite": "/sets/killbilly-warrior-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/killbilly-warrior-set",
+    "description": "Notes The Killbilly Warrior Set is the 41st ST set to be released, alongside the Resurrected Huntress Set. It is the third ST set for the Warrior.",
+    "items": [
+      {
+        "name": "Jagged Hatchet",
+        "slug": "jagged-hatchet",
+        "sprite": "/items/jagged-hatchet.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Burlap Cowl",
+        "slug": "burlap-cowl",
+        "sprite": "/items/burlap-cowl.png",
+        "itemType": "Helm",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Overalls of Endurance",
+        "slug": "overalls-of-endurance",
+        "sprite": "/items/overalls-of-endurance.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Headless Ted",
+        "slug": "headless-ted",
+        "sprite": "/items/headless-ted.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +25 HP, +4 DEX, +2 DEF",
+      "3rd Piece Bonus +40 HP, +6 DEX, +4 DEF",
+      "4th Piece Bonus +75 HP, +4 SPD, +15 DEX, +6 DEF",
+      "Subtotal of Bonuses +140 HP, +4 SPD, +25 DEX, +12 DEF",
+      "Overall Stat Bonus TBA",
+      "Total XP Bonus 22%",
+      "The Hatchet has high range, lingering shots, and the bleeding effect to make up for it. The rest of the set trades Speedy for a close range, AoE paralysis and +10 DEF for a fairly long time when you take enough damage.",
+      "History Before Exalt Version 3.3.5.0 (Mar 2023), this set’s bonuses were as follows:",
+      "2nd piece bonus: +20 HP, +10 MP, +10 ATT, +2 DEF 3rd piece bonus: +35 HP, +15 MP, +15 ATT, +5 DEF 4th piece bonus: +55 HP, +25 MP, +25 ATT, +8 DEF",
+      "This made the 3/4 set (helm, armor, and accessory) an incredibly powerful set, outdamaging the combination of T7 Helm, Gladiator Guard and The Forgotten Crown while giving +40 HP for only -2 DEF.",
+      "Before Exalt Version 6.4.0.0 (Dec 2025), this set’s bonuses were as follows:",
+      "2nd piece bonus: +20 HP, +10 MP, +4 ATT, +2 DEF 3rd piece bonus: +35 HP, +15 MP, +6 ATT, +4 DEF 4th piece bonus: +55 HP, +25 MP, +10 ATT, +10 DEX, +6 DEF"
+    ],
+    "notes": []
+  },
+  {
+    "id": "kogbold-pyrotechnician-wizard-set",
+    "name": "Kogbold Pyrotechnician Wizard Set",
+    "slug": "kogbold-pyrotechnician-wizard-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Wizard",
+    "outfitSprite": "/sets/kogbold-pyrotechnician-wizard-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/kogbold-pyrotechnician-wizard-set",
+    "description": "Notes The Kogbold Pyrotechnician Wizard Set is the 47th ST set to be released, alongside the Kogbold Turretsmith Archer Set. It is the third ST set for the Wizard (Not including reskins or the Legacy Twilight Archmage Set).",
+    "items": [
+      {
+        "name": "Rocket Launcher",
+        "slug": "rocket-launcher",
+        "sprite": "/items/rocket-launcher.png",
+        "itemType": "Spellblade",
+        "tier": "ST",
+        "category": "spellblades"
+      },
+      {
+        "name": "Unstable Firework",
+        "slug": "unstable-firework",
+        "sprite": "/items/unstable-firework.png",
+        "itemType": "Spell",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Blast Proof Robes",
+        "slug": "blast-proof-robes",
+        "sprite": "/items/blast-proof-robes.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Lucky Grenade",
+        "slug": "lucky-grenade",
+        "sprite": "/items/lucky-grenade.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +15 HP, +10 MP, +3 DEX, +1 DEF",
+      "3rd Piece Bonus +25 HP, +20 MP, +5 DEX, +2 DEF",
+      "4th Piece Bonus +50 HP, +30 MP, +8 DEX, +3 DEF",
+      "Subtotal of Bonuses +90 HP, +60 MP, +16 DEX, +6 DEF",
+      "Overall Stat Bonus +235 HP, +60 MP, +26 DEX, +16 DEF",
+      "Total XP Bonus 22%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "legacy-skuld-2-the-reghostening-set",
+    "name": "Legacy Skuld 2 The ReGhostening Set",
+    "slug": "legacy-skuld-2-the-reghostening-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Rogue",
+    "outfitSprite": "/sets/legacy-skuld-2-the-reghostening-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/legacy-skuld-2-the-reghostening-set",
+    "description": "Notes Wearing the full set transforms the rogue player into a 16x16 Ghost of Skuld sprite and changes the weapon’s shot to appear larger when attacking.",
+    "items": [
+      {
+        "name": "Legacy Etherite Dagger",
+        "slug": "legacy-etherite-dagger",
+        "sprite": "/items/legacy-etherite-dagger.png",
+        "itemType": "Dagger",
+        "tier": "ST (Limited)",
+        "category": "daggers"
+      },
+      {
+        "name": "Legacy Ghastly Drape",
+        "slug": "legacy-ghastly-drape",
+        "sprite": "/items/legacy-ghastly-drape.png",
+        "itemType": "Cloak",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Legacy Mantle of Skuld",
+        "slug": "legacy-mantle-of-skuld",
+        "sprite": "/items/legacy-mantle-of-skuld.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Legacy Spectral Ring of Horrors",
+        "slug": "legacy-spectral-ring-of-horrors",
+        "sprite": "/items/legacy-spectral-ring-of-horrors.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "Overall Stat Bonus +50 HP, +10 MP, +12 DEF, -2 SPD, +4 DEX, +4 VIT, +4 WIS",
+      "Total XP Bonus 16%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "legacy-swoll-paladin-set",
+    "name": "Legacy Swoll Paladin Set",
+    "slug": "legacy-swoll-paladin-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Paladin",
+    "outfitSprite": "/sets/legacy-swoll-paladin-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/legacy-swoll-paladin-set",
+    "description": "Notes The Legacy Swoll Paladin Set was introduced in Patch X.31.8.0 (July 2019), replacing the previous Swoll Paladin Set which was made available in Release 26.0 (Nov 2014). It provides no stat bonus’, but does give the player the 16x16 skin of the Swoll Paladin Set when wearing all 4 pieces.",
+    "items": [
+      {
+        "name": "Legacy Pixie-Enchanted Sword",
+        "slug": "legacy-pixie-enchanted-sword",
+        "sprite": "/items/legacy-pixie-enchanted-sword.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Legacy Seal of the Enchanted Forest",
+        "slug": "legacy-seal-of-the-enchanted-forest",
+        "sprite": "/items/legacy-seal-of-the-enchanted-forest.png",
+        "itemType": "Seal",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Legacy Fairy Plate",
+        "slug": "legacy-fairy-plate",
+        "sprite": "/items/legacy-fairy-plate.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Legacy Ring of Pure Wishes",
+        "slug": "legacy-ring-of-pure-wishes",
+        "sprite": "/items/legacy-ring-of-pure-wishes.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "Overall Stat Bonus +50 HP, +50 MP, +3 ATT, +25 DEF, +5 VIT, +5 WIS",
+      "Total XP Bonus 17%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "legacy-twilight-archmage-set",
+    "name": "Legacy Twilight Archmage Set",
+    "slug": "legacy-twilight-archmage-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Wizard",
+    "outfitSprite": "/sets/legacy-twilight-archmage-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/legacy-twilight-archmage-set",
+    "description": "Notes Wearing the full set transforms the wizard player into a 16x16 Twilight Archmage sprite and changes the weapon’s shot to appear larger when attacking.",
+    "items": [
+      {
+        "name": "Legacy Sentient Staff",
+        "slug": "legacy-sentient-staff",
+        "sprite": "/items/legacy-sentient-staff.png",
+        "itemType": "Staff",
+        "tier": "ST (Limited)",
+        "category": "staves"
+      },
+      {
+        "name": "Legacy Ancient Spell: Pierce",
+        "slug": "legacy-ancient-spell-pierce",
+        "sprite": "/items/legacy-ancient-spell-pierce.png",
+        "itemType": "Spell",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Legacy Robe of Twilight",
+        "slug": "legacy-robe-of-twilight",
+        "sprite": "/items/legacy-robe-of-twilight.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Legacy Forgotten Ring",
+        "slug": "legacy-forgotten-ring",
+        "sprite": "/items/legacy-forgotten-ring.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "Overall Stat Bonus +30 HP, +20 MP, +3 ATT, +14 DEF, +3 SPD, +3 DEX, +10 WIS",
+      "Total XP Bonus 16%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "lei-gong-set",
+    "name": "Lei Gong Set",
+    "slug": "lei-gong-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Ninja",
+    "outfitSprite": "/sets/lei-gong-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/lei-gong-set",
+    "description": "Notes This is a reskinned version of the Raijin Disciple Set, released in Halloween 2024.",
+    "items": [
+      {
+        "name": "Thunder Mallet",
+        "slug": "thunder-mallet",
+        "sprite": "/items/thunder-mallet.png",
+        "itemType": "Katana",
+        "tier": "ST (Limited)",
+        "category": "katanas"
+      },
+      {
+        "name": "Enchanted Chisel",
+        "slug": "enchanted-chisel",
+        "sprite": "/items/enchanted-chisel.png",
+        "itemType": "Star",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Daopao",
+        "slug": "daopao",
+        "sprite": "/items/daopao.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Mala Beads",
+        "slug": "mala-beads",
+        "sprite": "/items/mala-beads.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +6 DEF, +3 DEX",
+      "3rd Piece Bonus +3 ATT, +8 DEF",
+      "4th Piece Bonus +90 HP, +10 DEF, +5 SPD",
+      "Subtotal of Bonuses +90 HP, +3 ATT, +24 DEF, +5 SPD, +3 DEX",
+      "Overall Stat Bonus +170 HP, +11 ATT, +33 DEF, +10 SPD, +11 DEX, +5 VIT",
+      "Total XP Bonus 19%",
+      "History In Exalt Version 5.6.0.0 (Jan 2025), the set bonus got changed. Before, the 2 Piece Bonus gave +4 DEF, +7 SPD, the 3 Piece Bonus gave +4 ATT, +4 DEX and the 4 Piece Bonus gave +75 HP."
+    ],
+    "notes": []
+  },
+  {
+    "id": "lost-golem-set",
+    "name": "Lost Golem Set",
+    "slug": "lost-golem-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Trickster",
+    "outfitSprite": "/sets/lost-golem-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/lost-golem-set",
+    "description": "Notes The Lost Golem Set is the ninth ST set to be released. It drops from various enemies in the Lost Halls.",
+    "items": [
+      {
+        "name": "Carved Golem Remains",
+        "slug": "carved-golem-remains",
+        "sprite": "/items/carved-golem-remains.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Brain of the Golem",
+        "slug": "brain-of-the-golem",
+        "sprite": "/items/brain-of-the-golem.png",
+        "itemType": "Prism",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Golem Garments",
+        "slug": "golem-garments",
+        "sprite": "/items/golem-garments.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Rusty Cuffs",
+        "slug": "rusty-cuffs",
+        "sprite": "/items/rusty-cuffs.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +3 DEF, +15 VIT",
+      "3rd Piece Bonus +5 ATT, +5 DEX",
+      "4th Piece Bonus +80 HP, +5 ATT, +5 DEF, +5 DEX",
+      "Subtotal of Bonuses +80 HP, +10 ATT, +8 DEF, +10 DEX, +15 VIT",
+      "Overall Stat Bonus TBA",
+      "Total XP Bonus 22%",
+      "Set Additional Bonus: +40 HP, +3 DEF, +15 VIT, +6 ATT, +5 DEX Overall Stat Bonus: Wearing the entire Lost Golem set will grant in total: +80 HP, +8 ATT, +22 DEF, +5 SPD, +3 DEX, +27 VIT",
+      "Keep in mind that these bonuses were before the X.31.4 update, so one would have needed to wear the entire set in order to receive any additional bonuses.",
+      "Before Exalt Version 6.2.0.0 (Oct 2025), this set had bonuses: 3 Piece Bonus: +10 ATT, +5 DEX 4 Piece Bonus: +40 HP"
+    ],
+    "notes": []
+  },
+  {
+    "id": "lycan-warrior-set",
+    "name": "Lycan Warrior Set",
+    "slug": "lycan-warrior-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Warrior",
+    "outfitSprite": "/sets/lycan-warrior-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/lycan-warrior-set",
+    "description": "Notes This is a reskinned version of the Pirate King Warrior Set, released in Halloween 2021.",
+    "items": [
+      {
+        "name": "Savage Claws",
+        "slug": "savage-claws",
+        "sprite": "/items/savage-claws.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Beastly Mane",
+        "slug": "beastly-mane",
+        "sprite": "/items/beastly-mane.png",
+        "itemType": "Helm",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Ragetorn Armor",
+        "slug": "ragetorn-armor",
+        "sprite": "/items/ragetorn-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Moonstone Ring",
+        "slug": "moonstone-ring",
+        "sprite": "/items/moonstone-ring.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +30 HP, +30 MP, +5 ATT, -2 DEX",
+      "3rd Piece Bonus +50 HP, +50 MP, +10 ATT, -3 DEX",
+      "4th Piece Bonus +80 HP, +80 MP, +15 ATT, -5 SPD, -8 DEX",
+      "Subtotal of Bonuses +160 HP, +160 MP, +30 ATT, -5 SPD, -13 DEX",
+      "Overall Stat Bonus TBA",
+      "Total XP Bonus 22%",
+      "History Before Exalt Version 6.2.0.0 (Oct 2025), this set had bonuses: 2 Piece Bonus: +70 HP, +50 MP 3 Piece Bonus: +100 HP, +80 MP 4 Piece Bonus: +100 ATT, -30 DEX, -20 SPD"
+    ],
+    "notes": []
+  },
+  {
+    "id": "mad-god-s-messenger-set",
+    "name": "Mad God's Messenger Set",
+    "slug": "mad-god-s-messenger-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Priest",
+    "outfitSprite": "/sets/mad-god-s-messenger-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/mad-god-s-messenger-set",
+    "description": "Notes The Mad God’s Messenger Set was the eighteenth ST set to be released.",
+    "items": [
+      {
+        "name": "Theurgy Wand",
+        "slug": "theurgy-wand",
+        "sprite": "/items/theurgy-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Ceremonial Merlot",
+        "slug": "ceremonial-merlot",
+        "sprite": "/items/ceremonial-merlot.png",
+        "itemType": "Tome",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Anointed Robe",
+        "slug": "anointed-robe",
+        "sprite": "/items/anointed-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ring of Pagan Favor",
+        "slug": "ring-of-pagan-favor",
+        "sprite": "/items/ring-of-pagan-favor.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +4 DEX, +4 ATT",
+      "3rd Piece Bonus +5 DEX, +5 ATT",
+      "4th Piece Bonus +100 HP, +6 DEX, +6 ATT",
+      "Subtotal of Bonuses +100 HP, +15 ATT, +15 DEX",
+      "Overall Stat Bonus +160 HP, +20 MP, +19 ATT, +18 DEF, +18 DEX, -8 VIT, +7 WIS",
+      "Total XP Bonus 22%",
+      "History Before Exalt Version 6.1.0.0 (Sep 2025), the set’s bonuses were as follows:",
+      "2nd Piece Bonus: +2 DEX, +2 ATT",
+      "3rd Piece Bonus: +3 DEX, +3 ATT",
+      "4th Piece Bonus: 100 HP, +5 DEX, +5 ATT"
+    ],
+    "notes": []
+  },
+  {
+    "id": "magmatic-mystic-set",
+    "name": "Magmatic Mystic Set",
+    "slug": "magmatic-mystic-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Mystic",
+    "outfitSprite": "/sets/magmatic-mystic-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/magmatic-mystic-set",
+    "description": "Notes The Magmatic Mystic Set is the 22nd ST set to be released, alongside the Crystal Kunoichi Set and Acidified Assassin Set. It is the third ST set for the Mystic after the Phylactery Mystic Set and the Totalia Mystic Set.",
+    "items": [
+      {
+        "name": "Staff of Eruption",
+        "slug": "staff-of-eruption",
+        "sprite": "/items/staff-of-eruption.png",
+        "itemType": "Staff",
+        "tier": "ST",
+        "category": "staves"
+      },
+      {
+        "name": "Scorchium Stone",
+        "slug": "scorchium-stone",
+        "sprite": "/items/scorchium-stone.png",
+        "itemType": "Orb",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Molten Mantle",
+        "slug": "molten-mantle",
+        "sprite": "/items/molten-mantle.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ring of the Inferno",
+        "slug": "ring-of-the-inferno",
+        "sprite": "/items/ring-of-the-inferno.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +30 HP, +3 ATT, +3 SPD, +5 VIT",
+      "3rd Piece Bonus +25 HP, +60 MP, +5 ATT, +10 VIT",
+      "4th Piece Bonus +50 HP, +20 ATT, +5 SPD, +15 VIT",
+      "Subtotal of Bonuses +105 HP, +60 MP, +28 ATT, +8 SPD, +30 VIT",
+      "Overall Stat Bonus +105 HP, +215 MP, +36 ATT, +16 DEF, +16 SPD, +30 VIT",
+      "Total XP Bonus 23%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "onmyoji-ninja-set",
+    "name": "Onmyoji Ninja Set",
+    "slug": "onmyoji-ninja-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Ninja",
+    "outfitSprite": "/sets/onmyoji-ninja-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/onmyoji-ninja-set",
+    "description": "Notes The Onmyoji Ninja Set is the 44th ST set to be released, alongside the Plague Doctor Priest Set. It is the third ST set for the Ninja.",
+    "items": [
+      {
+        "name": "Shakujo",
+        "slug": "shakujo",
+        "sprite": "/items/shakujo.png",
+        "itemType": "Katana",
+        "tier": "ST",
+        "category": "katanas"
+      },
+      {
+        "name": "Invocation Scroll",
+        "slug": "invocation-scroll",
+        "sprite": "/items/invocation-scroll.png",
+        "itemType": "Star",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Divination Cloak",
+        "slug": "divination-cloak",
+        "sprite": "/items/divination-cloak.png",
+        "itemType": "Cloak",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Omamori",
+        "slug": "omamori",
+        "sprite": "/items/omamori.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +4 ATT, +4 DEF",
+      "3rd Piece Bonus +4 DEX, +75 HP",
+      "4th Piece Bonus +6 ATT, +75 MP",
+      "Subtotal of Bonuses +10 ATT, +4 DEF, +4 DEX, +75 MP, +75 HP",
+      "Overall Stat Bonus +10 ATT, +19 DEF, +14 DEX, +175 MP, +125 HP",
+      "Total XP Bonus 22%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "oryx-awesome-set",
+    "name": "Oryx Awesome Set",
+    "slug": "oryx-awesome-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Knight",
+    "outfitSprite": "/sets/oryx-awesome-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/oryx-awesome-set",
+    "description": "History The Oryx Awesome Set was the first special themed set. Released during the Month of the Mad God event, the equipment items are straight reskins of the Wine Cellar top knight items at the time of release: Acclaim, Colossus, Acropolis, and Exalted Health. The items dropped in all the same places as the equivalent tiered items during the Month of the Mad God event.",
+    "items": [
+      {
+        "name": "Sword of the Mad God",
+        "slug": "sword-of-the-mad-god",
+        "sprite": "/items/sword-of-the-mad-god.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Onyx Shield of the Mad God",
+        "slug": "onyx-shield-of-the-mad-god",
+        "sprite": "/items/onyx-shield-of-the-mad-god.png",
+        "itemType": "Shield",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Almandine Armor of Anger",
+        "slug": "almandine-armor-of-anger",
+        "sprite": "/items/almandine-armor-of-anger.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Almandine Ring of Wrath",
+        "slug": "almandine-ring-of-wrath",
+        "sprite": "/items/almandine-ring-of-wrath.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "Overall Stat Bonus +140 HP, +36 DEF, +2 VIT, +2 WIS",
+      "Total XP Bonus 19%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "paranormal-wizard-set",
+    "name": "Paranormal Wizard Set",
+    "slug": "paranormal-wizard-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Wizard",
+    "outfitSprite": "/sets/paranormal-wizard-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/paranormal-wizard-set",
+    "description": "Notes This is a reskinned version of the Twilight Archmage Set, released in Halloween 2019.",
+    "items": [
+      {
+        "name": "Supernatural Staff",
+        "slug": "supernatural-staff",
+        "sprite": "/items/supernatural-staff.png",
+        "itemType": "Staff",
+        "tier": "ST (Limited)",
+        "category": "staves"
+      },
+      {
+        "name": "Spectral Spell",
+        "slug": "spectral-spell",
+        "sprite": "/items/spectral-spell.png",
+        "itemType": "Spell",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Immortal Mantle",
+        "slug": "immortal-mantle",
+        "sprite": "/items/immortal-mantle.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Phantom Pendant",
+        "slug": "phantom-pendant",
+        "sprite": "/items/phantom-pendant.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +15 HP, +15 MP, +3 DEF",
+      "3rd Piece Bonus +15 HP, +15 MP, +3 DEF",
+      "4th Piece Bonus +15 HP, +15 MP, +3 DEF",
+      "Subtotal of Bonuses +45 HP, +45 MP, +9 DEF",
+      "Overall Stat Bonus +105 HP, +170 MP, +25 DEF, +3 SPD, +7 DEX",
+      "Total XP Bonus 16%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "phylactery-mystic-set",
+    "name": "Phylactery Mystic Set",
+    "slug": "phylactery-mystic-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Mystic",
+    "outfitSprite": "/sets/phylactery-mystic-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/phylactery-mystic-set",
+    "description": "Notes The Phylactery Mystic Set was the sixth ST set, becoming available from Release 27.7.5 (Dec 2015).",
+    "items": [
+      {
+        "name": "The Phylactery",
+        "slug": "the-phylactery",
+        "sprite": "/items/the-phylactery.png",
+        "itemType": "Staff",
+        "tier": "ST",
+        "category": "staves"
+      },
+      {
+        "name": "Soul of the Bearer",
+        "slug": "soul-of-the-bearer",
+        "sprite": "/items/soul-of-the-bearer.png",
+        "itemType": "Orb",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Soulless Robe",
+        "slug": "soulless-robe",
+        "sprite": "/items/soulless-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ring of the Covetous Heart",
+        "slug": "ring-of-the-covetous-heart",
+        "sprite": "/items/ring-of-the-covetous-heart.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +20 HP, +15 MP, +6 SPD, +7 WIS",
+      "3rd Piece Bonus +20 HP, +15 MP, +6 DEF, +8 VIT",
+      "4th Piece Bonus +20 HP, +15 MP, +7 ATT, +6 DEF",
+      "Subtotal of Bonuses +60 HP, +45 MP, +7 ATT, +12 DEF, +6 SPD, +8 VIT, +7 WIS",
+      "Overall Stat Bonus +120 HP, +125 MP, +15 ATT, +27 DEF, +6 SPD, +8 VIT, +15 WIS",
+      "Total XP Bonus 24%",
+      "Trivia It should be noted that this is one of two legacy set tier sets in the game that is still tradable and still has the stat bonus from equipping them. The second is the Priest of Geb set."
+    ],
+    "notes": []
+  },
+  {
+    "id": "raijin-disciple-set",
+    "name": "Raijin Disciple Set",
+    "slug": "raijin-disciple-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Ninja",
+    "outfitSprite": "/sets/raijin-disciple-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/raijin-disciple-set",
+    "description": "Notes The Raijin Disciple Set was the sixteenth ST set to be released.",
+    "items": [
+      {
+        "name": "Reikoku",
+        "slug": "reikoku",
+        "sprite": "/items/reikoku.png",
+        "itemType": "Katana",
+        "tier": "ST",
+        "category": "katanas"
+      },
+      {
+        "name": "Daybreak Chakram",
+        "slug": "daybreak-chakram",
+        "sprite": "/items/daybreak-chakram.png",
+        "itemType": "Star",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Hirejou Tenne",
+        "slug": "hirejou-tenne",
+        "sprite": "/items/hirejou-tenne.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Heavenly Magatama",
+        "slug": "heavenly-magatama",
+        "sprite": "/items/heavenly-magatama.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +6 DEF, +3 DEX",
+      "3rd Piece Bonus +3 ATT, +8 DEF",
+      "4th Piece Bonus +90 HP, +10 DEF, +5 SPD",
+      "Subtotal of Bonuses +90 HP, +3 ATT, +24 DEF, +5 SPD, +3 DEX",
+      "Overall Stat Bonus +170 HP, +11 ATT, +33 DEF, +10 SPD, +11 DEX, +5 VIT",
+      "Total XP Bonus 19%",
+      "All of the set pieces drop from various bosses and enemies of the Secluded Thicket dungeon.",
+      "Wearing the full set transforms the player into a 16x16 Raijin Disciple sprite and changes the weapon’s shot. The set confers additional stat bonuses when all the items are worn together.",
+      "In Exalt Version 5.6.0.0 (Jan 2025), the set bonus got changed. Before, the 2 Piece Bonus gave +4 DEF, +7 SPD, the 3 Piece Bonus gave +4 ATT, +4 DEX and the 4 Piece Bonus gave +75 HP."
+    ],
+    "notes": []
+  },
+  {
+    "id": "reanimated-archer-set",
+    "name": "Reanimated Archer Set",
+    "slug": "reanimated-archer-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Archer",
+    "outfitSprite": "/sets/reanimated-archer-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/reanimated-archer-set",
+    "description": "Notes This is a reskinned version of the Phantom Archer Set, released in Halloween 2019.",
+    "items": [
+      {
+        "name": "Bone Bow",
+        "slug": "bone-bow",
+        "sprite": "/items/bone-bow.png",
+        "itemType": "Bow",
+        "tier": "ST (Limited)",
+        "category": "bows"
+      },
+      {
+        "name": "Spinal Quiver",
+        "slug": "spinal-quiver",
+        "sprite": "/items/spinal-quiver.png",
+        "itemType": "Quiver",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Torso Tunic",
+        "slug": "torso-tunic",
+        "sprite": "/items/torso-tunic.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Collarbone Collar",
+        "slug": "collarbone-collar",
+        "sprite": "/items/collarbone-collar.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +20 HP, +20 MP, +3 ATT, +3 SPD",
+      "3rd Piece Bonus +30 HP, +30 MP, +3 DEF, +6 SPD",
+      "4th Piece Bonus +50 HP, +50 MP, +6 ATT, +6 DEF",
+      "Subtotal of Bonuses + 100 HP, +100 MP, + 9 ATT, +9 DEF, +9 SPD",
+      "Overall Stat Bonus TBA",
+      "Total XP Bonus 16%",
+      "History Before Exalt Version 1.0.3.0 (Sep 2020), the 4th Piece Bonus granted +105 HP only.",
+      "Before Exalt Version 6.4.0.0 (Dec 2025), this set’s bonuses were as follows:",
+      "2nd piece bonus: +5 DEX, +5 VIT 3rd piece bonus: +95 MP, +11 DEF 4th piece bonus: +105 HP, +6 ATT"
+    ],
+    "notes": []
+  },
+  {
+    "id": "resurrected-huntress-set",
+    "name": "Resurrected Huntress Set",
+    "slug": "resurrected-huntress-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Huntress",
+    "outfitSprite": "/sets/resurrected-huntress-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/resurrected-huntress-set",
+    "description": "Notes The Resurrected Huntress Set is the 40th ST set to be released, alongside the Killbilly Warrior Set. It is the third ST set for the Huntress.",
+    "items": [
+      {
+        "name": "Bolt Thrower",
+        "slug": "bolt-thrower",
+        "sprite": "/items/bolt-thrower.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Lightning Rod",
+        "slug": "lightning-rod",
+        "sprite": "/items/lightning-rod.png",
+        "itemType": "Trap",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Wedding Dress",
+        "slug": "wedding-dress",
+        "sprite": "/items/wedding-dress.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Gothic Bouffant",
+        "slug": "gothic-bouffant",
+        "sprite": "/items/gothic-bouffant.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +20 HP, +10 MP, +2 ATT, +2 VIT",
+      "3rd Piece Bonus +40 HP, +30 MP, +3 ATT, +2 DEF, +3 VIT",
+      "4th Piece Bonus +60 HP, +40 MP, +5 ATT, +3 DEF, +5 VIT",
+      "Subtotal of Bonuses +120 HP, +80 MP, +10 ATT, +5 DEF, +10 VIT",
+      "Overall Stat Bonus +180 HP, +80 MP, +14 ATT, +21 DEF, +11 DEX, +16 VIT",
+      "Total XP Bonus 22%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "scarecrow-trickster-set",
+    "name": "Scarecrow Trickster Set",
+    "slug": "scarecrow-trickster-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Trickster",
+    "outfitSprite": "/sets/scarecrow-trickster-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/scarecrow-trickster-set",
+    "description": "Notes This is a reskinned version of the Lost Golem Set, released in Halloween 2019.",
+    "items": [
+      {
+        "name": "Maize Machete",
+        "slug": "maize-machete",
+        "sprite": "/items/maize-machete.png",
+        "itemType": "Dagger",
+        "tier": "ST (Limited)",
+        "category": "daggers"
+      },
+      {
+        "name": "Pumpkin Prism",
+        "slug": "pumpkin-prism",
+        "sprite": "/items/pumpkin-prism.png",
+        "itemType": "Prism",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Withered Poncho",
+        "slug": "withered-poncho",
+        "sprite": "/items/withered-poncho.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Burlap Hat",
+        "slug": "burlap-hat",
+        "sprite": "/items/burlap-hat.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +3 DEF, +15 VIT",
+      "3rd Piece Bonus +5 ATT, +5 DEX",
+      "4th Piece Bonus +80 HP, +5 ATT, +5 DEF, +5 DEX",
+      "Subtotal of Bonuses +80 HP, +10 ATT, +8 DEF, +10 DEX, +15 VIT",
+      "Overall Stat Bonus TBA",
+      "Total XP Bonus 22%",
+      "History Before Exalt Version 6.2.0.0 (Oct 2025), this set had bonuses: 3 Piece Bonus: +10 ATT, +5 DEX 4 Piece Bonus: +40 HP"
+    ],
+    "notes": []
+  },
+  {
+    "id": "scientific-summoner-set",
+    "name": "Scientific Summoner Set",
+    "slug": "scientific-summoner-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Summoner",
+    "outfitSprite": "/sets/scientific-summoner-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/scientific-summoner-set",
+    "description": "Notes The Scientific Summoner Set is the 33rd ST set to be released. It was released alongside the introduction of the Summoner class.",
+    "items": [
+      {
+        "name": "C.L.A.W.",
+        "slug": "c-l-a-w",
+        "sprite": "/items/c-l-a-w.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "B.O.O.M.",
+        "slug": "b-o-o-m",
+        "sprite": "/items/b-o-o-m.png",
+        "itemType": "Mace",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "A.R.M.O.R.",
+        "slug": "a-r-m-o-r",
+        "sprite": "/items/a-r-m-o-r.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "C.O.N.T.R.O.L.L.E.R.",
+        "slug": "c-o-n-t-r-o-l-l-e-r",
+        "sprite": "/items/c-o-n-t-r-o-l-l-e-r.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +20 HP, +2 ATT, +2 VIT",
+      "3rd Piece Bonus +30 HP, +5 ATT, +3 DEF",
+      "4th Piece Bonus +60 HP, +60 MP, +8 ATT, +2 DEF, +3 VIT",
+      "Subtotal of Bonuses +110 HP, +60 MP, +15 ATT, +5 DEF, +5 VIT",
+      "Overall Stat Bonus TBA",
+      "Total XP Bonus 22%",
+      "History Before Exalt Version 6.2.0.0 (Oct 2025), this set had bonuses: 2 Piece Bonus: +20 HP 3 Piece Bonus: +30 HP, +5 ATT 4 Piece Bonus: +30 HP, +35 MP, +6 ATT"
+    ],
+    "notes": []
+  },
+  {
+    "id": "shaman-necromancer-set",
+    "name": "Shaman Necromancer Set",
+    "slug": "shaman-necromancer-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Necromancer",
+    "outfitSprite": "/sets/shaman-necromancer-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/shaman-necromancer-set",
+    "description": "Notes The Shaman Necromancer Set is the 42nd ST set to be released, alongside the Alchemist Assassin Set. It is the third ST set for the Necromancer. This ST Set is also the first one to contain more than one ST Ring.",
+    "items": [
+      {
+        "name": "Ritual Skull",
+        "slug": "ritual-skull",
+        "sprite": "/items/ritual-skull.png",
+        "itemType": "Skull",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Ragged Robes",
+        "slug": "ragged-robes",
+        "sprite": "/items/ragged-robes.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Fang Necklace",
+        "slug": "fang-necklace",
+        "sprite": "/items/fang-necklace.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Soul Gem Amulet",
+        "slug": "soul-gem-amulet",
+        "sprite": "/items/soul-gem-amulet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +3 DEX, +5 VIT",
+      "3rd Piece Bonus +50 HP, +3 ATT",
+      "4th Piece Bonus +50 HP, +4 ATT, +4 DEX",
+      "Subtotal of Bonuses +100 HP, +7 ATT, +7 DEX, +5 VIT,",
+      "Overall Stat Bonus +100 HP, +18 ATT, +11 DEF, +18 DEX, +10 VIT",
+      "Total XP Bonus 24%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "skuld-2-the-reghostening-set",
+    "name": "Skuld 2 The ReGhostening Set",
+    "slug": "skuld-2-the-reghostening-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Rogue",
+    "outfitSprite": "/sets/skuld-2-the-reghostening-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/skuld-2-the-reghostening-set",
+    "description": "This ST set confers additional stat bonuses when at least two of the items are worn together. Wearing the full set transforms the rogue player into a 16x16 Ghost of Skuld sprite and changes the weapon’s shot to appear larger when attacking.",
+    "items": [
+      {
+        "name": "Etherite Dagger",
+        "slug": "etherite-dagger",
+        "sprite": "/items/etherite-dagger.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Ghastly Drape",
+        "slug": "ghastly-drape",
+        "sprite": "/items/ghastly-drape.png",
+        "itemType": "Cloak",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Mantle of Skuld",
+        "slug": "mantle-of-skuld",
+        "sprite": "/items/mantle-of-skuld.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Spectral Ring of Horrors",
+        "slug": "spectral-ring-of-horrors",
+        "sprite": "/items/spectral-ring-of-horrors.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +4 WIS, +4 DEX",
+      "3rd Piece Bonus +30 MP, +4 ATT, +4 WIS",
+      "4th Piece Bonus +80 HP, +5 DEX, +5 ATT",
+      "Subtotal of Bonuses +80 HP, +30 MP, +9 ATT, +9 DEX, +8 WIS",
+      "Overall Stat Bonus TBA",
+      "Total XP Bonus 22%",
+      "In addition to the stat bonuses this set provides, the cloak fires 10 Paralyzing bullets upon use (like the Ghost of Skuld), with a highly MP and time inefficient Invisible, while significantly decreasing dagger range.",
+      "Before Exalt Version 6.4.0.0 (Dec 2025), this set’s bonuses were as follows:",
+      "2nd piece bonus: +4 WIS, +4 DEX 3rd piece bonus: +30 MP, +4 ATT 4th piece bonus: +80 HP, +5 DEX, +5 ATT"
+    ],
+    "notes": []
+  },
+  {
+    "id": "slurp-scion-wizard-set",
+    "name": "Slurp Scion Wizard Set",
+    "slug": "slurp-scion-wizard-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Wizard",
+    "outfitSprite": "/sets/slurp-scion-wizard-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/slurp-scion-wizard-set",
+    "description": "Notes The Slurp Scion Wizard Set is the 26th ST set to be released, alongside the Daring Discoverer Samurai Set and Court Magician Sorcerer Set, first obtainable in the “A STory of War III” Campaign. It is the second ST set for the Wizard after the Twilight Archmage Set (not including the Legacy Twilight Archmage Set).",
+    "items": [
+      {
+        "name": "Tideturner Trident",
+        "slug": "tideturner-trident",
+        "sprite": "/items/tideturner-trident.png",
+        "itemType": "Staff",
+        "tier": "ST",
+        "category": "staves"
+      },
+      {
+        "name": "Slurpian Sea Scroll",
+        "slug": "slurpian-sea-scroll",
+        "sprite": "/items/slurpian-sea-scroll.png",
+        "itemType": "Spell",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Oceanic Apparel",
+        "slug": "oceanic-apparel",
+        "sprite": "/items/oceanic-apparel.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Imperial Keepsake",
+        "slug": "imperial-keepsake",
+        "sprite": "/items/imperial-keepsake.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +20 HP, +2 DEF, +2 SPD",
+      "3rd Piece Bonus +30 HP, +4 DEF, +3 SPD",
+      "4th Piece Bonus +40 HP, +10 ATT, +6 DEF, +4 SPD",
+      "Subtotal of Bonuses +90 HP, +10 ATT, +12 DEF, +9 SPD",
+      "Overall Stat Bonus +200 HP, +10 ATT, +20 DEF, +25 SPD",
+      "Total XP Bonus 22%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "storm-caller-bard-set",
+    "name": "Storm Caller Bard Set",
+    "slug": "storm-caller-bard-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Bard",
+    "outfitSprite": "/sets/storm-caller-bard-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/storm-caller-bard-set",
+    "description": "Notes The Storm Caller Bard Set was the 37th ST set to be released.",
+    "items": [
+      {
+        "name": "Hailstorm",
+        "slug": "hailstorm",
+        "sprite": "/items/hailstorm.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Thundering Chorus",
+        "slug": "thundering-chorus",
+        "sprite": "/items/thundering-chorus.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Wind Dancer Robe",
+        "slug": "wind-dancer-robe",
+        "sprite": "/items/wind-dancer-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Augur of the Tempest",
+        "slug": "augur-of-the-tempest",
+        "sprite": "/items/augur-of-the-tempest.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +25 HP, +3 SPD, +3 DEX",
+      "3rd Piece Bonus +45 MP, +4 DEF, +4 SPD",
+      "4th Piece Bonus +80 HP, +60 MP, +7 DEX",
+      "Subtotal of Bonuses +105 HP, +105 MP, +4 DEF, +7 SPD, +10 DEX",
+      "Overall Stat Bonus +180 HP, +105 MP, +22 DEF, +19 SPD, +20 DEX",
+      "Total XP Bonus 23%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "storm-shaman-set",
+    "name": "Storm Shaman Set",
+    "slug": "storm-shaman-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Sorcerer",
+    "outfitSprite": "/sets/storm-shaman-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/storm-shaman-set",
+    "description": "",
+    "items": [
+      {
+        "name": "Lightning Wand",
+        "slug": "lightning-wand",
+        "sprite": "/items/lightning-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Totem Scepter",
+        "slug": "totem-scepter",
+        "sprite": "/items/totem-scepter.png",
+        "itemType": "Scepter",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Thunderstorm Tunic",
+        "slug": "thunderstorm-tunic",
+        "sprite": "/items/thunderstorm-tunic.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Bolt in a Bottle",
+        "slug": "bolt-in-a-bottle",
+        "sprite": "/items/bolt-in-a-bottle.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +10 HP, +50 MP, +4 SPD, +5 WIS",
+      "3rd Piece Bonus +20 HP, +50 MP, +6 SPD, +10 WIS",
+      "4th Piece Bonus +30 HP, +50 MP, +10 SPD, +15 WIS",
+      "Subtotal of Bonuses +60 HP, +150 MP, +20 SPD, +30 WIS",
+      "Overall Stat Bonus +60 HP, +210 MP, +5 ATT, +19 DEF, +29 SPD, +30 WIS",
+      "Total XP Bonus 22%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "swarming-huntress-set",
+    "name": "Swarming Huntress Set",
+    "slug": "swarming-huntress-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Huntress",
+    "outfitSprite": "/sets/swarming-huntress-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/swarming-huntress-set",
+    "description": "Notes The Swarming Huntress Set is the eighth ST set to be released.",
+    "items": [
+      {
+        "name": "Nectar Crossfire",
+        "slug": "nectar-crossfire",
+        "sprite": "/items/nectar-crossfire.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Apiary Armor",
+        "slug": "apiary-armor",
+        "sprite": "/items/apiary-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Honey Circlet",
+        "slug": "honey-circlet",
+        "sprite": "/items/honey-circlet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Honeytomb Snare",
+        "slug": "honeytomb-snare",
+        "sprite": "/items/honeytomb-snare.png",
+        "itemType": "Trap",
+        "tier": "ST",
+        "category": "abilities"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +5 DEF, +5 SPD",
+      "3rd Piece Bonus +40 HP, +5 ATT",
+      "4th Piece Bonus +8 DEX",
+      "Subtotal of Bonuses +40 HP, +5 ATT, +5 DEF, +5 SPD, +8 DEX",
+      "Overall Stat Bonus +120 HP, +12 ATT, +23 DEF, +12 SPD, +8 DEX",
+      "Total XP Bonus 22%",
+      "The set confers additional stat bonuses when at least two of the items are worn together. Wearing the full set transforms the huntress player into a 16x16 sprite and changes the weapon’s shot."
+    ],
+    "notes": []
+  },
+  {
+    "id": "swoll-paladin-set",
+    "name": "Swoll Paladin Set",
+    "slug": "swoll-paladin-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Paladin",
+    "outfitSprite": "/sets/swoll-paladin-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/swoll-paladin-set",
+    "description": "Notes The Swoll Paladin Set was the second ST set to be released, and included the first ST items that weren’t straight reskins of tiered equipment. The items drop from boss enemies in the Candyland Hunting Grounds dungeon.",
+    "items": [
+      {
+        "name": "Pixie-Enchanted Sword",
+        "slug": "pixie-enchanted-sword",
+        "sprite": "/items/pixie-enchanted-sword.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Seal of the Enchanted Forest",
+        "slug": "seal-of-the-enchanted-forest",
+        "sprite": "/items/seal-of-the-enchanted-forest.png",
+        "itemType": "Seal",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Fairy Plate",
+        "slug": "fairy-plate",
+        "sprite": "/items/fairy-plate.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ring of Pure Wishes",
+        "slug": "ring-of-pure-wishes",
+        "sprite": "/items/ring-of-pure-wishes.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +30 HP, +25 MP, +2 ATT",
+      "3rd Piece Bonus +40 HP, +25 MP, +4 ATT",
+      "4th Piece Bonus +50 HP, +50 MP, +6 ATT",
+      "Subtotal of Bonuses +120 HP, +100 MP, +12 ATT",
+      "Overall Stat Bonus TBA",
+      "Total XP Bonus 20%",
+      "History Before Patch X.31.8.0 (July 2019), this set’s stat bonuses gave +50 MP with 2 pieces, +5 DEF and +5 SPD with 3 pieces, and +50 HP and +2 ATT with all 4 pieces.",
+      "Before Exalt Version 6.4.0.0 (Dec 2025), this set’s bonuses were as follows:",
+      "2nd piece bonus: +25 HP, +25 MP, +2 DEF, +2 ATT 3rd piece bonus: +25 HP, +25 MP, +2 DEF, +2 ATT 4th piece bonus: +25 HP, +25 MP, +2 DEF, +2 ATT"
+    ],
+    "notes": []
+  },
+  {
+    "id": "treasure-hunter-archer-set",
+    "name": "Treasure Hunter Archer Set",
+    "slug": "treasure-hunter-archer-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Archer",
+    "outfitSprite": "/sets/treasure-hunter-archer-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/treasure-hunter-archer-set",
+    "description": "Notes The Treasure Hunter Archer Set is the 29th ST set to be released.",
+    "items": [
+      {
+        "name": "Resplendent Bow",
+        "slug": "resplendent-bow",
+        "sprite": "/items/resplendent-bow.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Embellished Quiver",
+        "slug": "embellished-quiver",
+        "sprite": "/items/embellished-quiver.png",
+        "itemType": "Quiver",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Ornate Armor",
+        "slug": "ornate-armor",
+        "sprite": "/items/ornate-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Aquamarine Amulet",
+        "slug": "aquamarine-amulet",
+        "sprite": "/items/aquamarine-amulet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +25 HP, +20 MP",
+      "3rd Piece Bonus +30 MP, +5 DEX, +5 VIT",
+      "4th Piece Bonus +50 HP, +50 MP, +10 ATT, +5 DEX",
+      "Subtotal of Bonuses +75 HP, +100 MP, +10 ATT, +10 DEX, +5 VIT",
+      "Overall Stat Bonus +125 HP, +100 MP, +10 ATT, +21 DEF, +10 DEX, +20 VIT",
+      "Total XP Bonus 22%"
+    ],
+    "notes": []
+  },
+  {
+    "id": "twilight-archmage-set",
+    "name": "Twilight Archmage Set",
+    "slug": "twilight-archmage-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Wizard",
+    "outfitSprite": "/sets/twilight-archmage-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/twilight-archmage-set",
+    "description": "Notes Wearing the full ST set transforms the wizard player into a 16x16 Twilight Archmage sprite and changes the weapon’s shot to appear larger when attacking.",
+    "items": [
+      {
+        "name": "Corruption Tether",
+        "slug": "corruption-tether",
+        "sprite": "/items/corruption-tether.png",
+        "itemType": "Staff",
+        "tier": "ST",
+        "category": "staves"
+      },
+      {
+        "name": "Ancient Eminence",
+        "slug": "ancient-eminence",
+        "sprite": "/items/ancient-eminence.png",
+        "itemType": "Spell",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Twilight Shroud",
+        "slug": "twilight-shroud",
+        "sprite": "/items/twilight-shroud.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Defiled Equilibrium",
+        "slug": "defiled-equilibrium",
+        "sprite": "/items/defiled-equilibrium.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "2nd Piece Bonus +15 HP, +15 MP, +3 DEF, +5 WIS",
+      "3rd Piece Bonus +15 HP, +25 MP, +3 DEF, +5 WIS",
+      "4th Piece Bonus +20 HP, +30 MP, +4 DEF, +5 VIT, +10 WIS",
+      "Subtotal of Bonuses +50 HP, +70 MP, +10 DEF, +5 VIT, +20 WIS",
+      "Overall Stat Bonus +170 HP, +160 MP, +25 DEF, +10 SPD, +10 VIT, +20 WIS",
+      "Total XP Bonus 25%"
+    ],
+    "notes": []
   }
 ]
