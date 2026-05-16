@@ -1,6 +1,7 @@
 import { Switch, Route, Router as WouterRouter } from "wouter";
 import Navigation from "./components/Navigation";
 import Footer from "./components/Footer";
+import ErrorBoundary from "./components/ErrorBoundary";
 import Home from "./pages/Home";
 import Categories from "./pages/Categories";
 import ImportStats from "./pages/ImportStats";
@@ -8,10 +9,11 @@ import ItemPage from "./pages/ItemPage";
 import ItemEditPage from "./pages/ItemEditPage";
 import Dungeons from "./pages/Dungeons";
 import Sets from "./pages/Sets";
+import Skins from "./pages/Skins";
 
 function Router() {
   return (
-    <>
+    <ErrorBoundary>
       <Navigation />
       <Switch>
         <Route path="/" component={Home} />
@@ -19,6 +21,7 @@ function Router() {
         <Route path="/categories" component={Categories} />
         <Route path="/dungeons" component={Dungeons} />
         <Route path="/sets" component={Sets} />
+        <Route path="/skins" component={Skins} />
         <Route path="/stats" component={ImportStats} />
         <Route path="/item/:slug/edit" component={ItemEditPage} />
         <Route path="/item/:slug" component={ItemPage} />
@@ -29,7 +32,7 @@ function Router() {
         </Route>
       </Switch>
       <Footer />
-    </>
+    </ErrorBoundary>
   );
 }
 

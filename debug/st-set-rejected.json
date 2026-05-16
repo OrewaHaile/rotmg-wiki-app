@@ -1,0 +1,52 @@
+[
+  {
+    "name": "Vampire Rogue Set",
+    "slug": "vampire-rogue-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/vampire-rogue-set",
+    "class": "Rogue",
+    "itemCount": 0,
+    "itemNames": [],
+    "accepted": false,
+    "reason": "Expected 4 ST items, found 0."
+  },
+  {
+    "name": "Spectral Sentry Rogue Set",
+    "slug": "spectral-sentry-rogue-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/spectral-sentry-rogue-set",
+    "class": "Rogue",
+    "itemCount": 0,
+    "itemNames": [],
+    "accepted": false,
+    "reason": "Expected 4 ST items, found 0."
+  },
+  {
+    "name": "Phantom Archer Set",
+    "slug": "phantom-archer-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/phantom-archer-set",
+    "class": "Archer",
+    "itemCount": 0,
+    "itemNames": [],
+    "accepted": false,
+    "reason": "Expected 4 ST items, found 0."
+  },
+  {
+    "name": "Kogbold Turretsmith Archer Set",
+    "slug": "kogbold-turretsmith-archer-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/kogbold-turretsmith-archer-set",
+    "class": "Archer",
+    "itemCount": 0,
+    "itemNames": [],
+    "accepted": false,
+    "reason": "Expected 4 ST items, found 0."
+  },
+  {
+    "name": "Valentine's Day Archer Set",
+    "slug": "valentines-day-archer-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/valentine-s-day-archer-set",
+    "class": "Archer",
+    "itemCount": 0,
+    "itemNames": [],
+    "accepted": false,
+    "reason": "Expected 4 ST items, found 0."
+  }
+]

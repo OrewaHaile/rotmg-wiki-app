@@ -1,0 +1,5695 @@
+[
+  {
+    "id": "accursed-memory-set",
+    "name": "Accursed Memory Set",
+    "slug": "accursed-memory-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Rogue",
+    "outfitSprite": "/sets/accursed-memory-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/accursed-memory",
+    "description": "",
+    "items": [
+      {
+        "name": "Accursed Memory",
+        "slug": "accursed-memory",
+        "sprite": "/items/accursed-memory.png",
+        "itemType": "Prism",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Blade of Fates",
+        "slug": "blade-of-fates",
+        "sprite": "/items/blade-of-fates.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Gravetender's Vest",
+        "slug": "gravetenders-vest",
+        "sprite": "/items/gravetenders-vest.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Jewel of Vengeance",
+        "slug": "jewel-of-vengeance",
+        "sprite": "/items/jewel-of-vengeance.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Daevite Progenitor",
+        "slug": "daevite-progenitor",
+        "sprite": "/items/daevite-progenitor.png",
+        "itemType": "Prism",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Brain of the Golem",
+        "slug": "brain-of-the-golem",
+        "sprite": "/items/brain-of-the-golem.png",
+        "itemType": "Prism",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Pumpkin Prism",
+        "slug": "pumpkin-prism",
+        "sprite": "/items/pumpkin-prism.png",
+        "itemType": "Prism",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Toxin Tooth",
+        "slug": "toxin-tooth",
+        "sprite": "/items/toxin-tooth.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Etherite Dagger",
+        "slug": "etherite-dagger",
+        "sprite": "/items/etherite-dagger.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Soulcursed Scythe",
+        "slug": "soulcursed-scythe",
+        "sprite": "/items/soulcursed-scythe.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Carved Golem Remains",
+        "slug": "carved-golem-remains",
+        "sprite": "/items/carved-golem-remains.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Phantom Sickle",
+        "slug": "phantom-sickle",
+        "sprite": "/items/phantom-sickle.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Symbiotic Ripper",
+        "slug": "symbiotic-ripper",
+        "sprite": "/items/symbiotic-ripper.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Toxic Toad",
+        "slug": "toxic-toad",
+        "sprite": "/items/toxic-toad.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Legacy Etherite Dagger",
+        "slug": "legacy-etherite-dagger",
+        "sprite": "/items/legacy-etherite-dagger.png",
+        "itemType": "Dagger",
+        "tier": "ST (Limited)",
+        "category": "daggers"
+      },
+      {
+        "name": "Maize Machete",
+        "slug": "maize-machete",
+        "sprite": "/items/maize-machete.png",
+        "itemType": "Dagger",
+        "tier": "ST (Limited)",
+        "category": "daggers"
+      },
+      {
+        "name": "Archangel's Judgement",
+        "slug": "archangels-judgement",
+        "sprite": "/items/archangels-judgement.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Luxurious Leather",
+        "slug": "luxurious-leather",
+        "sprite": "/items/luxurious-leather.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Apiary Armor",
+        "slug": "apiary-armor",
+        "sprite": "/items/apiary-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Wedding Dress",
+        "slug": "wedding-dress",
+        "sprite": "/items/wedding-dress.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Hollyhock Hide",
+        "slug": "hollyhock-hide",
+        "sprite": "/items/hollyhock-hide.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Hirejou Tenne",
+        "slug": "hirejou-tenne",
+        "sprite": "/items/hirejou-tenne.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Divination Cloak",
+        "slug": "divination-cloak",
+        "sprite": "/items/divination-cloak.png",
+        "itemType": "Cloak",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Rags of the Host",
+        "slug": "rags-of-the-host",
+        "sprite": "/items/rags-of-the-host.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Acidic Armor",
+        "slug": "acidic-armor",
+        "sprite": "/items/acidic-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Golem Garments",
+        "slug": "golem-garments",
+        "sprite": "/items/golem-garments.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ornate Armor",
+        "slug": "ornate-armor",
+        "sprite": "/items/ornate-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Tinkerers Apron",
+        "slug": "tinkerers-apron",
+        "sprite": "/items/tinkerers-apron.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Mantle of Skuld",
+        "slug": "mantle-of-skuld",
+        "sprite": "/items/mantle-of-skuld.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Hallowed Hide",
+        "slug": "hallowed-hide",
+        "sprite": "/items/hallowed-hide.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Luminous Armor",
+        "slug": "luminous-armor",
+        "sprite": "/items/luminous-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Metal-plated Corset",
+        "slug": "metal-plated-corset",
+        "sprite": "/items/metal-plated-corset.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Daopao",
+        "slug": "daopao",
+        "sprite": "/items/daopao.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Torso Tunic",
+        "slug": "torso-tunic",
+        "sprite": "/items/torso-tunic.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Withered Poncho",
+        "slug": "withered-poncho",
+        "sprite": "/items/withered-poncho.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Painted Eggshell Armor",
+        "slug": "painted-eggshell-armor",
+        "sprite": "/items/painted-eggshell-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Blizzard Jacket",
+        "slug": "blizzard-jacket",
+        "sprite": "/items/blizzard-jacket.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Legacy Mantle of Skuld",
+        "slug": "legacy-mantle-of-skuld",
+        "sprite": "/items/legacy-mantle-of-skuld.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Wraith's Brigandine",
+        "slug": "wraiths-brigandine",
+        "sprite": "/items/wraiths-brigandine.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Seraphim's Guard",
+        "slug": "seraphims-guard",
+        "sprite": "/items/seraphims-guard.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Mechpilot's Jerkin",
+        "slug": "mechpilots-jerkin",
+        "sprite": "/items/mechpilots-jerkin.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Reaper's Shroud",
+        "slug": "reapers-shroud",
+        "sprite": "/items/reapers-shroud.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Alchemist's Disheveled Garbs",
+        "slug": "alchemists-disheveled-garbs",
+        "sprite": "/items/alchemists-disheveled-garbs.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Cupid's Garments",
+        "slug": "cupids-garments",
+        "sprite": "/items/cupids-garments.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Plague Mask",
+        "slug": "plague-mask",
+        "sprite": "/items/plague-mask.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Spectral Ring of Horrors",
+        "slug": "spectral-ring-of-horrors",
+        "sprite": "/items/spectral-ring-of-horrors.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of Pure Wishes",
+        "slug": "ring-of-pure-wishes",
+        "sprite": "/items/ring-of-pure-wishes.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Honey Circlet",
+        "slug": "honey-circlet",
+        "sprite": "/items/honey-circlet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of Pagan Favor",
+        "slug": "ring-of-pagan-favor",
+        "sprite": "/items/ring-of-pagan-favor.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Gothic Bouffant",
+        "slug": "gothic-bouffant",
+        "sprite": "/items/gothic-bouffant.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Heavenly Magatama",
+        "slug": "heavenly-magatama",
+        "sprite": "/items/heavenly-magatama.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Omamori",
+        "slug": "omamori",
+        "sprite": "/items/omamori.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Soul Necklace",
+        "slug": "soul-necklace",
+        "sprite": "/items/soul-necklace.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Amulet of Drakefyre",
+        "slug": "amulet-of-drakefyre",
+        "sprite": "/items/amulet-of-drakefyre.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Horrific Claws",
+        "slug": "horrific-claws",
+        "sprite": "/items/horrific-claws.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Revenant Ring",
+        "slug": "revenant-ring",
+        "sprite": "/items/revenant-ring.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Chrysanthemum Corsage",
+        "slug": "chrysanthemum-corsage",
+        "sprite": "/items/chrysanthemum-corsage.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Pernicious Peridot",
+        "slug": "pernicious-peridot",
+        "sprite": "/items/pernicious-peridot.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Aquamarine Amulet",
+        "slug": "aquamarine-amulet",
+        "sprite": "/items/aquamarine-amulet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Flames of Genesis",
+        "slug": "flames-of-genesis",
+        "sprite": "/items/flames-of-genesis.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Firelight Necklace",
+        "slug": "firelight-necklace",
+        "sprite": "/items/firelight-necklace.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Headless Ted",
+        "slug": "headless-ted",
+        "sprite": "/items/headless-ted.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Targeting Monocular",
+        "slug": "targeting-monocular",
+        "sprite": "/items/targeting-monocular.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Pressure Gauge Band",
+        "slug": "pressure-gauge-band",
+        "sprite": "/items/pressure-gauge-band.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Interregnum",
+        "slug": "interregnum",
+        "sprite": "/items/interregnum.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Hivemind Circlet",
+        "slug": "hivemind-circlet",
+        "sprite": "/items/hivemind-circlet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Bloodstone Ring",
+        "slug": "bloodstone-ring",
+        "sprite": "/items/bloodstone-ring.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Eye of the Void",
+        "slug": "eye-of-the-void",
+        "sprite": "/items/eye-of-the-void.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Rusty Cuffs",
+        "slug": "rusty-cuffs",
+        "sprite": "/items/rusty-cuffs.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Lucky Grenade",
+        "slug": "lucky-grenade",
+        "sprite": "/items/lucky-grenade.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of the Inferno",
+        "slug": "ring-of-the-inferno",
+        "sprite": "/items/ring-of-the-inferno.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Radiant Heart",
+        "slug": "radiant-heart",
+        "sprite": "/items/radiant-heart.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Imperial Keepsake",
+        "slug": "imperial-keepsake",
+        "sprite": "/items/imperial-keepsake.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "C.O.N.T.R.O.L.L.E.R.",
+        "slug": "c-o-n-t-r-o-l-l-e-r",
+        "sprite": "/items/c-o-n-t-r-o-l-l-e-r.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Bolt in a Bottle",
+        "slug": "bolt-in-a-bottle",
+        "sprite": "/items/bolt-in-a-bottle.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Brass Knuckles",
+        "slug": "brass-knuckles",
+        "sprite": "/items/brass-knuckles.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Heavenly Halo",
+        "slug": "heavenly-halo",
+        "sprite": "/items/heavenly-halo.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Tiki Pendant",
+        "slug": "tiki-pendant",
+        "sprite": "/items/tiki-pendant.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Regal Ring",
+        "slug": "regal-ring",
+        "sprite": "/items/regal-ring.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Omni-Impotence Ring",
+        "slug": "omni-impotence-ring",
+        "sprite": "/items/omni-impotence-ring.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Cuband",
+        "slug": "cuband",
+        "sprite": "/items/cuband.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Augur of the Tempest",
+        "slug": "augur-of-the-tempest",
+        "sprite": "/items/augur-of-the-tempest.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Defiled Equilibrium",
+        "slug": "defiled-equilibrium",
+        "sprite": "/items/defiled-equilibrium.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Eye of Divination",
+        "slug": "eye-of-divination",
+        "sprite": "/items/eye-of-divination.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Frozen Heart",
+        "slug": "frozen-heart",
+        "sprite": "/items/frozen-heart.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Mayhem Medallion",
+        "slug": "mayhem-medallion",
+        "sprite": "/items/mayhem-medallion.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of Wrath",
+        "slug": "ring-of-wrath",
+        "sprite": "/items/ring-of-wrath.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Autarch Amulet",
+        "slug": "autarch-amulet",
+        "sprite": "/items/autarch-amulet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of the Covetous Heart",
+        "slug": "ring-of-the-covetous-heart",
+        "sprite": "/items/ring-of-the-covetous-heart.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Steadfast Glyph",
+        "slug": "steadfast-glyph",
+        "sprite": "/items/steadfast-glyph.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alien Core: Dark Matter",
+        "slug": "alien-core-dark-matter",
+        "sprite": "/items/alien-core-dark-matter.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alien Core: Power",
+        "slug": "alien-core-power",
+        "sprite": "/items/alien-core-power.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alien Core: Warp",
+        "slug": "alien-core-warp",
+        "sprite": "/items/alien-core-warp.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alien Core: Corrosion",
+        "slug": "alien-core-corrosion",
+        "sprite": "/items/alien-core-corrosion.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Gjallarhorn",
+        "slug": "gjallarhorn",
+        "sprite": "/items/gjallarhorn.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Protective Gloves",
+        "slug": "protective-gloves",
+        "sprite": "/items/protective-gloves.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Fang Necklace",
+        "slug": "fang-necklace",
+        "sprite": "/items/fang-necklace.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Soul Gem Amulet",
+        "slug": "soul-gem-amulet",
+        "sprite": "/items/soul-gem-amulet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Geb's Ring of Wisdom",
+        "slug": "gebs-ring-of-wisdom",
+        "sprite": "/items/gebs-ring-of-wisdom.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Akuma's Tear",
+        "slug": "akumas-tear",
+        "sprite": "/items/akumas-tear.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ruthven's Rosary",
+        "slug": "ruthvens-rosary",
+        "sprite": "/items/ruthvens-rosary.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "First Mate's Hook",
+        "slug": "first-mates-hook",
+        "sprite": "/items/first-mates-hook.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alexander's Band",
+        "slug": "alexanders-band",
+        "sprite": "/items/alexanders-band.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Traveler's Trinket",
+        "slug": "travelers-trinket",
+        "sprite": "/items/travelers-trinket.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Performer's Hat",
+        "slug": "performers-hat",
+        "sprite": "/items/performers-hat.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Legacy's Pendant",
+        "slug": "legacys-pendant",
+        "sprite": "/items/legacys-pendant.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "Effect(s) Ether Purge: Teleport to cursor, Deal 1000 damage to enemies within 5 tiles. Soul Drain: Heal 75 hit points for each enemy hit. 3+ Hits: Gain Armored for 6 seconds.",
+      "XP Bonus 7%",
+      "XP Bonus 5%",
+      "On Equip -5 SPD, +20% DEF Equal to DEX",
+      "XP Bonus 6%",
+      "On Equip +80 HP, +7 DEX"
+    ],
+    "notes": [
+      "Imported from RealmEye Set Tier Items and ST item pages."
+    ]
+  },
+  {
+    "id": "angels-fanfare-set",
+    "name": "Angel's Fanfare Set",
+    "slug": "angels-fanfare-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Wizard",
+    "outfitSprite": "/sets/angels-fanfare-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/angel-s-fanfare",
+    "description": "",
+    "items": [
+      {
+        "name": "Angel's Fanfare",
+        "slug": "angels-fanfare",
+        "sprite": "/items/angels-fanfare.png",
+        "itemType": "Lute",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Inferno Pick",
+        "slug": "inferno-pick",
+        "sprite": "/items/inferno-pick.png",
+        "itemType": "Lute",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Harmonious Harp",
+        "slug": "harmonious-harp",
+        "sprite": "/items/harmonious-harp.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Wings of Sanctity",
+        "slug": "wings-of-sanctity",
+        "sprite": "/items/wings-of-sanctity.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Heavenly Halo",
+        "slug": "heavenly-halo",
+        "sprite": "/items/heavenly-halo.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Thundering Chorus",
+        "slug": "thundering-chorus",
+        "sprite": "/items/thundering-chorus.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Sacred Lute",
+        "slug": "sacred-lute",
+        "sprite": "/items/sacred-lute.png",
+        "itemType": "Lute",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Electric Guitar",
+        "slug": "electric-guitar",
+        "sprite": "/items/electric-guitar.png",
+        "itemType": "Bow",
+        "tier": "ST (Limited)",
+        "category": "bows"
+      },
+      {
+        "name": "Wings of the Fallen",
+        "slug": "wings-of-the-fallen",
+        "sprite": "/items/wings-of-the-fallen.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Pointy Tail",
+        "slug": "pointy-tail",
+        "sprite": "/items/pointy-tail.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      },
+      {
+        "name": "Brilliance Bow",
+        "slug": "brilliance-bow",
+        "sprite": "/items/brilliance-bow.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Nectar Crossfire",
+        "slug": "nectar-crossfire",
+        "sprite": "/items/nectar-crossfire.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Resplendent Bow",
+        "slug": "resplendent-bow",
+        "sprite": "/items/resplendent-bow.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Bolt Thrower",
+        "slug": "bolt-thrower",
+        "sprite": "/items/bolt-thrower.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Bergenia Bow",
+        "slug": "bergenia-bow",
+        "sprite": "/items/bergenia-bow.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Deathless Crossbow",
+        "slug": "deathless-crossbow",
+        "sprite": "/items/deathless-crossbow.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Hailstorm",
+        "slug": "hailstorm",
+        "sprite": "/items/hailstorm.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Firestarter",
+        "slug": "firestarter",
+        "sprite": "/items/firestarter.png",
+        "itemType": "Bow",
+        "tier": "ST",
+        "category": "bows"
+      },
+      {
+        "name": "Spring Wonder Bow",
+        "slug": "spring-wonder-bow",
+        "sprite": "/items/spring-wonder-bow.png",
+        "itemType": "Bow",
+        "tier": "ST (Limited)",
+        "category": "bows"
+      },
+      {
+        "name": "Silver Revolvers",
+        "slug": "silver-revolvers",
+        "sprite": "/items/silver-revolvers.png",
+        "itemType": "Bow",
+        "tier": "ST (Limited)",
+        "category": "bows"
+      },
+      {
+        "name": "Bone Bow",
+        "slug": "bone-bow",
+        "sprite": "/items/bone-bow.png",
+        "itemType": "Bow",
+        "tier": "ST (Limited)",
+        "category": "bows"
+      },
+      {
+        "name": "Heartstruck Bow",
+        "slug": "heartstruck-bow",
+        "sprite": "/items/heartstruck-bow.png",
+        "itemType": "Bow",
+        "tier": "ST (Limited)",
+        "category": "bows"
+      },
+      {
+        "name": "Wind Dancer Robe",
+        "slug": "wind-dancer-robe",
+        "sprite": "/items/wind-dancer-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Rocky Robe",
+        "slug": "rocky-robe",
+        "sprite": "/items/rocky-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Garment of the Beast",
+        "slug": "garment-of-the-beast",
+        "sprite": "/items/garment-of-the-beast.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Shendyt of Geb",
+        "slug": "shendyt-of-geb",
+        "sprite": "/items/shendyt-of-geb.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Soulless Robe",
+        "slug": "soulless-robe",
+        "sprite": "/items/soulless-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Polygonal Garbs",
+        "slug": "polygonal-garbs",
+        "sprite": "/items/polygonal-garbs.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Toga Picta",
+        "slug": "toga-picta",
+        "sprite": "/items/toga-picta.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Thunderstorm Tunic",
+        "slug": "thunderstorm-tunic",
+        "sprite": "/items/thunderstorm-tunic.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Anointed Robe",
+        "slug": "anointed-robe",
+        "sprite": "/items/anointed-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Molten Mantle",
+        "slug": "molten-mantle",
+        "sprite": "/items/molten-mantle.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Oceanic Apparel",
+        "slug": "oceanic-apparel",
+        "sprite": "/items/oceanic-apparel.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Blast Proof Robes",
+        "slug": "blast-proof-robes",
+        "sprite": "/items/blast-proof-robes.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ragged Robes",
+        "slug": "ragged-robes",
+        "sprite": "/items/ragged-robes.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Twilight Shroud",
+        "slug": "twilight-shroud",
+        "sprite": "/items/twilight-shroud.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "A.R.M.O.R.",
+        "slug": "a-r-m-o-r",
+        "sprite": "/items/a-r-m-o-r.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Chocolate Glazed Robe",
+        "slug": "chocolate-glazed-robe",
+        "sprite": "/items/chocolate-glazed-robe.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Legacy Robe of Twilight",
+        "slug": "legacy-robe-of-twilight",
+        "sprite": "/items/legacy-robe-of-twilight.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Immortal Mantle",
+        "slug": "immortal-mantle",
+        "sprite": "/items/immortal-mantle.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Boudoir Robe",
+        "slug": "boudoir-robe",
+        "sprite": "/items/boudoir-robe.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Darkness Overcoat",
+        "slug": "darkness-overcoat",
+        "sprite": "/items/darkness-overcoat.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Robe of the Enchantress",
+        "slug": "robe-of-the-enchantress",
+        "sprite": "/items/robe-of-the-enchantress.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Curse Binding Robes",
+        "slug": "curse-binding-robes",
+        "sprite": "/items/curse-binding-robes.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Floral Corset",
+        "slug": "floral-corset",
+        "sprite": "/items/floral-corset.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Devilish Robes",
+        "slug": "devilish-robes",
+        "sprite": "/items/devilish-robes.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Garb of the Ordained",
+        "slug": "garb-of-the-ordained",
+        "sprite": "/items/garb-of-the-ordained.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Phosphorescent Rags",
+        "slug": "phosphorescent-rags",
+        "sprite": "/items/phosphorescent-rags.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Lacerated Gown",
+        "slug": "lacerated-gown",
+        "sprite": "/items/lacerated-gown.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Doctor's Overcoat",
+        "slug": "doctors-overcoat",
+        "sprite": "/items/doctors-overcoat.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Magician's Robe",
+        "slug": "magicians-robe",
+        "sprite": "/items/magicians-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Astronomer's Gown",
+        "slug": "astronomers-gown",
+        "sprite": "/items/astronomers-gown.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ritualistic Pa'u",
+        "slug": "ritualistic-pau",
+        "sprite": "/items/ritualistic-pau.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Executioner's Garb",
+        "slug": "executioners-garb",
+        "sprite": "/items/executioners-garb.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      }
+    ],
+    "bonuses": [
+      "XP Bonus 7%",
+      "XP Bonus 5%",
+      "On Equip +50 MP, +10 DEF, +5 VIT, +5 WIS, +5 DEX",
+      "XP Bonus 6%",
+      "Compared to even the Robe of the Star Mother, this item is terrible, and should only ever be used on the Bard considering the massive bonus the set brings."
+    ],
+    "notes": [
+      "Imported from RealmEye Set Tier Items and ST item pages."
+    ]
+  },
+  {
+    "id": "b-o-o-m-set",
+    "name": "B.O.O.M. Set",
+    "slug": "b-o-o-m-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Priest",
+    "outfitSprite": "/sets/b-o-o-m-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/b-o-o-m",
+    "description": "",
+    "items": [
+      {
+        "name": "B.O.O.M.",
+        "slug": "b-o-o-m",
+        "sprite": "/items/b-o-o-m.png",
+        "itemType": "Mace",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Ghastly Mace",
+        "slug": "ghastly-mace",
+        "sprite": "/items/ghastly-mace.png",
+        "itemType": "Mace",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "C.L.A.W.",
+        "slug": "c-l-a-w",
+        "sprite": "/items/c-l-a-w.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "A.R.M.O.R.",
+        "slug": "a-r-m-o-r",
+        "sprite": "/items/a-r-m-o-r.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "C.O.N.T.R.O.L.L.E.R.",
+        "slug": "c-o-n-t-r-o-l-l-e-r",
+        "sprite": "/items/c-o-n-t-r-o-l-l-e-r.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Stonemould Mace",
+        "slug": "stonemould-mace",
+        "sprite": "/items/stonemould-mace.png",
+        "itemType": "Mace",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Chocolate Egg Mace",
+        "slug": "chocolate-egg-mace",
+        "sprite": "/items/chocolate-egg-mace.png",
+        "itemType": "Mace",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Tormented Shriek",
+        "slug": "tormented-shriek",
+        "sprite": "/items/tormented-shriek.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Lacerated Gown",
+        "slug": "lacerated-gown",
+        "sprite": "/items/lacerated-gown.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Unresolved Grudge",
+        "slug": "unresolved-grudge",
+        "sprite": "/items/unresolved-grudge.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      },
+      {
+        "name": "Cane of Caduceus",
+        "slug": "cane-of-caduceus",
+        "sprite": "/items/cane-of-caduceus.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Wand of Geb",
+        "slug": "wand-of-geb",
+        "sprite": "/items/wand-of-geb.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Lightning Wand",
+        "slug": "lightning-wand",
+        "sprite": "/items/lightning-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Magic Wand",
+        "slug": "magic-wand",
+        "sprite": "/items/magic-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Theurgy Wand",
+        "slug": "theurgy-wand",
+        "sprite": "/items/theurgy-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Earthen Ward",
+        "slug": "earthen-ward",
+        "sprite": "/items/earthen-ward.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Cane of the Void",
+        "slug": "cane-of-the-void",
+        "sprite": "/items/cane-of-the-void.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Heartbreaker Wand",
+        "slug": "heartbreaker-wand",
+        "sprite": "/items/heartbreaker-wand.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Holy Artifact",
+        "slug": "holy-artifact",
+        "sprite": "/items/holy-artifact.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Sweet Desire Wand",
+        "slug": "sweet-desire-wand",
+        "sprite": "/items/sweet-desire-wand.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Abomination's Wrath",
+        "slug": "abominations-wrath",
+        "sprite": "/items/abominations-wrath.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Wind Dancer Robe",
+        "slug": "wind-dancer-robe",
+        "sprite": "/items/wind-dancer-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Rocky Robe",
+        "slug": "rocky-robe",
+        "sprite": "/items/rocky-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Garment of the Beast",
+        "slug": "garment-of-the-beast",
+        "sprite": "/items/garment-of-the-beast.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Shendyt of Geb",
+        "slug": "shendyt-of-geb",
+        "sprite": "/items/shendyt-of-geb.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Soulless Robe",
+        "slug": "soulless-robe",
+        "sprite": "/items/soulless-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Polygonal Garbs",
+        "slug": "polygonal-garbs",
+        "sprite": "/items/polygonal-garbs.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Toga Picta",
+        "slug": "toga-picta",
+        "sprite": "/items/toga-picta.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Thunderstorm Tunic",
+        "slug": "thunderstorm-tunic",
+        "sprite": "/items/thunderstorm-tunic.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Anointed Robe",
+        "slug": "anointed-robe",
+        "sprite": "/items/anointed-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Molten Mantle",
+        "slug": "molten-mantle",
+        "sprite": "/items/molten-mantle.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Oceanic Apparel",
+        "slug": "oceanic-apparel",
+        "sprite": "/items/oceanic-apparel.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Blast Proof Robes",
+        "slug": "blast-proof-robes",
+        "sprite": "/items/blast-proof-robes.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ragged Robes",
+        "slug": "ragged-robes",
+        "sprite": "/items/ragged-robes.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Twilight Shroud",
+        "slug": "twilight-shroud",
+        "sprite": "/items/twilight-shroud.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Wings of Sanctity",
+        "slug": "wings-of-sanctity",
+        "sprite": "/items/wings-of-sanctity.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Chocolate Glazed Robe",
+        "slug": "chocolate-glazed-robe",
+        "sprite": "/items/chocolate-glazed-robe.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Legacy Robe of Twilight",
+        "slug": "legacy-robe-of-twilight",
+        "sprite": "/items/legacy-robe-of-twilight.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Immortal Mantle",
+        "slug": "immortal-mantle",
+        "sprite": "/items/immortal-mantle.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Boudoir Robe",
+        "slug": "boudoir-robe",
+        "sprite": "/items/boudoir-robe.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Darkness Overcoat",
+        "slug": "darkness-overcoat",
+        "sprite": "/items/darkness-overcoat.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Robe of the Enchantress",
+        "slug": "robe-of-the-enchantress",
+        "sprite": "/items/robe-of-the-enchantress.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Curse Binding Robes",
+        "slug": "curse-binding-robes",
+        "sprite": "/items/curse-binding-robes.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Floral Corset",
+        "slug": "floral-corset",
+        "sprite": "/items/floral-corset.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Devilish Robes",
+        "slug": "devilish-robes",
+        "sprite": "/items/devilish-robes.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Garb of the Ordained",
+        "slug": "garb-of-the-ordained",
+        "sprite": "/items/garb-of-the-ordained.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Phosphorescent Rags",
+        "slug": "phosphorescent-rags",
+        "sprite": "/items/phosphorescent-rags.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Wings of the Fallen",
+        "slug": "wings-of-the-fallen",
+        "sprite": "/items/wings-of-the-fallen.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Doctor's Overcoat",
+        "slug": "doctors-overcoat",
+        "sprite": "/items/doctors-overcoat.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Magician's Robe",
+        "slug": "magicians-robe",
+        "sprite": "/items/magicians-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Astronomer's Gown",
+        "slug": "astronomers-gown",
+        "sprite": "/items/astronomers-gown.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ritualistic Pa'u",
+        "slug": "ritualistic-pau",
+        "sprite": "/items/ritualistic-pau.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Executioner's Garb",
+        "slug": "executioners-garb",
+        "sprite": "/items/executioners-garb.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      }
+    ],
+    "bonuses": [
+      "On Equip +5 ATT",
+      "XP Bonus 6%",
+      "On Equip +5 ATT, +12 DEF, +5 SPD, +10 VIT"
+    ],
+    "notes": [
+      "Imported from RealmEye Set Tier Items and ST item pages."
+    ]
+  },
+  {
+    "id": "beastly-mane-set",
+    "name": "Beastly Mane Set",
+    "slug": "beastly-mane-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Warrior",
+    "outfitSprite": "",
+    "sourceUrl": "https://www.realmeye.com/wiki/beastly-mane",
+    "description": "",
+    "items": [
+      {
+        "name": "Beastly Mane",
+        "slug": "beastly-mane",
+        "sprite": "/items/beastly-mane.png",
+        "itemType": "Helm",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Tricorne of the High Seas",
+        "slug": "tricorne-of-the-high-seas",
+        "sprite": "/items/tricorne-of-the-high-seas.png",
+        "itemType": "Helm",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Savage Claws",
+        "slug": "savage-claws",
+        "sprite": "/items/savage-claws.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Ragetorn Armor",
+        "slug": "ragetorn-armor",
+        "sprite": "/items/ragetorn-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Moonstone Ring",
+        "slug": "moonstone-ring",
+        "sprite": "/items/moonstone-ring.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      },
+      {
+        "name": "Burlap Cowl",
+        "slug": "burlap-cowl",
+        "sprite": "/items/burlap-cowl.png",
+        "itemType": "Helm",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Helm of Draconic Dominance",
+        "slug": "helm-of-draconic-dominance",
+        "sprite": "/items/helm-of-draconic-dominance.png",
+        "itemType": "Helm",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Swashbuckler's Sickle",
+        "slug": "swashbucklers-sickle",
+        "sprite": "/items/swashbucklers-sickle.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Naval Uniform",
+        "slug": "naval-uniform",
+        "sprite": "/items/naval-uniform.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "First Mate's Hook",
+        "slug": "first-mates-hook",
+        "sprite": "/items/first-mates-hook.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Pixie-Enchanted Sword",
+        "slug": "pixie-enchanted-sword",
+        "sprite": "/items/pixie-enchanted-sword.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Heartsteel Claymore",
+        "slug": "heartsteel-claymore",
+        "sprite": "/items/heartsteel-claymore.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Indomptable",
+        "slug": "indomptable",
+        "sprite": "/items/indomptable.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Jagged Hatchet",
+        "slug": "jagged-hatchet",
+        "sprite": "/items/jagged-hatchet.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Sword of the Mad God",
+        "slug": "sword-of-the-mad-god",
+        "sprite": "/items/sword-of-the-mad-god.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Legacy Pixie-Enchanted Sword",
+        "slug": "legacy-pixie-enchanted-sword",
+        "sprite": "/items/legacy-pixie-enchanted-sword.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Hellfire Broadsword",
+        "slug": "hellfire-broadsword",
+        "sprite": "/items/hellfire-broadsword.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Nutrient Rich Carrot Blade",
+        "slug": "nutrient-rich-carrot-blade",
+        "sprite": "/items/nutrient-rich-carrot-blade.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Eternal Graved Great Sword",
+        "slug": "eternal-graved-great-sword",
+        "sprite": "/items/eternal-graved-great-sword.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Blood Axe",
+        "slug": "blood-axe",
+        "sprite": "/items/blood-axe.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Fallen One's Blade",
+        "slug": "fallen-ones-blade",
+        "sprite": "/items/fallen-ones-blade.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Oryx's Greatsword",
+        "slug": "oryxs-greatsword",
+        "sprite": "/items/oryxs-greatsword.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Dalvar's Battle Axe",
+        "slug": "dalvars-battle-axe",
+        "sprite": "/items/dalvars-battle-axe.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Fairy Plate",
+        "slug": "fairy-plate",
+        "sprite": "/items/fairy-plate.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Kamishimo",
+        "slug": "kamishimo",
+        "sprite": "/items/kamishimo.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Overalls of Endurance",
+        "slug": "overalls-of-endurance",
+        "sprite": "/items/overalls-of-endurance.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Flame Guard",
+        "slug": "flame-guard",
+        "sprite": "/items/flame-guard.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Barrier Reef",
+        "slug": "barrier-reef",
+        "sprite": "/items/barrier-reef.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Vortex Plating",
+        "slug": "vortex-plating",
+        "sprite": "/items/vortex-plating.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Reinforced Root Armor",
+        "slug": "reinforced-root-armor",
+        "sprite": "/items/reinforced-root-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Cyclone Chestplate",
+        "slug": "cyclone-chestplate",
+        "sprite": "/items/cyclone-chestplate.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Chainmail Body Armor",
+        "slug": "chainmail-body-armor",
+        "sprite": "/items/chainmail-body-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Hull of the Tundra",
+        "slug": "hull-of-the-tundra",
+        "sprite": "/items/hull-of-the-tundra.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Almandine Armor of Anger",
+        "slug": "almandine-armor-of-anger",
+        "sprite": "/items/almandine-armor-of-anger.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Legacy Fairy Plate",
+        "slug": "legacy-fairy-plate",
+        "sprite": "/items/legacy-fairy-plate.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Eggre Battle Armor",
+        "slug": "eggre-battle-armor",
+        "sprite": "/items/eggre-battle-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Hardened Carrot Armor",
+        "slug": "hardened-carrot-armor",
+        "sprite": "/items/hardened-carrot-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Fur Coat",
+        "slug": "fur-coat",
+        "sprite": "/items/fur-coat.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Zaarvox's Heart",
+        "slug": "zaarvoxs-heart",
+        "sprite": "/items/zaarvoxs-heart.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Mercy's Bane",
+        "slug": "mercys-bane",
+        "sprite": "/items/mercys-bane.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Retainer's Battlesuit",
+        "slug": "retainers-battlesuit",
+        "sprite": "/items/retainers-battlesuit.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Tormentor's Chainmail",
+        "slug": "tormentors-chainmail",
+        "sprite": "/items/tormentors-chainmail.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      }
+    ],
+    "bonuses": [
+      "On Equip +7 DEF",
+      "Effect(s) On party: Berserk for 4 (+0.1 per WIS over 30) seconds Shoot Moon Blast: Damage: 1000 Projectile Speed: 7 tiles/second Lifetime: 1 seconds Range: 7 tiles Hitbox Size: 2 Shots hit multiple targets",
+      "Range 5 (+0.1 per WIS over 30) tiles",
+      "XP Bonus 7%",
+      "Effect(s) On party: Berserk for 4 (+0.1 per WIS over 30) seconds Shoot Cannonball: Damage: 1000 Projectile Speed: 7 tiles/second Lifetime: 1 seconds Range: 7 tiles Hitbox Size: 2 Shots hit multiple targets",
+      "XP Bonus 5%",
+      "On Equip +19 DEF, +6 VIT, +3 SPD, -2 DEX, +8 ATT",
+      "XP Bonus 6%",
+      "Before Exalt Version 6.2.0.0 (Oct 2025), this item gave +19 DEF, +6 VIT, +4 WIS, +3 SPD, +2 DEX."
+    ],
+    "notes": [
+      "Imported from RealmEye Set Tier Items and ST item pages."
+    ]
+  },
+  {
+    "id": "bloodletting-leeches-set",
+    "name": "Bloodletting Leeches Set",
+    "slug": "bloodletting-leeches-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Priest",
+    "outfitSprite": "/sets/bloodletting-leeches-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/bloodletting-leeches",
+    "description": "",
+    "items": [
+      {
+        "name": "Bloodletting Leeches",
+        "slug": "bloodletting-leeches",
+        "sprite": "/items/bloodletting-leeches.png",
+        "itemType": "Tome",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Void Leeches",
+        "slug": "void-leeches",
+        "sprite": "/items/void-leeches.png",
+        "itemType": "Tome",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Cane of Caduceus",
+        "slug": "cane-of-caduceus",
+        "sprite": "/items/cane-of-caduceus.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Doctor's Overcoat",
+        "slug": "doctors-overcoat",
+        "sprite": "/items/doctors-overcoat.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Plague Mask",
+        "slug": "plague-mask",
+        "sprite": "/items/plague-mask.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Book of Geb",
+        "slug": "book-of-geb",
+        "sprite": "/items/book-of-geb.png",
+        "itemType": "Tome",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Ceremonial Merlot",
+        "slug": "ceremonial-merlot",
+        "sprite": "/items/ceremonial-merlot.png",
+        "itemType": "Tome",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Tome of Exorcism",
+        "slug": "tome-of-exorcism",
+        "sprite": "/items/tome-of-exorcism.png",
+        "itemType": "Tome",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Cane of the Void",
+        "slug": "cane-of-the-void",
+        "sprite": "/items/cane-of-the-void.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Darkness Overcoat",
+        "slug": "darkness-overcoat",
+        "sprite": "/items/darkness-overcoat.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Void Mask",
+        "slug": "void-mask",
+        "sprite": "/items/void-mask.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      },
+      {
+        "name": "Wand of Geb",
+        "slug": "wand-of-geb",
+        "sprite": "/items/wand-of-geb.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Lightning Wand",
+        "slug": "lightning-wand",
+        "sprite": "/items/lightning-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Magic Wand",
+        "slug": "magic-wand",
+        "sprite": "/items/magic-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Theurgy Wand",
+        "slug": "theurgy-wand",
+        "sprite": "/items/theurgy-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "C.L.A.W.",
+        "slug": "c-l-a-w",
+        "sprite": "/items/c-l-a-w.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Earthen Ward",
+        "slug": "earthen-ward",
+        "sprite": "/items/earthen-ward.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Heartbreaker Wand",
+        "slug": "heartbreaker-wand",
+        "sprite": "/items/heartbreaker-wand.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Holy Artifact",
+        "slug": "holy-artifact",
+        "sprite": "/items/holy-artifact.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Tormented Shriek",
+        "slug": "tormented-shriek",
+        "sprite": "/items/tormented-shriek.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Sweet Desire Wand",
+        "slug": "sweet-desire-wand",
+        "sprite": "/items/sweet-desire-wand.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Abomination's Wrath",
+        "slug": "abominations-wrath",
+        "sprite": "/items/abominations-wrath.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Wind Dancer Robe",
+        "slug": "wind-dancer-robe",
+        "sprite": "/items/wind-dancer-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Rocky Robe",
+        "slug": "rocky-robe",
+        "sprite": "/items/rocky-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Garment of the Beast",
+        "slug": "garment-of-the-beast",
+        "sprite": "/items/garment-of-the-beast.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Shendyt of Geb",
+        "slug": "shendyt-of-geb",
+        "sprite": "/items/shendyt-of-geb.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Soulless Robe",
+        "slug": "soulless-robe",
+        "sprite": "/items/soulless-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Polygonal Garbs",
+        "slug": "polygonal-garbs",
+        "sprite": "/items/polygonal-garbs.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Toga Picta",
+        "slug": "toga-picta",
+        "sprite": "/items/toga-picta.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Thunderstorm Tunic",
+        "slug": "thunderstorm-tunic",
+        "sprite": "/items/thunderstorm-tunic.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Anointed Robe",
+        "slug": "anointed-robe",
+        "sprite": "/items/anointed-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Molten Mantle",
+        "slug": "molten-mantle",
+        "sprite": "/items/molten-mantle.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Oceanic Apparel",
+        "slug": "oceanic-apparel",
+        "sprite": "/items/oceanic-apparel.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Blast Proof Robes",
+        "slug": "blast-proof-robes",
+        "sprite": "/items/blast-proof-robes.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ragged Robes",
+        "slug": "ragged-robes",
+        "sprite": "/items/ragged-robes.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Twilight Shroud",
+        "slug": "twilight-shroud",
+        "sprite": "/items/twilight-shroud.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "A.R.M.O.R.",
+        "slug": "a-r-m-o-r",
+        "sprite": "/items/a-r-m-o-r.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Wings of Sanctity",
+        "slug": "wings-of-sanctity",
+        "sprite": "/items/wings-of-sanctity.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Chocolate Glazed Robe",
+        "slug": "chocolate-glazed-robe",
+        "sprite": "/items/chocolate-glazed-robe.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Legacy Robe of Twilight",
+        "slug": "legacy-robe-of-twilight",
+        "sprite": "/items/legacy-robe-of-twilight.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Immortal Mantle",
+        "slug": "immortal-mantle",
+        "sprite": "/items/immortal-mantle.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Boudoir Robe",
+        "slug": "boudoir-robe",
+        "sprite": "/items/boudoir-robe.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Robe of the Enchantress",
+        "slug": "robe-of-the-enchantress",
+        "sprite": "/items/robe-of-the-enchantress.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Curse Binding Robes",
+        "slug": "curse-binding-robes",
+        "sprite": "/items/curse-binding-robes.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Floral Corset",
+        "slug": "floral-corset",
+        "sprite": "/items/floral-corset.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Devilish Robes",
+        "slug": "devilish-robes",
+        "sprite": "/items/devilish-robes.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Garb of the Ordained",
+        "slug": "garb-of-the-ordained",
+        "sprite": "/items/garb-of-the-ordained.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Phosphorescent Rags",
+        "slug": "phosphorescent-rags",
+        "sprite": "/items/phosphorescent-rags.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Lacerated Gown",
+        "slug": "lacerated-gown",
+        "sprite": "/items/lacerated-gown.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Wings of the Fallen",
+        "slug": "wings-of-the-fallen",
+        "sprite": "/items/wings-of-the-fallen.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Magician's Robe",
+        "slug": "magicians-robe",
+        "sprite": "/items/magicians-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Astronomer's Gown",
+        "slug": "astronomers-gown",
+        "sprite": "/items/astronomers-gown.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ritualistic Pa'u",
+        "slug": "ritualistic-pau",
+        "sprite": "/items/ritualistic-pau.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Executioner's Garb",
+        "slug": "executioners-garb",
+        "sprite": "/items/executioners-garb.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      }
+    ],
+    "bonuses": [
+      "On Equip +5 DEF",
+      "XP Bonus 7%",
+      "XP Bonus 5%",
+      "On Equip +15 DEF, +7 DEX, +3 VIT",
+      "XP Bonus 6%",
+      "Before Exalt Version 6.1.0.0 (Sep 2025), this item gave +14 DEF, +5 DEX, +7 WIS."
+    ],
+    "notes": [
+      "Imported from RealmEye Set Tier Items and ST item pages."
+    ]
+  },
+  {
+    "id": "book-of-geb-set",
+    "name": "Book of Geb Set",
+    "slug": "book-of-geb-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Priest",
+    "outfitSprite": "/sets/book-of-geb-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/book-of-geb",
+    "description": "",
+    "items": [
+      {
+        "name": "Book of Geb",
+        "slug": "book-of-geb",
+        "sprite": "/items/book-of-geb.png",
+        "itemType": "Tome",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Wand of Geb",
+        "slug": "wand-of-geb",
+        "sprite": "/items/wand-of-geb.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Shendyt of Geb",
+        "slug": "shendyt-of-geb",
+        "sprite": "/items/shendyt-of-geb.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Geb's Ring of Wisdom",
+        "slug": "gebs-ring-of-wisdom",
+        "sprite": "/items/gebs-ring-of-wisdom.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Bloodletting Leeches",
+        "slug": "bloodletting-leeches",
+        "sprite": "/items/bloodletting-leeches.png",
+        "itemType": "Tome",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Ceremonial Merlot",
+        "slug": "ceremonial-merlot",
+        "sprite": "/items/ceremonial-merlot.png",
+        "itemType": "Tome",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Void Leeches",
+        "slug": "void-leeches",
+        "sprite": "/items/void-leeches.png",
+        "itemType": "Tome",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Tome of Exorcism",
+        "slug": "tome-of-exorcism",
+        "sprite": "/items/tome-of-exorcism.png",
+        "itemType": "Tome",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Cane of Caduceus",
+        "slug": "cane-of-caduceus",
+        "sprite": "/items/cane-of-caduceus.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Lightning Wand",
+        "slug": "lightning-wand",
+        "sprite": "/items/lightning-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Magic Wand",
+        "slug": "magic-wand",
+        "sprite": "/items/magic-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Theurgy Wand",
+        "slug": "theurgy-wand",
+        "sprite": "/items/theurgy-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "C.L.A.W.",
+        "slug": "c-l-a-w",
+        "sprite": "/items/c-l-a-w.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Earthen Ward",
+        "slug": "earthen-ward",
+        "sprite": "/items/earthen-ward.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Cane of the Void",
+        "slug": "cane-of-the-void",
+        "sprite": "/items/cane-of-the-void.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Heartbreaker Wand",
+        "slug": "heartbreaker-wand",
+        "sprite": "/items/heartbreaker-wand.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Holy Artifact",
+        "slug": "holy-artifact",
+        "sprite": "/items/holy-artifact.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Tormented Shriek",
+        "slug": "tormented-shriek",
+        "sprite": "/items/tormented-shriek.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Sweet Desire Wand",
+        "slug": "sweet-desire-wand",
+        "sprite": "/items/sweet-desire-wand.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Abomination's Wrath",
+        "slug": "abominations-wrath",
+        "sprite": "/items/abominations-wrath.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Soulless Robe",
+        "slug": "soulless-robe",
+        "sprite": "/items/soulless-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Wind Dancer Robe",
+        "slug": "wind-dancer-robe",
+        "sprite": "/items/wind-dancer-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Rocky Robe",
+        "slug": "rocky-robe",
+        "sprite": "/items/rocky-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Garment of the Beast",
+        "slug": "garment-of-the-beast",
+        "sprite": "/items/garment-of-the-beast.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Polygonal Garbs",
+        "slug": "polygonal-garbs",
+        "sprite": "/items/polygonal-garbs.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Toga Picta",
+        "slug": "toga-picta",
+        "sprite": "/items/toga-picta.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Thunderstorm Tunic",
+        "slug": "thunderstorm-tunic",
+        "sprite": "/items/thunderstorm-tunic.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Anointed Robe",
+        "slug": "anointed-robe",
+        "sprite": "/items/anointed-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Molten Mantle",
+        "slug": "molten-mantle",
+        "sprite": "/items/molten-mantle.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Oceanic Apparel",
+        "slug": "oceanic-apparel",
+        "sprite": "/items/oceanic-apparel.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Blast Proof Robes",
+        "slug": "blast-proof-robes",
+        "sprite": "/items/blast-proof-robes.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ragged Robes",
+        "slug": "ragged-robes",
+        "sprite": "/items/ragged-robes.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Twilight Shroud",
+        "slug": "twilight-shroud",
+        "sprite": "/items/twilight-shroud.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "A.R.M.O.R.",
+        "slug": "a-r-m-o-r",
+        "sprite": "/items/a-r-m-o-r.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Wings of Sanctity",
+        "slug": "wings-of-sanctity",
+        "sprite": "/items/wings-of-sanctity.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Chocolate Glazed Robe",
+        "slug": "chocolate-glazed-robe",
+        "sprite": "/items/chocolate-glazed-robe.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Legacy Robe of Twilight",
+        "slug": "legacy-robe-of-twilight",
+        "sprite": "/items/legacy-robe-of-twilight.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Immortal Mantle",
+        "slug": "immortal-mantle",
+        "sprite": "/items/immortal-mantle.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Boudoir Robe",
+        "slug": "boudoir-robe",
+        "sprite": "/items/boudoir-robe.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Darkness Overcoat",
+        "slug": "darkness-overcoat",
+        "sprite": "/items/darkness-overcoat.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Robe of the Enchantress",
+        "slug": "robe-of-the-enchantress",
+        "sprite": "/items/robe-of-the-enchantress.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Curse Binding Robes",
+        "slug": "curse-binding-robes",
+        "sprite": "/items/curse-binding-robes.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Floral Corset",
+        "slug": "floral-corset",
+        "sprite": "/items/floral-corset.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Devilish Robes",
+        "slug": "devilish-robes",
+        "sprite": "/items/devilish-robes.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Garb of the Ordained",
+        "slug": "garb-of-the-ordained",
+        "sprite": "/items/garb-of-the-ordained.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Phosphorescent Rags",
+        "slug": "phosphorescent-rags",
+        "sprite": "/items/phosphorescent-rags.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Lacerated Gown",
+        "slug": "lacerated-gown",
+        "sprite": "/items/lacerated-gown.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Wings of the Fallen",
+        "slug": "wings-of-the-fallen",
+        "sprite": "/items/wings-of-the-fallen.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Doctor's Overcoat",
+        "slug": "doctors-overcoat",
+        "sprite": "/items/doctors-overcoat.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Magician's Robe",
+        "slug": "magicians-robe",
+        "sprite": "/items/magicians-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Astronomer's Gown",
+        "slug": "astronomers-gown",
+        "sprite": "/items/astronomers-gown.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ritualistic Pa'u",
+        "slug": "ritualistic-pau",
+        "sprite": "/items/ritualistic-pau.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Executioner's Garb",
+        "slug": "executioners-garb",
+        "sprite": "/items/executioners-garb.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Plague Mask",
+        "slug": "plague-mask",
+        "sprite": "/items/plague-mask.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Spectral Ring of Horrors",
+        "slug": "spectral-ring-of-horrors",
+        "sprite": "/items/spectral-ring-of-horrors.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of Pure Wishes",
+        "slug": "ring-of-pure-wishes",
+        "sprite": "/items/ring-of-pure-wishes.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Honey Circlet",
+        "slug": "honey-circlet",
+        "sprite": "/items/honey-circlet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of Pagan Favor",
+        "slug": "ring-of-pagan-favor",
+        "sprite": "/items/ring-of-pagan-favor.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Gothic Bouffant",
+        "slug": "gothic-bouffant",
+        "sprite": "/items/gothic-bouffant.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Heavenly Magatama",
+        "slug": "heavenly-magatama",
+        "sprite": "/items/heavenly-magatama.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Omamori",
+        "slug": "omamori",
+        "sprite": "/items/omamori.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Soul Necklace",
+        "slug": "soul-necklace",
+        "sprite": "/items/soul-necklace.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Amulet of Drakefyre",
+        "slug": "amulet-of-drakefyre",
+        "sprite": "/items/amulet-of-drakefyre.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Horrific Claws",
+        "slug": "horrific-claws",
+        "sprite": "/items/horrific-claws.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Revenant Ring",
+        "slug": "revenant-ring",
+        "sprite": "/items/revenant-ring.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Chrysanthemum Corsage",
+        "slug": "chrysanthemum-corsage",
+        "sprite": "/items/chrysanthemum-corsage.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Pernicious Peridot",
+        "slug": "pernicious-peridot",
+        "sprite": "/items/pernicious-peridot.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Aquamarine Amulet",
+        "slug": "aquamarine-amulet",
+        "sprite": "/items/aquamarine-amulet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Flames of Genesis",
+        "slug": "flames-of-genesis",
+        "sprite": "/items/flames-of-genesis.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Firelight Necklace",
+        "slug": "firelight-necklace",
+        "sprite": "/items/firelight-necklace.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Headless Ted",
+        "slug": "headless-ted",
+        "sprite": "/items/headless-ted.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Targeting Monocular",
+        "slug": "targeting-monocular",
+        "sprite": "/items/targeting-monocular.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Pressure Gauge Band",
+        "slug": "pressure-gauge-band",
+        "sprite": "/items/pressure-gauge-band.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Interregnum",
+        "slug": "interregnum",
+        "sprite": "/items/interregnum.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Hivemind Circlet",
+        "slug": "hivemind-circlet",
+        "sprite": "/items/hivemind-circlet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Bloodstone Ring",
+        "slug": "bloodstone-ring",
+        "sprite": "/items/bloodstone-ring.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Eye of the Void",
+        "slug": "eye-of-the-void",
+        "sprite": "/items/eye-of-the-void.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Rusty Cuffs",
+        "slug": "rusty-cuffs",
+        "sprite": "/items/rusty-cuffs.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Lucky Grenade",
+        "slug": "lucky-grenade",
+        "sprite": "/items/lucky-grenade.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of the Inferno",
+        "slug": "ring-of-the-inferno",
+        "sprite": "/items/ring-of-the-inferno.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Radiant Heart",
+        "slug": "radiant-heart",
+        "sprite": "/items/radiant-heart.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Imperial Keepsake",
+        "slug": "imperial-keepsake",
+        "sprite": "/items/imperial-keepsake.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "C.O.N.T.R.O.L.L.E.R.",
+        "slug": "c-o-n-t-r-o-l-l-e-r",
+        "sprite": "/items/c-o-n-t-r-o-l-l-e-r.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Bolt in a Bottle",
+        "slug": "bolt-in-a-bottle",
+        "sprite": "/items/bolt-in-a-bottle.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Brass Knuckles",
+        "slug": "brass-knuckles",
+        "sprite": "/items/brass-knuckles.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Heavenly Halo",
+        "slug": "heavenly-halo",
+        "sprite": "/items/heavenly-halo.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Tiki Pendant",
+        "slug": "tiki-pendant",
+        "sprite": "/items/tiki-pendant.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Regal Ring",
+        "slug": "regal-ring",
+        "sprite": "/items/regal-ring.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Omni-Impotence Ring",
+        "slug": "omni-impotence-ring",
+        "sprite": "/items/omni-impotence-ring.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Cuband",
+        "slug": "cuband",
+        "sprite": "/items/cuband.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Augur of the Tempest",
+        "slug": "augur-of-the-tempest",
+        "sprite": "/items/augur-of-the-tempest.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Defiled Equilibrium",
+        "slug": "defiled-equilibrium",
+        "sprite": "/items/defiled-equilibrium.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Jewel of Vengeance",
+        "slug": "jewel-of-vengeance",
+        "sprite": "/items/jewel-of-vengeance.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Eye of Divination",
+        "slug": "eye-of-divination",
+        "sprite": "/items/eye-of-divination.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Frozen Heart",
+        "slug": "frozen-heart",
+        "sprite": "/items/frozen-heart.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Mayhem Medallion",
+        "slug": "mayhem-medallion",
+        "sprite": "/items/mayhem-medallion.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of Wrath",
+        "slug": "ring-of-wrath",
+        "sprite": "/items/ring-of-wrath.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Autarch Amulet",
+        "slug": "autarch-amulet",
+        "sprite": "/items/autarch-amulet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of the Covetous Heart",
+        "slug": "ring-of-the-covetous-heart",
+        "sprite": "/items/ring-of-the-covetous-heart.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Steadfast Glyph",
+        "slug": "steadfast-glyph",
+        "sprite": "/items/steadfast-glyph.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alien Core: Dark Matter",
+        "slug": "alien-core-dark-matter",
+        "sprite": "/items/alien-core-dark-matter.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alien Core: Power",
+        "slug": "alien-core-power",
+        "sprite": "/items/alien-core-power.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alien Core: Warp",
+        "slug": "alien-core-warp",
+        "sprite": "/items/alien-core-warp.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alien Core: Corrosion",
+        "slug": "alien-core-corrosion",
+        "sprite": "/items/alien-core-corrosion.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Gjallarhorn",
+        "slug": "gjallarhorn",
+        "sprite": "/items/gjallarhorn.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Protective Gloves",
+        "slug": "protective-gloves",
+        "sprite": "/items/protective-gloves.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Fang Necklace",
+        "slug": "fang-necklace",
+        "sprite": "/items/fang-necklace.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Soul Gem Amulet",
+        "slug": "soul-gem-amulet",
+        "sprite": "/items/soul-gem-amulet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Akuma's Tear",
+        "slug": "akumas-tear",
+        "sprite": "/items/akumas-tear.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ruthven's Rosary",
+        "slug": "ruthvens-rosary",
+        "sprite": "/items/ruthvens-rosary.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "First Mate's Hook",
+        "slug": "first-mates-hook",
+        "sprite": "/items/first-mates-hook.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alexander's Band",
+        "slug": "alexanders-band",
+        "sprite": "/items/alexanders-band.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Traveler's Trinket",
+        "slug": "travelers-trinket",
+        "sprite": "/items/travelers-trinket.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Performer's Hat",
+        "slug": "performers-hat",
+        "sprite": "/items/performers-hat.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Legacy's Pendant",
+        "slug": "legacys-pendant",
+        "sprite": "/items/legacys-pendant.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      }
+    ],
+    "bonuses": [
+      "On Equip +5 VIT, +5 WIS, +5 DEF",
+      "Damage 560 (+6.8 per WIS over 75)",
+      "Range 7 (+0.05 per WIS over 75) tiles",
+      "XP Bonus 7%",
+      "XP Bonus 5%",
+      "Before Exalt Version 1.1.0.0 (Sep 2020), this item had a damage of 70-100, a range of 8.4 (lifetime of 0.6), an amplitude of 1.2 tiles, a frequency of 1 cycle/shot, and +2 ATT on equip.",
+      "On Equip +25 HP, +25 MP, +15 DEF, +7 VIT, +7 WIS",
+      "XP Bonus 6%",
+      "A tradable defensive robe, similar to the Soulless Robe. It gives +15 DEF, 2 more than the T13 Robe of the Grand Sorcerer, with an additional +25 HP and +7 VIT. This comes at the cost of ATT and MP.",
+      "On Equip +25 HP, +25 MP, +5 VIT, +10 WIS",
+      "XP Bonus 4%"
+    ],
+    "notes": [
+      "Imported from RealmEye Set Tier Items and ST item pages."
+    ]
+  },
+  {
+    "id": "brain-of-the-golem-set",
+    "name": "Brain of the Golem Set",
+    "slug": "brain-of-the-golem-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Rogue",
+    "outfitSprite": "/sets/brain-of-the-golem-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/brain-of-the-golem",
+    "description": "",
+    "items": [
+      {
+        "name": "Brain of the Golem",
+        "slug": "brain-of-the-golem",
+        "sprite": "/items/brain-of-the-golem.png",
+        "itemType": "Prism",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Pumpkin Prism",
+        "slug": "pumpkin-prism",
+        "sprite": "/items/pumpkin-prism.png",
+        "itemType": "Prism",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Carved Golem Remains",
+        "slug": "carved-golem-remains",
+        "sprite": "/items/carved-golem-remains.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Golem Garments",
+        "slug": "golem-garments",
+        "sprite": "/items/golem-garments.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Rusty Cuffs",
+        "slug": "rusty-cuffs",
+        "sprite": "/items/rusty-cuffs.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Daevite Progenitor",
+        "slug": "daevite-progenitor",
+        "sprite": "/items/daevite-progenitor.png",
+        "itemType": "Prism",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Accursed Memory",
+        "slug": "accursed-memory",
+        "sprite": "/items/accursed-memory.png",
+        "itemType": "Prism",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Maize Machete",
+        "slug": "maize-machete",
+        "sprite": "/items/maize-machete.png",
+        "itemType": "Dagger",
+        "tier": "ST (Limited)",
+        "category": "daggers"
+      },
+      {
+        "name": "Withered Poncho",
+        "slug": "withered-poncho",
+        "sprite": "/items/withered-poncho.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Burlap Hat",
+        "slug": "burlap-hat",
+        "sprite": "/items/burlap-hat.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      },
+      {
+        "name": "Blade of Fates",
+        "slug": "blade-of-fates",
+        "sprite": "/items/blade-of-fates.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Toxin Tooth",
+        "slug": "toxin-tooth",
+        "sprite": "/items/toxin-tooth.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Etherite Dagger",
+        "slug": "etherite-dagger",
+        "sprite": "/items/etherite-dagger.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Soulcursed Scythe",
+        "slug": "soulcursed-scythe",
+        "sprite": "/items/soulcursed-scythe.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Phantom Sickle",
+        "slug": "phantom-sickle",
+        "sprite": "/items/phantom-sickle.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Symbiotic Ripper",
+        "slug": "symbiotic-ripper",
+        "sprite": "/items/symbiotic-ripper.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Toxic Toad",
+        "slug": "toxic-toad",
+        "sprite": "/items/toxic-toad.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Legacy Etherite Dagger",
+        "slug": "legacy-etherite-dagger",
+        "sprite": "/items/legacy-etherite-dagger.png",
+        "itemType": "Dagger",
+        "tier": "ST (Limited)",
+        "category": "daggers"
+      },
+      {
+        "name": "Archangel's Judgement",
+        "slug": "archangels-judgement",
+        "sprite": "/items/archangels-judgement.png",
+        "itemType": "Dagger",
+        "tier": "ST",
+        "category": "daggers"
+      },
+      {
+        "name": "Hirejou Tenne",
+        "slug": "hirejou-tenne",
+        "sprite": "/items/hirejou-tenne.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Toga Picta",
+        "slug": "toga-picta",
+        "sprite": "/items/toga-picta.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Luxurious Leather",
+        "slug": "luxurious-leather",
+        "sprite": "/items/luxurious-leather.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Apiary Armor",
+        "slug": "apiary-armor",
+        "sprite": "/items/apiary-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Wedding Dress",
+        "slug": "wedding-dress",
+        "sprite": "/items/wedding-dress.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Hollyhock Hide",
+        "slug": "hollyhock-hide",
+        "sprite": "/items/hollyhock-hide.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Divination Cloak",
+        "slug": "divination-cloak",
+        "sprite": "/items/divination-cloak.png",
+        "itemType": "Cloak",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Rags of the Host",
+        "slug": "rags-of-the-host",
+        "sprite": "/items/rags-of-the-host.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Acidic Armor",
+        "slug": "acidic-armor",
+        "sprite": "/items/acidic-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ornate Armor",
+        "slug": "ornate-armor",
+        "sprite": "/items/ornate-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Tinkerers Apron",
+        "slug": "tinkerers-apron",
+        "sprite": "/items/tinkerers-apron.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Mantle of Skuld",
+        "slug": "mantle-of-skuld",
+        "sprite": "/items/mantle-of-skuld.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Hallowed Hide",
+        "slug": "hallowed-hide",
+        "sprite": "/items/hallowed-hide.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Luminous Armor",
+        "slug": "luminous-armor",
+        "sprite": "/items/luminous-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Metal-plated Corset",
+        "slug": "metal-plated-corset",
+        "sprite": "/items/metal-plated-corset.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Daopao",
+        "slug": "daopao",
+        "sprite": "/items/daopao.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Torso Tunic",
+        "slug": "torso-tunic",
+        "sprite": "/items/torso-tunic.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Painted Eggshell Armor",
+        "slug": "painted-eggshell-armor",
+        "sprite": "/items/painted-eggshell-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Blizzard Jacket",
+        "slug": "blizzard-jacket",
+        "sprite": "/items/blizzard-jacket.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Legacy Mantle of Skuld",
+        "slug": "legacy-mantle-of-skuld",
+        "sprite": "/items/legacy-mantle-of-skuld.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Wraith's Brigandine",
+        "slug": "wraiths-brigandine",
+        "sprite": "/items/wraiths-brigandine.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Seraphim's Guard",
+        "slug": "seraphims-guard",
+        "sprite": "/items/seraphims-guard.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Mechpilot's Jerkin",
+        "slug": "mechpilots-jerkin",
+        "sprite": "/items/mechpilots-jerkin.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Reaper's Shroud",
+        "slug": "reapers-shroud",
+        "sprite": "/items/reapers-shroud.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Alchemist's Disheveled Garbs",
+        "slug": "alchemists-disheveled-garbs",
+        "sprite": "/items/alchemists-disheveled-garbs.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Gravetender's Vest",
+        "slug": "gravetenders-vest",
+        "sprite": "/items/gravetenders-vest.png",
+        "itemType": "Leather Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Cupid's Garments",
+        "slug": "cupids-garments",
+        "sprite": "/items/cupids-garments.png",
+        "itemType": "Leather Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      }
+    ],
+    "bonuses": [
+      "XP Bonus 7%",
+      "XP Bonus 5%",
+      "On Equip +15 DEF, +8 ATT, +7 VIT",
+      "XP Bonus 6%",
+      "Before Lost Halls 2.0, Patch X.23.0.0 (May 2018), the stats were +14 DEF, +4 ATT, +7 VIT.",
+      "In Exalt Version 5.12.0.0 (June 2025), this item got an extra +1 DEF increase."
+    ],
+    "notes": [
+      "Imported from RealmEye Set Tier Items and ST item pages."
+    ]
+  },
+  {
+    "id": "burlap-cowl-set",
+    "name": "Burlap Cowl Set",
+    "slug": "burlap-cowl-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Warrior",
+    "outfitSprite": "/sets/burlap-cowl-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/burlap-cowl",
+    "description": "",
+    "items": [
+      {
+        "name": "Burlap Cowl",
+        "slug": "burlap-cowl",
+        "sprite": "/items/burlap-cowl.png",
+        "itemType": "Helm",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Headless Ted",
+        "slug": "headless-ted",
+        "sprite": "/items/headless-ted.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Jagged Hatchet",
+        "slug": "jagged-hatchet",
+        "sprite": "/items/jagged-hatchet.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Overalls of Endurance",
+        "slug": "overalls-of-endurance",
+        "sprite": "/items/overalls-of-endurance.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Helm of Draconic Dominance",
+        "slug": "helm-of-draconic-dominance",
+        "sprite": "/items/helm-of-draconic-dominance.png",
+        "itemType": "Helm",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Tricorne of the High Seas",
+        "slug": "tricorne-of-the-high-seas",
+        "sprite": "/items/tricorne-of-the-high-seas.png",
+        "itemType": "Helm",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Beastly Mane",
+        "slug": "beastly-mane",
+        "sprite": "/items/beastly-mane.png",
+        "itemType": "Helm",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Plague Mask",
+        "slug": "plague-mask",
+        "sprite": "/items/plague-mask.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Spectral Ring of Horrors",
+        "slug": "spectral-ring-of-horrors",
+        "sprite": "/items/spectral-ring-of-horrors.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of Pure Wishes",
+        "slug": "ring-of-pure-wishes",
+        "sprite": "/items/ring-of-pure-wishes.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Honey Circlet",
+        "slug": "honey-circlet",
+        "sprite": "/items/honey-circlet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of Pagan Favor",
+        "slug": "ring-of-pagan-favor",
+        "sprite": "/items/ring-of-pagan-favor.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Gothic Bouffant",
+        "slug": "gothic-bouffant",
+        "sprite": "/items/gothic-bouffant.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Heavenly Magatama",
+        "slug": "heavenly-magatama",
+        "sprite": "/items/heavenly-magatama.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Omamori",
+        "slug": "omamori",
+        "sprite": "/items/omamori.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Soul Necklace",
+        "slug": "soul-necklace",
+        "sprite": "/items/soul-necklace.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Amulet of Drakefyre",
+        "slug": "amulet-of-drakefyre",
+        "sprite": "/items/amulet-of-drakefyre.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Horrific Claws",
+        "slug": "horrific-claws",
+        "sprite": "/items/horrific-claws.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Revenant Ring",
+        "slug": "revenant-ring",
+        "sprite": "/items/revenant-ring.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Chrysanthemum Corsage",
+        "slug": "chrysanthemum-corsage",
+        "sprite": "/items/chrysanthemum-corsage.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Pernicious Peridot",
+        "slug": "pernicious-peridot",
+        "sprite": "/items/pernicious-peridot.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Aquamarine Amulet",
+        "slug": "aquamarine-amulet",
+        "sprite": "/items/aquamarine-amulet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Flames of Genesis",
+        "slug": "flames-of-genesis",
+        "sprite": "/items/flames-of-genesis.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Firelight Necklace",
+        "slug": "firelight-necklace",
+        "sprite": "/items/firelight-necklace.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Targeting Monocular",
+        "slug": "targeting-monocular",
+        "sprite": "/items/targeting-monocular.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Pressure Gauge Band",
+        "slug": "pressure-gauge-band",
+        "sprite": "/items/pressure-gauge-band.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Interregnum",
+        "slug": "interregnum",
+        "sprite": "/items/interregnum.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Hivemind Circlet",
+        "slug": "hivemind-circlet",
+        "sprite": "/items/hivemind-circlet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Bloodstone Ring",
+        "slug": "bloodstone-ring",
+        "sprite": "/items/bloodstone-ring.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Eye of the Void",
+        "slug": "eye-of-the-void",
+        "sprite": "/items/eye-of-the-void.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Rusty Cuffs",
+        "slug": "rusty-cuffs",
+        "sprite": "/items/rusty-cuffs.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Lucky Grenade",
+        "slug": "lucky-grenade",
+        "sprite": "/items/lucky-grenade.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of the Inferno",
+        "slug": "ring-of-the-inferno",
+        "sprite": "/items/ring-of-the-inferno.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Radiant Heart",
+        "slug": "radiant-heart",
+        "sprite": "/items/radiant-heart.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Imperial Keepsake",
+        "slug": "imperial-keepsake",
+        "sprite": "/items/imperial-keepsake.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "C.O.N.T.R.O.L.L.E.R.",
+        "slug": "c-o-n-t-r-o-l-l-e-r",
+        "sprite": "/items/c-o-n-t-r-o-l-l-e-r.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Bolt in a Bottle",
+        "slug": "bolt-in-a-bottle",
+        "sprite": "/items/bolt-in-a-bottle.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Brass Knuckles",
+        "slug": "brass-knuckles",
+        "sprite": "/items/brass-knuckles.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Heavenly Halo",
+        "slug": "heavenly-halo",
+        "sprite": "/items/heavenly-halo.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Tiki Pendant",
+        "slug": "tiki-pendant",
+        "sprite": "/items/tiki-pendant.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Regal Ring",
+        "slug": "regal-ring",
+        "sprite": "/items/regal-ring.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Omni-Impotence Ring",
+        "slug": "omni-impotence-ring",
+        "sprite": "/items/omni-impotence-ring.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Cuband",
+        "slug": "cuband",
+        "sprite": "/items/cuband.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Augur of the Tempest",
+        "slug": "augur-of-the-tempest",
+        "sprite": "/items/augur-of-the-tempest.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Defiled Equilibrium",
+        "slug": "defiled-equilibrium",
+        "sprite": "/items/defiled-equilibrium.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Jewel of Vengeance",
+        "slug": "jewel-of-vengeance",
+        "sprite": "/items/jewel-of-vengeance.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Eye of Divination",
+        "slug": "eye-of-divination",
+        "sprite": "/items/eye-of-divination.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Frozen Heart",
+        "slug": "frozen-heart",
+        "sprite": "/items/frozen-heart.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Mayhem Medallion",
+        "slug": "mayhem-medallion",
+        "sprite": "/items/mayhem-medallion.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of Wrath",
+        "slug": "ring-of-wrath",
+        "sprite": "/items/ring-of-wrath.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Autarch Amulet",
+        "slug": "autarch-amulet",
+        "sprite": "/items/autarch-amulet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ring of the Covetous Heart",
+        "slug": "ring-of-the-covetous-heart",
+        "sprite": "/items/ring-of-the-covetous-heart.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Steadfast Glyph",
+        "slug": "steadfast-glyph",
+        "sprite": "/items/steadfast-glyph.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alien Core: Dark Matter",
+        "slug": "alien-core-dark-matter",
+        "sprite": "/items/alien-core-dark-matter.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alien Core: Power",
+        "slug": "alien-core-power",
+        "sprite": "/items/alien-core-power.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alien Core: Warp",
+        "slug": "alien-core-warp",
+        "sprite": "/items/alien-core-warp.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alien Core: Corrosion",
+        "slug": "alien-core-corrosion",
+        "sprite": "/items/alien-core-corrosion.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Gjallarhorn",
+        "slug": "gjallarhorn",
+        "sprite": "/items/gjallarhorn.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Protective Gloves",
+        "slug": "protective-gloves",
+        "sprite": "/items/protective-gloves.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Fang Necklace",
+        "slug": "fang-necklace",
+        "sprite": "/items/fang-necklace.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Soul Gem Amulet",
+        "slug": "soul-gem-amulet",
+        "sprite": "/items/soul-gem-amulet.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Geb's Ring of Wisdom",
+        "slug": "gebs-ring-of-wisdom",
+        "sprite": "/items/gebs-ring-of-wisdom.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Akuma's Tear",
+        "slug": "akumas-tear",
+        "sprite": "/items/akumas-tear.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Ruthven's Rosary",
+        "slug": "ruthvens-rosary",
+        "sprite": "/items/ruthvens-rosary.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "First Mate's Hook",
+        "slug": "first-mates-hook",
+        "sprite": "/items/first-mates-hook.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Alexander's Band",
+        "slug": "alexanders-band",
+        "sprite": "/items/alexanders-band.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Traveler's Trinket",
+        "slug": "travelers-trinket",
+        "sprite": "/items/travelers-trinket.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Performer's Hat",
+        "slug": "performers-hat",
+        "sprite": "/items/performers-hat.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Legacy's Pendant",
+        "slug": "legacys-pendant",
+        "sprite": "/items/legacys-pendant.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Pixie-Enchanted Sword",
+        "slug": "pixie-enchanted-sword",
+        "sprite": "/items/pixie-enchanted-sword.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Heartsteel Claymore",
+        "slug": "heartsteel-claymore",
+        "sprite": "/items/heartsteel-claymore.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Indomptable",
+        "slug": "indomptable",
+        "sprite": "/items/indomptable.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Sword of the Mad God",
+        "slug": "sword-of-the-mad-god",
+        "sprite": "/items/sword-of-the-mad-god.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Legacy Pixie-Enchanted Sword",
+        "slug": "legacy-pixie-enchanted-sword",
+        "sprite": "/items/legacy-pixie-enchanted-sword.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Hellfire Broadsword",
+        "slug": "hellfire-broadsword",
+        "sprite": "/items/hellfire-broadsword.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Nutrient Rich Carrot Blade",
+        "slug": "nutrient-rich-carrot-blade",
+        "sprite": "/items/nutrient-rich-carrot-blade.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Savage Claws",
+        "slug": "savage-claws",
+        "sprite": "/items/savage-claws.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Eternal Graved Great Sword",
+        "slug": "eternal-graved-great-sword",
+        "sprite": "/items/eternal-graved-great-sword.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Blood Axe",
+        "slug": "blood-axe",
+        "sprite": "/items/blood-axe.png",
+        "itemType": "Sword",
+        "tier": "ST (Limited)",
+        "category": "swords"
+      },
+      {
+        "name": "Fallen One's Blade",
+        "slug": "fallen-ones-blade",
+        "sprite": "/items/fallen-ones-blade.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Oryx's Greatsword",
+        "slug": "oryxs-greatsword",
+        "sprite": "/items/oryxs-greatsword.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Swashbuckler's Sickle",
+        "slug": "swashbucklers-sickle",
+        "sprite": "/items/swashbucklers-sickle.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Dalvar's Battle Axe",
+        "slug": "dalvars-battle-axe",
+        "sprite": "/items/dalvars-battle-axe.png",
+        "itemType": "Sword",
+        "tier": "ST",
+        "category": "swords"
+      },
+      {
+        "name": "Fairy Plate",
+        "slug": "fairy-plate",
+        "sprite": "/items/fairy-plate.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Kamishimo",
+        "slug": "kamishimo",
+        "sprite": "/items/kamishimo.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Naval Uniform",
+        "slug": "naval-uniform",
+        "sprite": "/items/naval-uniform.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Flame Guard",
+        "slug": "flame-guard",
+        "sprite": "/items/flame-guard.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Barrier Reef",
+        "slug": "barrier-reef",
+        "sprite": "/items/barrier-reef.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Vortex Plating",
+        "slug": "vortex-plating",
+        "sprite": "/items/vortex-plating.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Reinforced Root Armor",
+        "slug": "reinforced-root-armor",
+        "sprite": "/items/reinforced-root-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Cyclone Chestplate",
+        "slug": "cyclone-chestplate",
+        "sprite": "/items/cyclone-chestplate.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Chainmail Body Armor",
+        "slug": "chainmail-body-armor",
+        "sprite": "/items/chainmail-body-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Hull of the Tundra",
+        "slug": "hull-of-the-tundra",
+        "sprite": "/items/hull-of-the-tundra.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Almandine Armor of Anger",
+        "slug": "almandine-armor-of-anger",
+        "sprite": "/items/almandine-armor-of-anger.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Legacy Fairy Plate",
+        "slug": "legacy-fairy-plate",
+        "sprite": "/items/legacy-fairy-plate.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Ragetorn Armor",
+        "slug": "ragetorn-armor",
+        "sprite": "/items/ragetorn-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Eggre Battle Armor",
+        "slug": "eggre-battle-armor",
+        "sprite": "/items/eggre-battle-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Hardened Carrot Armor",
+        "slug": "hardened-carrot-armor",
+        "sprite": "/items/hardened-carrot-armor.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Fur Coat",
+        "slug": "fur-coat",
+        "sprite": "/items/fur-coat.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Zaarvox's Heart",
+        "slug": "zaarvoxs-heart",
+        "sprite": "/items/zaarvoxs-heart.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Mercy's Bane",
+        "slug": "mercys-bane",
+        "sprite": "/items/mercys-bane.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Retainer's Battlesuit",
+        "slug": "retainers-battlesuit",
+        "sprite": "/items/retainers-battlesuit.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Tormentor's Chainmail",
+        "slug": "tormentors-chainmail",
+        "sprite": "/items/tormentors-chainmail.png",
+        "itemType": "Heavy Armor",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      }
+    ],
+    "bonuses": [
+      "On Equip +8 DEF, +4 DEX",
+      "Effect(s) On party: Berserk for 5 (+0.1 per WIS over 30) seconds On self: DEX Boost (+8 DEX) for 3 seconds On self: SPD Boost (+4 SPD) for 3 seconds On self: Bleeding for 3 seconds (Bleed Damage: 20)",
+      "Range 3 (+0.1 per WIS over 30) tiles",
+      "XP Bonus 7%",
+      "History Before Exalt Version 3.3.5.0 (Mar 2023), this item gave +5 DEF.",
+      "Before Exalt Version 6.4.0.0 (Dec 2025), this item gave +8 DEF, had Effect: With Headless Ted: Gain a 2.5 second Paralyzed effect within 4.5 squares.",
+      "On Equip +90 HP, +6 DEX, +4 SPD",
+      "XP Bonus 4%",
+      "Before Exalt Version 6.4.0.0 (Dec 2025), this item gave +90 HP, +6 DEX, did no have Reactive Proc.",
+      "XP Bonus 5%",
+      "On Equip +40 HP, +14 DEF, +5 DEX",
+      "Reactive Proc On taking at least 20 damage: DEX Boost (+5 DEX) for 4 seconds. Cooldown: 4.2 seconds",
+      "XP Bonus 6%",
+      "Before Exalt Version 6.4.0.0 (Dec 2025), this item gave +40 HP, +17 DEF, +7 VIT, had Effect: On taking at least 20 damage: DEF Boost (+10 DEF) for 5 seconds."
+    ],
+    "notes": [
+      "Imported from RealmEye Set Tier Items and ST item pages."
+    ]
+  },
+  {
+    "id": "ceremonial-merlot-set",
+    "name": "Ceremonial Merlot Set",
+    "slug": "ceremonial-merlot-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Priest",
+    "outfitSprite": "/sets/ceremonial-merlot-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/ceremonial-merlot",
+    "description": "",
+    "items": [
+      {
+        "name": "Ceremonial Merlot",
+        "slug": "ceremonial-merlot",
+        "sprite": "/items/ceremonial-merlot.png",
+        "itemType": "Tome",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Tome of Exorcism",
+        "slug": "tome-of-exorcism",
+        "sprite": "/items/tome-of-exorcism.png",
+        "itemType": "Tome",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Theurgy Wand",
+        "slug": "theurgy-wand",
+        "sprite": "/items/theurgy-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Anointed Robe",
+        "slug": "anointed-robe",
+        "sprite": "/items/anointed-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ring of Pagan Favor",
+        "slug": "ring-of-pagan-favor",
+        "sprite": "/items/ring-of-pagan-favor.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Bloodletting Leeches",
+        "slug": "bloodletting-leeches",
+        "sprite": "/items/bloodletting-leeches.png",
+        "itemType": "Tome",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Book of Geb",
+        "slug": "book-of-geb",
+        "sprite": "/items/book-of-geb.png",
+        "itemType": "Tome",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Void Leeches",
+        "slug": "void-leeches",
+        "sprite": "/items/void-leeches.png",
+        "itemType": "Tome",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Holy Artifact",
+        "slug": "holy-artifact",
+        "sprite": "/items/holy-artifact.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Garb of the Ordained",
+        "slug": "garb-of-the-ordained",
+        "sprite": "/items/garb-of-the-ordained.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Pontifex Ring",
+        "slug": "pontifex-ring",
+        "sprite": "/items/pontifex-ring.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      },
+      {
+        "name": "Cane of Caduceus",
+        "slug": "cane-of-caduceus",
+        "sprite": "/items/cane-of-caduceus.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Wand of Geb",
+        "slug": "wand-of-geb",
+        "sprite": "/items/wand-of-geb.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Lightning Wand",
+        "slug": "lightning-wand",
+        "sprite": "/items/lightning-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Magic Wand",
+        "slug": "magic-wand",
+        "sprite": "/items/magic-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "C.L.A.W.",
+        "slug": "c-l-a-w",
+        "sprite": "/items/c-l-a-w.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Earthen Ward",
+        "slug": "earthen-ward",
+        "sprite": "/items/earthen-ward.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Cane of the Void",
+        "slug": "cane-of-the-void",
+        "sprite": "/items/cane-of-the-void.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Heartbreaker Wand",
+        "slug": "heartbreaker-wand",
+        "sprite": "/items/heartbreaker-wand.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Tormented Shriek",
+        "slug": "tormented-shriek",
+        "sprite": "/items/tormented-shriek.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Sweet Desire Wand",
+        "slug": "sweet-desire-wand",
+        "sprite": "/items/sweet-desire-wand.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Abomination's Wrath",
+        "slug": "abominations-wrath",
+        "sprite": "/items/abominations-wrath.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Wind Dancer Robe",
+        "slug": "wind-dancer-robe",
+        "sprite": "/items/wind-dancer-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Rocky Robe",
+        "slug": "rocky-robe",
+        "sprite": "/items/rocky-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Garment of the Beast",
+        "slug": "garment-of-the-beast",
+        "sprite": "/items/garment-of-the-beast.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Shendyt of Geb",
+        "slug": "shendyt-of-geb",
+        "sprite": "/items/shendyt-of-geb.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Soulless Robe",
+        "slug": "soulless-robe",
+        "sprite": "/items/soulless-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Polygonal Garbs",
+        "slug": "polygonal-garbs",
+        "sprite": "/items/polygonal-garbs.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Toga Picta",
+        "slug": "toga-picta",
+        "sprite": "/items/toga-picta.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Thunderstorm Tunic",
+        "slug": "thunderstorm-tunic",
+        "sprite": "/items/thunderstorm-tunic.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Molten Mantle",
+        "slug": "molten-mantle",
+        "sprite": "/items/molten-mantle.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Oceanic Apparel",
+        "slug": "oceanic-apparel",
+        "sprite": "/items/oceanic-apparel.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Blast Proof Robes",
+        "slug": "blast-proof-robes",
+        "sprite": "/items/blast-proof-robes.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ragged Robes",
+        "slug": "ragged-robes",
+        "sprite": "/items/ragged-robes.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Twilight Shroud",
+        "slug": "twilight-shroud",
+        "sprite": "/items/twilight-shroud.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "A.R.M.O.R.",
+        "slug": "a-r-m-o-r",
+        "sprite": "/items/a-r-m-o-r.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Wings of Sanctity",
+        "slug": "wings-of-sanctity",
+        "sprite": "/items/wings-of-sanctity.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Chocolate Glazed Robe",
+        "slug": "chocolate-glazed-robe",
+        "sprite": "/items/chocolate-glazed-robe.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Legacy Robe of Twilight",
+        "slug": "legacy-robe-of-twilight",
+        "sprite": "/items/legacy-robe-of-twilight.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Immortal Mantle",
+        "slug": "immortal-mantle",
+        "sprite": "/items/immortal-mantle.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Boudoir Robe",
+        "slug": "boudoir-robe",
+        "sprite": "/items/boudoir-robe.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Darkness Overcoat",
+        "slug": "darkness-overcoat",
+        "sprite": "/items/darkness-overcoat.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Robe of the Enchantress",
+        "slug": "robe-of-the-enchantress",
+        "sprite": "/items/robe-of-the-enchantress.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Curse Binding Robes",
+        "slug": "curse-binding-robes",
+        "sprite": "/items/curse-binding-robes.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Floral Corset",
+        "slug": "floral-corset",
+        "sprite": "/items/floral-corset.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Devilish Robes",
+        "slug": "devilish-robes",
+        "sprite": "/items/devilish-robes.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Phosphorescent Rags",
+        "slug": "phosphorescent-rags",
+        "sprite": "/items/phosphorescent-rags.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Lacerated Gown",
+        "slug": "lacerated-gown",
+        "sprite": "/items/lacerated-gown.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Wings of the Fallen",
+        "slug": "wings-of-the-fallen",
+        "sprite": "/items/wings-of-the-fallen.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Doctor's Overcoat",
+        "slug": "doctors-overcoat",
+        "sprite": "/items/doctors-overcoat.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Magician's Robe",
+        "slug": "magicians-robe",
+        "sprite": "/items/magicians-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Astronomer's Gown",
+        "slug": "astronomers-gown",
+        "sprite": "/items/astronomers-gown.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ritualistic Pa'u",
+        "slug": "ritualistic-pau",
+        "sprite": "/items/ritualistic-pau.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Executioner's Garb",
+        "slug": "executioners-garb",
+        "sprite": "/items/executioners-garb.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      }
+    ],
+    "bonuses": [
+      "On Equip +5 ATT, -5 DEF",
+      "Effect(s) Heal: 120 (+0.88 per WIS over 70) HP Party Effect: Healing [60/s] (+0.44 per WIS over 70) for 4.4 seconds Self Effect: ATT Boost (+15 ATT) for 6 seconds",
+      "Range 6.8 (+0.05 per WIS over 70) tiles",
+      "XP Bonus 7%",
+      "XP Bonus 5%",
+      "On Equip +4 ATT, +14 DEF, +3 DEX, -5 VIT",
+      "XP Bonus 6%",
+      "Before Exalt Version 6.1.0.0 (Sep 2025), this item gave +20 MP, +4 ATT, +13 DEF, -3 VIT, +2 WIS, +3 DEX."
+    ],
+    "notes": [
+      "Imported from RealmEye Set Tier Items and ST item pages."
+    ]
+  },
+  {
+    "id": "chocolate-egg-mace-set",
+    "name": "Chocolate Egg Mace Set",
+    "slug": "chocolate-egg-mace-set",
+    "category": "sets",
+    "setType": "ST",
+    "class": "Priest",
+    "outfitSprite": "/sets/chocolate-egg-mace-set.png",
+    "sourceUrl": "https://www.realmeye.com/wiki/chocolate-egg-mace",
+    "description": "",
+    "items": [
+      {
+        "name": "Chocolate Egg Mace",
+        "slug": "chocolate-egg-mace",
+        "sprite": "/items/chocolate-egg-mace.png",
+        "itemType": "Mace",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Stonemould Mace",
+        "slug": "stonemould-mace",
+        "sprite": "/items/stonemould-mace.png",
+        "itemType": "Mace",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Sweet Desire Wand",
+        "slug": "sweet-desire-wand",
+        "sprite": "/items/sweet-desire-wand.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Chocolate Glazed Robe",
+        "slug": "chocolate-glazed-robe",
+        "sprite": "/items/chocolate-glazed-robe.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Chocolate Bunny Ears",
+        "slug": "chocolate-bunny-ears",
+        "sprite": "/items/chocolate-bunny-ears.png",
+        "itemType": "Ring",
+        "tier": "ST (Limited)",
+        "category": "rings"
+      },
+      {
+        "name": "B.O.O.M.",
+        "slug": "b-o-o-m",
+        "sprite": "/items/b-o-o-m.png",
+        "itemType": "Mace",
+        "tier": "ST",
+        "category": "abilities"
+      },
+      {
+        "name": "Ghastly Mace",
+        "slug": "ghastly-mace",
+        "sprite": "/items/ghastly-mace.png",
+        "itemType": "Mace",
+        "tier": "ST (Limited)",
+        "category": "abilities"
+      },
+      {
+        "name": "Earthen Ward",
+        "slug": "earthen-ward",
+        "sprite": "/items/earthen-ward.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Rocky Robe",
+        "slug": "rocky-robe",
+        "sprite": "/items/rocky-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Steadfast Glyph",
+        "slug": "steadfast-glyph",
+        "sprite": "/items/steadfast-glyph.png",
+        "itemType": "Ring",
+        "tier": "ST",
+        "category": "rings"
+      },
+      {
+        "name": "Cane of Caduceus",
+        "slug": "cane-of-caduceus",
+        "sprite": "/items/cane-of-caduceus.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Wand of Geb",
+        "slug": "wand-of-geb",
+        "sprite": "/items/wand-of-geb.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Lightning Wand",
+        "slug": "lightning-wand",
+        "sprite": "/items/lightning-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Magic Wand",
+        "slug": "magic-wand",
+        "sprite": "/items/magic-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Theurgy Wand",
+        "slug": "theurgy-wand",
+        "sprite": "/items/theurgy-wand.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "C.L.A.W.",
+        "slug": "c-l-a-w",
+        "sprite": "/items/c-l-a-w.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Cane of the Void",
+        "slug": "cane-of-the-void",
+        "sprite": "/items/cane-of-the-void.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Heartbreaker Wand",
+        "slug": "heartbreaker-wand",
+        "sprite": "/items/heartbreaker-wand.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Holy Artifact",
+        "slug": "holy-artifact",
+        "sprite": "/items/holy-artifact.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Tormented Shriek",
+        "slug": "tormented-shriek",
+        "sprite": "/items/tormented-shriek.png",
+        "itemType": "Wand",
+        "tier": "ST (Limited)",
+        "category": "wands"
+      },
+      {
+        "name": "Abomination's Wrath",
+        "slug": "abominations-wrath",
+        "sprite": "/items/abominations-wrath.png",
+        "itemType": "Wand",
+        "tier": "ST",
+        "category": "wands"
+      },
+      {
+        "name": "Wind Dancer Robe",
+        "slug": "wind-dancer-robe",
+        "sprite": "/items/wind-dancer-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Garment of the Beast",
+        "slug": "garment-of-the-beast",
+        "sprite": "/items/garment-of-the-beast.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Shendyt of Geb",
+        "slug": "shendyt-of-geb",
+        "sprite": "/items/shendyt-of-geb.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Soulless Robe",
+        "slug": "soulless-robe",
+        "sprite": "/items/soulless-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Polygonal Garbs",
+        "slug": "polygonal-garbs",
+        "sprite": "/items/polygonal-garbs.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Toga Picta",
+        "slug": "toga-picta",
+        "sprite": "/items/toga-picta.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Thunderstorm Tunic",
+        "slug": "thunderstorm-tunic",
+        "sprite": "/items/thunderstorm-tunic.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Anointed Robe",
+        "slug": "anointed-robe",
+        "sprite": "/items/anointed-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Molten Mantle",
+        "slug": "molten-mantle",
+        "sprite": "/items/molten-mantle.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Oceanic Apparel",
+        "slug": "oceanic-apparel",
+        "sprite": "/items/oceanic-apparel.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Blast Proof Robes",
+        "slug": "blast-proof-robes",
+        "sprite": "/items/blast-proof-robes.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ragged Robes",
+        "slug": "ragged-robes",
+        "sprite": "/items/ragged-robes.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Twilight Shroud",
+        "slug": "twilight-shroud",
+        "sprite": "/items/twilight-shroud.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "A.R.M.O.R.",
+        "slug": "a-r-m-o-r",
+        "sprite": "/items/a-r-m-o-r.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Wings of Sanctity",
+        "slug": "wings-of-sanctity",
+        "sprite": "/items/wings-of-sanctity.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Legacy Robe of Twilight",
+        "slug": "legacy-robe-of-twilight",
+        "sprite": "/items/legacy-robe-of-twilight.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Immortal Mantle",
+        "slug": "immortal-mantle",
+        "sprite": "/items/immortal-mantle.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Boudoir Robe",
+        "slug": "boudoir-robe",
+        "sprite": "/items/boudoir-robe.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Darkness Overcoat",
+        "slug": "darkness-overcoat",
+        "sprite": "/items/darkness-overcoat.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Robe of the Enchantress",
+        "slug": "robe-of-the-enchantress",
+        "sprite": "/items/robe-of-the-enchantress.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Curse Binding Robes",
+        "slug": "curse-binding-robes",
+        "sprite": "/items/curse-binding-robes.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Floral Corset",
+        "slug": "floral-corset",
+        "sprite": "/items/floral-corset.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Devilish Robes",
+        "slug": "devilish-robes",
+        "sprite": "/items/devilish-robes.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Garb of the Ordained",
+        "slug": "garb-of-the-ordained",
+        "sprite": "/items/garb-of-the-ordained.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Phosphorescent Rags",
+        "slug": "phosphorescent-rags",
+        "sprite": "/items/phosphorescent-rags.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Lacerated Gown",
+        "slug": "lacerated-gown",
+        "sprite": "/items/lacerated-gown.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Wings of the Fallen",
+        "slug": "wings-of-the-fallen",
+        "sprite": "/items/wings-of-the-fallen.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      },
+      {
+        "name": "Doctor's Overcoat",
+        "slug": "doctors-overcoat",
+        "sprite": "/items/doctors-overcoat.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Magician's Robe",
+        "slug": "magicians-robe",
+        "sprite": "/items/magicians-robe.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Astronomer's Gown",
+        "slug": "astronomers-gown",
+        "sprite": "/items/astronomers-gown.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Ritualistic Pa'u",
+        "slug": "ritualistic-pau",
+        "sprite": "/items/ritualistic-pau.png",
+        "itemType": "Robe",
+        "tier": "ST",
+        "category": "armors"
+      },
+      {
+        "name": "Executioner's Garb",
+        "slug": "executioners-garb",
+        "sprite": "/items/executioners-garb.png",
+        "itemType": "Robe",
+        "tier": "ST (Limited)",
+        "category": "armors"
+      }
+    ],
+    "bonuses": [
+      "On Equip +5 DEF",
+      "XP Bonus 7%",
+      "XP Bonus 6%",
+      "On Equip +20 DEF, -5 DEX, +4 VIT",
+      "XP Bonus 5%"
+    ],
+    "notes": [
+      "Imported from RealmEye Set Tier Items and ST item pages."
+    ]
+  }
+]

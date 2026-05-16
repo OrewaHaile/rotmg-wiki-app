@@ -1,0 +1,127 @@
+[
+  {
+    "name": "Skuld 2 The ReGhostening Set",
+    "slug": "skuld-2-the-reghostening-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/skuld-2-the-reghostening-set",
+    "class": "Rogue",
+    "itemCount": 4,
+    "itemNames": [
+      "Etherite Dagger",
+      "Ghastly Drape",
+      "Mantle of Skuld",
+      "Spectral Ring of Horrors"
+    ],
+    "accepted": true,
+    "reason": "Accepted"
+  },
+  {
+    "name": "Vampire Rogue Set",
+    "slug": "vampire-rogue-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/vampire-rogue-set",
+    "class": "Rogue",
+    "itemCount": 0,
+    "itemNames": [],
+    "accepted": false,
+    "reason": "Expected 4 ST items, found 0."
+  },
+  {
+    "name": "Spectral Sentry Rogue Set",
+    "slug": "spectral-sentry-rogue-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/spectral-sentry-rogue-set",
+    "class": "Rogue",
+    "itemCount": 0,
+    "itemNames": [],
+    "accepted": false,
+    "reason": "Expected 4 ST items, found 0."
+  },
+  {
+    "name": "Legacy Skuld 2 The ReGhostening Set",
+    "slug": "legacy-skuld-2-the-reghostening-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/legacy-skuld-2-the-reghostening-set",
+    "class": "Rogue",
+    "itemCount": 4,
+    "itemNames": [
+      "Legacy Etherite Dagger",
+      "Legacy Ghastly Drape",
+      "Legacy Mantle of Skuld",
+      "Legacy Spectral Ring of Horrors"
+    ],
+    "accepted": true,
+    "reason": "Accepted"
+  },
+  {
+    "name": "Phantom Archer Set",
+    "slug": "phantom-archer-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/phantom-archer-set",
+    "class": "Archer",
+    "itemCount": 0,
+    "itemNames": [],
+    "accepted": false,
+    "reason": "Expected 4 ST items, found 0."
+  },
+  {
+    "name": "Treasure Hunter Archer Set",
+    "slug": "treasure-hunter-archer-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/treasure-hunter-archer-set",
+    "class": "Archer",
+    "itemCount": 4,
+    "itemNames": [
+      "Resplendent Bow",
+      "Embellished Quiver",
+      "Ornate Armor",
+      "Aquamarine Amulet"
+    ],
+    "accepted": true,
+    "reason": "Accepted"
+  },
+  {
+    "name": "Kogbold Turretsmith Archer Set",
+    "slug": "kogbold-turretsmith-archer-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/kogbold-turretsmith-archer-set",
+    "class": "Archer",
+    "itemCount": 0,
+    "itemNames": [],
+    "accepted": false,
+    "reason": "Expected 4 ST items, found 0."
+  },
+  {
+    "name": "Reanimated Archer Set",
+    "slug": "reanimated-archer-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/reanimated-archer-set",
+    "class": "Archer",
+    "itemCount": 4,
+    "itemNames": [
+      "Bone Bow",
+      "Spinal Quiver",
+      "Torso Tunic",
+      "Collarbone Collar"
+    ],
+    "accepted": true,
+    "reason": "Accepted"
+  },
+  {
+    "name": "Valentine's Day Archer Set",
+    "slug": "valentines-day-archer-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/valentine-s-day-archer-set",
+    "class": "Archer",
+    "itemCount": 0,
+    "itemNames": [],
+    "accepted": false,
+    "reason": "Expected 4 ST items, found 0."
+  },
+  {
+    "name": "Painted Egg Archer Set",
+    "slug": "painted-egg-archer-set",
+    "sourceUrl": "https://www.realmeye.com/wiki/painted-egg-archer-set",
+    "class": "Archer",
+    "itemCount": 4,
+    "itemNames": [
+      "Spring Wonder Bow",
+      "Fresh Breeze Quiver",
+      "Painted Eggshell Armor",
+      "Painted Egg Amulet"
+    ],
+    "accepted": true,
+    "reason": "Accepted"
+  }
+]
