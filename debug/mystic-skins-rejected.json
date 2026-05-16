@@ -1,0 +1,226 @@
+[
+  {
+    "name": "eye",
+    "src": "/s/hl/img/eye.png",
+    "href": "",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Seer",
+    "src": "/s/a/img/wiki/i/L0wOsQz.png",
+    "href": "",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Lil Red",
+    "src": "/s/a/img/wiki/i/IXVw6Ud.png",
+    "href": "",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Poltergeist",
+    "src": "/s/a/img/wiki/i/OqQ5pzQ.png",
+    "href": "",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Mini Phylactery",
+    "src": "/s/a/img/wiki/i/f2GNat4.png",
+    "href": "",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Pilgrim Mother",
+    "src": "/s/a/img/wiki/i/noP2jsl.png",
+    "href": "",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Lil' Bo-Peep",
+    "src": "/s/a/img/wiki/i/VWM3EXT.png",
+    "href": "",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "",
+    "src": "/s/a/img/wiki/i/8w2AhWY.png",
+    "href": "",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Artist Extraordinaire",
+    "src": "/s/a/img/wiki/i/hNKYN6G.png",
+    "href": "",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Dungeon Mastermind",
+    "src": "/s/a/img/wiki/i/rHq8VrP.png",
+    "href": "",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Future Seeker Tester",
+    "src": "/s/a/img/wiki/i/OJflF72.png",
+    "href": "",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "The Phylactery",
+    "src": "/s/a/img/wiki/i/hFV5MVt.png",
+    "href": "/wiki/the-phylactery",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Soul of the Bearer",
+    "src": "/s/a/img/wiki/i/uhRbCgM.png",
+    "href": "/wiki/soul-of-the-bearer",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Soulless Robe",
+    "src": "/s/a/img/wiki/i/luHAGXb.png",
+    "href": "/wiki/soulless-robe",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Ring of the Covetous Heart",
+    "src": "/s/a/img/wiki/i/soOMMR2.png",
+    "href": "/wiki/ring-of-the-covetous-heart",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Staff of Eruption",
+    "src": "/s/a/img/wiki/i/eYQVX29.png",
+    "href": "/wiki/staff-of-eruption",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Scorchium Stone",
+    "src": "/s/a/img/wiki/i/Yb2qz84.png",
+    "href": "/wiki/scorchium-stone",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Molten Mantle",
+    "src": "/s/a/img/wiki/i/Wwwi1lA.png",
+    "href": "/wiki/molten-mantle",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Ring of the Inferno",
+    "src": "/s/a/img/wiki/i/cGXdu3q.png",
+    "href": "/wiki/ring-of-the-inferno",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Astral Arcanist Set",
+    "src": "/s/a/img/wiki/i/d23iI9A.png",
+    "href": "/wiki/astral-arcanist-set",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Nebular Rod",
+    "src": "/s/a/img/wiki/i/laDuXga.png",
+    "href": "/wiki/nebular-rod",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Cosmic Astrolabe",
+    "src": "/s/a/img/wiki/i/LmcZIBd.png",
+    "href": "/wiki/cosmic-astrolabe",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Astronomer's Gown",
+    "src": "/s/a/img/wiki/i/xFAergr.png",
+    "href": "/wiki/astronomer-s-gown",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Eye of Divination",
+    "src": "/s/a/img/wiki/i/fUEyz7a.png",
+    "href": "/wiki/eye-of-divination",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Stygian Torch",
+    "src": "/s/a/img/wiki/i/B9NH29Z.png",
+    "href": "/wiki/stygian-torch",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Orb of the Sabbath",
+    "src": "/s/a/img/wiki/i/Gn1GBqj.png",
+    "href": "/wiki/orb-of-the-sabbath",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Robe of the Enchantress",
+    "src": "/s/a/img/wiki/i/EQKeIS1.png",
+    "href": "/wiki/robe-of-the-enchantress",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Witch's Brooch",
+    "src": "/s/a/img/wiki/i/4xBEZfB.png",
+    "href": "/wiki/witch-s-brooch",
+    "section": "",
+    "className": "Mystic",
+    "reason": "not a valid skin image"
+  }
+]

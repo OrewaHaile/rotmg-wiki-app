@@ -1,0 +1,194 @@
+[
+  {
+    "name": "eye",
+    "src": "/s/hl/img/eye.png",
+    "href": "",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Stealth",
+    "src": "/s/a/img/wiki/i/yb6xqUo.png",
+    "href": "",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Agent",
+    "src": "/s/a/img/wiki/i/2LzF0o4.png",
+    "href": "",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Puppet Master",
+    "src": "/s/a/img/wiki/i/Qk5eBWG.png",
+    "href": "",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Vampire Hunter",
+    "src": "/s/a/img/wiki/i/1YPUW26.png",
+    "href": "",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Romeo",
+    "src": "/s/a/img/wiki/i/um9HDGk.png",
+    "href": "",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Mini Stheno",
+    "src": "/s/a/img/wiki/i/xiKzvcj.png",
+    "href": "",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Mini Flesh Collector",
+    "src": "/s/a/img/wiki/i/Q5Xp4Vx.png",
+    "href": "",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Artist Extraordinaire",
+    "src": "/s/a/img/wiki/i/Uq8tgFt.png",
+    "href": "",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Dungeon Mastermind",
+    "src": "/s/a/img/wiki/i/qqtEQOx.png",
+    "href": "",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Future Seeker Tester",
+    "src": "/s/a/img/wiki/i/75cZwa8.png",
+    "href": "",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Flesh Collector",
+    "src": "/s/a/img/wiki/i/Rl87FHN.png",
+    "href": "/wiki/flesh-collector-set",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Symbiotic Ripper",
+    "src": "/s/a/img/wiki/i/2Vj1EYP.png",
+    "href": "/wiki/symbiotic-ripper",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Parasitic Concoction",
+    "src": "/s/a/img/wiki/i/DjK25qQ.png",
+    "href": "/wiki/parasitic-concoction",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Rags of the Host",
+    "src": "/s/a/img/wiki/i/UG6XPjZ.png",
+    "href": "/wiki/rags-of-the-host",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Hivemind Circlet",
+    "src": "/s/a/img/wiki/i/3U1Ks4Q.png",
+    "href": "/wiki/hivemind-circlet",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Toxin Tooth",
+    "src": "/s/a/img/wiki/i/3196mu7.png",
+    "href": "/wiki/toxin-tooth",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Virulent Venom",
+    "src": "/s/a/img/wiki/i/1gr1oS8.png",
+    "href": "/wiki/virulent-venom",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Acidic Armor",
+    "src": "/s/a/img/wiki/i/2MAkZbN.png",
+    "href": "/wiki/acidic-armor",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Pernicious Peridot",
+    "src": "/s/a/img/wiki/i/ikKZOl7.png",
+    "href": "/wiki/pernicious-peridot",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Toxic Toad",
+    "src": "/s/a/img/wiki/i/2lpXgkP.png",
+    "href": "/wiki/toxic-toad",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Makeshift Blowpipe",
+    "src": "/s/a/img/wiki/i/xi8TTaW.png",
+    "href": "/wiki/makeshift-blowpipe",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Alchemist's Disheveled Garbs",
+    "src": "/s/a/img/wiki/i/oPOcdeO.png",
+    "href": "/wiki/alchemist-s-disheveled-garbs",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Protective Gloves",
+    "src": "/s/a/img/wiki/i/daIBNzB.png",
+    "href": "/wiki/protective-gloves",
+    "section": "",
+    "className": "Assassin",
+    "reason": "not a valid skin image"
+  }
+]

@@ -1,0 +1,314 @@
+[
+  {
+    "name": "eye",
+    "src": "/s/hl/img/eye.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Merlin",
+    "src": "/s/a/img/wiki/i/FaBrOtF.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Santa",
+    "src": "/s/a/img/wiki/i/6WHBjCT.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Gentleman",
+    "src": "/s/a/img/wiki/i/AmkQiCl.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Witch",
+    "src": "/s/a/img/wiki/i/PZotiMZ.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Mischievous Imp",
+    "src": "/s/a/img/wiki/i/8xNwdCT.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Mini Twilight",
+    "src": "/s/a/img/wiki/i/Fb34Du9.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Snow Queen",
+    "src": "/s/a/img/wiki/i/cwEZdto.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Miss Shamrock",
+    "src": "/s/a/img/wiki/i/EHgyBNX.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "The Flamingo",
+    "src": "/s/a/img/wiki/i/mkoJZ7D.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Dr. Spellbomb",
+    "src": "/s/a/img/wiki/i/1Aoavnw.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Ordinary Magician",
+    "src": "/s/a/img/wiki/i/4Ockjxq.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Haunted Robe",
+    "src": "/s/a/img/wiki/i/NPViYJQ.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Bunny Magician",
+    "src": "/s/a/img/wiki/i/FTZQoay.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Random Mad Scientist",
+    "src": "/s/a/img/wiki/i/s6rsvwK.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Two-Faced Gentleman",
+    "src": "/s/a/img/wiki/i/cLE5M8T.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Artist Extraordinaire",
+    "src": "/s/a/img/wiki/i/Uq8tgFt.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Dungeon Mastermind",
+    "src": "/s/a/img/wiki/i/rHq8VrP.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Future Seeker Tester",
+    "src": "/s/a/img/wiki/i/OJflF72.png",
+    "href": "",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Rocket Launcher",
+    "src": "/s/a/img/wiki/i/4PIEZSR.png",
+    "href": "/wiki/rocket-launcher",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Unstable Firework",
+    "src": "/s/a/img/wiki/i/t9KnFI3.png",
+    "href": "/wiki/unstable-firework",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Blast Proof Robes",
+    "src": "/s/a/img/wiki/i/SnvaFhz.png",
+    "href": "/wiki/blast-proof-robes",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Lucky Grenade",
+    "src": "/s/a/img/wiki/i/8vGaqis.png",
+    "href": "/wiki/lucky-grenade",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Corruption Tether",
+    "src": "/s/a/img/wiki/i/WzJqBbb.png",
+    "href": "/wiki/corruption-tether",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Ancient Eminence",
+    "src": "/s/a/img/wiki/i/w1rJnK9.png",
+    "href": "/wiki/ancient-eminence",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Twilight Shroud",
+    "src": "/s/a/img/wiki/i/sDrDmCT.png",
+    "href": "/wiki/twilight-shroud",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Defiled Equilibrium",
+    "src": "/s/a/img/wiki/i/dIOdLFM.png",
+    "href": "/wiki/defiled-equilibrium",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Tideturner Trident",
+    "src": "/s/a/img/wiki/i/JTRwMES.png",
+    "href": "/wiki/tideturner-trident",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Slurpian Sea Scroll",
+    "src": "/s/a/img/wiki/i/KlDkOoi.png",
+    "href": "/wiki/slurpian-sea-scroll",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Oceanic Apparel",
+    "src": "/s/a/img/wiki/i/J98NxR2.png",
+    "href": "/wiki/oceanic-apparel",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Imperial Keepsake",
+    "src": "/s/a/img/wiki/i/TNIvFIf.png",
+    "href": "/wiki/imperial-keepsake",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Supernatural Staff",
+    "src": "/s/a/img/wiki/i/qTOdZNR.png",
+    "href": "/wiki/supernatural-staff",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Spectral Spell",
+    "src": "/s/a/img/wiki/i/0McuhfS.png",
+    "href": "/wiki/spectral-spell",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Immortal Mantle",
+    "src": "/s/a/img/wiki/i/lCVCwok.png",
+    "href": "/wiki/immortal-mantle",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Phantom Pendant",
+    "src": "/s/a/img/wiki/i/W3fEUlp.png",
+    "href": "/wiki/phantom-pendant",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Legacy Sentient Staff",
+    "src": "/s/a/img/wiki/i/iveqFIc.png",
+    "href": "/wiki/legacy-sentient-staff",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Legacy Ancient Spell: Pierce",
+    "src": "/s/a/img/wiki/i/AXBOwtS.png",
+    "href": "/wiki/legacy-ancient-spell-pierce",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Legacy Robe of Twilight",
+    "src": "/s/a/img/wiki/i/q9txEI0.png",
+    "href": "/wiki/legacy-robe-of-twilight",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  },
+  {
+    "name": "Legacy Forgotten Ring",
+    "src": "/s/a/img/wiki/i/ad5DQeR.png",
+    "href": "/wiki/legacy-forgotten-ring",
+    "section": "",
+    "className": "Wizard",
+    "reason": "not a valid skin image"
+  }
+]
