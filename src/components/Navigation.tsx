@@ -12,6 +12,7 @@ export default function Navigation() {
     { label: "Home", path: "/" },
     { label: "Categories", path: "/categories" },
     { label: "Sets", path: "/sets" },
+    { label: "Skins", path: "/skins" },
     { label: "Skins", path: "/skins", badge: "Coming soon" },
     { label: "Dungeons", path: "/dungeons", badge: "Coming soon" },
     { label: "Stats", path: "/stats" },

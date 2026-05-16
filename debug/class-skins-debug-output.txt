@@ -1,0 +1,165 @@
+FAILED: /wiki/skins
+FAILED: /wiki/class-skins
+
+====================================
+PATH: /wiki/character-skins
+TITLE: Character Skins
+TABLES: 18
+IMAGES: 2695
+WIKI LINKS: 716
+SKIN-LIKE IMAGES: 1040
+
+HEADINGS:
+1. Character Skins
+2. Contents
+3. Tradable Skins
+4. Exclusive Skins
+5. Collections
+6. Slime Skins
+7. Stone Skins
+8. Oryxmas Skins
+9. Kingdom Skins
+10. Construction Skins
+11. Antinomy Skins
+12. Veteran Skins
+13. Mystery Skins
+14. Syndicate Henchman Skins
+15. Kogbold Skins
+16. Glory and Insight Skins
+17. Cozy Skins
+18. Set Tier Skins
+19. Mystery Skins
+20. Notes
+
+FIRST IMAGES:
+{ alt: 'eye', title: 'eye', src: '/s/hl/img/eye.png' }
+{ alt: 'Rogue', title: 'Rogue', src: '/s/a/img/wiki/i/qXqGQI5.png' }
+{
+  alt: 'Classic Rogue',
+  title: 'Classic Rogue',
+  src: '/s/a/img/wiki/d/Classes/Rogue.png'
+}
+{
+  alt: 'Skuld 2 The ReGhostening Set Skin',
+  title: 'Skuld 2 The ReGhostening Set Skin',
+  src: '/s/a/img/wiki/d/Skins/Skuld%20Set%20Skin.png'
+}
+{
+  alt: 'Vampire Rogue Set Skin',
+  title: 'Vampire Rogue Set Skin',
+  src: '/s/a/img/wiki/i/eEaTAYt.png'
+}
+{
+  alt: 'Spectral Sentry Rogue Set Skin',
+  title: 'Spectral Sentry Rogue Set Skin',
+  src: '/s/a/img/wiki/i/JwW6z20.png'
+}
+{
+  alt: 'Snowcloaked Rogue',
+  title: 'Snowcloaked Rogue',
+  src: '/s/a/img/wiki/d/Skins/Snowcloaked%20Rogue.png'
+}
+{
+  alt: 'Platinum Rogue',
+  title: 'Platinum Rogue',
+  src: '/s/a/img/wiki/d/Skins/Platinum%20Rogue.png'
+}
+{
+  alt: 'Brigand',
+  title: 'Brigand',
+  src: '/s/a/img/wiki/d/Skins/Brigand.png'
+}
+{
+  alt: 'Jack the Ripper',
+  title: 'Jack the Ripper',
+  src: '/s/a/img/wiki/d/Skins/Jack%20the%20Ripper.png'
+}
+{
+  alt: 'Sheep Rogue',
+  title: 'Sheep Rogue',
+  src: '/s/a/img/wiki/d/Skins/Sheep%20Rogue.png'
+}
+{
+  alt: 'Red Outlaw',
+  title: 'Red Outlaw',
+  src: '/s/a/img/wiki/i/XPWMbnw.png'
+}
+{
+  alt: 'Thief Queen',
+  title: 'Thief Queen',
+  src: '/s/a/img/wiki/i/ZyRZaTm.png'
+}
+{
+  alt: 'Turkey Rogue',
+  title: 'Turkey Rogue',
+  src: '/s/a/img/wiki/i/I09M6Kl.png'
+}
+{
+  alt: 'Bandit',
+  title: 'Bandit',
+  src: '/s/a/img/wiki/d/Skins/Bandit.png'
+}
+{
+  alt: 'Dapper Disguiser Rogue',
+  title: 'Dapper Disguiser Rogue',
+  src: '/s/a/img/wiki/i/73jMeO9.png'
+}
+{
+  alt: 'Ankou Rogue',
+  title: 'Ankou Rogue',
+  src: '/s/a/img/wiki/i/uaLMQlN.png'
+}
+{
+  alt: 'Space Smuggler Rogue',
+  title: 'Space Smuggler Rogue',
+  src: '/s/a/img/wiki/i/fbz3Ys0.png'
+}
+{
+  alt: 'Twilight Acolyte Rogue',
+  title: 'Twilight Acolyte Rogue',
+  src: '/s/a/img/wiki/i/ZCVjFeA.png'
+}
+{
+  alt: 'Bruno the Rogue Steward',
+  title: 'Bruno the Rogue Steward',
+  src: '/s/a/img/wiki/i/TaV6xaT.png'
+}
+
+FIRST LINKS:
+{ text: 'Wiki', href: '/wiki/realm-of-the-mad-god' }
+{
+  text: 'Exalt Version 5.7.0.0',
+  href: '/wiki/release-history-2025#exalt-version-5-7-0-0'
+}
+{ text: 'Release 6', href: '/wiki/release-history-2012#release-6' }
+{ text: 'Vault', href: '/wiki/vault' }
+{ text: 'Realm Gold', href: '/wiki/realm-gold' }
+{ text: 'enemies', href: '/wiki/monsters' }
+{ text: 'Mystery Boxes', href: '/wiki/mystery-boxes' }
+{ text: 'trading', href: '/wiki/trading' }
+{ text: 'Tinkerer', href: '/wiki/the-tinkerer' }
+{ text: 'Login Seer', href: '/wiki/login-seer' }
+{ text: 'Event Chests', href: '/wiki/event-chest' }
+{ text: 'DECA', href: '/wiki/deca-games' }
+{ text: 'Crystals of Fortune', href: '/wiki/crystal-of-fortune' }
+{
+  text: 'Crystals of Extreme Fortune',
+  href: '/wiki/crystal-of-extreme-fortune'
+}
+{ text: 'The Tinkerer', href: '/wiki/the-tinkerer' }
+{ text: 'pet', href: '/wiki/pet-skins' }
+{ text: 'Set tier', href: '/wiki/set-tier-items' }
+{ text: 'Dyes and Cloths', href: '/wiki/dyes-and-cloths' }
+{ text: '', href: '/wiki/rogue' }
+{ text: 'Rogue', href: '/wiki/rogue-skins' }
+{ text: '', href: '/wiki/skuld-2-the-reghostening-set' }
+{ text: '', href: '/wiki/vampire-rogue-set' }
+{ text: '', href: '/wiki/spectral-sentry-rogue-set' }
+{ text: '', href: '/wiki/archer' }
+{ text: 'Archer', href: '/wiki/archer-skins' }
+{ text: '', href: '/wiki/phantom-archer-set' }
+{ text: '', href: '/wiki/treasure-hunter-archer-set' }
+{ text: '', href: '/wiki/kogbold-turretsmith-archer-set' }
+{ text: '', href: '/wiki/reanimated-archer-set' }
+{ text: '', href: '/wiki/valentine-s-day-archer-set' }
+FAILED: /wiki/costumes
