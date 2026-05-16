@@ -137,24 +137,33 @@ export default function Sets() {
 
             {Array.isArray(set.items) && set.items.length > 0 ? (
               <div className="grid grid-cols-4 gap-2">
-                {set.items.slice(0, 4).map((item, index) => (
-                  <div
-                    key={item.slug || item.name || index}
-                    className="flex h-16 items-center justify-center rounded-xl border border-stone-800 bg-stone-950"
-                    title={item.name}
-                  >
-                    {item?.sprite ? (
-                      <img
-                        src={item.sprite}
-                        alt={item.name}
-                        className="h-11 w-11 object-contain"
-                        style={{ imageRendering: "pixelated" }}
-                      />
-                    ) : (
-                      <span className="text-xs text-stone-500">?</span>
-                    )}
-                  </div>
-                ))}
+                {set.items.slice(0, 4).map((item, index) => {
+                  const itemCard = (
+                    <div
+                      className="flex h-16 items-center justify-center rounded-xl border border-stone-800 bg-stone-950 transition hover:border-amber-500 hover:bg-stone-900"
+                      title={item.name}
+                    >
+                      {item?.sprite ? (
+                        <img
+                          src={item.sprite}
+                          alt={item.name}
+                          className="h-11 w-11 object-contain"
+                          style={{ imageRendering: "pixelated" }}
+                        />
+                      ) : (
+                        <span className="text-xs text-stone-500">?</span>
+                      )}
+                    </div>
+                  );
+
+                  return item.slug ? (
+                    <Link key={item.slug} href={`/item/${item.slug}`}>
+                      {itemCard}
+                    </Link>
+                  ) : (
+                    <div key={item.name || index}>{itemCard}</div>
+                  );
+                })}
               </div>
             ) : (
               <p className="rounded-xl border border-stone-800 bg-stone-950/80 px-3 py-3 text-sm text-stone-500">
