@@ -135,7 +135,23 @@ function isBlockedName(name) {
     "event chest",
     "vault",
     "tinkerer",
-    "login seer"
+    "login seer",
+    "reinforced root armor",
+    "akuma's tear",
+    "akumas tear",
+    "pet skin",
+    "armor",
+    "weapon",
+    "ring",
+    "ability",
+    "cloak",
+    "dagger",
+    "sword",
+    "bow",
+    "staff",
+    "wand",
+    "tomb",
+    "dye"
   ];
 
   if (blockedExact.includes(lower)) return true;
@@ -172,9 +188,10 @@ function shouldAcceptSkinImage({ name, src, href, className, section }) {
 
   if (isBlockedName(name)) return false;
   if (hrefSlug && itemSlugs.has(hrefSlug)) return false;
-
   if (lowerName === className.toLowerCase()) return false;
   if (lowerSrc.includes("/s/hl/img/")) return false;
+  if (lowerSrc.includes("/items/") || lowerSrc.includes("/item/")) return false;
+  if (lowerHref.includes("/item/") || lowerHref.includes("/items/")) return false;
   if (!lowerSrc.includes("/s/a/img/wiki/")) return false;
 
   // ST skin sections: accept set skin images, not item sprites.

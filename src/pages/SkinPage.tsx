@@ -15,6 +15,7 @@ interface ClassSkin {
   feedPower?: string | number;
   sourceUrl?: string;
   notes?: string[];
+  needsReview?: boolean;
 }
 
 const rawSkins = Array.isArray(classSkinsData) ? classSkinsData : [];
@@ -172,37 +173,48 @@ export default function SkinPage() {
           </div>
         </section>
 
+        {skin.needsReview && (
+          <section className="rounded-3xl border border-orange-700/40 bg-orange-500/10 p-4 text-orange-100">
+            <p className="font-bold">This entry needs review.</p>
+            <p className="mt-2 text-sm text-orange-100/80">
+              The skin data may be incomplete or contain doubtful matches. Please verify against RealmEye.
+            </p>
+          </section>
+        )}
+
         <section className="grid gap-4 md:grid-cols-3">
           <InfoCard label="Class" value={skin.class} />
           <InfoCard label="Rarity" value={skin.rarity} />
           <InfoCard label="Feed Power" value={skin.feedPower} />
         </section>
 
-        {!isEmpty(skin.description) && (
-          <Section title="Description">
-            <p className="text-sm leading-7 text-stone-300">
-              {skin.description}
-            </p>
-          </Section>
-        )}
+        <Section title="Description">
+          {isEmpty(skin.description) ? (
+            <p className="text-sm leading-7 text-stone-500">Not available yet.</p>
+          ) : (
+            <p className="text-sm leading-7 text-stone-300">{skin.description}</p>
+          )}
+        </Section>
 
-        {!isEmpty(skin.howToAcquire) && (
-          <Section title="How to acquire">
-            <p className="text-sm leading-7 text-stone-300">
-              {skin.howToAcquire}
-            </p>
-          </Section>
-        )}
+        <Section title="How to acquire">
+          {isEmpty(skin.howToAcquire) ? (
+            <p className="text-sm leading-7 text-stone-500">Not available yet.</p>
+          ) : (
+            <p className="text-sm leading-7 text-stone-300">{skin.howToAcquire}</p>
+          )}
+        </Section>
 
-        {Array.isArray(skin.notes) && skin.notes.length > 0 && (
-          <Section title="Notes">
+        <Section title="Notes">
+          {Array.isArray(skin.notes) && skin.notes.length > 0 ? (
             <ul className="space-y-2 text-sm leading-7 text-stone-300">
               {skin.notes.map((note, index) => (
                 <li key={`${note}-${index}`}>• {note}</li>
               ))}
             </ul>
-          </Section>
-        )}
+          ) : (
+            <p className="text-sm leading-7 text-stone-500">Not available yet.</p>
+          )}
+        </Section>
 
         <section className="flex flex-col gap-3 rounded-3xl border border-stone-800 bg-stone-900/60 p-4 sm:flex-row sm:items-center sm:justify-between">
           <div className="text-sm text-stone-400">

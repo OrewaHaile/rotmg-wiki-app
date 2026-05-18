@@ -15,6 +15,7 @@ interface ClassSkin {
   feedPower?: string | number;
   sourceUrl?: string;
   notes?: string[];
+  needsReview?: boolean;
 }
 
 const rawSkins = Array.isArray(classSkinsData) ? classSkinsData : [];
@@ -30,20 +31,30 @@ const skins = rawSkins.filter(
 export default function Skins() {
   const [search, setSearch] = useState("");
   const [selectedClass, setSelectedClass] = useState("");
+  const [reviewOnly, setReviewOnly] = useState(false);
 
   const classes = useMemo(() => {
     return [...new Set(skins.map((skin) => skin.class).filter(Boolean))].sort();
   }, []);
 
+  const totalSkins = skins.length;
+  const needsReviewCount = useMemo(
+    () => skins.filter((skin) => skin.needsReview).length,
+    []
+  );
+  const completeCount = totalSkins - needsReviewCount;
+  const classCount = classes.length;
+
   const filtered = useMemo(() => {
     const term = search.trim().toLowerCase();
 
     return skins.filter((skin) => {
+      if (reviewOnly && !skin.needsReview) return false;
       if (selectedClass && skin.class !== selectedClass) return false;
-      if (term && !skin.name.toLowerCase().includes(term)) return false;
+      if (term && !skin.name.toLowerCase().includes(term) && !skin.class.toLowerCase().includes(term)) return false;
       return true;
     });
-  }, [search, selectedClass]);
+  }, [search, selectedClass, reviewOnly]);
 
   return (
     <main className="min-h-screen bg-stone-950 text-stone-100 px-4 py-8">
@@ -69,9 +80,28 @@ export default function Skins() {
                 Skins indexed
               </p>
               <p className="mt-2 text-3xl font-black text-amber-200">
-                {skins.length}
+                {totalSkins}
               </p>
             </div>
+          </div>
+        </section>
+
+        <section className="grid gap-4 sm:grid-cols-2 xl:grid-cols-4">
+          <div className="rounded-3xl border border-stone-800 bg-stone-900/70 p-5">
+            <p className="text-xs uppercase tracking-[0.25em] text-stone-500">Total skins</p>
+            <p className="mt-3 text-3xl font-black text-amber-200">{totalSkins}</p>
+          </div>
+          <div className="rounded-3xl border border-stone-800 bg-stone-900/70 p-5">
+            <p className="text-xs uppercase tracking-[0.25em] text-stone-500">Complete entries</p>
+            <p className="mt-3 text-3xl font-black text-amber-200">{completeCount}</p>
+          </div>
+          <div className="rounded-3xl border border-stone-800 bg-stone-900/70 p-5">
+            <p className="text-xs uppercase tracking-[0.25em] text-stone-500">Needs review</p>
+            <p className="mt-3 text-3xl font-black text-amber-200">{needsReviewCount}</p>
+          </div>
+          <div className="rounded-3xl border border-stone-800 bg-stone-900/70 p-5">
+            <p className="text-xs uppercase tracking-[0.25em] text-stone-500">Classes</p>
+            <p className="mt-3 text-3xl font-black text-amber-200">{classCount}</p>
           </div>
         </section>
 
@@ -87,18 +117,45 @@ export default function Skins() {
               />
             </div>
 
-            <select
-              value={selectedClass}
-              onChange={(event) => setSelectedClass(event.target.value)}
-              className="h-12 rounded-2xl border border-stone-800 bg-stone-950/80 px-4 text-sm font-semibold text-stone-100 outline-none transition focus:border-amber-500 focus:ring-2 focus:ring-amber-500/20"
-            >
-              <option value="">All classes</option>
-              {classes.map((className) => (
-                <option key={className} value={className}>
-                  {className}
-                </option>
-              ))}
-            </select>
+            <div className="flex flex-col gap-3">
+              <select
+                value={selectedClass}
+                onChange={(event) => setSelectedClass(event.target.value)}
+                className="h-12 rounded-2xl border border-stone-800 bg-stone-950/80 px-4 text-sm font-semibold text-stone-100 outline-none transition focus:border-amber-500 focus:ring-2 focus:ring-amber-500/20"
+              >
+                <option value="">All classes</option>
+                {classes.map((className) => (
+                  <option key={className} value={className}>
+                    {className}
+                  </option>
+                ))}
+              </select>
+
+              <div className="flex flex-wrap gap-2">
+                <button
+                  type="button"
+                  onClick={() => setReviewOnly(false)}
+                  className={`rounded-2xl border px-4 py-2 text-sm font-semibold transition ${
+                    !reviewOnly
+                      ? "border-amber-500/50 bg-amber-500/10 text-amber-100"
+                      : "border-stone-800 bg-stone-950/80 text-stone-300"
+                  }`}
+                >
+                  All
+                </button>
+                <button
+                  type="button"
+                  onClick={() => setReviewOnly(true)}
+                  className={`rounded-2xl border px-4 py-2 text-sm font-semibold transition ${
+                    reviewOnly
+                      ? "border-orange-500/50 bg-orange-500/10 text-orange-100"
+                      : "border-stone-800 bg-stone-950/80 text-stone-300"
+                  }`}
+                >
+                  Needs review only
+                </button>
+              </div>
+            </div>
           </div>
 
           <p className="mt-4 text-sm text-stone-400">
@@ -115,6 +172,14 @@ export default function Skins() {
             </h2>
             <p className="mt-2 text-sm text-stone-400">
               Run the class skin importer to populate this page.
+            </p>
+          </section>
+        ) : filtered.length === 0 ? (
+          <section className="rounded-3xl border border-stone-800 bg-stone-900/60 p-10 text-center">
+            <Shirt className="mx-auto h-10 w-10 text-amber-400" />
+            <h2 className="mt-4 text-xl font-black text-amber-100">No skins found</h2>
+            <p className="mt-2 text-sm text-stone-400">
+              Try a different search, class, or clear the review filter.
             </p>
           </section>
         ) : (
@@ -156,6 +221,12 @@ export default function Skins() {
                       </span>
                     )}
                   </div>
+
+                  {skin.needsReview && (
+                    <div className="mt-3 inline-flex items-center justify-center rounded-full border border-orange-700/50 bg-orange-500/10 px-2 py-1 text-[10px] font-bold uppercase tracking-[0.18em] text-orange-200">
+                      Needs review
+                    </div>
+                  )}
                 </article>
               </Link>
             ))}
