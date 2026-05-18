@@ -10,6 +10,7 @@ export default function Navigation() {
 
   const navItems = [
     { label: "Home", path: "/" },
+    { label: "Updates", path: "/updates" },
     { label: "Categories", path: "/categories" },
     { label: "Sets", path: "/sets" },
     { label: "Skins", path: "/skins" },
