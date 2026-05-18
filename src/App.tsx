@@ -12,6 +12,7 @@ import Sets from "./pages/Sets";
 import Skins from "./pages/Skins";
 import SkinPage from "./pages/SkinPage";
 import GameUpdates from "./pages/GameUpdates";
+import ProjectChecklist from "./pages/ProjectChecklist";
 
 function Router() {
   return (
@@ -26,6 +27,7 @@ function Router() {
         <Route path="/skins" component={Skins} />
         <Route path="/skin/:slug" component={SkinPage} />
         <Route path="/updates" component={GameUpdates} />
+        <Route path="/checklist" component={ProjectChecklist} />
         <Route path="/stats" component={ImportStats} />
         <Route path="/item/:slug/edit" component={ItemEditPage} />
         <Route path="/item/:slug" component={ItemPage} />

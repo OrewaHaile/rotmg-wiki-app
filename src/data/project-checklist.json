@@ -1,0 +1,207 @@
+[
+  {
+    "group": "Core",
+    "items": [
+      {
+        "title": "Vercel deploy",
+        "status": "done",
+        "notes": "Beta version is online."
+      },
+      {
+        "title": "Error Boundary / white screen protection",
+        "status": "done",
+        "notes": "The app is wrapped in an error boundary."
+      },
+      {
+        "title": "Mobile navigation fix",
+        "status": "done",
+        "notes": "Navigation is responsive and collapses on small screens."
+      },
+      {
+        "title": "Unified item data index",
+        "status": "done",
+        "notes": "All item data is loaded from a single index."
+      }
+    ]
+  },
+  {
+    "group": "Data Imports",
+    "items": [
+      {
+        "title": "Weapons",
+        "status": "done",
+        "notes": "Weapon pages are available via items."
+      },
+      {
+        "title": "Abilities",
+        "status": "done",
+        "notes": "Abilities are indexed and searchable."
+      },
+      {
+        "title": "Armors",
+        "status": "done",
+        "notes": "Armor items are imported."
+      },
+      {
+        "title": "Rings",
+        "status": "done",
+        "notes": "Ring data is available in the item database."
+      },
+      {
+        "title": "Pets",
+        "status": "done",
+        "notes": "Pet items are included in the data index."
+      },
+      {
+        "title": "ST Sets",
+        "status": "progress",
+        "notes": "ST set metadata is present, content still refining."
+      },
+      {
+        "title": "Class Skins",
+        "status": "progress",
+        "notes": "Skin imports are available, descriptions are partial."
+      },
+      {
+        "title": "Dungeons + Drops",
+        "status": "todo",
+        "notes": "Dungeon content has not been imported yet."
+      },
+      {
+        "title": "Bosses",
+        "status": "todo",
+        "notes": "Boss pages need dedicated import and layout."
+      },
+      {
+        "title": "Game Updates",
+        "status": "done",
+        "notes": "Static Game Updates page is implemented."
+      }
+    ]
+  },
+  {
+    "group": "UI / UX",
+    "items": [
+      {
+        "title": "Home beta layout",
+        "status": "done",
+        "notes": "Home page features item discovery and stats."
+      },
+      {
+        "title": "Item detail pages",
+        "status": "done",
+        "notes": "Individual item pages are available."
+      },
+      {
+        "title": "Previous / Next item navigation",
+        "status": "done",
+        "notes": "Item pages include navigation between entries."
+      },
+      {
+        "title": "Previous / Next skin navigation",
+        "status": "done",
+        "notes": "Skin pages support nearby skin navigation."
+      },
+      {
+        "title": "Sets page",
+        "status": "progress",
+        "notes": "ST Sets page is built but still improving."
+      },
+      {
+        "title": "Skins page",
+        "status": "progress",
+        "notes": "Class skins page exists and is searchable."
+      },
+      {
+        "title": "Mobile polish",
+        "status": "progress",
+        "notes": "Responsive layout is improved but may still need tweaks."
+      }
+    ]
+  },
+  {
+    "group": "Pages",
+    "items": [
+      {
+        "title": "Home",
+        "status": "done",
+        "notes": "The main landing page is live."
+      },
+      {
+        "title": "Categories",
+        "status": "done",
+        "notes": "Category browsing is available."
+      },
+      {
+        "title": "Database Stats",
+        "status": "done",
+        "notes": "Import stats page is implemented."
+      },
+      {
+        "title": "Items",
+        "status": "done",
+        "notes": "Item browsing works and is stable."
+      },
+      {
+        "title": "Sets",
+        "status": "progress",
+        "notes": "Sets page is active, more polish incoming."
+      },
+      {
+        "title": "Skins",
+        "status": "progress",
+        "notes": "Skins page is available with current data."
+      },
+      {
+        "title": "Game Updates",
+        "status": "done",
+        "notes": "Updates page is implemented and imported."
+      },
+      {
+        "title": "Dungeons",
+        "status": "todo",
+        "notes": "Dungeon pages are planned but not yet imported."
+      },
+      {
+        "title": "Checklist",
+        "status": "done",
+        "notes": "Temporary internal project checklist page."
+      }
+    ]
+  },
+  {
+    "group": "Next Steps",
+    "items": [
+      {
+        "title": "Review ST Sets accuracy",
+        "status": "review",
+        "notes": "Validate imported set contents and item links."
+      },
+      {
+        "title": "Improve skin descriptions/acquisition parsing",
+        "status": "review",
+        "notes": "Enhance skin detail imports from RealmEye."
+      },
+      {
+        "title": "Add Dungeons with drops",
+        "status": "todo",
+        "notes": "Import dungeon pages and drop tables."
+      },
+      {
+        "title": "Add Boss pages",
+        "status": "todo",
+        "notes": "Create boss detail pages with rewards."
+      },
+      {
+        "title": "Add search improvements",
+        "status": "todo",
+        "notes": "Better item and page search is needed."
+      },
+      {
+        "title": "Add public beta notice/polish",
+        "status": "progress",
+        "notes": "Add clear messaging for beta testers."
+      }
+    ]
+  }
+]
