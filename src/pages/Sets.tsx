@@ -22,15 +22,20 @@ interface STSet {
   items?: SetItem[];
   bonuses?: string[];
   notes?: string[];
+  needsReview?: boolean;
 }
 
-const rawSets = Array.isArray(stSetsData) ? stSetsData : [];
+const rawSets: unknown[] = Array.isArray(stSetsData) ? stSetsData : [];
 const allSets = rawSets.filter((set): set is STSet => typeof set === "object" && set !== null && "id" in set);
 const realSets = allSets.filter((set) => set.id !== "example-st-set");
 const hasRealSets = realSets.length > 0;
 
 export default function Sets() {
   const displaySets = hasRealSets ? realSets : [];
+  const totalSets = displaySets.length;
+  const needsReviewCount = displaySets.filter((set) => set.needsReview).length;
+  const completeSets = totalSets - needsReviewCount;
+  const outfitSets = displaySets.filter((set) => Boolean(set.outfitSprite)).length;
 
   return (
     <main className="min-h-screen bg-stone-950 text-stone-100 px-4 py-8">
@@ -61,6 +66,27 @@ export default function Sets() {
             </div>
           </div>
         </section>
+
+        {hasRealSets && (
+          <section className="grid gap-4 md:grid-cols-4">
+            <div className="rounded-3xl border border-stone-800 bg-stone-900/70 p-5">
+              <p className="text-xs uppercase tracking-[0.25em] text-stone-500">Total sets</p>
+              <p className="mt-3 text-3xl font-black text-amber-200">{totalSets}</p>
+            </div>
+            <div className="rounded-3xl border border-stone-800 bg-stone-900/70 p-5">
+              <p className="text-xs uppercase tracking-[0.25em] text-stone-500">Complete sets</p>
+              <p className="mt-3 text-3xl font-black text-amber-200">{completeSets}</p>
+            </div>
+            <div className="rounded-3xl border border-stone-800 bg-stone-900/70 p-5">
+              <p className="text-xs uppercase tracking-[0.25em] text-stone-500">Needs review</p>
+              <p className="mt-3 text-3xl font-black text-amber-200">{needsReviewCount}</p>
+            </div>
+            <div className="rounded-3xl border border-stone-800 bg-stone-900/70 p-5">
+              <p className="text-xs uppercase tracking-[0.25em] text-stone-500">Outfit sprites</p>
+              <p className="mt-3 text-3xl font-black text-amber-200">{outfitSets}</p>
+            </div>
+          </section>
+        )}
 
         {!hasRealSets && (
           <section className="rounded-2xl border border-amber-900/40 bg-amber-500/10 p-5">
@@ -115,11 +141,11 @@ export default function Sets() {
                     <h2 className="mt-2 truncate text-xl font-black text-amber-100">
                       {set.name}
                     </h2>
-                    {Array.isArray(set.items) && set.items.length !== 4 && (
-                      <span className="rounded-full border border-orange-700/50 bg-orange-500/10 px-2 py-0.5 text-[10px] font-bold uppercase tracking-[0.2em] text-orange-200">
-                        Needs review
-                      </span>
-                    )}
+                    {(set.needsReview || (Array.isArray(set.items) && set.items.length !== 4)) && (
+                    <span className="rounded-full border border-orange-700/50 bg-orange-500/10 px-2 py-0.5 text-[10px] font-bold uppercase tracking-[0.2em] text-orange-200">
+                      Needs review
+                    </span>
+                  )}
                   </div>
 
                   {set.description && (
@@ -127,6 +153,11 @@ export default function Sets() {
                       {set.description}
                     </p>
                   )}
+                  <p className="mt-2 text-xs uppercase tracking-[0.25em] text-stone-500">
+                    {set.needsReview || (Array.isArray(set.items) && set.items.length !== 4)
+                      ? `Needs review: ${Array.isArray(set.items) ? set.items.length : 0} items`
+                      : "4 items"}
+                  </p>
                 </div>
               </div>
 
@@ -135,53 +166,68 @@ export default function Sets() {
                   Set items
                 </p>
 
-            {Array.isArray(set.items) && set.items.length > 0 ? (
-              <div className="grid grid-cols-4 gap-2">
-                {set.items.slice(0, 4).map((item, index) => {
-                  const itemCard = (
-                    <div
-                      className="flex h-16 items-center justify-center rounded-xl border border-stone-800 bg-stone-950 transition hover:border-amber-500 hover:bg-stone-900"
-                      title={item.name}
-                    >
-                      {item?.sprite ? (
-                        <img
-                          src={item.sprite}
-                          alt={item.name}
-                          className="h-11 w-11 object-contain"
-                          style={{ imageRendering: "pixelated" }}
-                        />
-                      ) : (
-                        <span className="text-xs text-stone-500">?</span>
-                      )}
-                    </div>
-                  );
+                {Array.isArray(set.items) && set.items.length > 0 ? (
+                  <>
+                    <div className="grid grid-cols-4 gap-2">
+                      {set.items.slice(0, 4).map((item, index) => {
+                        const itemCard = (
+                          <div
+                            className="flex h-16 items-center justify-center rounded-xl border border-stone-800 bg-stone-950 transition hover:border-amber-500 hover:bg-stone-900"
+                            title={item.name}
+                          >
+                            {item?.sprite ? (
+                              <img
+                                src={item.sprite}
+                                alt={item.name}
+                                className="h-11 w-11 object-contain"
+                                style={{ imageRendering: "pixelated" }}
+                              />
+                            ) : (
+                              <span className="text-xs text-stone-500">?</span>
+                            )}
+                          </div>
+                        );
 
-                  return item.slug ? (
-                    <Link key={item.slug} href={`/item/${item.slug}`}>
-                      {itemCard}
-                    </Link>
-                  ) : (
-                    <div key={item.name || index}>{itemCard}</div>
-                  );
-                })}
-              </div>
-            ) : (
-              <p className="rounded-xl border border-stone-800 bg-stone-950/80 px-3 py-3 text-sm text-stone-500">
-                Items will appear here after the ST set import.
-              </p>
-            )}
+                        return item.slug ? (
+                          <Link key={item.slug} href={`/item/${item.slug}`}>
+                            {itemCard}
+                          </Link>
+                        ) : (
+                          <div key={item.name || index}>{itemCard}</div>
+                        );
+                      })}
+                    </div>
+                    {set.items.length > 4 && (
+                      <p className="mt-2 text-xs text-stone-500">Showing first 4 of {set.items.length} items</p>
+                    )}
+                  </>
+                ) : (
+                  <p className="rounded-xl border border-stone-800 bg-stone-950/80 px-3 py-3 text-sm text-stone-500">
+                    Items will appear here after the ST set import.
+                  </p>
+                )}
               </div>
 
               {set.bonuses && set.bonuses.length > 0 && (
                 <div className="mt-5">
-                  <p className="mb-2 text-xs font-bold uppercase tracking-[0.25em] text-stone-500">
-                    Bonuses
-                  </p>
+                  <div className="mb-2 flex items-center justify-between gap-2">
+                    <p className="text-xs font-bold uppercase tracking-[0.25em] text-stone-500">
+                      Bonuses
+                    </p>
+                    {set.bonuses.length > 4 && (
+                      <span className="text-xs text-stone-500">Showing first 4 bonus lines</span>
+                    )}
+                  </div>
                   <ul className="space-y-1 text-sm text-stone-300">
-                    {set.bonuses.map((bonus) => (
+                    {set.bonuses.slice(0, 4).map((bonus) => (
                       <li key={bonus}>• {bonus}</li>
                     ))}
                   </ul>
+                  {set.bonuses.length > 4 && set.sourceUrl && (
+                    <p className="mt-3 text-xs text-amber-300">
+                      View on RealmEye for the full bonus details.
+                    </p>
+                  )}
                 </div>
               )}
 

@@ -1,0 +1,442 @@
+[
+  {
+    "setName": "Acidified Assassin Set",
+    "class": "Assassin",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Archexorcist Priest Set",
+    "class": "Priest",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Crystal Kunoichi Set",
+    "class": "Ninja",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Cuboid Necromancer Set",
+    "class": "Necromancer",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Cursed Cursebreaker Huntress Set",
+    "class": "Huntress",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Demon Guitarist Set",
+    "class": "Bard",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Earthen Bulwark Summoner Set",
+    "class": "Summoner",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Easter Knight Set",
+    "class": "Knight",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Fiery Kensei Set",
+    "class": "Kensei",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Flesh Collector Set",
+    "class": "Assassin",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Frost Harbinger Set",
+    "class": "Paladin",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Ghostly Banshee Summoner Set",
+    "class": "Summoner",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Golden Archer Set",
+    "class": "Archer",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Hollow King Necromancer Set",
+    "class": "Necromancer",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Horticultural Huntress Set",
+    "class": "Huntress",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Incubus Sorcerer Set",
+    "class": "Sorcerer",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Killbilly Warrior Set",
+    "class": "Warrior",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Kogbold Pyrotechnician Wizard Set",
+    "class": "Wizard",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Legacy Skuld 2 The ReGhostening Set",
+    "class": "Rogue",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Legacy Swoll Paladin Set",
+    "class": "Paladin",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Legacy Twilight Archmage Set",
+    "class": "Wizard",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Lei Gong Set",
+    "class": "Ninja",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Lost Golem Set",
+    "class": "Trickster",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Lycan Warrior Set",
+    "class": "Warrior",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Mad God's Messenger Set",
+    "class": "Priest",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Magmatic Mystic Set",
+    "class": "Mystic",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Onmyoji Ninja Set",
+    "class": "Ninja",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Oryx Awesome Set",
+    "class": "Knight",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Paranormal Wizard Set",
+    "class": "Wizard",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Phylactery Mystic Set",
+    "class": "Mystic",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Raijin Disciple Set",
+    "class": "Ninja",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Reanimated Archer Set",
+    "class": "Archer",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Resurrected Huntress Set",
+    "class": "Huntress",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Scarecrow Trickster Set",
+    "class": "Trickster",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Scientific Summoner Set",
+    "class": "Summoner",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Shaman Necromancer Set",
+    "class": "Necromancer",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Skuld 2 The ReGhostening Set",
+    "class": "Rogue",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Slurp Scion Wizard Set",
+    "class": "Wizard",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Storm Caller Bard Set",
+    "class": "Bard",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Storm Shaman Set",
+    "class": "Sorcerer",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Swarming Huntress Set",
+    "class": "Huntress",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Swoll Paladin Set",
+    "class": "Paladin",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Treasure Hunter Archer Set",
+    "class": "Archer",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  },
+  {
+    "setName": "Twilight Archmage Set",
+    "class": "Wizard",
+    "itemCount": 4,
+    "missingItemSlugs": [],
+    "missingSprites": [],
+    "hasOutfitSprite": true,
+    "needsReview": false,
+    "issues": []
+  }
+]
