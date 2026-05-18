@@ -7,8 +7,8 @@
   "difficulty": "",
   "realmPortal": false,
   "location": [],
-  "drops": [],
   "bosses": [
+    "Cursed Library Enemies",
     "Oryx's Castle Enemies",
     "Oryx's Chamber Enemies",
     "Oryx's Kitchen Enemies",
@@ -16,7 +16,15 @@
     "Queen Bunny Chamber Enemies",
     "Dungeon Bosses"
   ],
+  "drops": [
+    "Cave of a Thousand Treasures Enemies"
+  ],
   "description": "These enemies normally only spawn in their respective dungeons.",
   "notes": [],
-  "sourceUrl": "https://www.realmeye.com/wiki/dungeon-enemies"
+  "sourceUrl": "https://www.realmeye.com/wiki/dungeon-enemies",
+  "needsReview": true,
+  "issues": [
+    "missing location",
+    "missing difficulty"
+  ]
 }

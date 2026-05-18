@@ -7,10 +7,10 @@
   "difficulty": "",
   "realmPortal": false,
   "location": [],
-  "drops": [],
   "bosses": [
     "Oryx",
     "Prismimic",
+    "Cursed Library",
     "The Inner Workings",
     "Court of Oryx",
     "Oryx's Castle",
@@ -19,7 +19,15 @@
     "Queen Bunny Chamber",
     "Oryx's Kitchen"
   ],
+  "drops": [
+    "Cave of a Thousand Treasures"
+  ],
   "description": "The Spectral Penitentiary is an endgame dungeon and one of the Exaltation dungeons, offering an Attack boost. It shares thematic and mechanical similarities with the Haunted Cemetery, appearing to be a penitentiary for souls that have defied Skuld, although it is not as similar to that dungeon as prior “hard version” dungeons such as Deadwater Docks are to their counterparts.",
   "notes": [],
-  "sourceUrl": "https://www.realmeye.com/wiki/spectral-penitentiary"
+  "sourceUrl": "https://www.realmeye.com/wiki/spectral-penitentiary",
+  "needsReview": true,
+  "issues": [
+    "missing location",
+    "missing difficulty"
+  ]
 }

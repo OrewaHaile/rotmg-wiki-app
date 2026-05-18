@@ -7,9 +7,6 @@
   "difficulty": "",
   "realmPortal": false,
   "location": [],
-  "drops": [
-    "Nildrop"
-  ],
   "bosses": [
     "Agents of Oryx Shards",
     "Court of Oryx",
@@ -17,6 +14,7 @@
     "Pirate Queen Ramm",
     "Oryxmania Rumble",
     "Oryx’s Court",
+    "Cursed Library",
     "The Inner Workings",
     "Oryx's Castle",
     "Oryx's Chamber",
@@ -24,7 +22,16 @@
     "Queen Bunny Chamber",
     "Oryx's Kitchen"
   ],
+  "drops": [
+    "Nildrop",
+    "Cave of a Thousand Treasures"
+  ],
   "description": "Dungeon Modifiers are a system introduced in Exalt Version 2.0.1.0 (Aug 2021) during Month of the Mad God 2021 designed to increase the replay value of dungeons by giving them a chance to have modified rulesets upon spawning.",
   "notes": [],
-  "sourceUrl": "https://www.realmeye.com/wiki/dungeon-modifiers"
+  "sourceUrl": "https://www.realmeye.com/wiki/dungeon-modifiers",
+  "needsReview": true,
+  "issues": [
+    "missing location",
+    "missing difficulty"
+  ]
 }

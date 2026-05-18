@@ -1,15 +1,13 @@
 {
-  "id": "court-of-oryx",
-  "name": "Court of Oryx",
-  "slug": "court-of-oryx",
+  "id": "white-snake-invasion-iii",
+  "name": "White Snake Invasion III",
+  "slug": "white-snake-invasion-iii",
   "category": "dungeons",
-  "sprite": "/dungeons/court-of-oryx.png",
+  "sprite": "/dungeons/white-snake-invasion-iii.png",
   "difficulty": "",
   "realmPortal": false,
   "location": [],
   "bosses": [
-    "Oryx’s Castle",
-    "Oryx’s Chamber",
     "Cursed Library",
     "The Inner Workings",
     "Court of Oryx",
@@ -22,9 +20,9 @@
   "drops": [
     "Cave of a Thousand Treasures"
   ],
-  "description": "The Court of Oryx is a room accessible via a portal after killing Janus the Doorwarden in Oryx’s Castle. From this area, several mini-dungeons will be opened by Craig, Intern of the Mad God.",
+  "description": "The White Snake Invasion III is an event dungeon consisting of a single boss fight against The White Snake. It was first introduced during Lunar New Year 2025.",
   "notes": [],
-  "sourceUrl": "https://www.realmeye.com/wiki/court-of-oryx",
+  "sourceUrl": "https://www.realmeye.com/wiki/white-snake-invasion-iii",
   "needsReview": true,
   "issues": [
     "missing location",

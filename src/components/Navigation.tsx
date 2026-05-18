@@ -15,7 +15,7 @@ export default function Navigation() {
     { label: "Categories", path: "/categories" },
     { label: "Sets", path: "/sets" },
     { label: "Skins", path: "/skins" },
-    { label: "Dungeons", path: "/dungeons", badge: "Soon" },
+    { label: "Dungeons", path: "/dungeons" },
     { label: "Stats", path: "/stats" },
   ];
 

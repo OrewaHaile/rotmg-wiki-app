@@ -7,7 +7,6 @@
   "difficulty": "",
   "realmPortal": false,
   "location": [],
-  "drops": [],
   "bosses": [
     "Oryx the Mad God",
     "Oryx’s Chamber",
@@ -22,6 +21,7 @@
     "Monstrosity of Oryx",
     "Vintner of Oryx",
     "Oryx the Mad God 2",
+    "Cursed Library",
     "The Inner Workings",
     "Court of Oryx",
     "Oryx's Castle",
@@ -30,7 +30,15 @@
     "Queen Bunny Chamber",
     "Oryx's Kitchen"
   ],
+  "drops": [
+    "Cave of a Thousand Treasures"
+  ],
   "description": "The Wine Cellar is a high-level dungeon that can be accessed after defeating Oryx the Mad God in Oryx’s Chamber. Upon Oryx’s defeat, he will drop a Locked Wine Cellar Portal, which can be unlocked with a Wine Cellar Incantation (or “inc”), an item that drops from most dungeon bosses. The portal will unlock if someone uses an Incantation close to it.",
   "notes": [],
-  "sourceUrl": "https://www.realmeye.com/wiki/wine-cellar"
+  "sourceUrl": "https://www.realmeye.com/wiki/wine-cellar",
+  "needsReview": true,
+  "issues": [
+    "missing location",
+    "missing difficulty"
+  ]
 }

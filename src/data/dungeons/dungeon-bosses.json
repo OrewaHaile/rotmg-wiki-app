@@ -6,11 +6,11 @@
   "sprite": "/dungeons/dungeon-bosses.png",
   "difficulty": "",
   "realmPortal": false,
-  "location": [],
-  "drops": [
-    "untiered equipment"
+  "location": [
+    "Boss(es) Dungeon Pirate Cave Forest Maze Spider Den Forbidden Jungle The Hive Snake Pit Sprite World Cave of a Thousand Treasures Ancient Ruins Magic Woods Candyland Hunting Grounds Undead Lair Puppet Master’s Theatre Toxic Sewers Cursed Library Mad Lab Abyss of Demons Manor of the Immortals Haunted Cemetery The Machine Davy Jones’ Locker Ice Cave Ocean Trench The Crawling Depths Woodland Labyrinth Deadwater Docks Puppet Master’s Encore Cnidarian Reef Sulfurous Wetlands Parasite Chambers Mountain Temple Lair of Draconis Tomb of the Ancients The Third Dimension Lair of Shaitan Secluded Thicket High Tech Terror Moonlight Village Boss(es) Dungeon Beachzone The Tavern Cultist Hideout The Nest Fungal Cavern Crystal Cavern Spectral Penitentiary Kogbold Steamworks Lost Halls The Void The Shatters"
   ],
   "bosses": [
+    "Cursed Library",
     "Oryx’s Castle",
     "Oryx’s Chamber",
     "Oryx’s Sanctuary",
@@ -18,7 +18,15 @@
     "Oryx’s Kitchen",
     "Dungeon Bosses"
   ],
+  "drops": [
+    "untiered equipment",
+    "Cave of a Thousand Treasures"
+  ],
   "description": "Dungeon Bosses are the main enemies of dungeons. The majority of dungeon bosses drop stat increase pots, various consumable items, tiered equipment, and unique untiered equipment.",
   "notes": [],
-  "sourceUrl": "https://www.realmeye.com/wiki/dungeon-bosses"
+  "sourceUrl": "https://www.realmeye.com/wiki/dungeon-bosses",
+  "needsReview": true,
+  "issues": [
+    "missing difficulty"
+  ]
 }

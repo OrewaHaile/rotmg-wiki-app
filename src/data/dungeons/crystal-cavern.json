@@ -7,8 +7,8 @@
   "difficulty": "",
   "realmPortal": false,
   "location": [],
-  "drops": [],
   "bosses": [
+    "Cursed Library",
     "The Inner Workings",
     "Court of Oryx",
     "Oryx's Castle",
@@ -17,7 +17,15 @@
     "Queen Bunny Chamber",
     "Oryx's Kitchen"
   ],
+  "drops": [
+    "Cave of a Thousand Treasures"
+  ],
   "description": "The Crystal Cavern is an extremely dangerous dungeon that is the second part of the Abandoned Mineshaft, with the Fungal Cavern being the first. This dungeon is one of the Exaltation dungeons, boosting Wisdom.",
   "notes": [],
-  "sourceUrl": "https://www.realmeye.com/wiki/crystal-cavern"
+  "sourceUrl": "https://www.realmeye.com/wiki/crystal-cavern",
+  "needsReview": true,
+  "issues": [
+    "missing location",
+    "missing difficulty"
+  ]
 }

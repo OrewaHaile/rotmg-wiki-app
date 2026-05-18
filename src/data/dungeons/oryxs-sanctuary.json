@@ -7,9 +7,6 @@
   "difficulty": "",
   "realmPortal": false,
   "location": [],
-  "drops": [
-    "UT items"
-  ],
   "bosses": [
     "Oryx the Mad God 2",
     "Oryx Runes",
@@ -32,6 +29,7 @@
     "Oryx Elite Falconer",
     "Oryx Elite Assassin",
     "Messengers of Oryx",
+    "Cursed Library",
     "The Inner Workings",
     "Court of Oryx",
     "Oryx's Castle",
@@ -40,7 +38,17 @@
     "Queen Bunny Chamber",
     "Oryx's Kitchen"
   ],
+  "drops": [
+    "UT items",
+    "Treasurer Gemsbok",
+    "Cave of a Thousand Treasures"
+  ],
   "description": "Oryx’s Sanctuary is an endgame dungeon designed to be the most challenging content in the game, surpassing even endgame dungeons such as the Lost Halls and The Shatters. This dungeon is one of the Exaltation dungeons, boosting Life, and notably has a 50% chance to grant an additional Exaltation.",
   "notes": [],
-  "sourceUrl": "https://www.realmeye.com/wiki/oryx-s-sanctuary"
+  "sourceUrl": "https://www.realmeye.com/wiki/oryx-s-sanctuary",
+  "needsReview": true,
+  "issues": [
+    "missing location",
+    "missing difficulty"
+  ]
 }

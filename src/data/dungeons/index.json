@@ -1,0 +1,375 @@
+[
+  {
+    "id": "court-of-oryx",
+    "name": "Court of Oryx",
+    "slug": "court-of-oryx",
+    "category": "dungeons",
+    "sprite": "/dungeons/court-of-oryx.png",
+    "difficulty": "",
+    "realmPortal": false,
+    "location": [],
+    "bosses": [
+      "Oryx’s Castle",
+      "Oryx’s Chamber",
+      "Cursed Library",
+      "The Inner Workings",
+      "Court of Oryx",
+      "Oryx's Castle",
+      "Oryx's Chamber",
+      "Oryx's Sanctuary",
+      "Queen Bunny Chamber",
+      "Oryx's Kitchen"
+    ],
+    "drops": [
+      "Cave of a Thousand Treasures"
+    ],
+    "description": "The Court of Oryx is a room accessible via a portal after killing Janus the Doorwarden in Oryx’s Castle. From this area, several mini-dungeons will be opened by Craig, Intern of the Mad God.",
+    "notes": [],
+    "sourceUrl": "https://www.realmeye.com/wiki/court-of-oryx",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "id": "crystal-cavern",
+    "name": "Crystal Cavern",
+    "slug": "crystal-cavern",
+    "category": "dungeons",
+    "sprite": "/dungeons/crystal-cavern.png",
+    "difficulty": "",
+    "realmPortal": false,
+    "location": [],
+    "bosses": [
+      "Cursed Library",
+      "The Inner Workings",
+      "Court of Oryx",
+      "Oryx's Castle",
+      "Oryx's Chamber",
+      "Oryx's Sanctuary",
+      "Queen Bunny Chamber",
+      "Oryx's Kitchen"
+    ],
+    "drops": [
+      "Cave of a Thousand Treasures"
+    ],
+    "description": "The Crystal Cavern is an extremely dangerous dungeon that is the second part of the Abandoned Mineshaft, with the Fungal Cavern being the first. This dungeon is one of the Exaltation dungeons, boosting Wisdom.",
+    "notes": [],
+    "sourceUrl": "https://www.realmeye.com/wiki/crystal-cavern",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "id": "dungeon-bosses",
+    "name": "Dungeon Bosses",
+    "slug": "dungeon-bosses",
+    "category": "dungeons",
+    "sprite": "/dungeons/dungeon-bosses.png",
+    "difficulty": "",
+    "realmPortal": false,
+    "location": [
+      "Boss(es) Dungeon Pirate Cave Forest Maze Spider Den Forbidden Jungle The Hive Snake Pit Sprite World Cave of a Thousand Treasures Ancient Ruins Magic Woods Candyland Hunting Grounds Undead Lair Puppet Master’s Theatre Toxic Sewers Cursed Library Mad Lab Abyss of Demons Manor of the Immortals Haunted Cemetery The Machine Davy Jones’ Locker Ice Cave Ocean Trench The Crawling Depths Woodland Labyrinth Deadwater Docks Puppet Master’s Encore Cnidarian Reef Sulfurous Wetlands Parasite Chambers Mountain Temple Lair of Draconis Tomb of the Ancients The Third Dimension Lair of Shaitan Secluded Thicket High Tech Terror Moonlight Village Boss(es) Dungeon Beachzone The Tavern Cultist Hideout The Nest Fungal Cavern Crystal Cavern Spectral Penitentiary Kogbold Steamworks Lost Halls The Void The Shatters"
+    ],
+    "bosses": [
+      "Cursed Library",
+      "Oryx’s Castle",
+      "Oryx’s Chamber",
+      "Oryx’s Sanctuary",
+      "Queen Bunny Chamber",
+      "Oryx’s Kitchen",
+      "Dungeon Bosses"
+    ],
+    "drops": [
+      "untiered equipment",
+      "Cave of a Thousand Treasures"
+    ],
+    "description": "Dungeon Bosses are the main enemies of dungeons. The majority of dungeon bosses drop stat increase pots, various consumable items, tiered equipment, and unique untiered equipment.",
+    "notes": [],
+    "sourceUrl": "https://www.realmeye.com/wiki/dungeon-bosses",
+    "needsReview": true,
+    "issues": [
+      "missing difficulty"
+    ]
+  },
+  {
+    "id": "dungeon-enemies",
+    "name": "Dungeon Enemies",
+    "slug": "dungeon-enemies",
+    "category": "dungeons",
+    "sprite": "/dungeons/dungeon-enemies.png",
+    "difficulty": "",
+    "realmPortal": false,
+    "location": [],
+    "bosses": [
+      "Cursed Library Enemies",
+      "Oryx's Castle Enemies",
+      "Oryx's Chamber Enemies",
+      "Oryx's Kitchen Enemies",
+      "Oryx's Sanctuary Enemies",
+      "Queen Bunny Chamber Enemies",
+      "Dungeon Bosses"
+    ],
+    "drops": [
+      "Cave of a Thousand Treasures Enemies"
+    ],
+    "description": "These enemies normally only spawn in their respective dungeons.",
+    "notes": [],
+    "sourceUrl": "https://www.realmeye.com/wiki/dungeon-enemies",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "id": "dungeon-modifiers",
+    "name": "Dungeon Modifiers",
+    "slug": "dungeon-modifiers",
+    "category": "dungeons",
+    "sprite": "/dungeons/dungeon-modifiers.png",
+    "difficulty": "",
+    "realmPortal": false,
+    "location": [],
+    "bosses": [
+      "Agents of Oryx Shards",
+      "Court of Oryx",
+      "Prismimic",
+      "Pirate Queen Ramm",
+      "Oryxmania Rumble",
+      "Oryx’s Court",
+      "Cursed Library",
+      "The Inner Workings",
+      "Oryx's Castle",
+      "Oryx's Chamber",
+      "Oryx's Sanctuary",
+      "Queen Bunny Chamber",
+      "Oryx's Kitchen"
+    ],
+    "drops": [
+      "Nildrop",
+      "Cave of a Thousand Treasures"
+    ],
+    "description": "Dungeon Modifiers are a system introduced in Exalt Version 2.0.1.0 (Aug 2021) during Month of the Mad God 2021 designed to increase the replay value of dungeons by giving them a chance to have modified rulesets upon spawning.",
+    "notes": [],
+    "sourceUrl": "https://www.realmeye.com/wiki/dungeon-modifiers",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "id": "oryxs-sanctuary",
+    "name": "Oryx's Sanctuary",
+    "slug": "oryxs-sanctuary",
+    "category": "dungeons",
+    "sprite": "/dungeons/oryxs-sanctuary.png",
+    "difficulty": "",
+    "realmPortal": false,
+    "location": [],
+    "bosses": [
+      "Oryx the Mad God 2",
+      "Oryx Runes",
+      "Oryx’s Sanctuary Guide",
+      "Oryx the Mad God 3",
+      "Archbishop Leucoryx",
+      "Oryx Ambassador",
+      "Oryx Minister",
+      "Oryx Judge",
+      "Oryx Noble",
+      "Oryx Aristocrat",
+      "Oryx Patrician",
+      "Oryx Deacon",
+      "Oryx Cleric",
+      "Oryx Cardinal",
+      "Oryx Officer",
+      "Oryx Sergeant",
+      "Oryx Major",
+      "Oryx Elite Brute",
+      "Oryx Elite Falconer",
+      "Oryx Elite Assassin",
+      "Messengers of Oryx",
+      "Cursed Library",
+      "The Inner Workings",
+      "Court of Oryx",
+      "Oryx's Castle",
+      "Oryx's Chamber",
+      "Oryx's Sanctuary",
+      "Queen Bunny Chamber",
+      "Oryx's Kitchen"
+    ],
+    "drops": [
+      "UT items",
+      "Treasurer Gemsbok",
+      "Cave of a Thousand Treasures"
+    ],
+    "description": "Oryx’s Sanctuary is an endgame dungeon designed to be the most challenging content in the game, surpassing even endgame dungeons such as the Lost Halls and The Shatters. This dungeon is one of the Exaltation dungeons, boosting Life, and notably has a 50% chance to grant an additional Exaltation.",
+    "notes": [],
+    "sourceUrl": "https://www.realmeye.com/wiki/oryx-s-sanctuary",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "id": "realm-of-the-mad-god",
+    "name": "Realm of the Mad God",
+    "slug": "realm-of-the-mad-god",
+    "category": "dungeons",
+    "sprite": "/dungeons/realm-of-the-mad-god.png",
+    "difficulty": "",
+    "realmPortal": false,
+    "location": [],
+    "drops": [],
+    "bosses": [
+      "Oryx the Mad God"
+    ],
+    "description": "Realm of the Mad God (RotMG) is a free-to-play, massively multiplayer, “bullet hell,” roguelike RPG that drops players into the thick of the fight in a world overwhelmed by Oryx the Mad God and his minions. The game features online cooperative gameplay in a huge world, more than 60 unique dungeons, thousands of enemies, real-time action combat, 19 playable classes, leveling, and thousands of items to collect. To play the game, simply download the launcher and install the game, create a free account, and go!",
+    "notes": [],
+    "sourceUrl": "https://www.realmeye.com/wiki/realm-of-the-mad-god"
+  },
+  {
+    "id": "spectral-penitentiary",
+    "name": "Spectral Penitentiary",
+    "slug": "spectral-penitentiary",
+    "category": "dungeons",
+    "sprite": "/dungeons/spectral-penitentiary.png",
+    "difficulty": "",
+    "realmPortal": false,
+    "location": [],
+    "bosses": [
+      "Oryx",
+      "Prismimic",
+      "Cursed Library",
+      "The Inner Workings",
+      "Court of Oryx",
+      "Oryx's Castle",
+      "Oryx's Chamber",
+      "Oryx's Sanctuary",
+      "Queen Bunny Chamber",
+      "Oryx's Kitchen"
+    ],
+    "drops": [
+      "Cave of a Thousand Treasures"
+    ],
+    "description": "The Spectral Penitentiary is an endgame dungeon and one of the Exaltation dungeons, offering an Attack boost. It shares thematic and mechanical similarities with the Haunted Cemetery, appearing to be a penitentiary for souls that have defied Skuld, although it is not as similar to that dungeon as prior “hard version” dungeons such as Deadwater Docks are to their counterparts.",
+    "notes": [],
+    "sourceUrl": "https://www.realmeye.com/wiki/spectral-penitentiary",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "id": "the-tavern",
+    "name": "The Tavern",
+    "slug": "the-tavern",
+    "category": "dungeons",
+    "sprite": "/dungeons/the-tavern.png",
+    "difficulty": "",
+    "realmPortal": false,
+    "location": [],
+    "bosses": [
+      "Cursed Library",
+      "The Inner Workings",
+      "Court of Oryx",
+      "Oryx's Castle",
+      "Oryx's Chamber",
+      "Oryx's Sanctuary",
+      "Queen Bunny Chamber",
+      "Oryx's Kitchen"
+    ],
+    "drops": [
+      "Cave of a Thousand Treasures"
+    ],
+    "description": "The Tavern is a high-level dungeon that is a source of Potions of Vitality, Greater Potions of Vitality and Potions of Mana. It is also the source of the untiered The Right Hook, Tipsy Topper, Double Vision Darts, Cask Corslet and Brewer’s Bangle.",
+    "notes": [],
+    "sourceUrl": "https://www.realmeye.com/wiki/the-tavern",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "id": "white-snake-invasion-iii",
+    "name": "White Snake Invasion III",
+    "slug": "white-snake-invasion-iii",
+    "category": "dungeons",
+    "sprite": "/dungeons/white-snake-invasion-iii.png",
+    "difficulty": "",
+    "realmPortal": false,
+    "location": [],
+    "bosses": [
+      "Cursed Library",
+      "The Inner Workings",
+      "Court of Oryx",
+      "Oryx's Castle",
+      "Oryx's Chamber",
+      "Oryx's Sanctuary",
+      "Queen Bunny Chamber",
+      "Oryx's Kitchen"
+    ],
+    "drops": [
+      "Cave of a Thousand Treasures"
+    ],
+    "description": "The White Snake Invasion III is an event dungeon consisting of a single boss fight against The White Snake. It was first introduced during Lunar New Year 2025.",
+    "notes": [],
+    "sourceUrl": "https://www.realmeye.com/wiki/white-snake-invasion-iii",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "id": "wine-cellar",
+    "name": "Wine Cellar",
+    "slug": "wine-cellar",
+    "category": "dungeons",
+    "sprite": "/dungeons/wine-cellar.png",
+    "difficulty": "",
+    "realmPortal": false,
+    "location": [],
+    "bosses": [
+      "Oryx the Mad God",
+      "Oryx’s Chamber",
+      "Oryx’s Battle Attires Knight ST Set",
+      "Oryx’s Castle",
+      "Oryx Runes",
+      "Oryx’s Sanctuary",
+      "Aberrant of Oryx",
+      "Abomination of Oryx",
+      "Bile of Oryx",
+      "Henchman of Oryx",
+      "Monstrosity of Oryx",
+      "Vintner of Oryx",
+      "Oryx the Mad God 2",
+      "Cursed Library",
+      "The Inner Workings",
+      "Court of Oryx",
+      "Oryx's Castle",
+      "Oryx's Chamber",
+      "Oryx's Sanctuary",
+      "Queen Bunny Chamber",
+      "Oryx's Kitchen"
+    ],
+    "drops": [
+      "Cave of a Thousand Treasures"
+    ],
+    "description": "The Wine Cellar is a high-level dungeon that can be accessed after defeating Oryx the Mad God in Oryx’s Chamber. Upon Oryx’s defeat, he will drop a Locked Wine Cellar Portal, which can be unlocked with a Wine Cellar Incantation (or “inc”), an item that drops from most dungeon bosses. The portal will unlock if someone uses an Incantation close to it.",
+    "notes": [],
+    "sourceUrl": "https://www.realmeye.com/wiki/wine-cellar",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  }
+]

@@ -1,0 +1,173 @@
+[
+  {
+    "name": "Court of Oryx",
+    "slug": "court-of-oryx",
+    "hasSprite": true,
+    "hasDescription": true,
+    "hasLocations": false,
+    "hasDifficulty": false,
+    "hasBosses": true,
+    "hasDrops": true,
+    "sourceUrl": "https://www.realmeye.com/wiki/court-of-oryx",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "name": "Crystal Cavern",
+    "slug": "crystal-cavern",
+    "hasSprite": true,
+    "hasDescription": true,
+    "hasLocations": false,
+    "hasDifficulty": false,
+    "hasBosses": true,
+    "hasDrops": true,
+    "sourceUrl": "https://www.realmeye.com/wiki/crystal-cavern",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "name": "Dungeon Bosses",
+    "slug": "dungeon-bosses",
+    "hasSprite": true,
+    "hasDescription": true,
+    "hasLocations": true,
+    "hasDifficulty": false,
+    "hasBosses": true,
+    "hasDrops": true,
+    "sourceUrl": "https://www.realmeye.com/wiki/dungeon-bosses",
+    "needsReview": true,
+    "issues": [
+      "missing difficulty"
+    ]
+  },
+  {
+    "name": "Dungeon Enemies",
+    "slug": "dungeon-enemies",
+    "hasSprite": true,
+    "hasDescription": true,
+    "hasLocations": false,
+    "hasDifficulty": false,
+    "hasBosses": true,
+    "hasDrops": true,
+    "sourceUrl": "https://www.realmeye.com/wiki/dungeon-enemies",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "name": "Dungeon Modifiers",
+    "slug": "dungeon-modifiers",
+    "hasSprite": true,
+    "hasDescription": true,
+    "hasLocations": false,
+    "hasDifficulty": false,
+    "hasBosses": true,
+    "hasDrops": true,
+    "sourceUrl": "https://www.realmeye.com/wiki/dungeon-modifiers",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "name": "Oryx's Sanctuary",
+    "slug": "oryxs-sanctuary",
+    "hasSprite": true,
+    "hasDescription": true,
+    "hasLocations": false,
+    "hasDifficulty": false,
+    "hasBosses": true,
+    "hasDrops": true,
+    "sourceUrl": "https://www.realmeye.com/wiki/oryx-s-sanctuary",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "name": "Realm of the Mad God",
+    "slug": "realm-of-the-mad-god",
+    "hasSprite": true,
+    "hasDescription": true,
+    "hasLocations": false,
+    "hasDifficulty": false,
+    "hasBosses": true,
+    "hasDrops": false,
+    "sourceUrl": "https://www.realmeye.com/wiki/realm-of-the-mad-god",
+    "issues": []
+  },
+  {
+    "name": "Spectral Penitentiary",
+    "slug": "spectral-penitentiary",
+    "hasSprite": true,
+    "hasDescription": true,
+    "hasLocations": false,
+    "hasDifficulty": false,
+    "hasBosses": true,
+    "hasDrops": true,
+    "sourceUrl": "https://www.realmeye.com/wiki/spectral-penitentiary",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "name": "The Tavern",
+    "slug": "the-tavern",
+    "hasSprite": true,
+    "hasDescription": true,
+    "hasLocations": false,
+    "hasDifficulty": false,
+    "hasBosses": true,
+    "hasDrops": true,
+    "sourceUrl": "https://www.realmeye.com/wiki/the-tavern",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "name": "White Snake Invasion III",
+    "slug": "white-snake-invasion-iii",
+    "hasSprite": true,
+    "hasDescription": true,
+    "hasLocations": false,
+    "hasDifficulty": false,
+    "hasBosses": true,
+    "hasDrops": true,
+    "sourceUrl": "https://www.realmeye.com/wiki/white-snake-invasion-iii",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  },
+  {
+    "name": "Wine Cellar",
+    "slug": "wine-cellar",
+    "hasSprite": true,
+    "hasDescription": true,
+    "hasLocations": false,
+    "hasDifficulty": false,
+    "hasBosses": true,
+    "hasDrops": true,
+    "sourceUrl": "https://www.realmeye.com/wiki/wine-cellar",
+    "needsReview": true,
+    "issues": [
+      "missing location",
+      "missing difficulty"
+    ]
+  }
+]
